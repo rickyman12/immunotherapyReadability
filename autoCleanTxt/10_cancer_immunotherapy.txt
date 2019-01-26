@@ -1,0 +1,23 @@
+Types of Immunotherapy
+
+Immunotherapy uses the natural power of your immune system to fight illnesses, including cancer. In the past few decades, it’s become a key part of treatment for many different types of the disease.
+
+But not all immunotherapies work the same way. Some boost your immune system overall, while others try to teach it to attack very specific types of cells found in tumors.
+
+Each has different benefits and risks and is used in different cases.
+
+CAR T-Cell Therapy
+CAR T-cell is short for chimeric antigen receptor T-cell therapy. It’s also called adoptive cell transfer therapy, or ACT. As of now, it’s only used to treat two types of blood cancers:
+
+Tisagenlecleucel (Kymriah) is used to treat children and young adults up to age 25 with acute lymphoblastic leukemia (ALL) whose cancer didn’t respond to chemotherapy or who had the disease come back two or more times after treatment.
+Axicabtagene ciloleucel (Yescarta) is approved to treat adults with some types of large B-cell lymphoma, such as non-Hodgkin's lymphoma, whose cancer didn’t respond to other treatments or who had the disease come back after those treatments.
+YOU MIGHT LIKE
+T cells are a type of white blood cell your immune system makes to fight disease. Antigens are foreign substances your immune system targets. When your immune system senses antigens in your body, it releases T cells as self-defense.
+
+With CAR T-cell therapy, doctors can “reprogram” your T cells to attack cancer cells. First, you go through a process called leukapheresis that takes a couple of hours. Your doctors take blood out of your body, separate some T cells from other white blood cells, then put your blood back in.
+
+In a lab, technicians add chimeric antigen receptors (CAR) to your T cells so they can seek out and destroy your exact type of cancer cells. This part takes a few weeks because your doctor needs to reprogram a large amount of CAR T cells to do the job.
+
+Before the new T cells are put into your bloodstream, you may need chemotherapy to cut down on the other types of immune cells in your body. This helps clear the path for the T cells to do their work. Once the CAR T cells are ready, your doctor puts them into your bloodstream. CAR T cells multiply, then seek out and destroy your cancer cells.
+
+Because CAR T cells make many copies of themselves to fight your cancer, they can cause serious side effects in some people, like very high fever, severe low blood pressure, confusion, headaches, seizures, a weakened immune system, low blood cell counts, or severe infections.

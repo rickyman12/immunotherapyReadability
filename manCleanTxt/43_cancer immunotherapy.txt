@@ -1,0 +1,12 @@
+Principles of cancer immunotherapy
+INTRODUCTION
+The fields of immunology and oncology have been linked since the late 19th century, when the surgeon William Coley reported that an injection of killed bacteria into sites of sarcoma could lead to tumor shrinkage . Since that time, exponential advances in the understanding of the intersection between immune surveillance and tumor growth and development have led to broad therapeutic advances that are now being studied in all cancer types.
+The basic immunology and the various approaches to immunotherapy for tumors are discussed here. The details of immunology's role in specific malignancies are discussed in the relevant tumor-oriented topics, and the toxicity of checkpoint inhibitor immunotherapy is discussed separately. (See "Patient selection criteria and toxicities associated with checkpoint inhibitor immunotherapy".)
+
+TUMOR IMMUNOLOGY
+
+Cell types involved in tumor recognition and rejection — An efficient and specific cytotoxic immune response against a tumor requires a complex, rapidly evolving interaction between various immune cell types in the adaptive and innate immune system.
+
+●CD8+ lymphocytes and Th1/Th2 subclasses of CD4+ T lymphocytes, traditionally referred to as cytotoxic T cells and helper T cells. CD8+ and CD4+ lymphocytes initiate the distinction between self and non-self-antigens, through recognition at the "immune synapse." (See 'The "immune synapse"' below.)
+
+●Natural killer (NK) cells do not require antigen presentation by the major histocompatibility complex (MHC) for cytotoxic activity. In fact, NK cells target cells with low MHC class 1 expression for destruction. Like T cells, NK cells express numerous inhibitory molecules as well, most notably various killer immunoglobulin-like receptor (KIR) subtypes .

@@ -1,0 +1,1877 @@
+<!doctype html><html class="no-js" lang="en"><head><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcOV1NACwcHVlFbAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>immunotherapy : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2015-12-09" /><link rel="canonical" href="https://www.npr.org/tags/459112591/immunotherapy" /><meta name="description" content="immunotherapy" /><link rel="alternate" type="application/rss+xml" title="immunotherapy" href="/rss/rss.php?id=459112591" /><link rel="alternate" type="application/json" title="immunotherapy" href="https://www.npr.org/feeds/459112591/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png" /><meta property="og:title" content="immunotherapy" /><meta property="og:url" content="https://www.npr.org/tags/459112591/immunotherapy" /><meta property="og:type" content="article" /><meta property="og:description" content="immunotherapy" /><meta property="og:image" content="https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":false};
+NPR.serverVars = {"storyId":"459112591","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"f7d9998fc16a35374924da32baa4702e","isBuildOut":false,"pubDate":"2015120916","pageTypeId":"24","title":"immunotherapy","publisherOrgId":"1","initialStories":15,"infiniteNumResults":24,"rocketfuelCode":20501671};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script>
+   !function(a){function e(c){if(f[c])return f[c].exports;var d=f[c]={exports:{},id:c,loaded:!1};return a[c].call(d.exports,d,d.exports,e),d.loaded=!0,d.exports}var c=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],d[r]&&i.push.apply(i,d[r]),d[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":a[n]=function(e){var c=e.slice(1),f=e[0];return function(e,d,b){a[f].apply(this,[e,d,b].concat(c))}}(s);break;case"function":a[n]=s;break;default:a[n]=a[s]}}for(c&&c(b,t);i.length;)i.shift().call(null,e);if(t[0])return f[0]=0,e(0)};var f={},d={27:0};e.e=function(a,c){if(0===d[a])return c.call(null,e);if(void 0!==d[a])d[a].push(c);else{d[a]=[c];var f=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=e.p+""+a+"."+{0:"e231a8eddf042465054f",1:"aca05d9ec781a1a7a294",2:"7013c3ad14e2099d0b7a",3:"da4891724e9aafc07829",4:"6894dd6312e58531036b",5:"b9d3952c4a1297f312e8",6:"97d678f0cc19a13f4adb",7:"19d9e3853e23db990e40",8:"9f54496880a59bb4aa03",9:"36780a08c987587ac206",10:"5e6ea7a1aeb1b8712b0c",11:"2c7811e7569db53266ee",12:"cd93cf9537187930cb2e",13:"e82bc1d336d05040ac91",14:"9a8c1bf7153a2028152e",15:"3ace74c23ae1a12cab57",16:"d8c041bffebb3df745dd",17:"e6966bcbf0c0c15fc7a1",18:"052b49aa0955bde5124a",19:"e975ff43212163ad4885",20:"fc0a384c2d816a89af3b",21:"4b5785801025f3f4ccf9",22:"61804070a012baf10285",23:"8d6b5ad30384b2176814",24:"645e429b3c8bc1205a41",25:"8e178aca7e902c582e7b",26:"510232bbdfe30199271f",28:"07cd0945fbccb1fc5bf5",29:"1cec85c07f264589fe9f",30:"191d97b815ea03b3c2b5",31:"0d9c5dc93d25ff8139a4",32:"8fea910d7a0f156938a6",33:"e3a9e59cd2625de42ee7",34:"03657ddca7a33ae305ea",35:"062552b2c595fad10146",36:"3edcaff8244eef9c9ba3",37:"ab05d013562e4540af25",38:"a8f85d2d6261abcb7556",39:"227f7d6e0714baa4159f",40:"c21493e67c325f194044",41:"8d63fd796d1c90f63ac1",42:"b8e673b1533812131e64",43:"534cb400032af430aac3",44:"46db867865f7d8313367",45:"b94514ba61e28c20a91a",46:"dedd053ea5033c13dbfd",47:"3aa340a9ef08f66ff6d9",48:"8eb69851cffae654e1f6",49:"8751d08720834e779daa",50:"949321b286fa5f99346b",51:"0504c826ee48f83a4ab2",52:"9cf5f404f6605747c795",53:"61b284bb805c084931fa",54:"5b5eadeaf5a3670dd75e",55:"809dba7b1d0061153b8a",56:"2f4dd59315c5c8089969",57:"7583e155d60b41d5fc1d",58:"8b6a83f328f77f627399",59:"5e4fb28c47010f2c6075",60:"acbf95e83675b6717689",61:"92180feffec210352eb4",62:"50cbd34138d6a3afd48c",63:"13be56182333d1a2270d",64:"1dc77de6b79162eeb499",65:"8977ff0ee11b13dc4474",66:"18097d8c3f61b1f513c2",67:"f969402c4f69226ba078",68:"5678545502bc23837a27",69:"2dce8629c8abb6b5212e",70:"e4ef092c90e871d4cde3",71:"17778d18d44d3d06edfb",72:"d00a0b1e110992cd6138",73:"0c87d9fe3b0d7db6a9e1",74:"1f653c5e51b232acccc5",75:"0bd4386cc9290a8ff1f9",76:"3d4c92897c85a96afd3c",77:"0ba8a497d36844b239ee",78:"1f1c2c30a866ccc9262c",79:"c8555f115399919a44f9",80:"51bf40411facf486610d",81:"26ebf1a1d3cab140402c",82:"3a70008e820e556119e7",83:"934ee1a293cfa3a4df2d",84:"4c97143f372b29b90dcb",85:"03a98e5fc61a3f9a9447",86:"06c6f37f95a9b3420ea4",87:"f16226caf5076a6cb067",88:"9f1d87a7e7f0c1451f59",89:"35f64ded8b23be5059c5"}[a]+".chunk.js",f.appendChild(b)}},e.m=a,e.c=f,e.p="/templates/javascript/dist/bundles/"}(function(a){for(var e in a)if(Object.prototype.hasOwnProperty.call(a,e))switch(typeof a[e]){case"function":break;case"object":a[e]=function(e){var c=e.slice(1),f=a[e[0]];return function(a,e,d){f.apply(this,[a,e,d].concat(c))}}(a[e]);break;default:a[e]=a[a[e]]}return a}([]));
+</script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/dist/bundles/globalNavigationDropdowns-1cec85c07f264589fe9f.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-38c7806db59ab0903517.css" /><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/aggNews-css-38c7806db59ab0903517.css" /><script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="news" class="news tmplAggNews agg thing-type-tag id459112591 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking infinitescroll social/sharepop social/share agg/tools images/hover-credits images/captions contentfooter ecommerce flexmenu navigation/subtopic-subnav"><div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header"><nav class="navigation" aria-label="main navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu" data-metrics-hover="toggle news drawer">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu" data-metrics-hover="toggle arts drawer">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu" data-metrics-hover="toggle music drawer">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/534681404/best-music-of-2018" data-metrics-action="click best music of 2018">
+        Best Music Of 2018
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu" data-metrics-hover="toggle programs &amp; podcasts drawer">
+                    <div class="menu__item-inner">
+                        <a href="/programs/" data-metrics-action="click shows & podcasts">Shows &amp; Podcasts</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2018/08/06/npr_we_podcasttile1_sq-cf32a980b540f1d1b2d51173ca3cfdd7ecc55058-s100-c85.jpg" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2018/08/06/npr_we_podcasttile1_sq-cf32a980b540f1d1b2d51173ca3cfdd7ecc55058-s100-c85.jpg" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>  
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510313/how-i-built-this" data-metrics-action="click how i built this with guy raz">
+        <img src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=100" alt="" />
+        How I Built This with Guy Raz
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me" data-metrics-action="click wait wait...don't tell me!">
+        <img src="https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=100" alt="" />
+        Wait Wait...Don't Tell Me!
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510289/planet-money" data-metrics-action="click planet money">
+        <img src="https://media.npr.org/assets/img/2018/08/02/npr_planetmoney_podcasttile_sq-7b7fab0b52fd72826936c3dbe51cff94889797a0.jpg?s=100" alt="" />
+        Planet Money
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510308/hidden-brain" data-metrics-action="click hidden brain">
+        <img src="https://media.npr.org/assets/img/2018/08/03/npr_hiddenbrain_podcasttile_sq-270ab642de6948802f485c6ad1f087239ef6e324.jpg?s=100" alt="" />
+        Hidden Brain
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+                <li class="menu__item"><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                <li class="menu__item"><a href="/sections/allsongs/" data-metrics-action="click all songs">All Songs Considered</a></li>
+                <li class="menu__item"><a href="/sections/music-news/" data-metrics-action="click music news">Music News</a></li>
+                <li class="menu__item"><a href="/sections/music-features/" data-metrics-action="click features">Features</a></li>
+                <li class="menu__item"><a href="/sections/new-music/" data-metrics-action="click new music">New Music</a></li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/aboutnpr/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle overview drawer">
+                    <div class="menu__item-inner">
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle overview drawer">Expand/collapse submenu for Overview</button>
+                        <span class="menu__item-label">Overview</span>
+                    </div>
+
+                    <ul class="submenu submenu--ecosystem submenu--overview">
+                        <li class="submenu__item"><a href="/about-npr/192827079/overview-and-history" data-metrics-action="click overview and history">Overview and History</a></li>
+                        <li class="submenu__item"><a href="/about-npr/178659563/our-mission-and-vision" data-metrics-action="click mission and vision">Mission and Vision</a></li>
+                        <li class="submenu__item"><a href="/about-npr/178640915/npr-stations-and-public-media" data-metrics-action="click stations and public media">Stations and Public Media</a></li>
+                        <li class="submenu__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="click npr finances">NPR Finances</a></li>
+                        <li class="submenu__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="click people">People</a></li>
+                        <li class="submenu__item"><a href="http://ethics.npr.org/" data-metrics-action="click ethics">Ethics</a></li>
+                        <li class="submenu__item"><a href="about-npr/183726490/awards" data-metrics-action="click awards">Awards</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle connect drawer">
+                    <div class="menu__item-inner">
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle connect drawer">Expand/collapse submenu for Connect</button>
+                        <span class="menu__item-label">Connect</span>
+                    </div>
+
+                    <ul class="submenu submenu--ecosystem submenu--connect">
+                        <li class="submenu__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="click visit npr">Visit NPR</a></li>
+                        <li class="submenu__item"><a href="http://www.nprpresents.org/" data-metrics-action="click npr presents">NPR Presents</a></li>
+                        <li class="submenu__item"><a href="http://studio1.npr.org" data-metrics-action="click studio 1 events">Studio 1 Events</a></li>
+                        <li class="submenu__item"><a href="http://generationlisten.npr.org/" data-metrics-action="click generation listen">Generation Listen</a></li>
+                        <li class="submenu__item"><a href="/about-npr/182673872/book-an-npr-speaker" data-metrics-action="click book a speaker">Book a Speaker</a></li>
+                        <li class="submenu__item"><a href="/about-npr/179881519/rights-and-permissions-information" data-metrics-action="click request permissions">Request Permissions</a></li>
+                        <li class="submenu__item"><a href="/about-npr/187046089/ways-to-listen-to-npr" data-metrics-action="click ways to listen">Ways to Listen</a></li>
+                        <li class="submenu__item"><a href="/sections/npr-extra/" data-metrics-action="click npr extra blog">NPR Extra Blog</a></li>
+                        <li class="submenu__item"><a href="/newsletters/" data-metrics-action="click sign up: newsletters">Email Newsletters</a></li>
+                        <li class="submenu__item"><a href="https://shop.npr.org/" data-metrics-action="click shop npr">Shop NPR</a></li>
+                        <li class="submenu__item"><a href="https://help.npr.org" data-metrics-action="click get help">Get Help</a></li>
+                        <li class="submenu__item"><a href="/contact/" data-metrics-action="click contact us">Contact Us</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle support drawer">
+                    <div class="menu__item-inner">
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle support drawer">Expand/collapse submenu for Support</button>
+                        <span class="menu__item-label">Support</span>
+                    </div>
+
+                    <ul class="submenu submenu--ecosystem submenu--support">
+                        <li class="submenu__item"><a href="/series/750002/support-public-radio" data-metrics-action="click support public radio">Support Public Radio</a></li>
+                        <li class="submenu__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="click corporate sponsorship">Corporate Sponsorship</a>
+                        <li class="submenu__item"><a href="/about-npr/181961258/volunteer-at-npr" data-metrics-action="click volunteer">Volunteer</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle press drawer">
+                    <div class="menu__item-inner">
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle press drawer">Expand/collapse submenu for Press</button>
+                        <span class="menu__item-label">Press</span>
+                    </div>
+
+                    <ul class="submenu submenu--ecosystem submenu--press">
+                        <li class="submenu__item"><a href="/series/750003/press-room/" data-metrics-action="click releases and statements">Releases and Statements</a></li>
+                        <li class="submenu__item"><a href="/about-npr/182675632/photos-and-logos" data-metrics-action="click photos and logos">Photos and Logos</a></li>
+                        <li class="submenu__item"><a href="/about/press/NPR_Fact_Sheet.pdf" data-metrics-action="click fact sheet pdf">Fact Sheet (PDF)</a></li>
+                        <li class="submenu__item"><a href="/about-npr/185546105/media-relations-contacts" data-metrics-action="click media relations contacts">Media Relations Contacts</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle careers drawer">
+                    <div class="menu__item-inner">
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle careers drawer">Expand/collapse submenu for Careers</button>
+                        <span class="menu__item-label">Careers</span>
+                    </div>
+
+                    <ul class="submenu submenu--ecosystem submenu--careers">
+                        <li class="submenu__item"><a href="/series/750004/careers" data-metrics-action="click careers at npr">Careers at NPR</a></li>
+                        <li class="submenu__item"><a href="https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6" data-metrics-action="click search jobs">Search Jobs</a></li>
+                        <li class="submenu__item"><a href="/about-npr/179008081/tapping-into-the-npr-culture/" data-metrics-action="click culture">Culture</a></li>
+                        <li class="submenu__item"><a href="/about-npr/181909622/applying-at-npr/" data-metrics-action="click applying">Applying</a></li>
+                        <li class="submenu__item"><a href="/about-npr/181881227/internships-at-npr/" data-metrics-action="click interns">Interns</a></li>
+                        <li class="submenu__item"><a href="/about-npr/181880514/fellowships-at-npr/" data-metrics-action="click fellows">Fellows</a></li>
+                        <li class="submenu__item"><a href="/about-npr/185550054/digital-careers-at-npr/" data-metrics-action="click digital">Digital</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </section>
+</nav></header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>immunotherapy</b>   <b data-is-speakable>immunotherapy</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics-category="immunotherapy"><div class="branding branding--seamus">
+      <div class="branding__outer">
+            <div class="branding__inner">
+                  <b class='branding__lead-in'>Stories About</b>         <h2 class="branding__title">immunotherapy</h2>
+      </div>
+      
+<!-- END CLASS="BRANDING__INNER" -->
+   </div>
+   
+<!-- END CLASS="BRANDING__OUTER" -->
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--SEAMUS" -->
+<div class="subnav-tools-wrap">
+   </div>
+</header>   <a id="mainContent"></a>   <section id="main-section"><div id="tools-wrapper">
+    <div class="agg-tools">
+        <ul>
+            <li><a class="newsletter-subscription" href="/newsletter/news"  data-metrics='{"action":"click subscribe to newsletter","label":"Daily News Email","category":"Aggregation"}' >Subscribe to Daily News Email</a></li>
+        </ul>
+    </div>
+</div>
+<div id='featured' class='featured'>
+      <div class='featured-3-up'>
+            <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2018/10/01/653251667/james-p-allison-and-tasuku-honjo-win-2018-nobel-prize-in-physiology-or-medicine" data-metrics='{"action":"Click Featured Story Image 1-3","category":"Aggregation"}' >
+        <img src="https://media.npr.org/assets/img/2018/10/01/ap_18274346309514_wide-e394654859c7a4e3540d44cf5a6db7e3c3e09a65-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2018/10/01/ap_18274346309514_wide-e394654859c7a4e3540d44cf5a6db7e3c3e09a65-s800.jpg" class="feat1_23 lazyOnLoad"  alt="Scientists Who Sparked Revolution In Cancer Treatment Share Nobel Prize In Medicine" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Dr. James P. Allison, University of Texas MD Anderson Cancer Center, poses for a photo in New York in 2015. Allison and Tasuku Honjo have jointly been awarded the Nobel Prize in medicine or physiology.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Richard Drew/AP
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Richard Drew/AP
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2018/10/01/653251667/james-p-allison-and-tasuku-honjo-win-2018-nobel-prize-in-physiology-or-medicine"  data-metrics='{"action":"Click Featured Story Headline 1-3","category":"Aggregation"}' >Scientists Who Sparked Revolution In Cancer Treatment Share Nobel Prize In Medicine</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2018/10/01/653251667/james-p-allison-and-tasuku-honjo-win-2018-nobel-prize-in-physiology-or-medicine"><time datetime="2018-10-01"><span class="date">October 1, 2018 &#149; </span></time>James P. Allison and Tasuku Honjo were cited for their work in harnessing the immune system to arrest the development of cancer.</a></p>
+
+        
+    </div>
+
+    <article id="res653430626" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Scientists Who Sparked Revolution In Cancer Treatment Share Nobel Prize In Medicine</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"653251667:653430626","available":true,"duration":170,"title":"Scientists Who Sparked Revolution In Cancer Treatment Share Nobel Prize In Medicine","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2018\/10\/20181001_atc_scientists_who_sparked_revolution_in_cancer_treatment_share_nobel_prize_in_medicine.mp3?orgId=1&topicId=1007&d=170&p=2&story=653251667&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2018\/10\/01\/653251667\/james-p-allison-and-tasuku-honjo-win-2018-nobel-prize-in-physiology-or-medicine","slug":"Science","program":"all things considered","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/10/20181001_atc_scientists_who_sparked_revolution_in_cancer_treatment_share_nobel_prize_in_medicine.mp3?orgId=1&amp;topicId=1007&amp;d=170&amp;p=2&amp;story=653251667&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>2:50</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P2M,50S">2:50</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/10/20181001_atc_scientists_who_sparked_revolution_in_cancer_treatment_share_nobel_prize_in_medicine.mp3?orgId=1&amp;topicId=1007&amp;d=170&amp;p=2&amp;story=653251667&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;653251667&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/653251667/653430626"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;653251667&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/653251667/653430626&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/653251667/653430626" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=653251667"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;653251667&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+      <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2018/09/14/646754993/update-a-young-mans-experiment-with-a-living-drug-for-leukemia" data-metrics='{"action":"Click Featured Story Image 2-3","category":"Aggregation"}' >
+        <img src="https://media.npr.org/assets/img/2018/09/12/img_0816_wide-be1b0e215a9c89f31468df50b3229ad353d3b546-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2018/09/12/img_0816_wide-be1b0e215a9c89f31468df50b3229ad353d3b546-s800.jpg" class="feat23 lazyOnLoad"  alt="Update: A Young Man's Experiment With A 'Living Drug' For Leukemia" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Aaron Reid, 20, rests in an exam room in the National Institutes of Health Clinical Center in Bethesda, Md.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Rebecca Davis/NPR
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Rebecca Davis/NPR
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2018/09/14/646754993/update-a-young-mans-experiment-with-a-living-drug-for-leukemia"  data-metrics='{"action":"Click Featured Story Headline 2-3","category":"Aggregation"}' >Update: A Young Man's Experiment With A 'Living Drug' For Leukemia</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2018/09/14/646754993/update-a-young-mans-experiment-with-a-living-drug-for-leukemia"><time datetime="2018-09-14"><span class="date">September 14, 2018 &#149; </span></time>After trying one treatment after another for his leukemia, 20-year old Aaron Reid enrolled in a study to test an experimental therapy using modified cells from his own body.</a></p>
+
+        
+    </div>
+
+    <article id="res647743468" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Update: A Young Man's Experiment With A 'Living Drug' For Leukemia</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"646754993:647743468","available":true,"duration":252,"title":"Update: A Young Man\u0027s Experiment With A \u0027Living Drug\u0027 For Leukemia","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2018\/09\/20180914_me_update_a_young_mans_experiment_with_a_living_drug_for_leukemia.mp3?orgId=1&topicId=1128&d=252&p=3&story=646754993&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2018\/09\/14\/646754993\/update-a-young-mans-experiment-with-a-living-drug-for-leukemia","slug":"Health","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/09/20180914_me_update_a_young_mans_experiment_with_a_living_drug_for_leukemia.mp3?orgId=1&amp;topicId=1128&amp;d=252&amp;p=3&amp;story=646754993&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>4:12</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P4M,12S">4:12</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/09/20180914_me_update_a_young_mans_experiment_with_a_living_drug_for_leukemia.mp3?orgId=1&amp;topicId=1128&amp;d=252&amp;p=3&amp;story=646754993&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;646754993&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/646754993/647743468"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;646754993&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/646754993/647743468&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/646754993/647743468" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=646754993"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;646754993&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+      <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2018/08/16/636749192/scientists-race-to-improve-living-drugs-to-fight-cancer" data-metrics='{"action":"Click Featured Story Image 3-3","category":"Aggregation"}' >
+        <img src="https://media.npr.org/assets/img/2018/08/09/_e8a8518-1_wide-a29d6f23816bef51b76c8e6bd0fe5ea82282875c-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2018/08/09/_e8a8518-1_wide-a29d6f23816bef51b76c8e6bd0fe5ea82282875c-s800.jpg" class="feat23 lazyOnLoad"  alt="Scientists Race To Improve 'Living Drugs' To Fight Cancer" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Patient Aaron Reid receives (CAR) T-cell therapy at the NIH in Bethesda, MD. The process took five minutes to complete.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Pearl Mak/NPR
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Pearl Mak/NPR
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2018/08/16/636749192/scientists-race-to-improve-living-drugs-to-fight-cancer"  data-metrics='{"action":"Click Featured Story Headline 3-3","category":"Aggregation"}' >Scientists Race To Improve 'Living Drugs' To Fight Cancer</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2018/08/16/636749192/scientists-race-to-improve-living-drugs-to-fight-cancer"><time datetime="2018-08-16"><span class="date">August 16, 2018 &#149; </span></time>Researchers are working on better ways to teach patients' immune systems to root out and kill malignant cells. A promising approach involves cells that attack cancer two ways at one time.</a></p>
+
+        
+    </div>
+
+    <article id="res639149733" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Scientists Race To Improve 'Living Drugs' To Fight Cancer</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"636749192:639149733","available":true,"duration":421,"title":"Scientists Race To Improve \u0027Living Drugs\u0027 To Fight Cancer","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2018\/08\/20180816_me_scientists_race_to_improve_living_drugs_to_fight_cancer.mp3?orgId=1&topicId=1128&d=421&p=3&story=636749192&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2018\/08\/16\/636749192\/scientists-race-to-improve-living-drugs-to-fight-cancer","slug":"Health","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/08/20180816_me_scientists_race_to_improve_living_drugs_to_fight_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=421&amp;p=3&amp;story=636749192&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>7:01</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P7M,1S">7:01</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/08/20180816_me_scientists_race_to_improve_living_drugs_to_fight_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=421&amp;p=3&amp;story=636749192&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;636749192&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/636749192/639149733"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;636749192&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/636749192/639149733&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/636749192/639149733" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=636749192"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;636749192&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   </div>
+   
+<!-- END CLASS='FEATURED-3-UP' -->
+</div>
+
+<!-- END ID='FEATURED' CLASS='FEATURED' -->
+<aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-no_topic" class="ad-backstage" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"no_topic","targets":{"testserver":"false","storyId":"459112591"},"location":"backstage","deferred":false,"isBetweenContent":false,"isAggSponsorship":true,"borderClass":"border-type-above-flex-loc"}'></div>
+
+</aside><div class="flex-location-wrap">
+   </div>
+<div id="overflow" class="list-overflow" data-metrics-all data-metrics-category='Aggregation Overflow'>
+      <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2018/07/17/629543151/insurers-and-government-are-slow-to-cover-expensive-car-t-cancer-therapy" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2018/07/16/gettyimages-494328399_wide-a535eafd641e7e89b42bf327fbd4784f0403974d-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2018/07/16/gettyimages-494328399_wide-a535eafd641e7e89b42bf327fbd4784f0403974d-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Insurers And Government Are Slow To Cover Expensive CAR-T Cancer Therapy" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Some critically ill patients who received a CAR-T cell treatment have remained cancer-free for as long as five years, researchers say. But the price is high.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Fanatic Studio/Collection Mix: Subjects RF/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Fanatic Studio/Collection Mix: Subjects RF/Getty Images
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2018/07/17/629543151/insurers-and-government-are-slow-to-cover-expensive-car-t-cancer-therapy"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Insurers And Government Are Slow To Cover Expensive CAR-T Cancer Therapy</a></h2>
+        <h2 class="affiliation">Kaiser Health News</h2>
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2018/07/17/629543151/insurers-and-government-are-slow-to-cover-expensive-car-t-cancer-therapy"><time datetime="2018-07-17"><span class="date">July 17, 2018 &#149; </span></time>Treatment costs for the immunotherapy can run to more than $1 million. Some state Medicaid programs aren't paying for the treatment, and Medicare's complicated payment rates have hospitals worried.</a></p>
+
+        
+    </div>
+
+    
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2018/06/04/615673436/therapy-made-from-patients-immune-system-shows-promise-for-advanced-breast-cance" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2018/06/01/judy-kayaking-2_wide-bacb3f37d1e483ce0eebafd288fc834741dced29-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2018/06/01/judy-kayaking-2_wide-bacb3f37d1e483ce0eebafd288fc834741dced29-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Therapy Made From Patient's Immune System Shows Promise For Advanced Breast Cancer" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                "I'm one of the lucky ones," says Judy Perkins, of the immunotherapy treatment she got. The experimental approach seems to have eradicated her metastatic breast cancer."
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Courtesy of Judy Perkins
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Courtesy of Judy Perkins
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2018/06/04/615673436/therapy-made-from-patients-immune-system-shows-promise-for-advanced-breast-cance"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Therapy Made From Patient's Immune System Shows Promise For Advanced Breast Cancer</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2018/06/04/615673436/therapy-made-from-patients-immune-system-shows-promise-for-advanced-breast-cance"><time datetime="2018-06-04"><span class="date">June 4, 2018 &#149; </span></time>An experimental therapy seems to have eradicated cancer in a patient with metastatic breast cancer who had failed every other treatment. The goal is to reliably repeat that success in more people.</a></p>
+
+        
+    </div>
+
+    <article id="res616967565" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Therapy Made From Patient's Immune System Shows Promise For Advanced Breast Cancer</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"615673436:616967565","available":true,"duration":231,"title":"Therapy Made From Patient\u0027s Immune System Shows Promise For Advanced Breast Cancer","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2018\/06\/20180604_atc_therapy_made_from_patients_immune_system_shows_promise_for_advanced.mp3?orgId=1&topicId=1128&d=231&p=2&story=615673436&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2018\/06\/04\/615673436\/therapy-made-from-patients-immune-system-shows-promise-for-advanced-breast-cance","slug":"Health","program":"all things considered","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/06/20180604_atc_therapy_made_from_patients_immune_system_shows_promise_for_advanced.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=2&amp;story=615673436&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>3:51</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P3M,51S">3:51</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/06/20180604_atc_therapy_made_from_patients_immune_system_shows_promise_for_advanced.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=2&amp;story=615673436&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;615673436&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/615673436/616967565"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;615673436&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/615673436/616967565&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/615673436/616967565" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=615673436"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;615673436&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2018/04/16/602980973/merck-immunotherapy-drug-shines-in-lung-cancer-study" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2018/04/23/lung-cancer-2_wide-3482fe5640858f90cd0ee714a036d44253b20276-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2018/04/23/lung-cancer-2_wide-3482fe5640858f90cd0ee714a036d44253b20276-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Merck Immunotherapy Drug Shines In Lung Cancer Study" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                A combination of an immunotherapy drug from Merck and standard chemotherapy led to improved survival for cancer patients.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Peter Dazeley/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Peter Dazeley/Getty Images
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2018/04/16/602980973/merck-immunotherapy-drug-shines-in-lung-cancer-study"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Merck Immunotherapy Drug Shines In Lung Cancer Study</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2018/04/16/602980973/merck-immunotherapy-drug-shines-in-lung-cancer-study"><time datetime="2018-04-16"><span class="date">April 16, 2018 &#149; </span></time>Research finds that more than two-thirds of lung cancer patients who received Keytruda plus chemotherapy would be alive a year later, compared with about half of people who only got chemotherapy.</a></p>
+
+        
+    </div>
+
+    
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2017/07/12/536812206/living-drug-that-fights-cancer-by-harnessing-the-immune-system-clears-key-hurdle" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2017/07/12/scisource_jg3235_wide-df08a984962718ebc9407ea00c92aff816571a42-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2017/07/12/scisource_jg3235_wide-df08a984962718ebc9407ea00c92aff816571a42-s300.jpg" class="respArchListImg lazyOnLoad"  alt="'Living Drug' That Fights Cancer By Harnessing Immune System Clears Key Hurdle" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Image of a CAR-T cell (reddish) attacking a leukemia cell (green). These CAR-T lymphocytes are used for immunotherapy against cancer (CAR stands for chimeric antigen receptor). After the proliferation of the CAR-expressing T cells, they are transfused back into the patient and can directly detect the cancer cells carrying the antigen.
+                
+                <b class="credit" aria-label="Image credit">
+                    <a href="http://images.sciencesource.com/p/17486037/Leukemia-cell-with-CAR-T-lymphocyte-JG3235.html" target="_blank">
+                    Eye of Science/Science Source
+                    </a>
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        <a href="http://images.sciencesource.com/p/17486037/Leukemia-cell-with-CAR-T-lymphocyte-JG3235.html" target="_blank">
+        Eye of Science/Science Source
+        </a>
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2017/07/12/536812206/living-drug-that-fights-cancer-by-harnessing-the-immune-system-clears-key-hurdle"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >'Living Drug' That Fights Cancer By Harnessing Immune System Clears Key Hurdle</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2017/07/12/536812206/living-drug-that-fights-cancer-by-harnessing-the-immune-system-clears-key-hurdle"><time datetime="2017-07-12"><span class="date">July 12, 2017 &#149; </span></time>An advisory panel to the Food and Drug Administration recommends the agency, for the first time, approve a new kind of treatment that uses genetically modified immune cells to attack cancer cells.</a></p>
+
+        
+    </div>
+
+    <article id="res536887967" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">'Living Drug' That Fights Cancer By Harnessing Immune System Clears Key Hurdle</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"536812206:536887967","available":true,"duration":229,"title":"\u0027Living Drug\u0027 That Fights Cancer By Harnessing Immune System Clears Key Hurdle","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2017\/07\/20170712_atc_living_drug_treatment_that_harnesses_immune_system_to_fight_cancer_clears_hurdle.mp3?orgId=1&topicId=1128&d=229&p=2&story=536812206&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2017\/07\/12\/536812206\/living-drug-that-fights-cancer-by-harnessing-the-immune-system-clears-key-hurdle","slug":"Health","program":"all things considered","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_living_drug_treatment_that_harnesses_immune_system_to_fight_cancer_clears_hurdle.mp3?orgId=1&amp;topicId=1128&amp;d=229&amp;p=2&amp;story=536812206&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>3:49</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P3M,49S">3:49</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_living_drug_treatment_that_harnesses_immune_system_to_fight_cancer_clears_hurdle.mp3?orgId=1&amp;topicId=1128&amp;d=229&amp;p=2&amp;story=536812206&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;536812206&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/536812206/536887967"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;536812206&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/536812206/536887967&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/536812206/536887967" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=536812206"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;536812206&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Urgent Care Services For Cancer Patients Offer A Gentler ER Alternative" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Johns Hopkins Hospital in Baltimore opened a six-bed urgent care center next to its infusion center a couple of years ago. Of the patients who land there, about 80 percent are discharged home afterward, rather than needing admission to the hospital.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Courtesy of Johns Hopkins Medicine
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Courtesy of Johns Hopkins Medicine
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Urgent Care Services For Cancer Patients Offer A Gentler ER Alternative</a></h2>
+        <h2 class="affiliation">Kaiser Health News</h2>
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative"><time datetime="2017-05-03"><span class="date">May 3, 2017 &#149; </span></time>Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.</a></p>
+
+        
+    </div>
+
+    
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2017/03/13/519090620/old-style-chemo-is-still-a-mainstay-in-the-age-of-targeted-cancer-therapy" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2017/03/09/chemotherapy-1_wide-79639e27959b43029c0d071400bcb2c8ba390a85-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2017/03/09/chemotherapy-1_wide-79639e27959b43029c0d071400bcb2c8ba390a85-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Old-Style Chemo Is Still A Mainstay In The Age Of Targeted Cancer Therapy" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Sometimes fast-acting chemotherapy can help slow an aggressive cancer — and give the slower-acting immunotherapies a chance to work.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    UIG Platinum/UIG via Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        UIG Platinum/UIG via Getty Images
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2017/03/13/519090620/old-style-chemo-is-still-a-mainstay-in-the-age-of-targeted-cancer-therapy"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Old-Style Chemo Is Still A Mainstay In The Age Of Targeted Cancer Therapy</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2017/03/13/519090620/old-style-chemo-is-still-a-mainstay-in-the-age-of-targeted-cancer-therapy"><time datetime="2017-03-13"><span class="date">March 13, 2017 &#149; </span></time>Scientists hunting cures for cancer hope to find therapies with fewer side effects. But there's also new evidence that old-style chemotherapy sometimes helps gentler treatments work better.</a></p>
+
+        
+    </div>
+
+    <article id="res519954309" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Old-Style Chemo Is Still A Mainstay In The Age Of Targeted Cancer Therapy</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"519090620:519954309","available":true,"duration":393,"title":"Old-Style Chemo Is Still A Mainstay In The Age Of Targeted Cancer Therapy","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2017\/03\/20170313_me_old-style_chemo_is_still_a_mainstay_in_the_age_of_targeted_cancer_therapy.mp3?orgId=1&topicId=1128&d=393&p=3&story=519090620&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2017\/03\/13\/519090620\/old-style-chemo-is-still-a-mainstay-in-the-age-of-targeted-cancer-therapy","slug":"Health","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170313_me_old-style_chemo_is_still_a_mainstay_in_the_age_of_targeted_cancer_therapy.mp3?orgId=1&amp;topicId=1128&amp;d=393&amp;p=3&amp;story=519090620&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>6:33</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P6M,33S">6:33</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170313_me_old-style_chemo_is_still_a_mainstay_in_the_age_of_targeted_cancer_therapy.mp3?orgId=1&amp;topicId=1128&amp;d=393&amp;p=3&amp;story=519090620&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;519090620&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/519090620/519954309"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;519090620&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/519090620/519954309&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/519090620/519954309" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=519090620"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;519090620&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2016/09/17/494230963/cancer-immunotherapy-at-a-crossroads" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2016/09/16/tcell_wide-a8b8fe53be2a0d6d4d1fd55c93e42bc63364cd2a-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2016/09/16/tcell_wide-a8b8fe53be2a0d6d4d1fd55c93e42bc63364cd2a-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Cancer Immunotherapy At A Crossroads" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                The human body is on alert for malignant cells. Scientists and doctors are getting better at harnessing the human immune system as a weapon against cancer.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Coneyl Jay/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Coneyl Jay/Getty Images
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2016/09/17/494230963/cancer-immunotherapy-at-a-crossroads"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Cancer Immunotherapy At A Crossroads</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2016/09/17/494230963/cancer-immunotherapy-at-a-crossroads"><time datetime="2016-09-17"><span class="date">September 17, 2016 &#149; </span></time>Doctors can now marshal patients' immune systems to fight some cancers. Yet many people don't respond to immunotherapy, and the costs of treatment can be astronomical.</a></p>
+
+        
+    </div>
+
+    
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2016/06/09/480435066/a-scientists-dream-fulfilled-harnessing-the-immune-system-to-fight-cancer" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2016/06/03/jamesallison-1_wide-8d736264203b010deb795228932d83a7eb5f4e32-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2016/06/03/jamesallison-1_wide-8d736264203b010deb795228932d83a7eb5f4e32-s300.jpg" class="respArchListImg lazyOnLoad"  alt="A Scientist's Dream Fulfilled: Harnessing The Immune System To Fight Cancer" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Jim Allison in his lab at the University of Texas MD Anderson Cancer Center in Houston.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Scott Dalton for NPR
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Scott Dalton for NPR
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2016/06/09/480435066/a-scientists-dream-fulfilled-harnessing-the-immune-system-to-fight-cancer"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >A Scientist's Dream Fulfilled: Harnessing The Immune System To Fight Cancer</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2016/06/09/480435066/a-scientists-dream-fulfilled-harnessing-the-immune-system-to-fight-cancer"><time datetime="2016-06-09"><span class="date">June 9, 2016 &#149; </span></time>Melanoma can be a deadly skin cancer, but 10 years ago, biologist Jim Allison figured out a way to tweak the body's immune system to go after those malignant cells. Some patients are now cancer-free.</a></p>
+
+        
+    </div>
+
+    <article id="res481433895" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">A Scientist's Dream Fulfilled: Harnessing The Immune System To Fight Cancer</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"480435066:481433895","available":true,"duration":495,"title":"A Scientist\u0027s Dream Fulfilled: Harnessing The Immune System To Fight Cancer","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2016\/06\/20160609_atc_a_scientists_dream_fulfilled_harnessing_the_immune_system_to_fight_cancer.mp3?orgId=1&topicId=1128&aggIds=156490415&d=495&p=2&story=480435066&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2016\/06\/09\/480435066\/a-scientists-dream-fulfilled-harnessing-the-immune-system-to-fight-cancer","slug":"Health","program":"all things considered","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/06/20160609_atc_a_scientists_dream_fulfilled_harnessing_the_immune_system_to_fight_cancer.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=495&amp;p=2&amp;story=480435066&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>8:15</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P8M,15S">8:15</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/06/20160609_atc_a_scientists_dream_fulfilled_harnessing_the_immune_system_to_fight_cancer.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=495&amp;p=2&amp;story=480435066&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;480435066&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/480435066/481433895"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;480435066&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/480435066/481433895&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/480435066/481433895" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=480435066"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;480435066&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2016/04/26/475729612/immunotherapy-tablets-for-dust-mite-allergy-reduce-asthma-risk" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2016/04/26/taking-tablet_wide-43da2adcedc2bc055cbc1f2eb5112ef4af03da9c-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2016/04/26/taking-tablet_wide-43da2adcedc2bc055cbc1f2eb5112ef4af03da9c-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Immunotherapy Tablets For Dust Mite Allergy Reduce Asthma Risk" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Which would you choose — a daily tablet or a trip to the doctor for an allergy shot?
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Eddie Lawrence/Dorling Kindersley/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Eddie Lawrence/Dorling Kindersley/Getty Images
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2016/04/26/475729612/immunotherapy-tablets-for-dust-mite-allergy-reduce-asthma-risk"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Immunotherapy Tablets For Dust Mite Allergy Reduce Asthma Risk</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2016/04/26/475729612/immunotherapy-tablets-for-dust-mite-allergy-reduce-asthma-risk"><time datetime="2016-04-26"><span class="date">April 26, 2016 &#149; </span></time>Dust mite allergies are a common trigger for asthma. A new form of immunotherapy that relies on oral tablets rather than shots reduces the risk of a moderate or severe asthma attack, a study finds.</a></p>
+
+        
+    </div>
+
+    <article id="res476419540" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Immunotherapy Tablets For Dust Mite Allergy Reduce Asthma Risk</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"475729612:476419540","available":true,"duration":157,"title":"Immunotherapy Tablets For Dust Mite Allergy Reduce Asthma Risk","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2016\/05\/20160502_me_immunotherapy_tablets_for_dust_mite_allergy_reduce_asthma_risk.mp3?orgId=1&topicId=1128&d=157&p=3&story=475729612&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2016\/04\/26\/475729612\/immunotherapy-tablets-for-dust-mite-allergy-reduce-asthma-risk","slug":"Health","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2016/05/20160502_me_immunotherapy_tablets_for_dust_mite_allergy_reduce_asthma_risk.mp3?orgId=1&amp;topicId=1128&amp;d=157&amp;p=3&amp;story=475729612&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>2:37</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P2M,37S">2:37</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2016/05/20160502_me_immunotherapy_tablets_for_dust_mite_allergy_reduce_asthma_risk.mp3?orgId=1&amp;topicId=1128&amp;d=157&amp;p=3&amp;story=475729612&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;475729612&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/475729612/476419540"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;475729612&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/475729612/476419540&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/475729612/476419540" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=475729612"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;475729612&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2016/04/21/475045732/task-force-calls-for-more-safety-oversight-at-nih-research-hospital" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2016/04/21/rosenberg_wide-6d5603c37d0b1d63da7014b99a7326c5e7dec10c-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2016/04/21/rosenberg_wide-6d5603c37d0b1d63da7014b99a7326c5e7dec10c-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Task Force Calls For More Safety Oversight At NIH Research Hospital" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Earlier this week, NIH temporarily halted work in the cell therapy lab of Dr. Steven Rosenberg, chief of surgery at the National Cancer Institute, pending a review of safety standards there.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Courtesy of National Cancer Institute
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Courtesy of National Cancer Institute
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2016/04/21/475045732/task-force-calls-for-more-safety-oversight-at-nih-research-hospital"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Task Force Calls For More Safety Oversight At NIH Research Hospital</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2016/04/21/475045732/task-force-calls-for-more-safety-oversight-at-nih-research-hospital"><time datetime="2016-04-21"><span class="date">April 21, 2016 &#149; </span></time>NIH Director Francis Collins has stopped research at two leading labs for now. But an independent board of experts wants even more oversight to ensure that patient safety is the top priority.</a></p>
+
+        
+    </div>
+
+    <article id="res475161653" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Task Force Calls For More Safety Oversight At NIH Research Hospital</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"475045732:475161653","available":true,"duration":216,"title":"Task Force Calls For More Safety Oversight At NIH Research Hospital","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2016\/04\/20160421_atc_nih_director_wrestling_with_safety_concerns_at_research_hospital.mp3?orgId=1&topicId=1128&d=216&p=2&story=475045732&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2016\/04\/21\/475045732\/task-force-calls-for-more-safety-oversight-at-nih-research-hospital","slug":"Health","program":"all things considered","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/04/20160421_atc_nih_director_wrestling_with_safety_concerns_at_research_hospital.mp3?orgId=1&amp;topicId=1128&amp;d=216&amp;p=2&amp;story=475045732&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>3:36</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P3M,36S">3:36</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/04/20160421_atc_nih_director_wrestling_with_safety_concerns_at_research_hospital.mp3?orgId=1&amp;topicId=1128&amp;d=216&amp;p=2&amp;story=475045732&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;475045732&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/475045732/475161653"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;475045732&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/475045732/475161653&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/475045732/475161653" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=475045732"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;475045732&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2015/12/28/459218765/cutting-edge-cancer-treatment-has-its-roots-in-19th-century-medicine" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2015/12/21/william-coley-1_wide-bacfc27de1dd9fb3a565ccdfc696b3adc8341dc4-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2015/12/21/william-coley-1_wide-bacfc27de1dd9fb3a565ccdfc696b3adc8341dc4-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Training The Immune System To Fight Cancer Has 19th-Century Roots" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Isabel Seliger for NPR
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2015/12/28/459218765/cutting-edge-cancer-treatment-has-its-roots-in-19th-century-medicine"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Training The Immune System To Fight Cancer Has 19th-Century Roots</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2015/12/28/459218765/cutting-edge-cancer-treatment-has-its-roots-in-19th-century-medicine"><time datetime="2015-12-28"><span class="date">December 28, 2015 &#149; </span></time>When Jimmy Carter said his advanced melanoma was gone, he credited immunotherapy, treatments that harness the immune system to fight cancer cells. This idea dates back to a 19th-century doctor.</a></p>
+
+        
+    </div>
+
+    <article id="res461247423" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Training The Immune System To Fight Cancer Has 19th-Century Roots</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"459218765:461247423","available":true,"duration":400,"title":"Training The Immune System To Fight Cancer Has 19th-Century Roots","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2015\/12\/20151228_me_training_the_immune_system_to_fight_cancer_has_19th-century_roots.mp3?orgId=1&topicId=1066&d=400&p=3&story=459218765&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2015\/12\/28\/459218765\/cutting-edge-cancer-treatment-has-its-roots-in-19th-century-medicine","slug":"Your Health","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2015/12/20151228_me_training_the_immune_system_to_fight_cancer_has_19th-century_roots.mp3?orgId=1&amp;topicId=1066&amp;d=400&amp;p=3&amp;story=459218765&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>6:40</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P6M,40S">6:40</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2015/12/20151228_me_training_the_immune_system_to_fight_cancer_has_19th-century_roots.mp3?orgId=1&amp;topicId=1066&amp;d=400&amp;p=3&amp;story=459218765&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;459218765&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/459218765/461247423"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;459218765&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/459218765/461247423&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/459218765/461247423" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=459218765"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;459218765&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+</article>
+   <article class="item has-image">
+    <div class="item-image">
+        <div class="imagewrap" data-crop-type="wide">
+    <a href="https://www.npr.org/sections/health-shots/2015/12/09/458955347/cancer-treatments-may-need-to-be-tailored-to-each-tumor" data-metrics='{"action":"Click Story Image","category":"Story List"}' >
+        <img src="https://media.npr.org/assets/img/2015/12/09/jimmy-carter_wide-05ca733000a16251f99362d05b20f82a4885d3ae-s300-c15.jpg" data-original="https://media.npr.org/assets/img/2015/12/09/jimmy-carter_wide-05ca733000a16251f99362d05b20f82a4885d3ae-s300.jpg" class="respArchListImg lazyOnLoad"  alt="Cancer Treatments May Need To Be Tailored To Each Tumor" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Former President Jimmy Carter said this month that immunotherapy treatment has shrunk melanoma tumors.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    David Goldman/AP
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        David Goldman/AP
+        
+    </span>
+</div>
+
+    </div>
+
+    <div class="item-info">
+            <div class="slug-wrap">
+                    <h3 class="slug"><a href="https://www.npr.org/sections/health-shots/">Shots - Health News</a></h3>
+            </div>
+
+        <h2 class="title"><a href="https://www.npr.org/sections/health-shots/2015/12/09/458955347/cancer-treatments-may-need-to-be-tailored-to-each-tumor"  data-metrics='{"action":"Click Story Title","category":"Story List"}' >Cancer Treatments May Need To Be Tailored To Each Tumor</a></h2>
+        
+        
+        <p class="teaser"><a href="https://www.npr.org/sections/health-shots/2015/12/09/458955347/cancer-treatments-may-need-to-be-tailored-to-each-tumor"><time datetime="2015-12-09"><span class="date">December 9, 2015 &#149; </span></time>Jimmy Carter seems to have gotten the perfect drug to treat his cancer. But scientists need to understand a lot more about tumors before personalized cancer treatments are available for everyone.</a></p>
+
+        
+    </div>
+
+    
+
+</article>
+</div>
+
+<!-- END ID="OVERFLOW" CLASS="LIST-OVERFLOW" DATA-METRICS-ALL DATA-METRICS-CATEGORY='AGGREGATION OVERFLOW' -->
+<div class="scrolllink" id="scrolllink">
+    <a href="/tags/459112591/immunotherapy/archive?start=placeholder">More from immunotherapy</a>
+</div>
+
+<div id="infinitescrollwrap">
+    <div id="infinitescroll" data-item-selector="article.item"></div>
+</div>
+
+<div class="options">
+    <button class="options__load-more">Load more stories</button>
+</div><div class="agg-archive-search-tools">
+    <b class="agg-archive-search-tools__lead-in">
+        <a href="/tags/459112591/immunotherapy/archive">Browse archive</a> or
+    </b>
+    <a href="/search" class="agg-archive-search-tools__search">search npr.org</a>
+</div><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/series/750003/press-room/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/ombudsman/" data-metrics-action="Click Ombudsman">Ombudsman</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/series/750002/support-public-radio" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer></section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-no_topic" class="ad-standard" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"no_topic","targets":{"testserver":"false","storyId":"459112591"},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([87,27],{0:function(n,t,c){n.exports=c(1763)},1763:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(36),c(266),c(568),c(567),c(241),c(404),c(350),c(352),c(555),c(364),c(385),c(759),c(351),c(2177),c(1505)}(c)}.bind(this);c.e(0,t),c.e(12,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ece810d90e","applicationID":"3472094","transactionName":"Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA","queueTime":0,"applicationTime":1019,"atts":"TxRGEAwZRB0SABZcTklL","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>

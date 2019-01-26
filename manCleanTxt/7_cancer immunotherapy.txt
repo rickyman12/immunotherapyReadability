@@ -1,0 +1,56 @@
+NCI’s Role in Immunotherapy Research
+ Oral squamous cancer cell
+An oral squamous cancer cell (white) being attacked by two cytotoxic T cells (red), part of a natural immune response.
+
+Credit: National Cancer Institute
+NCI has been at the forefront of the rapidly advancing field of cancer immunology. The field has produced several new methods of treating cancer, called immunotherapies, that increase the strength of immune responses against tumors. Immunotherapies either stimulate the activities of specific components of the immune system or counteract signals produced by cancer cells that suppress immune responses.
+
+These advances in cancer immunotherapy are the result of long-term investments in basic research on the immune system—research that continues today.
+
+NCI supports research to:
+
+understand why immunotherapy is effective in some patients but not in others who have the same cancer
+expand the use of immunotherapy to more types of cancer
+increase the effectiveness of immunotherapy by combining it with other types of cancer treatment, such as targeted therapy, chemotherapy, and radiation therapy
+improve the safety of immunotherapy by understanding why some patients develop toxic side effects and how to predict and mitigate them
+NCI-Supported Immunotherapy Research
+Collaborating with Extramural Researchers on Immunotherapy Research
+Although recent advances in immunotherapy have been dramatic, this approach to treating cancer is still in its infancy. Many challenges remain, including how to optimize the immune response to eradicate cancer while avoiding runaway immune responses that would damage normal tissues. An additional challenge is identifying patients who are most likely to respond to immunotherapies and how to overcome resistance.
+
+Recent advances in cancer immunotherapy are the result of several decades of basic research, much of it supported by NCI, on how the immune system responds to cancer.
+
+
+Making the Case for Biomarkers in Cancer Treatment
+T.J. Sharpe’s melanoma tumors shrank within weeks of starting treatment with a PD-1 checkpoint inhibitor.
+
+For example, NCI-funded research has led to the identification of two biomarkers that can help determine which patients are more likely to respond to checkpoint inhibitor therapy: PD-L1 and a genetic feature called microsatellite instability. Patients whose cancers have these biomarkers are more likely to respond to certain checkpoint inhibitors than patients whose cancers lack them.
+
+NCI supports a wide range of research to advance the field of cancer immunotherapy. Through this work, the institute seeks to extend the benefits of immunotherapy to more patients with cancer.
+
+NCI-Supported Immunotherapy Research
+Immunotherapy research funded by or conducted at NCI spans the continuum from basic scientific research to clinical research applications.
+
+The Center of Excellence in Immunology (CEI) brings together researchers from across NCI and other NIH institutes to foster the discovery, development, and delivery of immunotherapy approaches to prevent and treat cancer and cancer-associated viral diseases.
+The Cancer Immunology, Hematology, and Etiology Branch (CIHEB) in NCI’s Division of Cancer Biology funds research to characterize basic biological mechanisms underpinning antitumor immune responses. That includes studying immune regulation of the development and spread of tumors and approaches to improve immune targeting and destruction of cancer cells.
+The Surgery Branch in NCI’s Center for Cancer Research (CCR) is devoted to the development of innovative cancer immunotherapies and their translation to the treatment of patients with cancer. Efforts run the gamut from basic studies of cancer immunology to the conduct of clinical immunotherapy trials for patients with metastatic cancer.
+CCR’s Laboratory of Tumor Immunology and Biology conducts research with the goal of developing novel immunotherapies for cancer, not only as monotherapies but in combination with other immune-mediating treatments and other conventional or experimental therapies.
+CCR’s Experimental Transplantation and Immunology Branch conducts basic, preclinical, and clinical research on immunotherapy, immune reconstitution, T cell biology, hematopoiesis, and hematopoietic stem cell transplantation. Researchers in ETIB have developed immunotherapies, including chimeric antigen receptor T-cell therapies, for lymphoma, leukemia, and multiple myeloma.
+Researchers in CCR’s Genitourinary Malignancies Branch develop and test immunotherapies and other new strategies to treat prostate, bladder, and other genitourinary cancers. Their work includes the development of cancer vaccines and other immunostimulatory agents, and the combination of immunotherapy with other treatment strategies. Investigators in CCR’s Pediatric Oncology Branch conduct translational research that spans basic science to clinical trials. One area of focus is the preclinical and clinical development of cell-based immunotherapy for pediatric leukemias.
+CCR plans to establish a Center for Cell-Based Therapy (CCT) to develop cellular immunotherapy for the treatment of cancer. CCT will build on NCI efforts to understand the principles of cell-based therapies and bring early-stage research to the clinic. CCT will focus on developing highly personalized cell-based treatments based on individual mutations within a patient’s tumors leading to “living therapies” to produce complete responses in greater numbers of patients.
+Immunotherapy Research with Steven Rosenberg, M.D., Ph.D. Immunotherapy Research with Steven Rosenberg, M.D., Ph.D.
+Why is immunotherapy such a hot area of cancer research today? In this short excerpt from the documentary, “Cancer: The Emperor of All Maladies, PBS”, Dr. Steven A. Rosenberg of the National Cancer Institute’s Center for Cancer Research discusses his work in immunotherapy and its promise for cancer patients.
+
+Collaborating with Extramural Researchers on Immunotherapy Research
+
+Developing the First Precision Immunotherapy
+In May 2017, FDA approved the first drug to treat tumors based on their genetic characteristics, regardless of where in the body the cancer originated.
+
+Sharing expertise, samples, and data through research and clinical trial networks will help advance research in cancer immunotherapy. Several NCI-supported efforts are helping to facilitate collaborations among immunotherapy researchers.
+
+The Cancer Immunotherapy Trials Network (CITN) was established in 2010 to design, facilitate, and conduct early-phase immunotherapy clinical trials and support research on patient tumor specimens. The network currently includes 30 participating trial sites and has conducted 10 clinical trials to date. CITN works with academic, industry, and nonprofit partners to advance promising immunotherapies to the clinic more efficiently and cost effectively. For example, the network led a phase 2 clinical trial that demonstrated the effectiveness of the checkpoint inhibitor pembrolizumab in patients with Merkel cell carcinoma, a rare but aggressive form of skin cancer.
+The Experimental Therapeutics Clinical Trials Network and the National Clinical Trials Network provide infrastructure, funding, and sponsorship for immunotherapy and other treatment trials. Since 2010, more than 100 trials—early-phase to phase 3 trials, in common and rare tumors, some involving special patient populations including pediatric patients—have been initiated in NCI networks for immunotherapy agents and novel combinations involving immunotherapy. Most trials incorporate research on biomarkers and other studies to better understand why these therapies work for some patients and not others.
+The ImmunoOncology Branch (IOB), in the Developmental Therapeutics Program of NCI’s Division of Cancer Treatment and Diagnosis, provides the research community with guidance on the processes required to develop new immunotherapeutic agents; coordinates research efforts with NCI’s Cancer Therapy Evaluation Program (CTEP) to evaluate new immunotherapeutic agents; and provides investigators with guidance on optimum combination drug strategies, clinical trial design, and biomarker identification/assays for their immunotherapeutic agents.
+In 2017, NCI announced the formation of the Cancer Immune Monitoring and Analysis Centers (CIMACs), a network of laboratories that will be responsible for the comprehensive molecular analysis of clinical trial specimens for biomarkers associated with response to immunotherapy. The CIMACs will conduct correlative studies and profiling of tumors and immune cells for NCI-funded early trials of immunotherapy. Part of this effort includes the creation of a Cancer Immunologic Data Commons (CIDC) to support the bioinformatics needs of the CIMACs. The database created by the CIDC will serve as a resource for the identification of novel biomarkers and targets for patient selection and treatment, as has been done with NCI's Genomic Data Commons for genomic data.
+As part of the Cancer MoonshotSM, NCI has established two networks to accelerate the translation of immunotherapy research discoveries to clinical applications for adult and pediatric cancers. For adult cancers, the Immuno-Oncology Translational Network aims to improve outcomes for patients who are treated with immunotherapy and to prevent cancers before they can occur through immunoprevention approaches. The Pediatric Immunotherapy Discovery and Development Network will identify new targets for immunotherapies, developing new pediatric immunotherapy treatment approaches, and defining the biological mechanisms by which pediatric tumors evade the immune system.
+The Immune-Related Adverse Event Biorepository will collect tissue and blood samples from patients who develop significant immune-related side effects from immunotherapy. The goal is to provide a specimen resource for studies of the mechanisms of side effects, risk prediction, and mitigation strategies.
+The National Institutes of Health, Food and Drug Administration, NCI, and 11 biopharmaceutical companies launched the Partnership for Accelerating Cancer Therapies (PACT)Exit Disclaimer to accelerate the development of new cancer immunotherapy strategies for more patients. PACT, which is also part of the Cancer Moonshot, will initially focus on efforts to identify, develop, and validate biomarkers to understand how immunotherapies work in some patients and predict their response to treatment.

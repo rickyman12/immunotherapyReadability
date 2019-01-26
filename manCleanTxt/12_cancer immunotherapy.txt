@@ -1,0 +1,29 @@
+Immunotherapy
+The immune system finds and defends the body from infection and disease. Cancer is a complex disease that can evade and outsmart the immune system. It’s often not recognized until it has already become too difficult to handle.
+
+Cancer immunotherapy improves the immune system’s ability to eliminate cancer. There are several types of immunotherapies, and each helps the immune system in a different way.
+
+Types of immunotherapies
+Immune checkpoint therapy helps cancer-fighting immune cells, called T cells, mount a longer-lasting response against the cancer.
+
+Adoptive cellular therapy increases the number and/or effectiveness of immune cells, usually T cells, which improves the power of the immune response against the cancer. There are three main types of adoptive cellular therapy:
+
+Chimeric Antigen Receptor (CAR) T-cell therapy gives patients large amounts of T cells that are all genetically engineered to find and fight the cancer.
+Tumor infiltrating lymphocyte (TIL) therapy uses a patient’s T cells that are collected from a piece of surgically-removed tumor. While these cells may recognize the cancer, there are too few of them to succeed. The number of these cells is increased substantially in the lab and then given back to the patient.
+Endogenous T-cell (ETC) therapy uses T cells from a patient’s blood. From this diverse pool of T cells, doctors select only those that may recognize signatures specific to the cancer. The number of these specific T cells is increased substantially and then given back to the patient.
+Cancer vaccines help the body recognize cancer cells and stimulate the immune system to destroy them. Cancer vaccines usually contain one of the following:
+
+cancer cells taken from the patient’s tumor
+proteins designed to attach themselves to cancer cells
+proteins specific to a patient’s tumor
+Monoclonal antibodies attach to specific proteins on the surface of cancer cells or immune cells. They either:
+
+mark the cancer as a target for the immune system, or
+boost the ability of immune cells to fight the cancer
+Cytokine therapy relies on proteins called interferons and interleukins to trigger an immune response. Interleukin-2 (IL-2) is used to treat kidney cancers and melanomas that have spread to other regions of the body. Interferon alpha (IFN-alpha) is currently being used to treat melanoma, kidney cancer and certain leukemias and lymphomas. These cytokine treatments are also being combined with other types of immunotherapies to increase their effectiveness.
+
+Each type of immunotherapy has distinct side effects. Moreover, certain immunotherapies are more effective for some types of cancer than others. A patient’s overall health and type of cancer determines which immunotherapies are available to them.
+
+Sometimes two different types of immunotherapies are combined during treatment. Other times, a single immunotherapy is used with another type of therapy, such as chemotherapy. These combination approaches are used to improve treatment.
+
+Several immunotherapies are standard treatments for certain cancers, while others are only offered through clinical trials. Some types of cancer aren’t treatable by current immunotherapies. To extend the benefits of immunotherapy, MD Anderson is leading research to identify new and more effective ways to improve the immune response to cancer.

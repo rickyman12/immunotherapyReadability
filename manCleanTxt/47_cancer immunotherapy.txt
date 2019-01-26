@@ -1,0 +1,30 @@
+Immunotherapy
+Immunotherapy (sometimes called biologic therapy) is a treament that uses certain parts of a person's immune system (a collection of organs, special cells and substances that help protect from infections and some other diseases) to fight cancer. Immunotherapies are thought to work by slowing the growth and spread of cancer cells, and by helping the immune system destroy existing cancer cells.
+
+Immunotherapy can be given in different ways, including:
+
+orally, as pills (tablets, capsules) or liquid
+intravenously (injected into a vein)
+topically, as a cream to rub onto skin
+intravesically, administered directly into the bladder.
+Immunotherapy can be given in a clinic, your doctor’s office, or at a hospital.  How often you have treatment will depend on the type of immunotherapy and the type of cancer. Like other treatments, immunotherapies can be given in cycles. This is a period of treatment followed by a period of rest.
+
+Types of immunotherapy
+The main types of immunotherapy can be divided into treatments using monoclonal antibodies, nonspecific immunotherapies, and cancer vaccines.
+
+Antibodies are naturally produced by the body when it detects harmful viruses, bacteria and other substances that cause disease.Antibodies fight infection or disease by targeting parts of cancer cells to alter their growth. Monoclonal antibodies (mAbs) are made in a laboratory to work in the same way. They are usually given intravenously.
+
+Monoclonal antibodies may be designed to change cancer cells in different ways:
+
+Antibodies can attach to cancer cells to ‘flag’ your immune system to destroy that cell.
+Antibodies can slow the growth of cancer cells by blocking parts of the cell that enable them to grow.
+Radioimmunotherapy uses antibodies to deliver radiotherapy[add link] to cancer cells without damaging healthy cells. This is done by attaching radioactive molecules to antibodies in a medical laboratory. These kinds of antibodies can also be used to diagnose some cancers by flagging where cancer cells exist in the body.
+The antibody may carry medicine, such as chemotherapy[add link], directly to cancer cells.
+Nonspecific immunotherapies refer to the use of cytokines (proteins produced by white blood cells to control immune responses) to help the body’s immune system destroy cancer cells. Nonspecific immunotherapies are typically given in combination with other cancer treatments, such as chemotherapy[add link] or radiation therapy[add link].
+
+Types of cytokines that are made in a laboratory to treat cancer include:
+
+interferons, which can help the immune system to slow the growth of cancer cells
+interleukins, which can increase the production white blood cells and antibodies to fight cancer
+hematopoietic growth factors, which may be used to counteract some side effects of chemotherapy.
+Cancer vaccines are medicines that trigger the body’s immune system to detect cancer cells.There are 2 types of cancer vaccines. Preventive (prophylactic) vaccines may prevent cancer cells from developing; they are only useful for cancer known to be caused by infections. Treatment (therapeutic) vaccines prompt the immune system to fight existing cancer cells. Clinical trials continue into different types of therapeutic vaccines.

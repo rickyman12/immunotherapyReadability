@@ -1,0 +1,1 @@
+readability --csv --tokenizer='./tokenizer -L en-u8 -P -S -E  -N' ../manCleanTxt/*.txt > ../cancerImmunotherapyReadScoresTokenized.csv

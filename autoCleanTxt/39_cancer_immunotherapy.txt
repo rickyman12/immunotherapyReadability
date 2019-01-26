@@ -1,0 +1,340 @@
+The Fourth Annual Executive Summit on Cancer Immunotherapy brings together industry thought leaders to discuss the latest advances and opportunities in immuno-oncology, including combination immunotherapy strategies, emerging IO targets, and next-generation immunotherapies, bispecific antibodies, oncolytic viruses, personalized vaccines and neoantigen-targeted therapies, and adoptive T-cell therapy. Join us for a comprehensive 3-day program featuring 40 executive-level speakers and exclusive networking opportunities, while enjoying all the benefits of being part of CHI's Molecular Medicine Tri-Conference with access to 3,700 delegates, 13 tracks, 200 exhibitors and 170 posters.
+
+Final Agenda
+
+Day 1 | Day 2 | Day 3 | Download Brochure
+
+Arrive Early for:
+
+SUNDAY, MARCH 10, 2:00 - 5:00 PM (AFTERNOON SHORTCOURSES)
+
+SC7: Omic Technology for Cancer Immunology - Detailed Agenda
+
+SUNDAY, MARCH 10, 5:30 - 8:30 PM (DINNER SHORT COURSES)
+
+SC15: Development of Bioassays for Checkpoint Immunotherapy - Detailed Agenda
+
+MONDAY, MARCH 11, 8:00 - 11:00 AM (MORNING SHORT COURSES)
+
+SC22: Cellular Phenotyping Assays in Oncology Trials - Detailed Agenda
+
+MONDAY, MARCH 11
+
+10:30 am Conference Program Registration Open
+
+FUTURE DIRECTIONS OF CANCER IMMUNOTHERAPY
+
+11:50 Chairperson’s Opening Remarks
+
+Rakesh Dixit, PhD, DABT, Vice President, R&D; Global Head, Biologics Safety Assessment, MedImmune
+
+
+12:00 pm KEYNOTE PRESENTATION: Self-Awakens: Induction of Cancer-Fighting Immune System with Immune Checkpoints Antagonists, Combinations and Bispecifics
+
+Rakesh Dixit, PhD, DABT, Vice President, R&D; Global Head, Biologics Safety Assessment, MedImmune
+
+This presentation will cover: 1) similarities and differences in outcome of immune activation with antagonists vs. agonists/combinations, etc.; 2) strategies for inducing immunologically hot vs. cold tumors; 3) single agents vs. combinations: pros and cons; 4) personalized medicine approaches to immune-oncology; 5) a case of unique bispecific of anti-PD-1:CTA4 with a potential for better TI than combination.
+
+12:30 KEYNOTE PRESENTATION: Treatment of Breast and Gynecologic Cancers with Cancer Immunotherapy
+
+Dupont_JakobJakob Dupont, MD, Vice President, Global Head, Breast & Gynecologic Cancer Development, Genentech
+
+
+
+1:00 Session Break
+
+Biocytogen 1:10 Luncheon Presentation to be Announced
+
+2:10 Session Break
+
+COMBINATION IMMUNOTHERAPY STRATEGIES
+
+2:30 Chairperson’s Remarks
+
+Rakesh Dixit, PhD, DABT, Vice President, R&D; Global Head, Biologics Safety Assessment, MedImmune
+
+2:40 Immunotherapy Combinations: Lessons Learned and Future Outlook
+
+Karasarides_MariaMaria Karasarides, PhD, Executive Director, Immuno-Oncology, Regeneron Pharmaceuticals
+
+This presentation will cover: 1) emerging immunotherapy combination data and meaningfulness of early data sets; 2) focus on PD-1 + CTLA-4 blockade – is this the most promising combination to date? 3) strategies to improve immunotherapy combinations development – is patient selection our best bet? 4) how are we utilizing translational data and what is the impact on early development?
+
+2:55 Why Are We So Late in the Treatment of Breast Cancer Using ICI with Chemotherapy?
+
+Glueck_StefanStefan Glueck, MD, PhD, FRCPC, Professor of Medicine, Vice President, GMA Early Assets, Celgene Corporation
+
+The idea of using the immune system to fight cancer is over 100 years old (Paul Ehrlich’s “Magic Bullet”). A new molecular approach led to a better understanding of the immune system. Checkpoint regulation, understanding roles of Tregs, Th1 and Th2, development of CAR-T cells, as well as regulation of DC and macrophages, has led to discovery of immune checkpoint inhibitors (ICI) and modulators that are currently used in studies of several STs. Positive studies have led to the US FDA approval of a number of these compounds but none to date are approved in breast cancer (BrCa). Moreover, PD-1/PDL-1, MSI high (and dMMR), MTB are the currently “best” predictive markers for IO therapy. BrCa actually has some of these markers positive only in subsets and less frequently expressed than most other tumors, e.g. malignant melanoma or non-small cell lung cancer and others. In order to improve the potential efficacy of ICI in breast cancer, the addition of chemotherapy was one of the strategies. Many early and large clinical trials in all phases are underway in BrCa and will be reported in 2018 and 2019. We will discuss the mechanism of action, its impact on BrCa and some of the early results and next-generation ICI.
+
+3:10 Possible Use of Immunoprofiling to Stratify or Direct Combination Immunotherapy
+
+Bernard A. Fox, PhD, Chief, Laboratory of Molecular and Tumor Immunology, Providence Health & Services; CEO, UbiVac
+
+ENGINEERING NEXT-GENERATION IMMUNOTHERAPIES
+
+3:25 Clinical and Preclinical Studies with Vicinium: An Anti-EpCAM scFV/Pseudomonas Exotoxin A Fusion Protein in Advanced Development for the Treatment of Non-Muscle Invasive Bladder Cancer
+
+Adams_GregoryGregory Adams, PhD, CSO, Sesen Bio
+
+Vicinium is a fusion protein composed of an anti-EpCAM antibody fragment fused to Pseudomonas Exotoxin, a potent cytotoxic agent. Ongoing results will be presented from a Phase III Vicinium monotherapy trial currently underway in patients with non-muscle invasive bladder cancer. The presentation will also include a discussion on the ability of Vicinium to drive immunogenic cell death thereby potentially initiating host anti-tumor immune responses.
+
+3:40 Probody Therapeutics in the Treatment of Cancer
+
+Belvin_MarciaMarcia Belvin, PhD, Vice President, Oncology Research, CytomX Therapeutics
+
+Probody™ therapeutics are fully recombinant antibody-based prodrugs designed to remain largely inactive in circulation until proteolytically activated in the tumor microenvironment (TME). They are designed to protect normal tissues while increasing the concentration of active antibody in tumors, thus widening the therapeutic index. Probody technology can be applied to multiple antibody-based therapies. Examples will be presented, including probodies based on checkpoint inhibitor antibodies targeting PD-L1 and CTLA-4, antibody-drug conjugates, and T cell-engaging bispecifics.
+
+3:55 Unraveling the Mechanisms of Action of Bispecific T Cell Engager (BiTE) Molecules in Immuno-Competent Mice Expressing a Chimeric Human/Mouse CD3ε Receptor
+
+Nolan-Stevaux_OlivierOlivier Nolan Stevaux, PhD, Principal Scientist, Oncology Research, Amgen
+
+The development and success of Blincyto®, a Bispecific T Cell Engager (BiTE®), to treat acute lymphoblastic leukemia has expanded the class of immunotherapy agents used to treat cancer. BiTE antibody constructs consist of a single-chain Fc antibody containing tandem single-chain variable fragments (scFv) recognizing the CD3 receptor on T lymphocytes and a tumor-associated antigen and induce redirected T cell cytotoxicity and tumor cell lysis.
+
+4:10 Sponsored Presentation (Opportunity Available)
+
+4:40 Refreshment Break and Transition to Plenary Session
+
+
+5:00 Plenary Keynote Session
+
+6:00 Grand Opening Reception in the Exhibit Hall with Poster Viewing
+
+7:30 Close of Day
+
+Day 1 | Day 2 | Day 3 | Download Brochure
+
+TUESDAY, MARCH 12
+
+7:30 am Registration Open and Morning Coffee
+
+
+8:00 Plenary Keynote Session
+
+9:15 Refreshment Break in the Exhibit Hall with Poster Viewing
+
+EMERGING IMMUNO-ONCOLOGY TARGETS
+
+10:15 Chairperson’s Remarks
+
+Steve Doberstein, PhD, CSO & Senior Vice President, Research, Nektar Therapeutics
+
+10:25 Preclinical Development of GITRL-Fc: Effect of Age
+
+Angela Park, PhD, Senior Director, Immunotherapy, OncoMed
+
+10:40 Beyond PD1: Targeting STING and Other Novel Pathways
+
+Van_Elsas_AndreaAndrea van Elsas, PhD, CSO, Aduro Biotech, Inc.
+
+T cell checkpoint inhibitors set a clinical paradigm providing significant benefit to patients diagnosed with advanced cancer. Despite success, the majority of patients do not respond to PD-1, PD-L1 or CTLA-4 blockade. Raising the number of patients benefiting from cancer immunotherapy requires novel therapeutic approaches aimed at these non-responders, for instance by modulating the STING pathway using the first-in-class clinical STING agonist ADU-S100.
+
+10:55 Targeting the CD47 “Do Not Eat” Signal with SIRPaFc Decoy Receptors
+
+Uger_BobBob Uger, PhD, CSO, Trillium Therapeutics, Inc.
+
+CD47 is an innate immune checkpoint that binds to SIRPα and delivers a “do not eat” signal to suppress macrophage phagocytosis. Many tumors express high levels of CD47 to escape macrophage-mediated immune surveillance. Trillium Therapeutics is developing SIRPaFc fusion proteins to block the CD47 “do not eat” signal. The emerging clinical data for this novel class of innate immune system checkpoint inhibitors will be discussed.
+
+11:10 ATOR-1017, a Tumor-Directed Fcγ-Receptor Cross-Linking Dependent 4-1BB Agonistic Antibody
+
+Furebring_ChristinaChristina Furebring, PhD, Senior Vice President, R&D, Alligator Bioscience
+
+ATOR-1017 is a FcγR crosslinking dependent 4-1BB agonistic antibody with an activation profile that minimizes the risk for inducing systemic immune activation and toxicity. ATOR-1017 was designed for an optimal efficacy and improved safety by combining the IgG4-format that mediates a potent FcγR cross-linking with a unique binding epitope on 4-1BB. The immune activation will be directed to tumors co-expressing both specific FcγRs and 4-1BB. ATOR-1017 is currently in preclinical development phase, and clinical studies are planned for 2019.
+
+11:25 Advanced Cytokine Engineering for Immunotherapy
+
+Doberstein_SteveSteve Doberstein, PhD, CSO & Senior Vice President, Research, Nektar Therapeutics
+
+Many native cytokines that activate important immunological pathways are difficult to use therapeutically due to toxicity, poor pharmacokinetics, and sub-optimal pharmacodynamics. We have engineered new medicines using polymer conjugation to improve potency and tolerability by optimizing PK/PD and receptor activation. NKTR-214, for example, is a novel agonist of the IL2 receptor pathway that maximizes CD8 T cell tumor infiltration over Treg proliferation. We will discuss additional examples of molecules optimized to elicit desirable immunological outcomes.
+
+11:40 Hexavalent Agonists Targeting the TNFR Superfamily for Cancer Immunotherapy
+
+Hill_OliverOliver Hill, PhD, Vice President, Molecular Biology, Apogenix
+
+Apogenix novel hexavalent TNFR-SF agonists (HERA) are developed for the immunologic treatment of cancer. They are based on trivalent but single-chain molecular mimics of the TNF-SF receptor binding domains fused to a dimerization scaffold. The resulting hexavalent fusion proteins are potent TNFR-SF agonists that activate distinct immune cell populations. HERA compounds show single agent anti-tumor activity and provide exciting opportunities for combinatorial treatment. The presentation will focus on data obtained with HERA-CD40L, HERA-CD27L and HERA-GITRL.
+
+11:55 Make Your I/O Clinical Trials Successful Using iCore - A Cloud Based AL ML Enabled Informatics Platform
+
+Mohan Uttarwar, CEO, iNDx Technology
+
+iCore is a cloud based AI ML enabled innovative informatics platform for managing I/O clinical trials and biomarker driven studies successfully. iCore - organizes, aggregates, analyzes, visualizes multi-dimensional data sets and can interrogate between different data sets using NLP Technology
+
+ 
+
+12:25 pm Session Break
+
+12:35 Luncheon Presentation (Sponsorship Opportunity Available) or Enjoy Lunch on Your Own
+
+1:35 Refreshment Break in the Exhibit Hall with Poster Viewing
+
+BISPECIFIC ANTIBODIES FOR CANCER IMMUNOTHERAPY
+
+2:05 Chairperson’s Remarks
+
+Michael Koratich, MS, Associate Director, Head, Oncology, Oncology Drug Development, Southern Research
+
+2:10 Multiple Avenues to T Cell Activation with Bispecific Antibodies
+
+Desjarlais_JohnJohn Desjarlais, PhD, Senior Vice President, Research, CSO, Xencor
+
+Xencor has applied its XmAb bispecific technology platform to create multiple novel modalities for T cell derepression and activation. These include dual checkpoint inhibitors such as a PD1 x CTLA4 bispecific antibody, and a CTLA4 x LAG3 bispecific antibody that combines productively with anti-PD1 for triple checkpoint blockade. We have also discovered a highly active PD1 x ICOS bispecific antibody that productively combines checkpoint blockade and costimulation into a single molecule. Finally, we have utilized our heterodimeric Fc domain to create a novel long-acting IL15/IL15Ra-Fc format for immunotherapy.
+
+2:25 Leveraging Bispecific Molecules for Combination Immunotherapy of Cancer
+
+Wigginton_JonJon Wigginton, MD, Senior Vice President, Clinical Development & CMO, MacroGenics
+
+
+2:40 ND021, a Novel Multi-Specific Antibody Targeting PD-L1-Overexpressing Cancers That Stimulates Antigen-Committed CD8+ T Cells through Concomitant Engagement of the T Cell Costimulatory Receptor
+
+Meyer_SebastianSebastian Meyer, PhD, COO, Numab Therapeutics
+
+ND021 leverages Numab's next-generation multi-specific technology to elicit highly potent - but tumor-restricted - agonism of 4-1BB, while concomitantly blocking PD-L1. The trispecific anti-PD-L1/4-1BB/HSA ND021 is designed to avoid dose-limiting hepatotoxicities associated with IgG-mediated 4-1BB activation. Animal data strongly suggest that ND021 eliminates the tolerability/efficacy trade-off associated with stimulation of the costimulatory receptor 4-1BB, while eliciting strong anti-tumor responses.
+
+2:55 Activating the Immune System with Bispecific Antibodies
+
+Brewis_NeilNeil Brewis, PhD, CSO, F-star Biotechnology Ltd.
+
+Cancer proliferates through numerous evasion strategies, and re-engaging the immune system is key in the control of tumor growth. In recent years, checkpoint immunotherapies and their combinations have rapidly progressed from being a promising therapeutic opportunity to a robust clinical reality. In this presentation, we will discuss how checkpoint-binding bispecific antibodies have the potential to go beyond combinations, by reversing down-regulation of the immune system and promoting tumor elimination.
+
+3:10 ProTIA – Bispecific T Cell Engagers Designed for Activation by Tumor-Associated Proteases
+
+Schellenberger_VolkerVolker Schellenberger, PhD, President and CEO, Amunix
+
+Amunix developed a novel format of bispecific T cell engagers called ProTIA (Protease Triggered Immune Activators). ProTIAs combine three tumor-targeting modalities: 1) tumor antigen binding; 2) localized activation by tumor-associated proteases; 3) limited exposure of healthy tissues due to polymer-based prodrug format (EPR effect). ProTIAs are administered as long-acting prodrugs. Protease activation releases a highly potent (1000x increase) BiTE-like molecule at the tumor site. Activated ProTIAs have a very short circulatory half-life resulting in rapid removal of non-specifically activated molecules. Tumor-specific antibodies can be readily converted into ProTIAs resulting in a large widening of the therapeutic index. The rate and protease selectivity can be readily adjusted.
+
+3:25 Unbiased Functional Screening of Large Bispecific Antibody Panels to Unlock Novel Biology
+
+Throsby_MarkMark Throsby, PhD, Executive Vice President & CSO, Merus NV
+
+The bispecific antibody format represents an emerging therapeutic modality. We have developed a set of robust and validated technologies that permits unbiased in-format functional screening to identify human full-length IgG bispecific antibodies candidates with superior therapeutic properties. Two case studies will be presented where this approach has been successfully employed to discover lead candidates with differentiating properties that are now in clinical development.
+
+3:40 Modulating Anti-Tumor Immune Responses with B-Body Bispecific Antibodies
+
+Hammer_BonnieBonnie Hammer, PhD, Vice President, Biologic Development, Invenra
+
+Bispecific antibodies have distinct advantages over monospecific antibodies including more selective targeting of specific cell populations and enabling novel mechanisms of action. We have used our B-Body™ platform to create bispecific/multispecific antibodies for redirected T cell killing, for enhanced agonist activity, and for specifically targeting subsets of cells for elimination. We demonstrate the advantage of screening for functional activity, rather than just binding, to identify the desired drug candidate.
+
+
+
+3:55 Characterization of a Human PD-1/PD-L1 Transgenic Mouse Model for Evaluation of Single and Combination Agent Therapy
+
+Michael Koratich, MS, Associate Director, Head, Oncology, Drug Development Division, Southern Research
+
+Evaluating checkpoint therapeutics for use as combination agents is a significant focus of the oncology community. Here we explore the suitability of a PD-1 and PD-L1 transgenic mouse system to serve as a model for checkpoint and chemotherapy combination evaluation.
+
+4:10 St. Patrick’s Day Celebration in the Exhibit Hall with Poster Viewing
+
+5:00 Breakout Discussions in the Exhibit Hall
+
+6:00 Close of Day
+
+Day 1 | Day 2 | Day 3 | Download Brochure
+
+WEDNESDAY, MARCH 13
+
+7:30 am Registration Open and Morning Coffee
+
+
+8:00 Plenary Keynote Session
+
+10:00 Refreshment Break and Poster Competition Winner Announced in the Exhibit Hall
+
+ONCOLYTIC VIRUS IMMUNOTHERAPY
+
+10:50 Chairperson’s Remarks
+
+Jing Qing, PhD, Principal Scientist, Global Research Lead for T-VEC, Amgen
+
+11:00 Applications of Poxviral Vectors in Immuno-Oncology
+
+Heery_ChristopherChristopher R. Heery, MD, CMO, Bavarian Nordic
+
+Dr. Heery will discuss the use of poxviral vectors to address multiple issues in immuno-oncology: 1) the specific activation of T cells against tumor antigens; 2) activation of innate immune responses, including systemic cytokine profile modification and NK activation; 3) modification of tumor microenvironment through TLR9 and cGAS/STING pathways.
+
+11:15 OncoVEXmGM-CSF Induces Durable and Systemic Anti-Tumor T-Cell Immunity
+
+Jing Qing, PhD, Principal Scientist, Global Research Lead for T-VEC, Amgen
+
+Talimogene laherparepvec (T-VEC) is a first-in-class oncolytic immunotherapy derived from herpes simplex virus type 1 (HSV-1). To gain insights into T-VEC-induced systemic anti-tumor immunity, we utilized multiple murine syngeneic tumor models to investigate the immune responses triggered by OncoVEXmGM-CSF, a virus modified similarly to T-VEC except that it contains mGM-CSF instead of hGM-CSF. We have demonstrated that OncoVEXmGM-CSF is able to induce durable, T cell-mediated immunity against syngeneic tumors. Recent data from clinical studies of T-VEC in combination with checkpoint blockade will be discussed too.
+
+11:30 Toca 511 and Toca FC: A Drug Combination Based on a Conditionally Lytic Retrovirus with a Different Immunotherapy Target Profile
+
+Jolly_DouglasDouglas Jolly, PhD, Executive Vice President, R&D, Tocagen, Inc.
+
+Toca 511 (vocimagene amiretrorepvec) is a retroviral replicating vector that selectively spreads in tumors and leads to local high concentrations of fluorouracil (5-FU). This generates anti-tumor immune responses and durable complete responses in a Phase I recurrent High-Grade Glioma trial. A consequent 380 patient Phase III trial completed enrollment September 2018. Immunological assay data from HGG and solid tumor trials supports a non-typical immuno-oncology profile in responders and after treatment.
+
+11:45 Voyager-V1: Systemic, Single-Cycle, Trackable Oncolytic Virotherapy
+
+Stephen J. Russell, MD, PhD, CEO, Vyriad, Inc.
+
+Voyager-V1 is a recombinant oncolytic vesicular stomatitis virus engineered to encode both interferon beta (for immune enhancement and serum monitoring of virus pharmacokinetics) and the thyroidal sodium iodide symporter (for radionuclide enhancement of tumor cell killing and for imaging the spread of the virus infection). Oncolytic viruses have maximum cancer-destructive capacity when the recipient has no pre-existing antiviral immunity. Also, systemic delivery or systemic spread from an injected tumor site are greatly hindered by preformed antiviral antibodies. Single cycle therapy is therefore highly rational with the added advantage of convenience for the patient and treating physician. Pharmacokinetic data from the monitoring of reporter gene expression guides the clinical development process. Voyager-V1 is being evaluated in multiple ongoing Phase I clinical trials, and the accumulating pharmacokinetic data are proving to be quite enlightening. Insights gained from these ongoing studies will be discussed.
+
+12:00 pm Novel microRNA Attenuated Oncolytic Virus with Combinatorial Immune Payloads for the Treatment of Metastatic Cancer
+
+Haines_BrianBrian Haines, PhD, Senior Director, Pharmacology & Toxicology, Oncorus
+
+In this presentation, Oncorus’ proprietary OV platforms will be presented. miR attenuation allows conditional and selective replication in tumor cells while sparing normal cells, thereby reducing toxicity. In addition, virus alterations allow the incorporation of multiple payloads within one virus in order to augment immune activation and systemic anti-tumor activity. The ultimate goal is to generate safe yet powerfully efficacious OV therapeutics for the treatment of cancer.
+
+12:15 Sponsored Presentation (Opportunity Available)
+
+12:30 Session Break
+
+12:40 Luncheon Presentation (Sponsorship Opportunity Available) or Enjoy Lunch on Your Own
+
+1:10 Refreshment Break in the Exhibit Hall and Last Chance for Poster Viewing
+
+PERSONALIZED CANCER VACCINES AND NEOANTIGEN-TARGETED THERAPIES
+
+1:50 Chairperson’s Remarks
+
+Gregory Adams, PhD, CSO, Sesen Bio
+
+2:00 Artificial Intelligence to the Rescue: Towards Personalized, Neoantigen-Targeted Immunotherapeutics
+
+Rousseau_RaphaelRaphaël F. Rousseau, MD, PhD, Executive Vice President, Head of Development and CMO, Gritstone Oncology
+
+Genetic instability is a hallmark of cancer. Consequently, each patient’s tumor genome is different from their normal cells. This DNA difference can generate rare, highly tumor-specific, new protein antigens. Deep-learning models trained on large-scale data generated from human tumors allow for superior identification of these neoantigens. Delivering these neoantigens to patients in a highly immunogenic context should drive their immune system to attack and destroy their own tumor.
+
+2:15 Overcoming Epigenetic Immune Ignorance through in situ Vaccination
+
+Pierce_RobertRobert Pierce, MD, Scientific Director, Immunopathology Core, Fred Hutchinson Cancer Research Center
+
+Pre-existing anti-tumor T cell responses appear to be a prerequisite for response to anti-PD1/PDL1 monoclonal antibody (mAb) therapeutics. In contradistinction, patients with a paucity of tumor-infiltrating lymphocytes (TILs), including the ‘immune ignored’ phenotype, are unlikely to respond to these therapies. Epigenetic suppression of antigen presentation and processing machinery (APM) may represent a common mechanism of this ‘immune ignored’ phenotype. In situ vaccination and/or other intralesional therapies that result in local expression of interferon-gamma can result in reversal of this epigenetic suppression, leading to enhanced responsiveness to anti-PD1 blockade.
+
+2:30 The Discovery and Development of Novel Monoclonal Antibody, NEO-201 Targeting a Novel Neoantigen
+
+Arlen_PhilipPhilip Arlen, MD, President & CEO, Precision Biologics
+
+NEO-201 was developed from an allogeneic colorectal cancer vaccine that had previously shown activity in patients with metastatic colorectal cancer. This vaccine was derived from an immunogenic component of the cell membrane from pooled surgical specimens from both primary and metastatic colon cancer. Patients who benefited from the vaccine in the prior clinical trial produced and sustained high levels of serum IgG against the vaccine. Several thousand candidate antibodies were screened against this vaccine, and NEO-201 was a lead candidate that demonstrated the ability to bind to colon cancer as well as other carcinomas vs. normal tissue. In addition, it has antibody-dependent cellular cytotoxicity (ADCC) as a mechanism of tumor kill. First-in-human studies are planned to be initiated in late 2018.
+
+2:45 Generating Potent CD8-Dominated Neoantigen-Specific T Cell Responses with Novel DNA Vaccine
+
+Fredriksen_AgneteAgnete Fredriksen, PhD, CSO, Vaccibody
+
+Vaccibody has a unique platform technology able to potentiate vaccines by attracting, activating and delivering antigens to antigen presenting cells. Recent clinical data indicate an important role of neoantigen-specific T cells in patients that benefit from immunotherapies. A Vaccibody DNA vaccine opens up for a rapid and cost-effective manufacturing perfect to develop commercially viable patient-specific vaccines on demand. A clinical study using Vaccibody neoantigen vaccines in advanced cancer is ongoing.
+
+3:00 A Revolutionary Technology to Develop Cancer Type-Specific Vaccines for Any Cancer
+
+Katz_YisraelYisrael Katz, MD, Director of Clinical Applications, Calviri, Inc.; Center for Innovations in Medicine, Arizona Biodesign Institute
+
+Frameshift peptides have become recognized as a neoantigen source separate from DNA mutations. We have invented a serological assay, not requiring biopsy, that rapidly identifies reactivity to all potential frameshift neoantigens. This yields a huge antigen pool with proven immunogenicity – bypassing the need for prediction algorithms. With thousands of reactive frameshift peptides per patient and 20-30% overlap across disease cohorts, we can develop pre-made cancer type-specific vaccines for any cancer.
+
+ADOPTIVE T-CELL THERAPY
+
+3:40 Chairperson’s Remarks
+
+3:45 A New TCR-Mimic (TCRm) Technology Used in Solid and Hematologic Cancers
+
+ARTEMIS T-cell receptor platform was shown to be safe and effective in preclinical and clinical studies against CD19-positive NHL. ARTEMIS T-cells matched the cancer-killing potency of CAR-T therapies but with a dramatic reduction in the levels of inflammatory cytokines released. A human TCRm using a fully human antibody added to the ARTEMIS effector domain was developed to target an AFP-peptide/HLA-A2 complex on HCC liver cancer cells. Once engaged onto this complex, the TCRm engineered T-cell is activated to kill the cancer cell. TCRm against AFP-peptide was safe and effective in preclinical and POC clinical studies.
+
+4:00 TCR-Based Therapies for Solid Tumors Using Novel Antigens
+
+TCR-based therapies offer the largest possible space of potentially targetable antigens. We have used ultra-sensitive mass spectrometry to identify novel and safe targets for TCR-based therapies. Matching specific TCRs were routinely identified from healthy donors and systematically validated for efficacy and safety. We have used these two discovery platforms, named XPRESIDENT® and XCEPTOR®, to propel novel TCR-based therapies in adoptive cell therapy and using bispecific T-cell engagers (TCER®). This has culminated in four clinical-stage programs.
+
+4:15 Controlling Efficacy and Safety of T Cell Immunotherapies Using Molecular Switches
+
+Current adoptive cellular therapies (ACTs) have shown promising clinical responses in hematological malignancies; however, their durability in hematological malignancies appears limited and most ACTs have shown little to no clinical activity in solid tumors due to lack of persistence and suppressive tumor microenvironments (TMEs). Bellicum is designing next-generation controllable ACTs that are designed to activate or eliminate therapeutic cells, as well as overcome the suppressive TME, thereby providing potentially greater efficacy and safety.
+
+
+4:45 Development of an Anti-BCMA CAR T Cell Therapy that Delivers Durable Clinical Responses in Relapsed/Refractory Multiple Myeloma
+
+5:00 TALEN Gene Editing for Allogeneic CAR T-Cell Immunotherapy
+

@@ -1,0 +1,38 @@
+What Is Cancer Immunotherapy?
+Any treatment that uses elements of the body’s immune system to fight cancer is considered cancer immunotherapy. In recent years, as research has revealed many of the basic workings of the immune system and how the immune system interacts with tumor cells, scientists have developed, tested, and demonstrated the effectiveness of an array of immunotherapy techniques, several. Several have shown immense promise in various types of cancer.
+
+There are two general types of immunotherapy: Those that stimulate or “train” the immune system to more effectively target cancer, and those that provide patients with immune system components that help make cancer cells more “visible” to immune cells and more susceptible to attack.
+
+Checkpoint Inhibitors
+
+Over the last decade, new types of immunotherapy, including immune checkpoint inhhibitors, have entered medicine’s arsenal against cancer. They work by releasing the brakes on the immune system’s attack on cancer cells. Such drugs have been shown to be helpful against numerous kinds of cancer, including melanoma skin cancer, non-small cell lung cancer, bladder cancer, kidney cancer, and Hodgkin lymphoma. Researchers are currently testing combinations of checkpoint inhibitors with other drugs, including other types of immunotherapy, to bring these results to patients with other kinds of cancer.
+
+
+
+CAR T-Cell Therapy
+
+Another form of immunotherapy that has made headlines in the past few years is CAR T-cell therapy. It works by genetically engineering a patient’s own immune system T cells to better track down and kill cancer cells. Currently, it is approved by the Food and Drug Administration (FDA) for some forms of refractory non-Hodgkin lymphoma as well as pediatric relapsed acute lymphoblastic leukemia (ALL), and is available through clinical trials for other forms of blood cancer.
+
+As of May 2018, CAR T-cell therapy has been approved by the U.S. Food and Drug Administration as standard therapy for some adult patients with aggressive non-Hodgkin lymphoma that has relapsed after prior treatments, or has not responded to other therapies (refractory), and for patients age 25 and under with relapsed or refractory  B-cell acute lymphoblastic leukemia.
+
+Vaccines
+
+Vaccines, which consist of substances put into the body to spark an immune response against disease, have recently begun to make their mark against cancer as well. Vaccines to prevent cervical, anal, throat and other cancers linked to infection by the human papilloma virus (HPV) are now a part of standard care for young people.
+
+Vaccines to treat cancer take a variety of forms: Some are made from cancer cells; others, from parts of cancer cells; still others are from specially conditioned immune system cells.
+
+One type of cell-based vaccine involves removing certain immune system cells from a patient’s blood and converting them into dendritic cells, whose job is to display cancer- or infection-related proteins on their surface. The dendritic cells are combined with pieces of tumor cells and, often, other stimulatory proteins and infused back into the patient. The cancer-related antigens on the dendritic cells’ surface spur the patient’s immune system to go on the offensive against cancer cells.
+
+Another approach is constructing a vaccine out of actual cancer cells that have been removed from the patient during surgery. The killed tumor cells are processed in a lab to make them more visible to the immune system, then re-injected into the patient along with immune-stimulating compounds. The patient’s immune system launches a vigorous attack not only on the newly-injected cancer cells but also on similar cells throughout the body.
+
+Monoclonal Antibodies
+
+Among the older types of immunotherapy are monoclonal antibodes, which are lab-made versions of natural immune system proteins that can zero in on specific parts of cancer cells and destroy them. The FDA has approved more than a dozen monoclonal antibodies to treat certain cancers, including some types of leukemia and breast cancer, and others are under study in clinical trials. Agents that yoke antibodies to chemotherapy drugs – producing what are known as conjugate drugs – are designed to deliver a direct hit of chemotherapy to cancer cells and have shown promising results in some cancers, including lymphoma and certain types of breast cancer.
+
+Stem Cell Transplants
+
+Transplants of donor stem cells are a long-proven form of immunotherapy for patients with a blood-related cancer such as leukemia or lymphoma or with certain types of non-cancerous blood disorders. In a transplant, patients are treated with radiation and/or chemotherapy to wipe out the diseased bone marrow or, at lower doses, to suppress cancer cells within the marrow. Patients are then infused with blood-making stem cells from a compatible donor, which migrate to the bone marrow and begin rebuilding the patient’s blood supply. The newly generated blood cells include white blood cells of the immune system that take up the fight against the patient’s cancer cells, a phenomenon known as the graft-versus-leukemia effect.
+
+Stimulating the Immune System
+
+A final category of cancer immunotherapies includes chemicals – many of them natural – that don’t target cancer cells specifically but act as a general stimulant on the immune system, which can invigorate the immune response to cancer. Such substances include cytokines, which are made by some immune system cells to control the growth and activity of other immune system cells; interleukins, a group of cytokines used a signals between white blood cells; and interferons, which help the body resist viral infections and some cancers. Other agents, known as immunomodulating drugs, are thought to work by boosting the immune system, but the mechanism by which they do this isn’t fully understood. Thalidomide is the best-known of these drugs.

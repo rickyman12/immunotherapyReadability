@@ -1,0 +1,34 @@
+What Is Cancer Immunotherapy?
+Immunotherapy is treatment that uses certain parts of a person’s immune system to fight diseases such as cancer. This can be done in a couple of ways:
+
+Stimulating your own immune system to work harder or smarter to attack cancer cells
+Giving you immune system components, such as man-made immune system proteins
+Some types of immunotherapy are also sometimes called biologic therapy or biotherapy.
+
+In the last few decades immunotherapy has become an important part of treating some types of cancer. Newer types of immune treatments are now being studied, and they’ll impact how we treat cancer in the future.
+
+Immunotherapy includes treatments that work in different ways. Some boost the body’s immune system in a very general way. Others help train the immune system to attack cancer cells specifically.
+
+Immunotherapy works better for some types of cancer than for others. It’s used by itself for some of these cancers, but for others it seems to work better when used with other types of treatment.
+
+What the immune system does
+Your immune system is a collection of organs, special cells, and substances that help protect you from infections and some other diseases. Immune cells and the substances they make travel through your body to protect it from germs that cause infections. They also help protect you from cancer in some ways.
+
+The immune system keeps track of all of the substances normally found in the body. Any new substance that the immune system doesn’t recognize raises an alarm, causing the immune system to attack it. For example, germs contain substances such as certain proteins that are not normally found in the human body. The immune system sees these as “foreign” and attacks them. The immune response can destroy anything containing the foreign substance, such as germs or cancer cells.
+
+The immune system has a tougher time targeting cancer cells, though. This is because cancer starts when cells become altered and start to grow out of control. The immune system doesn’t always recognize cancer cells as foreign.
+
+Clearly there are limits on the immune system’s ability to fight cancer on its own, because many people with healthy immune systems still develop cancer. Sometimes the immune system doesn’t see the cancer cells as foreign because the cells aren’t different enough from normal cells. Sometimes the immune system recognizes the cancer cells, but the response might not be strong enough to destroy the cancer. Cancer cells themselves can also give off substances that keep the immune system in check.
+
+To overcome this, researchers have found ways to help the immune system recognize cancer cells and strengthen its response so that it will destroy them.
+
+Types of cancer immunotherapy
+The main types of immunotherapy now being used to treat cancer include:
+
+Monoclonal antibodies: These are man-made versions of immune system proteins. Antibodies can be very useful in treating cancer because they can be designed to attack a very specific part of a cancer cell.
+Immune checkpoint inhibitors: These drugs basically take the ‘brakes’ off the immune system, which helps it recognize and attack cancer cells.
+Cancer vaccines: Vaccines are substances put into the body to start an immune response against certain diseases. We usually think of them as being given to healthy people to help prevent infections. But some vaccines can help prevent or treat cancer.
+Other, non-specific immunotherapies: These treatments boost the immune system in a general way, but this can still help the immune system attack cancer cells.
+Immunotherapy drugs are now used to treat many different types of cancer. For more information about immunotherapy as a treatment for a specific cancer, please see our information on that type of cancer.
+
+Many newer types of immunotherapy are now being studied for use against cancer. Some of these are discussed in What’s new in cancer immunotherapy research?

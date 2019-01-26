@@ -1,0 +1,29 @@
+What Exactly Is Cancer Immunotherapy?
+The Nobel Prize was awarded this week for scientists’ contributions to the cancer treatment
+
+Cancer immunotherapy is in the spotlight this week after two scientists won the Nobel Prize on Monday for their contributions to the treatment.
+
+The 2018 Nobel Prize in Physiology or Medicine was awarded jointly to James Allison, chair of the department of immunology at MD Anderson Cancer Center in Texas, and Tasuku Honjo, a distinguished professor at the Kyoto University Institute for Advanced Study in Japan, for their discoveries that lead to a new type of cancer treatment that targets people’s immune systems. The treatment, called immunotherapy, takes the brakes off the body’s main defense mechanism, a type of white blood cell known as a T-cell. Unrestricted T-cells can attack tumor cells more effectively and eradicate cancer from the body.
+
+“Allison and Honjo showed how different strategies for inhibiting the brakes on the immune system can be used in the treatment of cancer,” the Nobel Assembly said in a statement. “The seminal discoveries by the two Laureates constitute a landmark in our fight against cancer.”
+
+What is immunotherapy?
+Immunotherapy harnesses the body’s own immune system to fight cancer cells more effectively. The most prominent type of immunotherapy — and the idea that won Allison and Honjo the Nobel Prize — are called immune checkpoint inhibitors.
+
+Here’s what you should know: T-cells are the immune system’s main fighter cells. They hunt down and destroy foreign invaders, like infections. But to prevent T-cells from going overboard and attacking the body’s own, healthy cells, several control mechanisms (also called checkpoints) are built in. Checkpoint inhibitors are drugs — based on the work of Allison and Honjo — that block the body’s control mechanisms, so that T-cells are more active and can fight cancer cells more freely.
+
+How is immunotherapy different from other types of cancer treatments?
+Typical cancer treatments, like chemotherapy or radiation, attack the tumor cells directly, whereas immunotherapies ramp up the body’s own immune system to better fight the cancer. Chemotherapy and radiation are very effective at shrinking tumors for many different types of cancer, but some forms seem to be impervious to the treatments. What’s more, chemotherapy and radiation have extremely unpleasant side effects.
+
+What was the Nobel Prize for?
+Cancer cells can use checkpoints to their advantage, and evade the immune system. A checkpoint can shut T-cells down and hamper their ability to attack, allowing the cancer to spread uninhibitedly. The two winners, Allison and Honjo, each discovered a different checkpoint on T-cells that can be targeted by cancer cells to prevent or slow down an attack.
+
+The first checkpoint identified by Allison, called CTLA-4, stops T-cells from replicating. When a T-cell identifies a tumor cell and initiates its assault, it also starts to copy itself, producing even more T-cells to overwhelm and destroy the tumor. CTLA-4 is a protein on the T-cell that prevents it from reproducing, slowing down and eventually stopping the attack. This mechanism ensures that the T-cells don’t keep dividing forever.
+
+T-cells have another protein on their surface called PD-1 — identified by Honjo — which attaches to a matching protein called PD-L1 on the surface of other cells. If a T-cell comes into contact with PD-L1, it will leave that cell alone, and many cells in the body have PD-L1 proteins to tell T-cells not to attack them. However, some cancer cells mask themselves in PD-L1 proteins, tricking the T-cells into thinking they are normal healthy cells.
+
+What types of cancers are treated with immunotherapy?
+Immune checkpoint inhibitors have been revolutionary for certain types of cancer that are largely resistant to traditional therapies. CTLA-4 inhibitors are very effective in treating advanced melanoma (the most serious type of skin cancer). PD-1 inhibitors are now used to treat many different types of cancer, including lung, kidney, and bladder cancer, as well as Hodgkin lymphoma. Not every person or every type of cancer responds to this type of immunotherapy, and researchers are now trying to figure out why that is. Oncologists have also started to combine the two types of drugs, and they appear to benefit more patients when they are delivered together.
+
+Are there any side effects to immunotherapy?
+The biggest risk accompanying immunotherapy is the development of autoimmune diseases, and many patients who receive immunotherapy experience side effects. Most of these are pretty minor, such as a rash or diarrhea. A very small percentage of patients experience a more severe response, including colitis and type I diabetes.

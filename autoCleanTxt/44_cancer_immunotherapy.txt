@@ -1,0 +1,59 @@
+Cancer Immunotherapy
+
+ How can we get the immune system to cure cancer?
+
+Antoni Ribas, MD, PhD  
+Director, Parker Institute for Cancer Immunotherapy Center at UCLA
+
+Groundbreaking Interventions
+
+Dr. Antoni Ribas develops groundbreaking immunotherapies, interventions that
+mobilize the immune system to fight cancer. By studying the cellular
+mechanisms driving—or inhibiting—an immune response to cancer, Dr. Ribas
+uncovers techniques to activate our natural defenses.
+
+Dr. Ribas’s discoveries have helped many patients fight cancer when nothing
+else worked.
+
+Giving T Cells a "Green Light" to Fight Cancer
+
+To allow T cells to fight cancer, Dr. Ribas tried blocking the programmed
+death-1 (PD-1) protein, a receptor cancer manipulates to evade immune
+response.
+
+He found that pembrolizimab—a drug developed by Merck to block PD-1—helped
+many patients fight their cancer. Read more in PD-1 Blockade Induces Responses
+by Inhibiting Adaptive Immune Resistance, published in Nature.
+
+
+
+However, PD-1 blockade did not help all patients, and Dr. Ribas wanted to know
+why.
+
+Bolstering Cancer Immunotherapies with Oncolytic Viruses
+
+Dr. Ribas combined pembrolizimab with an oncolytic virus, injected at the
+tumor site. He believed the virus—a foreign invader—would lure T cells toward
+cancer tumors and boost the efficacy of PD-1 blockade.
+
+The combined therapy increased T cells at tumor sites and stimulated a
+complete response in 33% of patients. Read more in Oncolytic Virotherapy
+Promotes Intratumoral T Cell Infiltration and Improves Anti-PD-1
+Immunotherapy, the first phase 1 clinical trial report ever published in Cell.
+
+With his sights set on optimizing cancer immunotherapy, Dr. Ribas plans to
+learn as much as he can by testing new treatments, including adoptive cell
+transfer therapy, and investigating the underlying immune system mechanisms
+that render treatments effective or ineffective.
+
+The Future of Cancer Immunotherapy
+
+Dr. Ribas wants to uncover the limits and potentials of the human immune
+system in the fight against cancer, a pursuit rooted in scientific
+understanding. When it comes to cancer, Dr. Ribas believes we can always know
+more about getting the immune system to fight back.
+
+"Our progress did not happen by chance; it happened by understanding
+science, understanding the immune system, and turning that understanding into
+treatments."  
+

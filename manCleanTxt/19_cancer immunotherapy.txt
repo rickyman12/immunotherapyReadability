@@ -1,0 +1,36 @@
+People Who Are Obese Respond Better to Some Cancer Immunotherapy Drugs
+People who are severely overweight are generally thought to be more at risk for cancer and to have lower survival rates. So why does one category of the hottest new immunotherapy drugs — checkpoint inhibitors — tend to work best in people who are obese
+
+By Shari Roan
+Medically Reviewed by Thomas Marron, MD, PhD
+
+Obesity may give some cancer patients an advantage when it comes to some drug therapies, but more research is needed.
+
+November 16, 2018
+
+In a surprising and counterintuitive finding, researchers say they have evidence that cancer patients who are obese respond better than normal-weight cancer patients to a category of immunotherapy drugs known as checkpoint inhibitors. The study, published November 12 in the journal Nature Medicine, may help doctors better predict which patients will respond to the drugs.
+
+Previous research has shown convincingly that obesity increases the risk of several types of cancer, including breast, prostate, pancreatic, liver, and endometrial cancer. Obesity also suppresses the immune system and appears to promote cancer development, recurrence, and lower survival rates.
+
+But in the new studies, researchers found that obese mice given checkpoint inhibitors to treat cancer survived significantly longer than non-obese mice. And in a study of 251 human patients with melanoma treated with checkpoint inhibitors, obese patients had better outcomes compared with non-obese patients.
+
+“What we [have] found with obese mouse, monkey, and man is that there was more immune suppression. But when we applied a checkpoint inhibitor, we saw the greater effect,” says William Murphy, MD, a coauthor of the new study and a distinguished professor at the University of California Davis School of Medicine.
+
+The finding was especially unexpected, Dr. Murphy says, because older immunotherapies, such as interleukin-2, caused serious side effects, particularly in those who were overweight. “With interleukin-2, the obese and older mice would die even though the younger mice would be okay,” he says. “The paradigm was that obesity and aging caused chronic inflammation, and giving the immune system more gasoline (immunotherapy drugs) pushes it over the edge.”
+
+Learning to Understand How Checkpoint Inhibitors Work
+The newer immunotherapies, such as the checkpoint inhibitor Keytruda (pembrolizumab), have revolutionized the cancer field in recent years, dramatically improving survival times for patients with certain types of cancer, such as melanoma and lung cancer, considered very difficult to treat effectively. But the drugs don’t work in everyone, and it’s not clear why.
+
+Some cancers, like many lung cancers and melanomas, express the protein PD-L1 on their surface, which allows cancer cells to hide from immune system fighter cells, called T cells. Checkpoint inhibitor drugs target these proteins and disable them, allowing T cells to see and attack cancer cells. They are believed to work best in people whose cancers express high levels of PD-1 proteins.
+
+But even within this group of patients, responses can be varied. It may be that the success of these medications may also depend on individual patient characteristics that govern the health of the immune system, such as age, gender, body mass index, diet, the patient’s microbiome and the timing of treatment, Murphy says.
+
+Why Might Obesity Help Checkpoint Inhibitors Work?
+Checkpoint inhibitors produce a different effect in the obese population of patients than past immunotherapy agents because they work differently, says Murphy. “With checkpoint inhibitors, you are taking your foot off the immune-system brakes, but not giving it more gas,” he says. “Checkpoint inhibitors don’t really stimulate the immune system. They allow the immune system to work.”
+
+Studies also show that leptin, the hormone that is produced by the body’s fat cells, is linked to increased expression of the PD-1 checkpoint protein on T cells in both mice and humans. That means that, in cancers that affect people who are obese, checkpoint inhibitors may have more targets.
+
+Using Checkpoint Inhibitors Strategically
+Researchers should take body mass index (a measure of obesity) into account in cancer immunotherapy studies going forward, says Murphy. Likewise, researchers who use mice as models to test immunotherapy drugs should address what happens to mice who are fed a high-fat diet to produce obesity — which is typical in many lab studies — compared with mice that are fed a typical Western diet containing more sugar.
+
+The research also has implications for improving checkpoint immunotherapy effectiveness. “When you go through cancer therapy, what kind of diet should you be eating?” says Murphy. “People often lose weight and muscle mass during cancer. Maybe we can find a way to manipulate the diet to make cancer therapy work better. For a short-term intervention, it may be worth any risk.”

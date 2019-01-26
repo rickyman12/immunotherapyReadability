@@ -1,0 +1,22 @@
+Researchers have reprogrammed skin cells to make them behave like immune cell sentinels called dendritic cells, which can recruit the immune system to fight tumors. This discovery makes a step toward better cancer immunotherapy.
+
+“We are merging two different areas of research,” Carlos-Filipe Pereira, from Lund University, Sweden, said to me. “One of them is reprogramming stem cells and the other is immunology. We can use it to make advances in immunology and cancer immunotherapy.”
+
+In a study published in Science Immunology, Pereira and his group aimed to turn skin cells called fibroblasts into immune cells called dendritic cells. Dendritic cells are useful in cancer immunotherapy because they can recruit other immune cells, such as cytotoxic T cells, to kill cancer cells. However, dendritic cells are also rare and hard to produce in large numbers, so skin fibroblasts could be an easier alternative source.
+
+The researchers used transgenic mice to search for proteins called transcription factors that could trigger the transformation. “We screened different transcription factor genes and found a combination of three that are necessary and sufficient to reprogram fibroblasts into dendritic cells,” Pereira told me.
+
+The team then modified skin fibroblasts from mice to express these three key genes, making the cells act a lot like true dendritic cells. They could engulf antigens and could even interact with T cells, like dendritic cells can.
+
+cancer immunotherapy skin fibroblast
+Skin fibroblasts
+
+Furthermore, Pereira believes that the modified cells might be easier to use in the lab than regular dendritic cells. “The modified cells may not need an inflammatory signal in order to mature and present antigens as natural dendritic cells do,” he explained.
+
+While the majority of the study was carried out in mice, the group also had proof-of-concept results in human cells, with plans for commercializing the technology. “We could use these cells for cell therapy, or even develop a gene therapy for cancer,” enthused Pereira. “You can introduce these genes directly into tumors and promote an adaptive immune response in those tumors.”
+
+As sentinels of the immune system, dendritic cells come in different forms with distinct advantages and disadvantages. Companies such as Immunicum and PDC*line Pharma, have therapies in the clinic based on modifying dendritic cells from donors to recruit T cells or other dendritic cells in cancer.
+
+Alex Karlsson-Parra, CSO of Immunicum, who was not involved in the published study, told me that there are lots of regulatory hurdles for cancer immunotherapy, especially those involving viral vectors to express genes. “The publication from Lund is a very high-tech study, but still far from the bedside,” he added.
+
+Pereira has formed a company, called Asgard Therapeutics, to explore the clinical potential of the technology. He said that a lot of work remains to advance the technology, with commercialization expected around ten years away. 
