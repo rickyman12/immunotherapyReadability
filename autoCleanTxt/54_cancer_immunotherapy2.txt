@@ -1,0 +1,147 @@
+An introduction to cancer immunotherapy
+
+Immunotherapy has shown significant potential as a more targeted approach to
+treating cancer by harnessing the body's immune system to fight tumor cells.
+There are various cancer immunotherapy approaches to boost the response of the
+immune system to cancer cells:
+
+Immune checkpoint modulators – use monoclonal antibodies against specific receptors that modulate immune response. Cancer cells over-express these receptors to escape detection and destruction by the immune system.
+Combination immunotherapy – combination of traditional therapies or combination of monoclonal antibody inhibitors with other checkpoint inhibitors or pathways, like CTLA-4 blockage plus PD-1/PD-L1 blockage for a synergistic effect.
+Adoptive T-cell therapy – consists of tuning the patient’s tumor-specific T cells to help boost the ability of their immune system to overwhelm the tumor.
+Vaccines – involves administration of neoantigens or other antigens that can be targeted by the T cells (eg targets for T cell recognition) to stimulate the patient’s immune responses against the tumor cells.
+
+  
+
+Find products to help you unlock the power of immunotherapy
+
+  
+
+Immune checkpoint modulators
+
+The human immune system protects against foreign pathogens and diseases, but
+it also plays a very important role in clearing the body’s own unhealthy and
+ailing cells. As such, the immune system is also capable of recognizing and
+eliminating cancer cells.
+
+The T cells of the immune system have a capacity to selectively recognize and
+kill pathogens or unhealthy cells by orchestrating a coordinated immune
+response including innate and adaptive responses.
+
+Many checkpoints ensure the cells of the immune system do not mistakenly
+destroy healthy cells during an immune response (autoimmune reaction). Cancer
+cells have adapted to exploit these immune checkpoints as way to evade immune
+detection and elimination.
+
+By blocking checkpoint inhibitors including PD-1, PD-L1 and CTLA-4 with
+monoclonal antibodies, the immune system can overcome the cancer’s ability to
+resist the immune responses and stimulate the body's own mechanisms to remain
+effective in its defenses against cancer.
+
+Figure 1. T cells can be inhibited by receptors expressed by tumor cells.
+Using monoclonal antibodies against immune checkpoint receptors induces T cell
+anti-tumor activity.
+
+Read more about the PD-1/ PD-L1 pathway
+
+  
+
+Combination immunotherapy
+
+The efficiency of the immune checkpoint blockade with monoclonal antibodies in
+cancer treatment is remarkable and has durable effects; however, it is limited
+to a subset of patients. To enhance and broaden the anti-tumor activity of
+immune checkpoint inhibition the next step is combining agents with
+synergistic mechanisms of action. Examples are the success of the combination
+of PD-1/PD-L1 inhibition blockage with complementary checkpoint inhibitor
+CTLA-4 1.
+
+Another example is IDO (indoleamine-pyrrole 2,3-dioxygenase), this enzyme is
+constitutively expressed in the tumor microenvironment either by tumor cells
+or host immune cells and is stimulated by inflammatory cytokines as IFN-γ,
+leading to host immune inhibition through increased Treg and effector T cell
+proliferation blockage. Combination of IDO inhibition and immune checkpoint
+blockage are currently under clinical investigation, with promising initial
+results1.
+
+Novel treatments like agonistic co-stimulatory antibodies costimulatory
+molecules such as CD137 (4-1BB), CD134 (OX40), glucocorticoid-induced TNFR
+(GITR; CD357), and CD40 are expressed by activated T cells, activated natural
+killer (NK) cells, natural killer T (NKT) cells, Tregs, and other immune cells
+are emerging new therapeutics1.
+
+See effector T cell poster
+
+  
+
+Adoptive T cell therapy
+
+Adoptive T cell therapy involves isolation of tumor-specific T cells from
+patients and their expansion ex vivo. This method enables greater a number of
+tumor-specific T cells to be generated than vaccination alone. The tumor-
+specific T cells are then infused into patients in an attempt to give their
+immune system the ability to overwhelm remaining tumor cells.  There are many
+forms of adoptive T cell therapy used for cancer treatment:
+
+Culturing tumor-infiltrating lymphocytes (TILs)
+Isolating and expanding a type of T cell or clone
+Using T cells engineered to recognize and attack tumors
+
+T cells are engineered to express chimeric antigen receptors (CARs) that
+recognize cancer-specific antigens. Researchers can prime the cells to
+recognize and kill tumor cells that would otherwise escape immune detection2
+The process of generating CAR-T cells involves extracting a patient’s T cells,
+transfecting them with a gene for a chimeric antigen receptor (CAR), then
+reinfusing the transfected cells into the patient. The infusion of T cells is
+generally well tolerated. Any adverse events from T-cell infusion are
+infrequent and mild3 .
+
+CAR-T cells and T cells with engineered tumor-specific TCRs show anti-tumor
+activity in some solid tumors and hematological malignances1.
+
+  
+
+Vaccines
+
+There have been recent advances in the development of peptide vaccines for
+cancer therapy. Malignant cells express antigens that can be harnessed to
+elicit anti-cancer immune responses. These antigens are able to stimulate the
+patient’s specific T-cell responses against the tumor cells. This strategy can
+be particularly important and efficient for low mutational burden tumors,
+where anti-PD1 monotherapy efficiency is limited by low levels of T cell
+clones primed for tumor antigens1.
+
+Cancer vaccines consists of administration of tumor-associated antigens – for
+example melanoma-associated antigen-A3 (MAGE-A3) – in the form of either
+peptides or recombinant proteins in the presence of adequate adjuvants. The
+antigen-presenting cells interact with the tumor-associated antigens to
+initiate T-cell driven immune response against cancer cells that expresses the
+antigen.
+
+Targeting biologically relevant antigens via vaccination in animal models has
+resulted in both tumor inhibition and modulation of the biology of the tumor
+to make cancer more amenable to standard treatments 1.
+
+Anti-cancer vaccines are often employed as therapeutic (rather than
+prophylactic) agents. Current efforts are focused on identifying relevant
+tumor rejection antigens, ie tumor-associated antigens that can elicit an
+immune response leading to disease eradication.
+
+  
+
+Read next PD-1/PDL-1 pathway overview
+
+​
+
+References  
+
+1\. Ott, P. et al. (2017). Combination immunotherapy: a road map. Journal for
+ImmunoTherapy of Cancer (2017) 5:16  
+
+2\. Grupp, S., Kalos, M., Barrett, D., Aplenc, R., Porter, D., Rheingold, S.,
+Teachey, D., Chew, A., Hauck, B., Wright, J., Milone, M., Levine, B. and June,
+C. (2013). Chimeric Antigen Receptor-Modified T Cells for Acute Lymphoid
+Leukemia. New England Journal of Medicine, 368(16), pp.1509-1518.  
+
+3\. Tey, S. (2014). Adoptive T-cell therapy: adverse events and safety
+switches. Clin Trans Immunol, 3(6), p.e17.  
+

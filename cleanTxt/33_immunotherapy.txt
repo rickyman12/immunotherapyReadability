@@ -1,0 +1,122 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR564');
+Ektron.PBSettings = { 'dontClose': false }
+Ektron.ready(function(event, eventName){
+$ektron(".ux-app-siteApppageBuilder-setSizeTemplate .ui-dialog-buttonpane a").button();
+$ektron(".ux-app-siteApppageBuilder-setSizeTemplate .framework").accordion({
+heightStyle: "content",
+activate: function(event, ui){
+$ektron(ui).closest(".ui-accordion").accordion("refresh");
+}
+});
+$ektron(".ux-app-siteApppageBuilder-setSizeTemplate").draggable({ handle: "div.ui-dialog-titlebar ", containment: $ektron("body") });
+});
+document.onkeydown = checkKeycode
+function checkKeycode(e) {
+var keycode;
+if (window.event) keycode = window.event.keyCode;
+else if (e) keycode = e.which;
+if (keycode == 13) {
+document.getElementById("btnSearchSite").click(); return false;
+}
+}
+function checkclear(what) {
+if (!what._haschanged) {
+what.value = ''
+};
+what._haschanged = true;
+}
+Menu
+Contact Us
+Search
+GO
+Why Choose UsInnovative ApproachesConditionsCenters & ProgramsFor FamiliesFor Physicians
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+NewsFind a DoctorContact UsClinical TrialsDirections and Parking
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+NewsFind a DoctorContact UsClinical TrialsDirections and Parking
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Why Choose UsExpertiseSurvivorshipGlobal HealthLeadershipHistory and MilestonesOur NumbersInnovative ApproachesClinical Trials for Relapsed Cancer (ACCT Clinic)Gene TherapyImmunotherapyMIBG TherapyPediatric Cancer Genetic Risk ProgramPrecision MedicineConditionsBlood DisordersBrain TumorsLeukemia & LymphomaSolid TumorsOther Conditions We TreatCenters & ProgramsBlood Disorders CenterBrain Tumor CenterHematologic Malignancy CenterSolid Tumor CenterStem Cell Transplant CenterFor FamiliesBecome a PatientFinancial InformationOur FacilitiesPatient & Family Advisory CouncilPatient & Family Support ServicesEducation ResourcesFive Things Parents Should KnowChildhood Cancer Awareness MonthFor PhysiciansReferrals & Second OpinionsClinical Trials & ResearchResearch LabsFellowship OverviewAffiliations and ConsortiaContinuing Medical EducationNewsletter Sign Up
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Home >
+Innovative Approaches
+> Immunotherapy
+Share
+var addthis_config = { "data_track_addressbar": false };
+PrintPrint
+Innovative ApproachesClinical Trials for Relapsed Cancer (ACCT Clinic)Gene TherapyImmunotherapyMIBG TherapyPediatric Cancer Genetic Risk ProgramPrecision Medicine
+Immunotherapy for Children
+What is immunotherapy?
+Immunotherapy is the treatment of disease by inducing,
+enhancing or suppressing an immune response. Cancer immunotherapy attempts to
+stimulate the immune system to reject or destroy tumors. The efficacy of immunotherapy
+is enhanced by nearly 30 percent when combined with conventional cancer
+treatments.
+What are the different types of cancer immunotherapy?
+There are a wide variety of immunotherapies that work in different ways to either boost the body’s immune system or train the immune system to attack cancer cells, including:
+Monoclonal antibodies — man-made versions of immune system proteins that can be designed to specifically target certain antigens (substances that cause an immune response) such as ones found on cancer cells; often used to treat non-Hodgkin lymphoma and certain types of leukemia.
+Cancer vaccines (vaccine therapy) — substances put into the body that boost its native ability to protect itself against “foreign invaders,” including cancer. The substances may be antigens from cancer cells, genetic material that can produce a tumor antigen (DNA vaccine), or tumor cells engineered to start an immune response. Broadly speaking, there are two kinds of cancer vaccine therapies: preventive vaccines and treatment vaccines. Preventive vaccines stop cancer from developing in healthy people much the same as the flu vaccine thwarts influenza. Treatment vaccines delay or stop the cell growth that is a hallmark of cancer.
+Cellular therapies — treatments
+where a patient's white blood cells are stimulated outside the body to see
+and eliminate cancer cells and then returned to the patient. Examples
+include treatments where white blood cells from the patient are mixed with
+proteins from tumors or are modified through gene
+therapy to enhance their ability to find tumor cells.
+Interleukins — molecules that act as chemical signals to help immune system cells grow and divide more quickly. Interleukins are often used to treat kidney
+cancer or metastatic melanoma.
+Interferons – molecules that boost the ability of certain immune cells to attack and slow the growth of cancer cells. Interferons are often used to treat certain forms of leukemia and lymphoma.
+Granulocyte-macrophage colony-stimulating factor (GM-CSF) — a molecule that causes bone marrow to make more of certain types of immune and blood cells. GM-CSF isoften used to boost white blood cell count after chemotherapy.
+Cancer Immunotherapy at Dana-Farber/Boston Children's
+CAR T-Cell Therapy for Relapsed Acute Lymphoblastic Leukemia (ALL)
+Dana-Farber/Boston Children's Cancer and Blood Disorders Center is a certified treatment center for providing the recently-FDA-approved CAR T-cell therapy called KYMRIAH for relapsed B-cell acute lymphoblastic leukemia (ALL). This promising new treatment entails genetic engineering of the patient’s own T-cells to increase targeting of a specific leukemia protein and then accelerate killing of the target. After modification, they are returned to the patient via IV where they can immediately begin destroying circulating cancer cells.
+Immunotherapy Clinical Trials
+Dana-Farber/Boston Children's is a leader in innovative therapies, such as immunotherapy, for a wide range of conditions. Our physicians work continuously to translate laboratory findings into clinical therapies, including examining biological therapies that help the body’s immune system fight cancer and lessen the harmful side effects
+of some treatments. We are conducting clinical trials of monoclonal antibody therapy for recurrent or refractory high-risk neuroblastoma and for other advanced or refractory solid
+tumors.
+Vaccine Therapy Clinical Trials
+Dana-Farber/Boston Children's is also at the forefront of pediatric cancer vaccine therapy. We participate in numerous clinical trials and have access to a vigorous
+program of scientific discovery, preclinical vaccine development and clinical
+investigation.
+One of our vaccine therapy clinical trials targets neuroblastoma, a cancerous tumor that forms in nerve tissue of infants and young children. Through a collaboration with Penn State Hershey Medical Center, our physician/scientists have discovered in preclinical models that vaccine therapy can be successful in treating neuroblastoma and sarcoma. A phase I trial is currently underway to determine the vaccine’s safety and effectiveness in treating children with neuroblastoma and sarcomas.
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Innovative ApproachesClinical Trials for Relapsed Cancer (ACCT Clinic)Gene TherapyImmunotherapyMIBG TherapyPediatric Cancer Genetic Risk ProgramPrecision Medicine
+Contact UsOur specialized new patient coordinators can answer your questions about treatment options and becoming a patient.Contact Us
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Find Clinical TrialsWe sponsor and collaborate on clinical trials that break new ground in pediatric cancer and blood disorder treatment. Search Pediatric Cancer and Blood Disorder Clinical Trials
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Why Choose Us?
+Not only are we a top cancer and blood disease center, we're also a top pediatric hospital. Above, our physicians explain how our vast clinical resources benefit patients.
+More Reasons to Choose Us
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Why Choose UsExpertiseAdvanced CareInnovationSurvivorshipFor FamiliesBecome a PatientInternational PatientsOur FacilitiesFinancial InformationPatient & Family Support ServicesFor PhysiciansReferrals & Second OpinionsFellowship OverviewNewsletter Sign UpA Recognized Leader
+Ektron.ready(function(event, eventName){
+document.cookie ='ek_TimezoneOffset=' + new Date().getTimezoneOffset();
+});
+Home
+Find a Dr
+Contact
+Directions
+Dana-Farber Cancer Institute
+Boston Children's Hospital
+Privacy
+Sitemap
+© document.write((new Date).getFullYear()); Dana-Farber/Boston Children's

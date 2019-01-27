@@ -1,0 +1,733 @@
+Meet Jim Allison, the Carousing Texan Who Just Won a Nobel Prize for His
+Cancer Immunotherapy Breakthrough
+
+Chance favors the prepared mind. —Louis Pasteur
+
+James Allison looks like a cross between Jerry Garcia and Ben Franklin, and
+he’s a bit of both, an iconoclastic scientist and musician known for good
+times and great achievements. He also doesn’t always answer his phone,
+especially when the call arrives at 5 am, from an unfamiliar number.
+
+So when the Nobel Prize committee tried to reach Allison a few weeks ago to
+inform him he’d been awarded the 2018 Nobel Prize in medicine, Allison ignored
+the call. Finally, at 5:30 am, Allison’s son dialed in on a familiar number to
+deliver the news. The calls have not stopped since.
+
+Allison’s breakthrough was the discovery of a sort of secret handshake that
+cancer uses to evade the immune system, and a means to block that
+handshake—what the Nobel committee hailed as “a landmark in our fight against
+cancer,” which has “revolutionized cancer treatment, fundamentally changing
+the way we view how cancer can be managed.” (Allison’s co-recipient was Tasuku
+Honjo of Kyoto University.) Advances in cancer typically come in 50-year
+increments; the science that Allison and Honjo helped advance, cancer
+immunotherapy, has made a generational leap seemingly overnight.
+
+Adapted from The Breakthrough: Immunotherapy and the Race to Cure Cancer by
+Charles Graeber.
+
+Twelve Publishing
+
+Until very recently we’ve had three main methods for treating cancer. We’ve
+had surgery for at least 3,000 years. We added radiation therapy in 1896. Then
+in 1946, chemical warfare research led to the use of a mustard gas derivative
+to kill cancer cells. Those poisons were the foundation for chemotherapy.
+
+These “cut, burn, and poison” techniques are currently estimated to be able to
+cure cancer in about half of the people who develop the disease. And that’s
+remarkable, a true medical accomplishment. But that leaves the other half of
+cancer patients. Last year, in the United States alone, that translated to
+nearly 600,000 people who died of the disease.
+
+The fight was never fair. We’ve been pitting simple drugs against creative,
+mutating versions of our own cells, trying to kill the bad ones while sparing
+the good ones, and making ourselves sick in the process. And we’ve been doing
+that for a very long time.
+
+But now we have added a new and very different approach—one that doesn’t act
+directly on cancer, but rather acts on the immune system. And that’s the
+breakthrough.
+
+The immune system has evolved over 500 million years into a personalized and
+highly effective natural defense against disease. It is a complex biology with
+a seemingly simple mission: to find and destroy anything that’s not supposed
+to be in our bodies.
+
+Hundreds of millions of immune cells circulate throughout the body, searching
+out and destroying invaders that make us sick and body cells that have become
+infected, have mutated, or have become defective—cells like cancer.
+
+Which raises the question: Why doesn’t the immune system fight cancer already,
+the way it fights even the common cold?
+
+For more than 100 years, medical researchers puzzled over that question. Most
+concluded that the immune system and cancer simply had nothing to say to each
+other. The argument was that since cancer is a normal body cell gone rogue, it
+is too much a part of us to ever trigger an immune response. Cancer
+immunotherapy was condemned as a quaint if simplistic idea based on high hopes
+and bad science. But despite the mounting mockery of the larger scientific
+community and dwindling research funds, a handful of immunotherapy researchers
+continued to believe—and continued searching, decade after decade, for the
+missing piece of the cancer immunity puzzle, a factor that prevented the
+immune system from recognizing and attacking cancer cells.
+
+The stakes could not have been higher. If such a missing piece could be found,
+it would radically reshape our scientific understanding of both ourselves and
+disease and possibly revolutionize medicine on a scale not seen since the
+invention of vaccines. It might allow us to finally unleash our immune system,
+enabling it to recognize and attack cancer the way it does other diseases. It
+might even pave a new road to the cure. For the tens of millions more
+diagnosed with cancer each year, the race to find the missing piece of the
+cancer-immunity puzzle was literally a matter of life and death.
+
+But despite the occasional glimmer in the darkness, generations of researchers
+had tried and failed to find this missing factor. Nobody could even say for
+certain that such a such a piece existed. And certainly nobody would have
+guessed that it would be discovered by a hard-living, harmonica-playing Texan
+who hadn’t even been looking for it.
+
+The stretch between 1965 and 1973 were peak years if you were young and
+musical in Austin, when the little university town was just beginning its
+metamorphosis into the tech and freak capital of a cowboy state—Texas enough
+to two-step, hippie enough to do it stoned, and smart enough to work the newly
+relocated tech mills of Texas Instruments, Motorola, and IBM. Jim Allison fit
+right in.
+
+Allison initially thought he would go to medical school but soon realized he
+was more interested in research and set out to earn a PhD in biochemistry.
+
+Courtesy of Jim Allison
+
+He had outgrown his hometown of Alice, Texas, when the local high school
+failed to offer an advanced biology class that dared mention Charles Darwin.
+He turned to correspondence courses from the University of Texas at Austin.
+and after graduation he enrolled full-time, a 17-year-old bound to be a
+country doctor like his dad. Back then, the 2018 Nobel Prize in medicine
+wasn’t even a twinkle in the young Texan’s eye.
+
+If you sold beer in Austin and had a surface flat enough to put a bar stool
+on, you were a music club, and Jim Allison played the blues harp well enough
+that he was in demand. He could sit in at the honky-tonks in town or play for
+Lone Stars in Luckenbach, where the new breed of outlaw country players like
+Willie Nelson and Waylon Jennings roamed the earth. Either way it was a lot of
+fun; premed, meanwhile, wasn’t proving to be that interesting. Allison wasn’t
+drawn to memorizing what others had found out. He wanted to arm himself with
+skills to do the finding himself, so in 1965 he switched tracks and traded
+memorization for a laboratory, working with enzymes toward a biochemistry PhD.
+
+Enzymes are natural organic chemicals that make stuff happen. The enzymes
+Allison was studying happened to break down a chemical that fueled a type of
+mouse leukemia; inject a mouse with this specific enzyme and the enzyme
+destroyed the cancer fuel. His goal was to figure out the biochemistry of how
+those enzymes did their job.
+
+In the experiment, once the enzyme eventually robbed the tumor of all its
+fuel, the tumor went necrotic and “disappeared.” Allison wanted to know where
+it went. Allison says. His curiosity led him to his first glimpse of a biology
+he would eventually redefine, and the first tenuous steps toward a
+generational breakthrough in the war against cancer.
+
+Allison knew the disease intimately. He’d been just a kid when he lost his mom
+to it, had held her hand as she went, not even knowing what the disease was or
+why she had burns, only knowing she was gone. He’d lose most of his family
+that way eventually, and though he’d never say it out loud, and wouldn’t even
+much voice it to himself, in the back of his mind killing cancer would always
+be the one potential, practical outcome of his otherwise pure scientific
+research. Allison would follow his curiosity like a north star, wandering for
+decades, but heading home all the while.
+
+The dead tumors in his mouse cages hadn’t just disappeared by magic, of
+course—it was biology. The human body sheds old, dead cells (a mass roughly
+equal to our body weight each year) the way trees shed leaves, and for
+essentially the same reason. The process (called “apoptosis,” from the Greek
+for “to fall away”) allows fresh daughter cells to take their place. The
+spring cleaning is carried out by hungry, blobby Pac-Man cells in our
+blood—part of a 500 million-year-old personal defense force that Allison’s
+textbooks called the innate immune system.
+
+Today, aspects of our immune system still remain a mystery, but when Allison
+began his studies it hadn’t really even been explored, a sort of deep-ocean
+ecosystem in the human body. “New” aspects of the immune system, like the
+hunter-killer T-cells, were barely on the radar yet (Allison’ s college
+professor thought they were “too weird” evolutionarily to really exist). But
+some of the older aspects of the defenses in our bloodstream had been worked
+out, especially those of the innate immune system, which works much the same
+in sea sponges as it does in humans.
+
+The ancient players of the innate immune system are charismatic and
+deceptively straightforward. They also happen to be big enough to be seen
+wiggling and eating under the microscope. That includes amoeba-like cells
+adept at squeezing between body cells and patrolling our perimeter (inside and
+out, we have a surface larger than a doubles tennis court), looking for what
+shouldn’t be there and killing it.
+
+Some of the innate immune cells are small, blobby smart patrollers called
+dendritic cells. Others are similar-looking but larger blobby characters
+called macrophages (literally, “big eaters”). Most of what they eat are those
+retired body cells—normal cells that have hit their expiration date and
+politely self-destructed, through apoptosis. They also eat bad guys.
+
+Macrophages have an innate ability to recognize simple invaders. Most are the
+usual suspects of disease—the bacteria, fungi, parasites, and viruses that
+evolved right alongside us for millennia. These foreign, or “non-self,” cells
+are recognizable as foreign because they look different—that is, the
+fingerprint of chemical arrangements of proteins on their surfaces is
+different. Macrophages look for anything they recognize as foreign, then grab
+and gobble it.
+
+From his reading in the library, Allison knew that researchers had found these
+blobby amoeba-like cells to be more than just garbagemen; they were also
+frontline reporters bringing back updates from the constant battle against
+disease. When they found something interesting and foreign, they carried
+pieces of those strange, non-self proteins (or “antigens”) back to the lymph
+nodes, to show them around like wanted posters. (Lymph nodes are like Rick’s
+in Casablanca. Good guys, bad guys, reporters and soldiers, macrophages,
+dendritic cells, T and B cells, and even diseased cells, everyone goes to
+Rick’s.) The information triggered other cells in the adaptive immune system
+to ramp up into a massive clone army in specific response.
+
+Allison knew that was basically how vaccines worked—by presenting the body
+with dead samples of a disease that it might encounter later. This
+introduction triggers the immune system to build up forces against anything
+that looks like that sample. Then later, if the live disease does show up, an
+immune army will be waiting for it.
+
+Now, Allison wondered if something like that was happening in his mouse cages,
+too
+
+He’d killed the tumor. The mouse macrophages were gobbling up the mutant cells
+and clearing them out. In the process, they were surely carrying back those
+distinctive mutant proteins and showing them to the killer cells of the
+adaptive immune system. And wasn’t that sorta how a vaccine worked?
+
+So, Allison wondered, did that mean his experiment had, in a roundabout way,
+vaccinated his mice against this specific form of blood cancer? Were they now
+“immune” to this cancer?
+
+“Just for the hell of it, I was setting up another experiment, and I decided
+that since I had these mice that were cured—who were just sitting there,
+eating—I would inject them with the tumor again, but not treat them with the
+enzyme this time, and see what happened,” Allison remembers. He hadn’t asked
+permission, he didn’t write a protocol, nothing. He simply shot from the hip.
+And what happened was ... nothing.
+
+“They didn’t get tumors,” Allison says. “I went back and injected them with 10
+times as much, and they still didn’t get tumors. I injected them with another
+five times more, and they still didn’t get tumors! Something was happening
+here,” Allison says. “Something amazing!”
+
+“It was great,” Allison says of his time as a researcher at MD Anderson Cancer
+Center outside of Houston. “The camaraderie—nobody expected any payback for
+anything. They did it because it's what you did, you know? It was heaven.”
+
+The University of Texas MD Anderson Cancer Center/Courtesy of Jim Allison
+
+As a casual one-off, the experiment hadn’t really proved anything. (“People
+talked about doing it in humans, you know, just taking your own tumor and
+mashing it up somehow and injecting it back, but it doesn’t really work that
+easily.”) But it had provided Allison his first glimpse of the mystery and
+potential of the immune system and its most recently discovered component, the
+T cell. His professor was only half wrong—they did exist, but they were, in
+fact, weird. Good weird, Allison thought. They were killers, some of them, but
+there were other types that “helped” complex immune responses, making it
+possible to somehow be prepared to recognize and kill diseases that the human
+body had never encountered before. And, really, there was no telling how much
+we didn’t yet know.
+
+Simply put, this was the most interesting thing Jim Allison had ever come
+across. So he decided to switch tracks, again, and study that.
+
+By 1973, after eight years spent getting his BA, MS, and PhD in Austin,
+Allison wanted to stretch his legs and find somewhere new and “first-rate” for
+his immunology research, and that took him 1,300 miles west into California
+and a postdoc program at the prestigious Scripps Institute. He was married
+now, doing lab work by day and playing harmonica with a country-western band a
+couple nights a week. “Our band got pretty famous in what was called the North
+County,” Allison says. “People think it’s all like LA or something, but that
+part of California’s pretty redneck.”
+
+Fights were brief but frequent. “Usually, it'd start because one cowboy that's
+doing a two-step would swing too widely and bump into a guy, and the guy would
+say, ‘Don't do that again.’ But, that's just the way the guy danced, you know?
+He danced big. So it happened again. Pretty soon there’s beer and fists
+everywhere.”
+
+Allison was the only one in the band with a day job, but playing with full-
+time musicians put him quickly into the local music scene. Plus, Allison was
+the guy with the VW microbus. “So we’d go to these parties. There was one up
+the road in Del Mar—we walk in, I don’t know anyone. It was a pretty
+magnificent party by the way,” Allison says, “with Waylon Jennings and Tammy
+Wynette doing a few songs each, then Willie Nelson—turns out it was a
+celebration of his Red-Headed Stranger album.” The two Texans got to talking
+and partying, and next thing Allison’s got Willie and some of his band in the
+back of the microbus, on the way to open-mic night at the Stingray.
+
+“Man, they sold a lot of beer that night,” Allison says. Willie had taken the
+mic, asking, “You all mind if I stand in and play a few?” then played for four
+hours. “I never had to pay for another one in that bar again,” Allison says.
+Afterward he took the band back to the hotel. “Yeah, that was good,” Allison
+says. “And somehow we managed to avoid getting arrested.”
+
+Meanwhile, Scripps wasn’t really working out the way he’d imagined. “I was
+purifying proteins and sequencing them and all this stuff, working on the key
+molecules of the immune system,” he says, “but it really wasn't immunology.”
+Allison was interested in systems. “But we were discouraged from what the
+older guys called, you know, ‘model building.’ Like, ‘Don't build models, just
+do your work. Don't think.’ Yeah. It was very frustrating. I figured, if this
+is what science is, I don’t like it.” The cutting edge of cancer therapy might
+look very different had Allison quit the field right there. Instead, he went
+home and got lucky.
+
+Back in Texas, the MD Anderson Cancer Center was opening a new outpost lab
+near the town of Smithville. “Yeah, it was pretty weird.” Allison says. “Some
+economic stimulus thing from the governor, on donated land and with state
+money. And it was in the middle of an 18-acre state park. They’d just set up
+some lab buildings and hired six faculty members to go out there.”
+
+The idea was to fund a team to study carcinogenesis—how cancer starts. But in
+reality, Allison soon discovered, they pretty much had free reign.
+
+“Yeah, that was the weird thing at the time, because after they started this
+thing, the MD Anderson president changed. The new guy came in and said, "What
+do you do? What the hell is that?" You know? So they kind of just forgot about
+us and pretty much left us alone.”
+
+This was Allison’s kind of place. His colleagues were bright, enthusiastic
+scientists his own age—the oldest were in their thirties—who worked late,
+helped each other with their experiments, kept beer in the lab for ones that
+ran overnight, and pooled intellectual resources without ego or credit getting
+in the way. “It was great,” Allison says. “The camaraderie—nobody expected any
+payback for anything. They did it because it's what you did, you know? It was
+heaven.”
+
+The setup was sweetened by a total lack of teaching or administrative
+responsibilities, a Norton Commando 850 motorcycle, and enough NIH and NCI
+grant money to pursue what Allison was really interested in—the T cell.
+
+“It was a fantastic time in science because immunology had just been this
+poorly understood field,” he says. “I mean, everybody knew we had an immune
+system, because there were vaccines. But nobody knew much about the details of
+anything.”
+
+One of the things nobody knew was how a T cell recognized a sick cell in the
+first place. By now it was understood that T cells killed off normal body
+cells that had become sick or infected. But exactly how a T cell “saw” that
+sick body cell, how it recognized the distinctively foreign sick cell proteins
+(or “antigens”) on the cell’s surface, was still a stone-cold mystery. Allison
+read every academic paper he could find on the topic, then read the papers
+cited in them.
+
+There were plenty of theories about how a T cell recognized antigens. Most
+assumed that each T cell had a unique type of receptor (a specific arrangement
+of proteins extending from the cell surface) that recognized a specific
+antigen expressed by a sick cell, homing in and fitting something like a key
+into a lock.
+
+That was a reasonable theory, but nobody had actually found one of the
+receptors. If they existed, there should be a lot of them, scattered among all
+the yet-uncounted proteins that stuck out from the T-cell surface (there are
+so many that new ones are given numbers, like newly identified stars). Those
+“receptor” proteins would be molecules built in some sort of double-chain-like
+configuration. Several labs were convinced that it would look just like it did
+on another denizen of the adaptive immune system that “sees” antigens, the B
+cells.
+
+Which, Allison thought, was stupid.
+
+“People from Harvard and Johns Hopkins and Yale and from Stanford were already
+claiming they had a molecule that was the T cell receptor,” Allison says.
+“Most of them, because B cells make antibodies, figured that in T cells the
+receptor had to be an antibody-like thing, too.”
+
+Whatever it looked like, if you could find it, in theory you could manipulate
+it. Control the T-cell receptor and you might control what the immune system’s
+killing machine targeted. The result could have massive implications for
+humanity, and a massive name—and maybe even a Nobel Prize—for whoever found
+it.
+
+B cells and T cells are both part of the adaptive immune system. They look so
+similar that they cannot be distinguished under an optical microscope—part of
+the reason they’d gone undiscovered for so long. But B and T cells would turn
+out to be distinct types of immune cells, which see and attack foreign or non-
+self cells in very distinct ways.
+
+Allison didn’t believe that T cells were just a cell-killing version of B
+cells, a sort of killer-B. He believed that if T cells existed (they did) and
+were different from B cells (they were), then those differences were the
+point. The T cell wasn’t just more of the same—it was a unique cell type that
+did a unique job, and accomplished it in a unique way, through a unique
+biology.
+
+The race to clone the T-cell receptor protein gene was intense. "I mean,
+everybody realized there was a Nobel Prize at the end of it," Allison says.
+"Everybody was scrambling, man.”
+
+Scott Dalton
+
+“We didn't have a library to speak of in Smithville,” Allison remembers, but
+he had access to an excellent library down the road, thanks to having finagled
+an adjunct appointment with the main MD Anderson campus in Houston and a newly
+restored ’54 Mercedes for the back-and-forth. “I'd go and Xerox big stacks of
+shit and then read it,” he says. He was looking to better understand the T
+cell receptor. But what Allison was reading in the academic journals didn’t
+really make sense to him.
+
+“Yeah, when that happens, the fact that it doesn't make sense is either their
+fault or your fault,” Allison laughs. Naturally, his first assumption was that
+it was his fault. “I'd think, ‘I'm an idiot. I can't understand this.’”
+Allison says. “Then, I thought, ‘No, they're idiots. They don't understand
+what they're talking about!’” Then he’d drive back out to the library and copy
+another stack.
+
+All the reading and wondering came together one night while Allison was in
+Houston sitting in on a lecture by a visiting Ivy League immune researcher.
+Something just clicked. “I said, 'I think I know a shortcut to finding the
+T-Cell receptor.'"
+
+Suddenly it seemed so obvious: If Allision could rig up a way to compare B
+cells and T cells, devise a lab experiment that put one against the other and
+let their redundant surface proteins cancel each other out, the receptor
+should be the molecule that didn’t cancel out. Essentially, he was looking for
+a needle in a haystack, and his idea was to set fire to the haystack and sift
+the ashes—or as Allison puts it, “pick it out of the weeds.” Whatever was left
+would be the needle he was looking for.
+
+He gunned the Merc back to the Smithville lab and got to work. The idea was
+relatively simple, but the steps were numerous, and Allison had to make all
+the assays himself, which was tedious work. “The assays were so crude,”
+Allison says. “The end point involved holding a piece of film up and trying to
+guess which circle was bigger out of 100, you know? Then doing that with maybe
+1,000 different films. People laughed at us. I’m really surprised that it
+worked.”
+
+And yet, it did work. “It was a success, the very first time,” he says. “So
+now I’ve got a thing that’s on T cells but not on B cells, not on any other
+cells— so, that’s gotta be the T-cell receptor!”
+
+He showed that the receptor was a two-chain structure—an alpha and a beta
+chain, and he wrote it up in a paper.
+
+Allison was hoping to be published by one of the leading peer-reviewed
+research journals. But nobody at Cell or Nature or any of the A-list, peer-
+reviewed journals was willing to publish the findings of this junior academic
+from Smithville, Texas. “Finally, I ended up publishing the results in a new
+journal called The Journal of Immunology.” It wasn’t Science or the New
+England Journal of Medicine, but it was in print, and in the world.
+
+“At the end of the paper, I said, ‘This might be the cell antigen receptor,
+and here are the reasons why I think that it is the T-cell antigen receptor,’
+and I just listed it out, all the reasons.” It was a bold announcement
+regarding the biggest topic in immunology. “And nobody noticed it,” Allison
+says. “Except in one lab.”
+
+That lab was headed by eminent biologist Philippa “Pippa” Marrack at UC San
+Diego. Her lab (shared with her husband, John Kappler) hadn’t identified the
+T-cell receptor yet, but they had a scientific technique that could verify if
+Allison’s results were correct. Marrack reproduced Allison’s experiment and
+got an exact hit on the protein Allison had identified—and only on that
+protein. It was a shock, especially coming out of a lab Marrack had never
+heard of. Allison says she called and told him she was organizing a Gordon
+Conference—elite, closed-door gatherings something like the Davos of science.
+She invited him to present at the meeting; Allison had a sense he was being
+invited into the big leagues.
+
+The Gordon meeting helped put the brash young scientist on the academic map
+and won him an appointment as a visiting professor at Stanford University. It
+also gave him license to pursue the next intellectual milestone. Now that the
+T-cell antigen receptor had been identified and its two-chain molecular
+structure had been described, the race was on for the greater prize: the
+blueprints for those proteins, as encoded in genes in the T-cell DNA.
+
+“At that point, people had just figured out how you could work with DNA and
+clone genes, so now, everybody was trying to clone this T-cell receptor
+protein gene,” Allison says. “It had been the holy grail of immunology for 20,
+25 years, and nobody had solved it. There was this huge, ugly race for about
+three or four years. I mean, everybody realized there was a Nobel Prize at the
+end of it. Everybody was scrambling, man.” The experience provided a valuable
+lesson to the young immunologist. “I mean, it got ugly. Ugly. But I met some
+really good people there too, some fine people,” Allison says. “So I sorta
+learned who was who.”
+
+“Anyway, we cloned a lot of stuff,” Allison says. “But none of it was right.”
+Other teams wound up decoding the T-cell receptor genes. “Yeah. Anyway, we
+failed. A guy named Mark Davis at Stanford actually cloned the beta chain
+gene. Then, later on, his lab and his wife cloned the alpha chain gene. In the
+meantime, though, I was in Irv Weissman's lab and I got a call one day to give
+a seminar at Berkeley. Berkeley, you know; it was like, ‘Wow.’
+
+“It was kind of controversial because I hadn’t been at the big labs,” Allison
+says. “I hadn’t been at Harvard. I lacked the pedigree of most faculty at
+places like Berkeley.” Which was why it blew his mind two weeks later when
+Berkeley offered him a full-time job, covered by a healthy grant from the
+Howard Hughes Medical Institute. Allison would have a lab and postdoc
+salaries, and he could research whatever he wanted. He didn’t need to teach,
+and the money might last forever with no strings. His only obligation was to
+occasionally give a presentation on his progress.
+
+“Then when you came up for review, it was pretty bad,” Allison says. “They
+would have 50 of the top scientists in the world in the room. You would give a
+25-minute talk, and it was 25 exactly. When minute 25 came, it was ‘Stop.
+Questions?’ It was really frightening. Literally, sometimes the night before
+I’d just be in the bathroom throwing up.”
+
+Much had been discovered about T cells in the decade since their discovery.
+Now it was widely accepted that there were different kinds of T cells, with
+different specialties for coordinating an immune response against disease.
+Some “helped” immune response by sending out chemical instructions, via
+cytokines, like a quarterback calling plays. Others, the killer T cells,
+killed infected cells one-on-one—usually by chemically instructing those cells
+to commit suicide.
+
+These processes, and more, were set in motion only when a T cell was
+“activated.” Activation is the beginning of the adaptive immune response to
+disease; until then, the T cells are just floating around and waiting. So what
+activated T cells? What made them start mobilizing against disease?
+
+“We thought that the T-cell antigen receptor was the ignition switch,” Allison
+says. That was the natural assumption.
+
+It was only after they’d identified the T-cell receptor that they realized,
+nope, that wasn’t quite right either. They could get the T-cell receptor to
+“see” the foreign antigen of a sick cell; they clicked together like lock and
+key. They could make that fit. But it wasn’t enough to turn on a T cell. It
+wasn’t the “go” signal that ignited the immune response.
+
+After all the work that had gone into decoding the T-cell receptor, this might
+have been a frustrating development; instead, it only deepened the mystery.
+“When I learned that, I said, ‘Oh, wow, this is cool. T cells are even more
+complex,’ you know?” Allison remembers. “It just added to the puzzle. It made
+it more fun.”
+
+If keying the T-cell receptor with the corresponding antigen wasn’t the only
+signal needed to turn on a T cell, that meant there had to be another
+molecule, maybe several, required to activate the T cell, what’s known as “co-
+stimulation.” Maybe the T cell required two signals—like the two keys for a
+safe deposit box, or how, when starting a car you need to key the ignition and
+also press the gas pedal to make it go. But where was the T cell’s gas pedal?
+Three short years later, they found it, another molecule on the T-cell surface
+called CD28. (CD stands for “cluster of differentiation,” which is sort of
+like calling it “a thing that’s clearly different from the other similar
+things around it”.)
+
+CD28 was definitely a second signal required for activating T cells; that is,
+they’d discovered that T cells could not activate without it. That was an
+important discovery, but as Allison and other researchers quickly realized, it
+also wasn’t that simple. Presenting the right antigen key to the T-cell
+receptor and co-stimulating CD28 did start up the T cell, but when they did
+that in mice models, the T cell often just stalled out. It was as if they’d
+found the key to the ignition and the gas pedal, but a third signal was still
+necessary to make the T cell go. So now they went hunting for that.
+
+One of Allison’s postdoctoral students, Matthew “Max” Krummel, compared the
+structure of the protein CD28 to other molecules, looking for something
+similar in a sort of computerized book of molecule mug shots—“the gene bank,
+that’s what we called it at the time,” Allison says. The idea was that if you
+found a molecule that looked similar, maybe it did similar things and was
+related, evolutionarily.
+
+Krummel soon found another molecule with a close family resemblance to the
+part of CD28 that stuck out of the cell, the receptor part. The molecule had
+recently been identified, named, and numbered. It was the fourth cytotoxic
+(cell-killer) T-immune cell (lymphocyte) identified in the batch, so Pierre
+Goldstein, the researcher who’d found it, called it cytotoxic T-lymphocyte-
+associated protein 4— or CTLA-4 for short. (A few decades later, these
+letters would be on the license plate of Allison’s convertible Porsche.)
+
+Early on, Allison read every scientific paper he could find on T-cell
+receptors. “I'd think, ‘I'm an idiot. I can't understand this.’” he says.
+“Then, I thought, ‘No, they're idiots. They don't understand what they're
+talking about!’”
+
+The University of Texas MD Anderson Cancer Center/Courtesy of Jim Allison
+
+Meanwhile, researchers Jeffrey Ledbetter and Peter Linsley were working on the
+same third-signal problem at the Bristol-Myers Squibb research campus in
+Seattle. Finding the protein signal was one thing, but the point was
+understanding what it did. Blocking a signal (with an antibody that binds to
+it and basically prevents it from being used, like crazy-gluing a keyhole) and
+observing the result is a common method. “Linsley made an antibody to block
+CTLA-4,” Allison recalls. The group quickly published a paper, concluding that
+CTLA-4 was a third “go” signal, another gas pedal on the T cell that had to be
+activated for immune response.
+
+Having another researcher beat them to the anti-CTLA-4 antibody was
+disappointing. It was especially disheartening to Krummel, who had just spent
+three years working on the antibody as his intended thesis project. But
+Allison decided to proceed with more CTLA-4 experiments anyway. There was
+always more to learn—and besides, Allison wasn’t totally convinced that
+Linsley et al. had really solved the T-cell activation mystery. “I knew there
+were two ways you can get something to go faster,” Allison says. “One is to
+press on the gas pedal. The other is to take off the brake.”
+
+Allison says Linsley’s group had only devised experiments consistent with
+CTLA-4 being another “go” signal, essentially a second CD28. “I said, ‘Let’s
+do the experiments consistent with CTLA-4 giving an off signal.’ Sure enough,
+that’s what we found out. CTLA-4 was an off signal.”
+
+Jim Allison is a master of the Texas-sized understatement. Behind his simple
+statement of his lab’s new finding lies a discovery that has profoundly
+shifted our scientific understanding of how immunity works—and sometimes
+doesn’t—and how we can change those rules to turn the tables on cancer.
+
+Allison’s lab now had a fairly complete picture of the steps required for
+T-cell activation against disease.
+
+First, the T cell needed to recognize the sick cell by its unique protein
+fingerprint; in other words, it needed to be presented with the antigen that
+matched up with its T-cell receptor. Usually it was a dendritic cell or
+macrophage that did that presenting. Binding to that antigen was like turning
+the key in an automobile ignition.
+
+The other two signals (CD28 and CTLA-4) were like the gas pedal and brake on
+the car. CTLA-4 was the brake—and it was the more powerful of the two. You
+could press both (and in experiments, Krummel found that was a crude way of
+controlling the activation rate), but if you floored both, the brake overruled
+the gas pedal and the T cell wouldn’t go, regardless of everything else.
+
+Or, more accurately, enough stimulation of CTLA-4 and immune response stalled
+out, regardless of how much the T cell was being triggered by a sick cell
+antigen.
+
+If all this sounds complicated, it’s because it is, on purpose. Allison’s lab
+had discovered an elaborate safety mechanism, an aspect of the larger
+framework of checks and balances that prevents the immune system from going
+into overdrive and attacking healthy body cells. Each safety is a sort of fuse
+that gets tripped if a trigger-happy T cell is programmed to target the wrong
+antigen, such as ones found on normal body cells. It was a way of repeatedly
+asking Are you sure about this? before T cells turned into killing machines.
+
+Proper triggering of immune response against pathogens is what keeps you
+healthy. However, pedal-to-the-metal immune response against healthy self
+cells is autoimmune disease.
+
+The double-check, double-signal mechanism of T-cell activation would turn out
+to be only one of many redundancies and fail-safe feedback loops built into
+immune response. Those “checkpoints” on T-cell activation hadn’t been guessed
+at before. But now Allison’s lab and, simultaneously, the lab of Jeff
+Bluestone at the University of Chicago had found one of those checkpoints.
+
+Bluestone was focused on ways of placing this new discovery in the context of
+organ transplants and diabetes, tamping down unwanted immune response. But
+Allison had a different idea where he’d like to stick it
+
+Biology was interesting, diseases weird and fascinating, immunology cool. But
+cancer, Allison admits, “pissed me off” personally. Allison’s lab had always
+been dedicated primarily to pure immune research. But now Jim Allison had
+another experiment in mind, and an intellectual path to an emotional
+destination. As it happens, that road also eventually led to the Nobel Prize.
+
+Allison wrote the experiment out in late summer and gave it to his new
+postdoc, Dana Leach, who, he says, had “done some tumor stuff.” “I said, ‘I
+want you to give some mice tumors and then inject them with this
+CTLA-4-blocking antibody. Give other mice tumors but no anti-CTLA-4, and let’s
+see what happens.’” In November, Leach came back with the results: The mice
+that got anti-CTLA-4 had been cured of cancer. The tumors had disappeared. In
+the mice that didn’t have CTLA-4 blocked, the tumors kept growing.
+
+Allison was stunned—this wasn’t what experimental data looked like. “According
+to the data, it was a ‘perfect’ experiment, 100 percent alive versus 100
+percent dead,” Allison says. “Jesus, I mean, I was expecting—something. But
+this was 100 percent. Either we’d just cured cancer or we’d really screwed
+up.”
+
+He needed to do it over again. “We had to,” Allison says. And they needed to
+start immediately—such experiments take a couple months. But it was
+Thanksgiving, and Leach wasn’t willing to give up his planned European trip
+over Christmas break, not for a bunch of mice.
+
+Allison told him to just set up the experiment again. “Right now, inject all
+the mice,” he said, “then go do whatever you’re going to do.”
+
+He told the postdoc to just label the cages A, B, C, and D. “I said, ‘I’ll
+measure the mice. Don’t tell me anything.’” Allison would do the grunt work
+and check the results for each cage, but until it was over, he wouldn’t know
+which group was which.
+
+“It was really harrowing,” Allison says. He’d come in every day and see that
+the tumors in cage A seemed to be getting bigger. He’d measure each tumor with
+calipers and mark the results on his gridded paper, then move to cage B and
+find the same thing, mice with growing tumors. Same story in cage C and cage
+D. There were a lot of mice, a lot of numbers, and they were all on the same
+track. It was 100 percent failure.
+
+Had his break-happy postdoc screwed up this experiment too? Allison felt he
+was moving backward. Finally, on Christmas Eve he was in the lab, staring at
+four cages of mice, all with steadily growing tumors. “I said, ‘Fuck—I’m not
+going to measure these anymore. I need to take a break from this.’”
+
+But by the time Allison returned four days later, the situation in the cages
+had changed dramatically. In two of the cages the mouse tumors were now
+shrinking. In the other two cages the tumors continued to grow. When he
+unblinded the experiment’s cages, he was sure. It had taken time for the
+immune response to kick in, much like it does with a vaccination, but it had
+happened. Day by day, and surprisingly quickly, the trend continued to the
+end; it was just as before—100 percent dead versus 100 percent alive and
+tumor-free, a perfect experiment.
+
+He hadn’t consciously known where he was going with all of this
+experimentation. Now, suddenly, they had arrived at a result and a biological
+mechanism. Maybe Allison and his lab had cured cancer in mice, one more time.
+Or perhaps they had just found a piece of the cancer immunity puzzle, one that
+might make sense of decades of confusing data. CTLA-4 was a safety checkpoint
+built into the body to help prevent the immune system from attacking the body
+or a developing fetus. Tumors survive and thrive, shielded by these built-in
+safety mechanisms on T cells, which effectively put the brakes on the body’s
+immune response against them. That was cancer’s survival trick, or one of
+them. At least, it was in mice. But if Allison could block it in mice, maybe
+he could block it in people.
+
+The breakthrough wasn’t what was in the cages; it was the new view of the
+world the data revealed. It doesn’t usually happen in science like it does in
+the movies, the eureka moment, a new understanding in an instant. But this was
+it. EUREKA! T cells could recognize cancer, but these inhibitory pathways
+stifle a complete T cell response, and you could block that.
+
+What else was possible? That question, and the hope it engendered—that was
+what mattered. And that was the breakthrough.
+
+Allison didn’t do it all, and he didn’t do it alone. But there’s little doubt
+that the now 70-year-old scientist’s work tipped the balance in a 100-year
+scientific debate. Allison’s work cracked open the door; subsequent
+breakthroughs have kicked it wide. The result is a fundamental course
+correction in the direction of cancer research and treatment and a groundswell
+of scientific talent and R&D dollars being funneled into a formerly
+discredited field of pursuit.
+
+The war on cancer is not over; we have not achieved a full and total cure, and
+so far the handful of cancer immunotherapy drugs available have demonstrated
+robust and durable results in a minority of patients. But we have undeniably
+turned a corner in our understanding of the disease—what many scientists
+believe to be a “penicillin moment” in our quest for the cure.
+
+The CTLA-4-blocking drug Ipilumimab, approved by the FDA in 2015, was the
+first of a new class of drugs called “checkpoint inhibitors” and the beginning
+of what researchers refer to as a tsunami of new cancer treatments. The pace
+of progress is staggering, such that we now recognize that what Allison
+discovered is not only the end of that 100-year scientific mystery, but also
+the the beginning of a new chapter in medicine. Already, new therapies such as
+CAR-T have essentially wiped out some forms of cancer; the newest checkpoint
+inhibitors have turned stage-four metastatic death sentences into full
+remission. This work has only just begun. And while it’s hopeful, it’s not
+hype.
+
+Jim Allison returned home to Texas, where he works with his wife and fellow
+prize-winning cancer immunotherapist Padmanee Sharma at MD Anderson in
+Houston. His work continues to travel the world, and change it. Allison still
+plays blues harp—he considered backing Willie Nelson on stage a few years ago
+to have been a lifetime highlight, before he found out about the Nobel—and he
+regularly hears from former cancer patients whose lives were changed or saved
+by his work. He sees them in the halls and on planes; they are everywhere. Not
+only because they now number in the hundreds of thousands, but because they
+are us.
+
+And, his wife says, Jim cries, every damn time.
+
+* * *
+
+Adapted from the book THE BREAKTHROUGH: Immunotherapy and the Race to Cure
+Cancer. Copyright (c) 2018 by Charles Graeber. Reprinted by permission of
+Twelve/Hachette Book Group, New York, NY. All rights reserved.
+
+* * *
+
+More Great WIRED Stories
+

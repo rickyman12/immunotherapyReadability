@@ -1,0 +1,50 @@
+Browse Journals
+Authors
+Editors
+About Us
+Journal of Oncology
+Indexed in Science Citation Index Expanded
+Table of Contents
+Author Guidelines
+Submit a Manuscript
+Journal Menu About this Journal ·
+Abstracting and Indexing ·
+Aims and Scope ·
+Article Processing Charges ·
+Bibliographic Information ·
+Editorial Board ·
+Editorial Workflow ·
+Publication Ethics ·
+Reviewer Resources ·
+Submit a Manuscript ·
+Subscription Information ·
+Table of Contents
+Special Issues Menu Open Special Issues ·
+Published Special Issues ·
+Special Issue Resources
+Subscribe toTable of Contents Alerts
+Table of Contents Alerts
+To receive news and publication updates for Journal of Oncology, enter your email address in the box below.
+Confirmation email sent.
+Strategies to Improve Cancer ImmunotherapyCall for PapersTraditional cancer treatment includes chemotherapy and radiation treatment, often associated with severe complication. Recently, the development of next generation of sequencing technology revealed many cancer driving mutations that facilitate the development of small molecular inhibitors to specifically target these oncoproteins. It significantly reduced systematic toxicity. However, many oncogenes still cannot be directly targeted by drugs, such as mutant KRAS; also cancers always come back after prolonged treatment due to acquired resistance in cancer cells. Recently, the advancement of cancer immunotherapy, specifically the development of immune checkpoint blockade and CAR T cells, revolutionized the way we treat cancers. It is designed to harness the patient’s own immune system to specifically target tumor cells and already demonstrated durable clinical responses in many patients even with advanced-stage malignancies.However, tumor cells often induce an immunosuppressive microenvironment, which includes the development of immunosuppressive populations of immune cells, such as myeloid-derived suppressor cells and regulatory T cells; cytokines, such as transforming growth factor-β (TGF-β) and IL-10; metabolic byproducts, such as indole amine 2,3-dioxygenase (IDO) and lactic acid; and inhibitory immune checkpoint molecules, such as programmed cell death ligand 1 (PD-L1). Understanding the complexity of immunomodulation by tumors is important for the development of efficient immunotherapy. Various strategies are being developed to enhance antitumor immune responses, including cancer vaccines, inhibitors for immune checkpoints blockade, and combination of immunotherapy with other currently existing therapies, such as epigenetic therapy and chemotherapy/radiation therapy.Several recent molecular studies and clinical trials also demonstrated that there is big variability in the ability of a tumor to induce an immune response. Therefore, the major aim of this proposed special issue is to discuss the recent innovations and advances in understanding of various aspects of tumor immune response and discovery of novel determinants of tumor immunogenicity for predicting or modulating responses to immunotherapy. We invite original research papers and clinical studies focused on various aspects of cancer immunotherapy and also welcome review articles that describe any of the topics related to cancer immunotherapy.Potential topics include but are not limited to the following:Molecular mechanisms of immune escape of different types of cancersThe contribution of tumor microenvironment, epithelial to mesenchymal transition (EMT), and metabolism to tumor immune responseDevelopment of novel biomarkers to predict immunotherapy responseDevelopment of animal models for studying cancer immunotherapyNew treatment regimens for improving immunotherapy efficiency, such as combination of chemotherapy and/or radiotherapy with immune checkpoint inhibitors or CAR T, and development of novel cancer vaccine in immunotherapyThe benefit and potential adverse effects of immunotherapy in clinical treatment of different types of cancersAuthors can submit their manuscripts through the Manuscript Tracking System at
+https://mts.hindawi.com/submit/journals/jo/sici/.
+Submission DeadlineFriday, 31 August 2018Publication DateJanuary 2019Papers are published upon acceptance, regardless of the Special Issue publication date.Lead Guest EditorHailun Wang, Johns Hopkins University, Baltimore, USAGuest EditorsHeping Yan, Washington University in St. Louis, St. Louis, USAJelani Zarif, Johns Hopkins University, Baltimore, USA
+Follow Us
+About Hindawi
+Meet the Team
+Contact Us
+Blog
+Jobs
+Publish with Us
+Submit Manuscript
+Browse Journals
+For Authors
+Work with Us
+Institutions
+Publishers
+Editors
+Legal
+Terms of Service
+Privacy Policy
+Copyright
+© 2018 Hindawi Limited unless otherwise stated.

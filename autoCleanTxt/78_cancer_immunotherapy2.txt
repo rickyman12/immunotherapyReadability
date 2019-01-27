@@ -1,0 +1,12 @@
+Cancer Immunotherapy - Precision BioSciences
+
+One very promising approach to cancer immunotherapy is called adoptive T-cell
+therapy, where T-cells are removed from a cancer patient, genetically re-
+engineered to incorporate a receptor, such as  a chimeric antigen receptor
+(CAR) or a recombinant T cell receptor (rTCR), that allows the cells to
+recognize TAA on cancer cells, and are then introduced back into the patient.
+Adoptive T-cell therapy is now widely recognized as a breakthrough technology
+with the potential to become a curative option for certain types of tumors.
+However, persistent scaling challenges remain based on the highly personalized
+nature of the therapy.
+

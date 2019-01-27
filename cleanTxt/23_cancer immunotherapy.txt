@@ -1,0 +1,157 @@
+Skip to main content
+HomeNewsJournalsTopicsCareers
+Search
+Search
+Toggle menu
+Search
+Search
+Log in
+My account
+Contact Us
+Become a member Renew my subscription
+Sign up for newsletters
+.
+Facebook
+Twitter
+Google+
+Rss
+Authors
+Members
+Librarians
+Advertisers
+HomeRecent VideosLatest PodcastsPhoto GalleriesDance Your Ph.D. ContestData Stories ContestNewsLatest NewsScienceInsiderScienceShotsSifterFrom the MagazineAbout NewsQuizzesJournalsScienceScience AdvancesScience ImmunologyScience RoboticsScience SignalingScience Translational MedicineScience Partner JournalsTopicsAll TopicsSpecial IssuesCustom PublishingCareersArticlesFind JobsCareer ResourcesForumFor EmployersEmployer ProfilesGraduate ProgramsBookletsAdvertising FeaturesAbout Careers Search
+Search
+share
+News
+Cancer Immunotherapy
+Jennifer Couzin-Frankel
+See allHide authors and affiliations
+Science  20 Dec 2013:Vol. 342, Issue 6165, pp. 1432-1433DOI: 10.1126/science.342.6165.1432
+Jennifer Couzin-FrankelFind this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Article
+Figures & Data
+Info & Metrics
+eLetters
+PDF
+This year marks a turning point in cancer, as long-sought efforts to unleash the immune system against tumors are paying off—even if the future remains a question mark.All Breakthrough Coverage
+Open in new tab
+Domino effect.
+One such treatment, with the antibody in pink at the top, works by blocking a protein receptor, in purple, on a T cell. That sets off a chain reaction that allows T cells to target a tumor cell (bottom left).
+History's path is unchartable when it's not yet past but present, when we are still standing in the middle of it. That's what made Science's selection of this year's Breakthrough of the Year such a topic of internal debate, even anxiety. In celebrating cancer immunotherapy—harnessing the immune system to battle tumors—did we risk hyping an approach whose ultimate impact remains unknown? Were we irresponsible to label as a breakthrough a strategy that has touched a tiny fraction of cancer patients and helped only some of them? What do we mean when we call something a breakthrough, anyway?Ultimately, we concluded, cancer immunotherapy passes the test. It does so because this year, clinical trials have cemented its potential in patients and swayed even the skeptics. The field hums with stories of lives extended: the woman with a grapefruit-size tumor in her lung from melanoma, alive and healthy 13 years later; the 6-year-old near death from leukemia, now in third grade and in remission; the man with metastatic kidney cancer whose disease continued fading away even after treatment stopped.As the anecdotes coalesce into data, there's another layer, too, a sense of paradigms shifting. Immunotherapy marks an entirely different way of treating cancer—by targeting the immune system, not the tumor itself. Oncologists, a grounded-in-reality bunch, say a corner has been turned and we won't be going back.With much pressure these days to transform biological insights into lifesaving drugs, there's a lesson to be learned from immunotherapy's successes: They emerged from a careful decoding of basic biology that spanned many years. The early steps were taken by cancer immunologist James Allison, now at the University of Texas MD Anderson Cancer Center in Houston. In the late 1980s, French researchers who weren't thinking about cancer at all identified a new protein receptor on the surface of T cells, called cytotoxic T-lymphocyte antigen 4, or CTLA-4. Allison found that CTLA-4 puts the brakes on T cells, preventing them from launching full-out immune attacks. He wondered whether blocking the blocker—the CTLA-4 molecule—would set the immune system free to destroy cancer.Allison's rationale was untested. He and his colleagues changed the conversation, in the words of one cancer researcher, "to consider immunosuppression as the focal point, and manipulation of immunosuppression as the target."Doing so took time. CTLA-4 was discovered in 1987. In 1996, Allison published a paper in Science showing that antibodies against CTLA-4 erased tumors in mice. Pharmaceutical companies shied away from cancer immunotherapy, wary of past flops but also of a strategy very unlike the standard zapping of a tumor. So the job of getting anti–CTLA-4 into people fell to a small biotechnology company, Medarex, in Princeton, New Jersey. In 1999, it acquired rights to the antibody, taking the leap from biology to drug.
+Open in new tab
+Arsenal.
+New antibody therapies, depicted here, are stimulating the immune system to destroy cancer cells.
+CREDIT: V. ALTOUNIAN/SCIENCE
+Crucial results didn't come for another 11 years. In 2010, Bristol-Myers Squibb—which had bought Medarex for more than $2 billion—reported that patients with metastatic melanoma lived an average of 10 months on the antibody, compared with 6 months without it. It was the first time any treatment had extended life in advanced melanoma in a randomized trial. Nearly a quarter of participants survived at least 2 years.The numbers for another antibody are so far even better and the side effects milder. In the early 1990s, a biologist in Japan discovered a molecule expressed in dying T cells, which he called programmed death 1, or PD-1, and which he recognized as another brake on T cells. He wasn't thinking of cancer, but others did. One, oncologist Drew Pardoll at Johns Hopkins University, met with a leader of Medarex at a Baltimore coffee shop. He urged the company to test an anti–PD-1 antibody in people.The first trial, with 39 patients and five different cancers, began in 2006. By 2008, doctors were jolted by what they saw: In five of the volunteers, all of them with refractory disease, tumors were shrinking. Survival in a few stretched beyond what was imagined possible.Still, understanding what these therapies were doing inside the body was a challenge. Other cancer treatments either work or they don't, and the answer is nearly instantaneous. With both anti–CTLA-4 and anti–PD-1, physicians saw some tumors grow before vanishing months later. Some patients kept responding even after the antibody had been discontinued, suggesting their immune system had been fundamentally changed. Some, particularly those on anti–CTLA-4, developed unnerving side effects, inflammation of the colon, for example, or of the pituitary gland. All of these were the fine points of a new template, one whose vagaries physicians were just beginning to understand. The learning curve would be steep.It was steep in another area of immunotherapy as well. For years, Steven Rosenberg at the National Cancer Institute had harvested T cells that had migrated into tumors, expanded them in the lab, and reinfused them into Tpatients, saving some with dire prognoses. The technique worked only when doctors could access tumor tissue, though, limiting its application.Then in 2010, Rosenberg published encouraging results from so-called chimeric antigen receptor therapy, or CAR therapy—a personalized treatment that involves genetically modifying a patient's T cells to make them target tumor cells. One group, led by Carl June at the University of Pennsylvania, began reporting eye-catching responses to CAR therapy: patients with pounds of leukemia that melted away. At a meeting in New Orleans this month, June's team and another at Memorial Sloan-Kettering Cancer Center in New York reported that the T cell therapy in their studies put 45 of 75 adults and children with leukemia into complete remission, although some later relapsed. CAR therapy is now the focus of numerous clinical trials. Researchers hope that it, like the antibodies, can target an assortment of cancers.VideoWatch Video Engineered T cells are still experimental, but the antibodies are slowly going mainstream. At least five major drug companies, their early hesitancy gone, are developing antibodies such as anti–PD-1. In 2011, the U.S. Food and Drug Administration approved Bristol-Myers Squibb's anti–CTLA-4 treatment, called ipilimumab, for metastatic melanoma. The cost is high: The company charges $120,000 for a course of therapy. In 2012, Suzanne Topalian of Hopkins, Mario Sznol of Yale University, and their colleagues reported results for anti–PD-1 therapy in nearly 300 people, and they provided an update earlier this year. Tumors shrunk by about half or more in 31% of those with melanoma, 29% with kidney cancer, and 17% with lung cancer.This year brought even more encouragement. Bristol-Myers Squibb reported this fall that of 1800 melanoma patients treated with ipilimumab, 22% were alive 3 years later. In June, researchers reported that combining ipilimumab and anti–PD-1 led to "deep and rapid tumor regression" in almost a third of melanoma patients. Drugs blocking the PD-1 pathway have not yet been proven to extend life, although survival rates so far have doctors optimistic that they do.For physicians accustomed to losing every patient with advanced disease, the numbers bring a hope they couldn't have fathomed a few years ago. For those with metastatic cancer, the odds remain long. Today's immunotherapies don't help everyone, and researchers are largely clueless as to why more don't benefit. They are racing to identify biomarkers that might offer answers and experimenting with ways to make therapies more potent. It's likely that some cancers will not yield to immunotherapy for many years, if ever.Even in the fluid state oncology now finds itself, this much is certain: One book has closed, and a new one has opened. How it will end is anyone's guess.
+References and Web Sites
+C. June et al., “T-Cell Therapy at the Threshold,” Nat. Biotechnol. 30, 7 (July 2012).
+D. M. Pardoll, “Immunology Beats Cancer: A Blueprint for Successful Translation,” Nat. Immunol. 13, 12 (December 2012).
+D. R. Leach, M. F. Krummel, J. P. Allison, “Enhancement of Antitumor Immunity by CTLA-4 Blockade,” Science 271, 5256 (22 March 1996).
+H. Dong et al., “Tumor-Associated B7-H1 Promotes T-cell Apoptosis: A Potential Mechanism of Immune Evasion,” Nat. Med. 8, 8 (August 2002).
+J. Couzin-Frankel, “Immune Therapy Steps up the Attack,” Science 330, 6003 (22 October 2010).
+J. Couzin-Frankel, “The Dizzying Journey to a New Cancer Arsenal,” Science 340, 6140 (28 June 2013).
+J. D. Wolchok et al., “Nivolumab plus Ipilimumab in Advanced Melanoma,” N. Engl. J. Med. 369, 2 (11 July 2013).
+S. L. Topalian et al., “Safety, Activity, and Immune Correlates of Anti–PD-1 Antibody in Cancer,” N. Engl. J. Med. 366, 26 (28 June 2012).
+Science
+Vol 342, Issue 616520 December 2013
+Table of Contents
+Print Table of Contents
+Advertising (PDF)
+Classified (PDF)
+Masthead (PDF)
+Article Tools
+Email
+Thank you for your interest in spreading the word about Science.NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.
+Your Email
+Your Name
+Send To
+Enter multiple addresses on separate lines or separate them with commas.
+You are going to email the following
+Cancer Immunotherapy
+Message Subject
+(Your Name) has forwarded a page to you from Science
+Message Body
+(Your Name) thought you would like to see this page from the Science web site.
+Your Personal Message
+Send Message
+Download Powerpoint
+Print
+Save to my folders
+Log In with your AAAS Login
+Alerts
+Please log in to add an alert for this article.
+Log In with your AAAS Login
+Sign In to Email Alerts with your Email Address
+Email
+Log in
+Citation tools
+Cancer Immunotherapy
+By Jennifer Couzin-Frankel
+Science20 Dec 2013 : 1432-1433
+This year marks a turning point in cancer, as long-sought efforts to unleash the immune system against tumors are paying off—even if the future remains a question mark.
+Citation Manager Formats
+BibTeX
+Bookends
+EasyBib
+EndNote (tagged)
+EndNote 8 (xml)
+Medlars
+Mendeley
+Papers
+RefWorks Tagged
+Ref Manager
+RIS
+Zotero
+Share
+Cancer Immunotherapy
+By Jennifer Couzin-Frankel
+Science20 Dec 2013 : 1432-1433
+This year marks a turning point in cancer, as long-sought efforts to unleash the immune system against tumors are paying off—even if the future remains a question mark.
+Share This Article:
+Copy
+Related Content
+Similar Articles in:
+Citing Articles in:
+Navigate This Article
+ArticleReferences and Web SitesFigures & DataInfo & MetricseLetters PDF
+Science
+25 January 2019
+Vol 363, Issue 6425
+Feature
+Bearing witness
+Data Access
+Toward unrestricted use of public genomic data
+History of Science
+Illustrating nature
+SCI COMMUN
+News at a glance
+Marine Mammals
+Where to find fantastic beasts at sea
+Working Life
+From competition to collaboration
+Table of Contents
+About usJournals
+Leadership
+Team members
+Work at AAAS
+AdvertiseAdvertising kits
+Custom publishing
+For subscribersSite license info
+For members
+InternationalChinese
+Japanese
+HelpAccess & subscriptions
+Order a Single Issue
+Reprints & permissions
+Contact us
+Accessibility
+Stay Connected Facebook
+Twitter
+GooglePlus
+RSS Feeds
+© 2019 American Association for the Advancement of Science. All rights reserved. AAAS is a partner of HINARI, AGORA, OARE, CHORUS, CLOCKSS, CrossRef and COUNTER. Science ISSN 1095-9203.
+Terms of Service
+Privacy Policy
+Contact Us

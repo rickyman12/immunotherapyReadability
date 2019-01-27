@@ -1,0 +1,406 @@
+Skip to Main Content
+linkedin
+twitter
+facebook
+.st0{fill:#152F3A;}
+calendar
+checkmark
+clock
+Clock - Wait Times
+doctor
+down
+.st0{fill:#003B71;}
+.st1{fill:#D6006D;}
+.st0{fill:#FFFFFF;}
+.st0{fill:#044070;}
+emergency_get_care_now
+.st0{fill:#FFFFFF;}
+.st1{clip-path:url(#SVGID_2_);}
+location
+.st0{fill:#FFFFFF;}
+.cls-1{fill:#ffdd15;}Sanford Health_Find a Location Icon MAPS
+medical_records
+.cls-1{fill:#fff;}Sanford Health_MyChart Icon_White
+.cls-1{fill:#004270;}.cls-2{fill:#61aee1;}Sanford Health_Edith Newly Diagnosed Icon
+.cls-1{fill:#61aee1;}.cls-2{fill:#004270;}Sanford Health_Pay Bill Payment Plan Icon
+phone
+.cls-1{fill:#ec0089;}Sanford Health_Edith Phone Icon
+.st0{fill:#6AAAE4;}
+.st1{fill:#003B71;}
+search
+star
+.st0{fill:#61AEE1;}
+.st0{fill:#61AEE1;}
+.st0{fill:#61AEE1;}
+Menu
+Doctors
+Locations
+Medical Services
+Patients & Visitors
+About
+Get Care Here
+Get Care Here
+My Sanford Nurse
+Talk with a Sanford Nurse over the phone.
+Learn More
+Walk-In
+Know where to go for urgent, non-emergency care.
+View Locations
+E-Visit
+Email a provider through My Sanford Chart.
+Learn More
+Video Visit
+Visit with a doctor over your webcam.
+Learn More
+View All Care Options
+My Sanford Chart
+Search
+Search
+Coveo.$(function () {
+var searchbox = Coveo.$('#global-search');
+if (typeof (CoveoForSitecore) !== 'undefined') {
+CoveoForSitecore.componentsOptions = {"analyticsCustomMetadata" : {"sitename" : "ORG" , "pageFullPath" : "/sitecore/content/Sanford/ORG/Home/Medical Services/Cancer/Immunotherapy"},"analyticsEndpointUri" : "/coveo/rest/v6/analytics" , "boostExpressions" : "" , "clientLanguageFieldName" : "@fz95xlanguage46747" , "clientLanguageName" : "en" , "defaultSortType" : "" , "defaultSortField" : "" , "defaultSortCriteriaNoSpace" : "Relevancy" , "defaultSortCriteriaLowercase" : "relevancy" , "enableClientSideLogging" : false,"externalCollections" : [],"externalSources" : [],"filterResultsOnCurrentCulture" : true,"filterExpression" : "NOT @ftemplateid46747==(\"adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97\",\"fe5dd826-48c6-436d-b87a-7c4210c7413b\")" , "id" : "_F6DFB85B-5E84-4583-9DD8-C078FCE61549" , "indexSourceName" : "ORG_coveo_web_index - sanford-coveo-prod" , "isEditingInPageEditor" : false,"isPreviewingInPageEditor" : false,"isPreviewingInPageEditorWithSimulatedDevice" : false,"latestVersionFieldName" : "@fz95xlatestversion46747" , "pageFullPath" : "/sitecore/content/Sanford/ORG/Home/Medical Services/Cancer/Immunotherapy" , "pageName" : "Immunotherapy" , "restEndpointUri" : "/coveo/rest" , "searchboxPlaceholderText" : "What can we help you find?" , "sendToSitecoreAnalytics" : false,"sitecoreItemId" : "9840574e-e183-4135-96dc-3b01825b9897" , "sitecoreItemUri" : "sitecore://web/{9840574E-E183-4135-96DC-3B01825B9897}?lang=en\u0026ver=1" , "siteName" : "ORG" , "searchRedirectionUrl" : "/search" , "keepOmniboxSuggestionsProvidersDefaultOrdering" : false};
+searchbox.coveoForSitecore('initSearchbox',
+CoveoForSitecore.componentsOptions);
+} else {
+Coveo.SearchEndpoint.endpoints["default"] = new Coveo.SearchEndpoint({"restUri" : "/coveo/rest" , "queryStringArguments" : {"sitecoreItemUri" : "sitecore://web/{9840574E-E183-4135-96DC-3B01825B9897}?lang=en\u0026ver=1" , "siteName" : "ORG"}});
+searchbox.coveo('initSearchbox',
+'/search');
+}
+searchbox.find(".CoveoSearchbox input").attr("placeholder", 'What can we help you find?');
+});
+<div>
+<a href="{{=clickUri}}" class="coveo-title">{{=title?highlight(title, titleHighlights):''}}</a>
+</div>
+Immunotherapy
+Home
+Medical Services
+Cancer
+Immunotherapy
+Print
+Email
+Share
+Using Your Immune System to Fight Cancer
+At Sanford Cancer Centers, you have the option of immunotherapy - boosting your body's immune system to fight cancer.
+The cells, antibodies and organs of your immune system work to defend your body against invaders, such as bacteria or viruses. In immunotherapy, your immune system gets a boost so it can better detect healthy cells versus cancer cells. It also makes the body better at killing cancer cells.
+Your doctor might use biological therapies like immunotherapy alone to treat cancer. They also can combine this approach with other treatments such as chemotherapy and radiation therapy.
+Talk to your doctor today.
+Search Doctors
+Find a Doctor
+Address
+Within
+-Select-
+25 Miles
+50 Miles
+100 Miles
+Load More
+Top
+var geocoder;
+var doctorSearchSize = 5;
+var tagname = $(".simple-tabs").attr('data-tagname');
+var doctorautocomplete;
+var locationautocomplete;
+function initMap() {
+geocoder = new google.maps.Geocoder();
+doctorautocomplete = new google.maps.places.Autocomplete(
+(document.getElementById('locations-location')),
+{ types: ['geocode'] });
+locationautocomplete = new google.maps.places.Autocomplete(
+(document.getElementById('doctors-location')),
+{ types: ['geocode'] });
+}
+$(document).ready(function () {
+$('.filter-col #search-doctors').trigger('click');
+$('.filter-col #search-locations').trigger('click');
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(function(position) {
+var latlng = { lat: parseFloat(position.coords.latitude), lng: parseFloat(position.coords.longitude) };
+var geocoder = new google.maps.Geocoder();
+geocoder.geocode({ 'location': latlng },
+function(results, status) {
+if (status === 'OK') {
+if (results[0]) {
+for (var j = 0; j < results[0].address_components.length; j++) {
+if (results[0].address_components[j].types.includes("postal_code")) {
+$("#doctors-location").val(results[0].address_components[j].short_name);
+$("#locations-location").val(results[0].address_components[j].short_name);
+$('.filter-col #search-doctors').trigger('click');
+$('.filter-col #search-locations').trigger('click');
+break;
+}
+}
+} else {
+console.log('No results found');
+$('.filter-col #search-doctors').trigger('click');
+$('.filter-col #search-locations').trigger('click');
+}
+} else {
+console.log('Geocoder failed due to: ' + status);
+$('.filter-col #search-doctors').trigger('click');
+$('.filter-col #search-locations').trigger('click');
+}
+});
+});
+} else {
+$('.filter-col #search-doctors').trigger('click');
+$('.filter-col #search-locations').trigger('click');
+}
+});
+var doctorsSearchIndex = 1;
+$("#load-more-doctors").click(function (event) {
+event.preventDefault();
+doctorsSearchIndex += 1;
+searchDoctors(doctorsSearchIndex);
+});
+$("#search-doctors").click(function (event) {
+event.preventDefault();
+doctorsSearchIndex = 1;
+searchDoctors(doctorsSearchIndex);
+});
+$("#clear-doctors").click(function (event) {
+event.preventDefault();
+$("#doctors-location").val("");
+$("#doctors-distance").val("1000");
+doctorsSearchIndex = 1;
+searchDoctors(doctorsSearchIndex);
+});
+var locationSearchIndex = 1;
+$("#load-more-locations").click(function (event) {
+event.preventDefault();
+locationSearchIndex += 1;
+searchLocations(locationSearchIndex);
+});
+$("#search-locations").click(function (event) {
+event.preventDefault();
+locationSearchIndex = 1;
+searchLocations(locationSearchIndex);
+});
+$("#clear-locations").click(function (event) {
+event.preventDefault();
+$("#locations-location").val("");
+$("#locations-distance").val("1000");
+locationSearchIndex = 1;
+searchLocations(locationSearchIndex);
+});
+$(document).ready(function () {
+var locationPressEnterToSearch = function (e) {
+if (e.keyCode == 13) {
+locationSearchIndex = 1;
+searchLocations(locationSearchIndex);
+}
+};
+$("#locations-location").keydown(locationPressEnterToSearch);
+$("#locations-distance").change(function () {
+locationSearchIndex = 1;
+searchLocations(locationSearchIndex);
+});
+var doctorPressEnterToSearch = function (e) {
+if (e.keyCode == 13) {
+doctorsSearchIndex = 1;
+searchDoctors(doctorsSearchIndex);
+}
+};
+$("#doctors-location").keydown(doctorPressEnterToSearch);
+$("#doctors-distance").change(function () {
+doctorsSearchIndex = 1;
+searchDoctors(doctorsSearchIndex);
+});
+});
+function getNearestDoctors(searchCriteria) {
+$.ajax({
+url: "/apimaps/getnearestdoctors",
+type: "POST",
+data: searchCriteria,
+context: this,
+statusCode: {
+200: function (data) {
+var counter = 0;
+$.each($($.parseHTML(data)), function (index, value) {
+if ($(value).hasClass("l-item")) {
+counter++;
+}
+});
+if (searchCriteria.pageIndex == 1) {
+$("#doctors-results").html(data);
+} else {
+$("#doctors-results").append(data);
+}
+$('.go-top-doctors').show();
+if (counter < doctorSearchSize) {
+$("#load-more-doctors").hide();
+} else {
+$("#load-more-doctors").show();
+}
+},
+204: function () {
+if (searchCriteria.pageIndex == 1) {
+$("#doctors-results").html("<div class='l-item l-item-theme-1'>No results found. Modify the search using the form above.</div>");
+}
+$("#load-more-doctors").hide();
+console.log("No results found");
+}
+}
+});
+}
+function searchDoctors(index) {
+var address = document.getElementById("doctors-location").value;
+var tag = tagname;
+var requestObject = { pageIndex: index, pageSize: doctorSearchSize, tag: tag }
+if (address != "") {
+if (geocoder) {
+geocoder.geocode({ 'address': address }, function (results, status) {
+if (status == google.maps.GeocoderStatus.OK) {
+if (status != google.maps.GeocoderStatus.ZERO_RESULTS) {
+requestObject.latitude = results[0].geometry.location.lat();
+requestObject.longitude = results[0].geometry.location.lng();
+requestObject.radius = document.getElementById("doctors-distance").value;
+getNearestDoctors(requestObject);
+} else {
+$("#doctors-results").html("<div class='l-item l-item-theme-1'>No results found. Modify the search using the form above.</div>");
+$("#load-more-doctors").hide();
+}
+} else {
+$("#doctors-results").html("<div class='l-item l-item-theme-1'>No results found. Modify the search using the form above.</div>");
+$("#load-more-doctors").hide();
+console.log("Geocode was not successful for the following reason: " + status);
+}
+});
+}
+} else {
+getNearestDoctors(requestObject);
+}
+}
+function getNearestLocations(searchCriteria) {
+$.ajax({
+url: "/apimaps/getnearestlocations",
+type: "POST",
+data: searchCriteria,
+context: this,
+statusCode: {
+200: function (data) {
+var counter = 0;
+$.each($($.parseHTML(data)), function (index, value) {
+if ($(value).hasClass("l-item")) {
+counter++;
+}
+});
+$('.go-top-locations').show();
+if (searchCriteria.pageIndex == 1) {
+$("#locations-results").html(data);
+} else {
+$("#locations-results").append(data);
+}
+if (counter < doctorSearchSize) {
+$("#load-more-locations").hide();
+} else {
+$("#load-more-locations").show();
+}
+},
+204: function () {
+if (searchCriteria.pageIndex == 1) {
+$("#locations-results").html("<div class='l-item l-item-theme-1'>No results found. Modify the search using the form above.</div>");
+}
+$("#load-more-locations").hide();
+console.log("No results found");
+}
+}
+});
+}
+function searchLocations(index) {
+var address = document.getElementById("locations-location").value;
+var tag = tagname;
+var requestObject = { pageIndex: index, pageSize: doctorSearchSize, tag: tag }
+if (address != "") {
+if (geocoder) {
+geocoder.geocode({ 'address': address }, function (results, status) {
+if (status == google.maps.GeocoderStatus.OK) {
+if (status != google.maps.GeocoderStatus.ZERO_RESULTS) {
+requestObject.latitude = results[0].geometry.location.lat();
+requestObject.longitude = results[0].geometry.location.lng();
+requestObject.radius = document.getElementById("locations-distance").value;
+getNearestLocations(requestObject);
+} else {
+$("#locations-results").html("<div class='l-item l-item-theme-1'>No results found. Modify the search using the form above.</div>");
+$("#load-more-locations").hide();
+console.log("No results found");
+}
+} else {
+$("#locations-results").html("<div class='l-item l-item-theme-1'>No results found. Modify the search using the form above.</div>");
+$("#load-more-locations").hide();
+console.log("Geocode was not successful for the following reason: " + status);
+}
+});
+}
+} else {
+getNearestLocations(requestObject);
+}
+}
+CancerMenu
+Cancer Screenings
+Cancer Survivorship
+Immunotherapy
+Medical Oncology
+Oncofertility
+Oncologic Surgery
+Radiation Oncology
+Sanford Health News
+background-image
+Stem cell research at Sanford Health set for next phase
+Clinical trials around adipose-derived regenerative cells focus of program
+background-image
+Sanford Health funds scholarships for SD medical students
+Health system commits $300,000 per year, matched by USD Foundation
+View All News
+Classes & Events
+background-image
+B4 Baby
+Mon 04/08/19 6:30 PM
+- Mon 04/08/19 8:00 PM
+Sanford Medical Center Fargo
+background-image
+B4 Baby
+Mon 02/25/19 6:30 PM
+- Mon 02/25/19 8:00 PM
+Schroeder Auditorium at Sanford Medical Center
+View All Classes and Events
+Stay up to date with news from Sanford Health
+Sign Up
+Stay Connected
+facebook
+twitter
+linkedin
+expand menu button
+About Sanford
+Medical Professionals
+Mobile Apps
+Video Library
+Sanford Health News
+Classes and Events
+expand menu button
+Careers
+Contact Media Relations
+Donate
+Volunteer
+Resources
+Patient Education
+expand menu button
+Sanford Health Plan
+Sanford Health Foundation
+Sanford Imagenetics
+Sanford Research
+Profile by Sanford
+expand menu button
+Edith Sanford Breast Center
+Sanford World Clinic
+Sanford Wellness Centers
+Lorraine Cross Award
+Sanford Innovations
+Contact Us
+Copyright © 2018 Sanford Health. All rights reserved.
+Sitemap
+Privacy of Health Information
+Privacy Statement
+Terms and Conditions
+sanfordhealth.org
+Employee Login
+Success Center

@@ -1,0 +1,61 @@
+Cancer Immunotherapy
+
+Is your current in vitro assay truly predictive of in vivo outcomes?
+
+In addition to being robust and simple, the ideal in vitro assay closely
+mimics activity in vivo. The ideal in vitro assay  must also predict long term
+behavior in animal models, and ultimately, in human patients.
+
+To gain a more complete view of cancer cell killing, the xCELLigence® Real
+Time Cell Analysis (RTCA) technology captures dynamic cell behavior that can
+be missed by labor-intensive endpoint methods.
+
+
+
+Reap the benefits of game-changing predictivity with xCELLigence® Real-Time
+Cell Analysis (RTCA) instruments:
+
+Label-Free: No 51Cr, no luciferase, no dyes…NO PROBLEM
+Astonishingly Simple Workflow: Plate target cells, add effector cells, and start reading
+  Read an entire 96-well plate in 15 seconds
+  Run up to 6 plates independently, with no scheduling conflicts
+  Monitor target cell killing continuously from seconds to days
+Exquisite Sensitivity: Monitor target cell killing at low, physiologically relevant effector:target ratios
+Diverse Effector Cells and Molecules: TIL, NK, CART, TCR, checkpoint inhibitors, BiTEs, etc.
+Quantitative, Real-Time Kinetics: Highly accurate and highly reproducible 
+
+
+
+How is xCELLigence® RTCA used for cell killing assays?
+
+The xCELLigence® Real-Time Cell Analysis (RTCA) instruments utilize patented
+microtiter plates (E-Plates®) which contain gold biosensors embedded in the
+bottom of each well. These biosensors continuously and non-invasively monitor
+changes in cell number, cell size, and cell-substrate attachment quality.
+
+| Step 1: Adherent target cells (i.e. tumor cells) are first seeded in E-Plate
+wells. The biosensor signal, which is plotted as a unitless parameter called
+“Cell Index”, increases as cells attach and proliferate and then plateaus as
+cells approach 100% confluence (see data plot below).  
+---|---  
+| Step 2: When added subsequently, non-adherent effector cells (i.e. immune
+cells) in suspension do not cause signal changes in and of themselves (due to
+lack of adherence to the gold biosensors).  
+| Step 3: If effector cells induce the destruction of the target adherent
+tumor cells, the corresponding cytolytic activity can be sensitively and
+precisely detected. The continuous acquisition of data for each well of an
+E-Plate enables the generation of real-time killing curves for multiple
+conditions simultaneously.  
+Step 4: Using an intuitive graphical interface designed specifically for the
+immuno-oncologist, the xIMT Software monitors cell killing in real-time (Left
+plot), followed by calculation of specific parameters such as %cytolysis
+(Right plot), IC50, KT50, etc.  
+  
+
+
+Featured xCELLigence RTCA systems for immune cell killing assays:
+
+Cancer Immunotherapy Supporting Information:
+
+Research Presentation Videos:
+

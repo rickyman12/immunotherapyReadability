@@ -1,0 +1,46 @@
+Immunotherapy for Cancer: What is it & How This Treatment Works
+
+The immune system is a powerful weapon against disease, infections and
+defective cells. Because cancer cells are the body’s own mutated cells, they
+are not always recognized by the immune system as invaders. Also, cancer cells
+have multiple ways to evade, shut down or overpower an immune attack.
+Immunotherapy is a broad category of cancer therapies designed to stimulate
+the body’s immune system to better recognize and fight cancer.
+
+Among immunotherapies used to treat cancer are:
+
+Checkpoint inhibitors work by disrupting the cancer cells' signals, exposing
+them to the immune system for attack. Certain protein receptors located on the
+surface of immune cells help them differentiate healthy cells from cancer
+cells. Cancer cells can send signals to the immune cells at certain
+checkpoints that tell the immune system they are normal cells. Checkpoint
+inhibitors block those signals and expose the cancer cells for attack.
+
+Learn more about checkpoint inhibitors
+
+Vaccines do not directly prevent cancer but are used to treat specific cancers
+and prevent conditions that may cause cancer. Vaccines for cancer come in two
+categories:
+
+Prophylactic or preventative vaccines attack viruses that may cause cancer. The HPV vaccine, for instance, targets the specific strains of the human papillomavirus linked to most cases of cervical, throat, anal and other cancers.
+Therapeutic or treatment vaccines stimulate the immune system to attack cancer in a specific location of the body. The Bacillus Calmette–Guérin vaccine, for example, is live bacteria injected into the bladder that attracts immune cells to attack cancer cells.
+
+Learn more about vaccines
+
+Cytokines are protein molecules that help regulate and direct the immune
+system. Cells release cytokines, which act as messengers to other cells,
+telling them when and where to launch an immune response. Various types of
+cytokines are naturally produced by the body. In cancer treatment, cytokines
+are synthesized in the lab and injected in larger doses than the body would
+normally produce. Two common cytokines are used in cancer immunotherapy:
+
+Interleukin 2 (IL-2) is naturally produced by the body to help fight infection and prevent autoimmune diseases. In cancer treatment, IL-2 is designed to target adaptive immune cells, such as T-cells and B-cells, to respond to tumors. IL-2 may help the body produce antigen-fighting T-cells and stimulate B-cells to produce more antibodies.
+Interferon-alpha (IFN-alpha) is one of several proteins that help the body fend off viruses and bacteria. In cancer treatment, IFN-alpha helps the body generate innate immune cells, such as dendritic cells and macrophages, that are designed to attack unhealthy cells.
+
+Immunotherapy may cause immune cells to attack healthy cells, which cause a
+variety of side effects, including fatigue, nausea, diarrhea, and flu-like
+symptoms. Throughout your treatment, your care team may offer supportive care
+services, including nutrition therapy, naturopathic therapy and mind-body
+medicine. These therapies are intended to reduce side effects and improve your
+quality of life during immunotherapy.
+

@@ -1,0 +1,193 @@
+$CQ(function() {
+CQ_Analytics.SegmentMgr.loadSegments("\/etc\/segmentation");
+CQ_Analytics.ClientContextUtils.init("\/etc\/clientcontext\/default", "\/content\/cancer\/en\/treatment\/treatments\u002Dand\u002Dside\u002Deffects\/treatment\u002Dtypes\/immunotherapy");
+});
+Skip to Content
+Menu
+Search
+Cancer Helpline
+800.227.2345
+double-chat-bubble
+document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/5386287375352862963/bc.cbhs"%3E%3C/script%3E'));
+bt_showChatHTML('Live Chat', 'Live Chat');
+Live Chat
+Latest News
+English
+Español
+More Languages
+Donate
+Donate
+Cancer A-Z
+Stay Healthy
+Treatment & Support
+Our Research
+Get Involved
+Our Partners
+About Us
+News
+English
+Español
+More Languages
+Donate
+double-chat-bubble
+document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/5386287375352862963/bc.cbhs"%3E%3C/script%3E'));
+bt_showChatHTML('Live Chat', 'Live Chat');
+Live Chat
+Cancer Helpline
+800.227.2345
+Phone
+Search
+Search
+function homeDonatefirega(){
+var dataObject = ({
+event: 'homeDonateTracking',
+bannerEvent: 'click',
+promoName: 'HomePage DonateButton',
+componentName: 'basecomponent',
+})
+if (typeof window.digitalData.events != 'undefined') {
+window.digitalData.events(dataObject);
+}
+}
+window.digitalData.events({
+event: 'clickTracking',
+clickCategory: 'social',
+clickSubCategory: 'facebook'
+});
+window.digitalData.events({
+event: 'clickTracking',
+clickCategory: 'social',
+clickSubCategory: 'twitter'
+});
+digitalData.page.category.pageType = 'cancer type landing';
+digitalData.page.category.pageCategory = 'cancer type landing';
+digitalData.page.category.subCategory1 = "Treatment \x26 Support";
+.st0{fill:#1F1F1F;}
+CategoryTreatment & Support
+Treatments and Side Effects
+Treatment Types
+Cancer Immunotherapy
+Immunotherapy is treatment that uses your body's own immune system to help fight cancer. Get information about the different types of immunotherapy and the types of cancer they are used to treat.
+What Is Cancer Immunotherapy?
+Monoclonal antibodies to treat cancer
+CAR T-Cell Therapies
+Immune checkpoint inhibitors to treat cancer
+Cancer vaccines
+Non-specific cancer immunotherapies and adjuvants
+What’s new in cancer immunotherapy research?
+References for Cancer Immunotherapy
+More In Treatment & Support
+Understanding Your Diagnosis
+Finding and Paying for Treatment
+Treatments and Side Effects
+Survivorship: During and After Treatment
+Caregivers and Family
+Children and Cancer
+End of Life Care
+Find Support Programs and Services in Your Area
+BackTo Top
+Imagine a world free from cancer. Help make it a reality.
+DONATE
+Cancer Information
+Cancer Prevention & Detection
+Cancer Basics
+Signs & Symptoms of Cancer
+Treatments & Side Effects
+Cancer Facts & Statistics
+News and Stories
+Glossary
+For Health Care Professionals
+Programs & Services
+Breast Cancer Support
+TLC Hair Loss & Mastectomy Products
+Hope Lodge® Lodging
+Rides To Treatment
+Online Support Communities
+ACS FUNDRAISERS
+Making Strides Against Breast Cancer Walks
+Relay For Life Events
+College Relay For Life
+Coaches vs. Cancer
+Galas, Balls & Parties
+Ways to Give
+Memorial Giving
+Planned Giving
+Leadership Giving
+Donate a Car
+About ACS
+Contact Us
+Local Offices
+Employment
+Become a Supplier
+Report Fraud or Abuse
+Global Health
+ACS CAN
+Sign Up for Email
+Policies
+Our Volunteers
+More ACS Sites
+Bookstore
+Shop
+Cancer Atlas
+Press Room
+Cancer Statistics Center
+Volunteer Learning Center
+Follow Us
+Twitter
+Facebook
+Instagram
+Cancer Information, Answers, and Hope. Available Every Minute of Every Day.
+800.227.2345
+document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/5386287375352862963/bc.cbhs"%3E%3C/script%3E'));
+bt_showChatHTML('Live Chat', 'Live Chat');
+Live Chat
+Follow Us
+Twitter
+Facebook
+Instagram
+help
+site map
+privacy policy - 2018
+accessibility
+terms of use
+state fundraising notices
+Site Comments
+© 2019 American Cancer Society, Inc. All rights reserved. The American Cancer Society is a qualified 501(c)(3) tax-exempt organization. Cancer.org is provided courtesy of the Leo and Gloria Rosen family.
+<!-- Site comments modal diaglog -->
+function siteCommentsModal()
+{
+var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+var w = 660;
+var h = 645;
+var siteCommentsURL = "https://americancancersociety.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=95HPTG";
+var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+var top = ((height / 2) - (h / 2)) + dualScreenTop;
+var newWindow = window.open(siteCommentsURL+'&lastvisitedURL='+window.location.href, 'sitecomments', 'scrollbars=auto, resizable=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+// Puts focus on the newWindow
+if (window.focus) {
+newWindow.focus();
+}
+}
+Close
+*
+Close
+Image
+of
+Previous
+Next
+Close
+Close
+Select A Hope Lodge
+var addthis_config = addthis_config||{};
+addthis_config.data_track_addressbar = false;
+addthis_config.data_track_clickback = false;
+_satellite.pageBottom();
+/*Copyright 2011-2015 iPerceptions, Inc. All rights reserved. Do not distribute.iPerceptions provides this code 'as is' without warranty of any kind, either express or implied. */ window.iperceptionskey = '16b82bdf-0708-41bd-8513-26aee1880602';(function () { var a = document.createElement('script'),b = document.getElementsByTagName('body')[0]; a.type = 'text/javascript'; a.async = true;a.src = '//universal.iperceptions.com/wrapper.js';b.appendChild(a);})();
+(function() {
+var cw = document.createElement('script'); cw.type = 'text/javascript'; cw.async = true;
+cw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'd39se0h2uvfakd.cloudfront.net/js/acs.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cw, s);
+})();

@@ -1,0 +1,14 @@
+Therapeutic window of antibody-based cancer immunotherapies
+
+Immunotherapy is revolutionizing cancer treatment by stimulating and
+activating the immune system's killer cells to attack tumor cells. Despite the
+clinical success of antibody-based immune-therapeutics, notable limitations
+remain including differential responses between individuals and cancer types.
+Not all patients will respond to therapy and many cancer types are still
+incurable. Dose-limiting toxicity is another limiting factor for the efficacy
+of several drugs.  Further research is required to optimize therapies and
+improve outcomes. We are studying the mechanistic basis behind factors
+limiting immunotherapy in different mouse tumor models. We will utilize this
+knowledge to design improved drug platforms by applying different antibody
+engineering approaches.
+

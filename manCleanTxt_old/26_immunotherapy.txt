@@ -1,0 +1,82 @@
+Immunotherapy
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For the academic journal, see Immunotherapy (journal).
+This article needs more medical references for verification or relies too heavily on primary sources. Please review the contents of the article and add the appropriate references if you can. Unsourced or poorly sourced material may be challenged and removed. (April 2018)
+This article relies too much on references to primary sources. Please improve this
+by adding secondary or tertiary sources. (April 2018) (Learn how and when to remove this template message)
+ImmunotherapyMeSHD007167OPS-301 code8-03[edit on Wikidata]
+Immunotherapy is the treatment of disease by activating or suppressing the immune system. Immunotherapies designed to elicit or amplify an immune response are classified as activation immunotherapies, while immunotherapies that reduce or suppress are classified as suppression immunotherapies.
+The diagram above represents the process of chimeric antigen receptor T-cell therapy (CAR), this is a method of immunotherapy, which is a growing practice in the treatment of cancer. The final result should be a
+production of equipped T-cells that can recognize and fight the infected cancer cells in the body. T-cells (represented by objects labeled as ’t’) are removed from the patient's blood.Then in a lab setting the gene that encodes for the specific antigen receptors are incorporated into the T-cells.Thus producing the CAR receptors (labeled as c) on the surface of the cells.The newly modified T-cells are then further harvested and grown in the lab.After a certain time period, the engineered T-cells are infused back into the patient.
+In recent years, immunotherapy has become of great interest to researchers, clinicians and pharmaceutical companies, particularly in its promise to treat various forms of cancer.[1][2]
+Immunomodulatory regimens often have fewer side effects than existing drugs, including less potential for creating resistance when treating microbial disease.[3]
+Cell-based immunotherapies are effective for some cancers. Immune effector cells such as lymphocytes, macrophages, dendritic cells, natural killer cells (NK Cell), cytotoxic T lymphocytes (CTL), etc., work together to defend the body against cancer by targeting abnormal antigens expressed on the surface of tumor cells.
+Therapies such as granulocyte colony-stimulating factor (G-CSF), interferons, imiquimod and cellular membrane fractions from bacteria are licensed for medical use. Others including IL-2, IL-7, IL-12, various chemokines, synthetic cytosine phosphate-guanosine (CpG) oligodeoxynucleotides and glucans are involved in clinical and preclinical studies.
+1 Immunomodulators
+2 Activation immunotherapies
+2.1 Cancer
+2.1.1 Dendritic cell-based pump-priming
+2.1.2 T-cell adoptive transfer
+3 Immune enhancement therapy
+4 Suppression immunotherapies
+4.1 Immunosuppressive drugs
+4.2 Immune tolerance
+4.3 Allergies
+5 Helminthic therapies
+6 See also
+7 References
+8 External links
+Immunomodulators[edit]
+Immunomodulators are the active agents of immunotherapy. They are a diverse array of recombinant, synthetic, and natural preparations.
+Class
+Example agents
+Interleukins
+IL-2, IL-7, IL-12
+Cytokines
+Interferons, G-CSF
+Chemokines
+CCL3, CCL26, CXCL7
+Immunomodulatory imide drugs (IMiDs)
+thalidomide and its analogues (lenalidomide, pomalidomide, and apremilast)
+Other
+cytosine phosphate-guanosine, oligodeoxynucleotides, glucans
+Activation immunotherapies[edit]
+Cancer[edit]
+Main article: Cancer immunotherapy
+Cancer immunotherapy attempts to stimulate the immune system to destroy tumors. A variety of strategies are in use or are undergoing research and testing. Randomized controlled studies in different cancers resulting in significant increase in survival and disease free period have been reported[2]
+and its efficacy is enhanced by 20–30% when cell-based immunotherapy is combined with conventional treatment methods.[2]
+One of the oldest forms of cancer immunotherapy is the use of BCG vaccine, which was originally to vaccinate against tuberculosis and later was found to be useful in the treatment of bladder cancer.[4]
+The extraction of G-CSF lymphocytes from the blood and expanding in vitro against a tumour antigen before reinjecting the cells with appropriate stimulatory cytokines. The cells then destroy the tumor cells that express the antigen.[citation needed]
+Topical immunotherapy utilizes an immune enhancement cream (imiquimod) which produces interferon, causing the recipient's killer T cells to destroy warts,[5] actinic keratoses, basal cell cancer, vaginal intraepithelial neoplasia,[6] squamous cell cancer,[7][8] cutaneous lymphoma,[9] and superficial malignant melanoma.[10]
+Injection immunotherapy ("intralesional" or "intratumoral") uses mumps, candida, the HPV vaccine[11][12] or trichophytin antigen injections to treat warts (HPV induced tumors).
+Adoptive cell transfer has been tested on lung [13] and other cancers, with greatest success achieved in melanoma.
+Dendritic cell-based pump-priming[edit]
+Dendritic cells can be stimulated to activate a cytotoxic response towards an antigen. Dendritic cells, a type of antigen presenting cell, are harvested from the person needing the immunotherapy. These cells are then either pulsed with an antigen or tumor lysate or transfected with a viral vector, causing them to display the antigen. Upon transfusion into the person, these activated cells present the antigen to the effector lymphocytes (CD4+ helper T cells, cytotoxic CD8+ T cells and B cells). This initiates a cytotoxic response against tumor cells expressing the antigen (against which the adaptive response has now been primed). The cancer vaccine Sipuleucel-T is one example of this approach.[14]
+T-cell adoptive transfer[edit]
+Adoptive cell transfer in vitro cultivates autologous, extracted T cells for later transfusion.[15]
+Alternatively, Genetically engineered T cells are created by harvesting T cells and then infecting the T cells with a retrovirus that contains a copy of a T cell receptor (TCR) gene that is specialised to recognise tumour antigens. The virus integrates the receptor into the T cells' genome. The cells are expanded non-specifically and/or stimulated. The cells are then reinfused and produce an immune response against the tumour cells.[16] The technique has been tested on refractory stage IV metastatic melanomas[15] and advanced skin cancer[17][18][19]
+Whether T cells are genetically engineered or not, before reinfusion, lymphodepletion of the recipient is required to eliminate regulatory T cells as well as unmodified, endogenous lymphocytes that compete with the transferred cells for homeostatic cytokines.[15][20][21][22] Lymphodepletion may be achieved by myeloablative chemotherapy, to which total body irradiation may be added for greater effect.[23] Transferred cells multiplied in vivo and persisted in peripheral blood in many people, sometimes representing levels of 75% of all CD8+ T cells at 6–12 months after infusion.[24] As of 2012, clinical trials for metastatic melanoma were ongoing at multiple sites.[25] Clinical responses to adoptive transfer of T cells were observed in patients with metastatic melanoma resistant to multiple immunotherapies.[26]
+Immune enhancement therapy[edit]
+Autologous immune enhancement therapy use a person's own peripheral blood-derived natural killer cells, cytotoxic T lymphocytes and other relevant immune cells are expanded in vitro and then reinfused.[27] The therapy has been tested against Hepatitis C,[28][29][30] Chronic fatigue syndrome[31][32] and HHV6 infection.[33]
+Suppression immunotherapies[edit]
+Immune suppression dampens an abnormal immune response in autoimmune diseases or reduces a normal immune response to prevent rejection of transplanted organs or cells.
+Immunosuppressive drugs[edit]
+Immunosuppressive drugs help manage organ transplantation and autoimmune disease. Immune responses depend on lymphocyte proliferation. Cytostatic drugs are immunosuppressive. Glucocorticoids are somewhat more specific inhibitors of lymphocyte activation, whereas inhibitors of immunophilins more specifically target T lymphocyte activation. Immunosuppressive antibodies target steps in the immune response. Other drugs modulate immune responses.
+Immune tolerance[edit]
+Main article: Immune tolerance
+The body naturally does not launch an immune system attack on its own tissues. Immune tolerance therapies seek to reset the immune system so that the body stops mistakenly attacking its own organs or cells in autoimmune disease or accepts foreign tissue in organ transplantation.[34] Creating immunity reduces or eliminates the need for lifelong immunosuppression and attendant side effects. It has been tested on transplantations, and type 1 diabetes or other autoimmune disorders.
+Allergies[edit]
+Main article: Allergen immunotherapy
+Immunotherapy is used to treat allergies. While allergy treatments (such as antihistamines or corticosteroids) treat allergic symptoms, immunotherapy can reduce sensitivity to allergens, lessening its severity.
+Immunotherapy may produce long-term benefits.[35] Immunotherapy is partly effective in some people and ineffective in others, but it offers allergy sufferers a chance to reduce or stop their symptoms.
+The therapy is indicated for people who are extremely allergic or who cannot avoid specific allergens. Immunotherapy is generally not indicated for food or medicinal allergies. This therapy is particularly useful for people with allergic rhinitis or asthma.
+The first dose contain tiny amounts of the allergen or antigen. Dosages increase over time, as the person becomes desensitized. This technique has been tested on infants to prevent peanut allergies.[36]
+Helminthic therapies[edit]
+Whipworm ova (Trichuris suis) and Hookworm (Necator americanus) have been tested for immunological diseases and allergies. Helminthic therapy has been investigated as a treatment for relapsing remitting multiple sclerosis[37] Crohn’s,[38][39][40] allergies and asthma.[41] The mechanism of how the helminths modulate the immune response, is unknown. Hypothesized mechanisms include re-polarisation of the Th1 / Th2 response[42] and modulation of dendritic cell function.[43][44] The helminths down regulate the pro-inflammatory Th1 cytokines, Interleukin-12 (IL-12), Interferon-Gamma (IFN-γ) and Tumour Necrosis Factor-Alpha (TNF-ά), while promoting the production of regulatory Th2 cytokines such as IL-10, IL-4, IL-5 and IL-13.[42][45]
+Co-evolution with helminths has shaped some of the genes associated with Interleukin expression and immunological disorders, such Crohn's, ulcerative colitis and celiac disease. Helminth's relationship to humans as hosts should be classified as mutualistic or symbiotic.[citation needed]
+See also[edit]
+Biological response modifiers
+Checkpoint inhibitor
+Interleukin-2 immunotherapy

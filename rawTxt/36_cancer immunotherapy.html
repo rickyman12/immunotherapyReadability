@@ -1,989 +1,401 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html >
+<!DOCTYPE html>
+<!--[if lte IE 8]>     <html lang="en" dir="ltr" class="ie8"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
 <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--
 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  GGGGGGGGGGGG      GGGGGGGGGGG               fGGGGGG
+    ;GGGGG.             GGGi                     GGGG
+      CGGGG:           GGG                       GGGG
+       lGGGGt         GGL                        GGGG
+        .GGGGC       GG:                         GGGG
+          GGGGG    .GG.        ;CGGGGGGL         GGGG          .LGGGGGGGL
+           GGGGG  iGG        GGG:   ,GGGG        GGGG        tGGf     ;GGGC
+            LGGGGfGG        GGGG     CGGG;       GGGG       GGGL       GGGGt
+             lGGGGL                  CGGG;       GGGG      CGGGCCCCCCCCCCCCC
+              GGGG                   GGGG,       GGGG      GGGG
+              GGGG             tCGG; CGGG,       GGGG      GGGG
+              GGGG          GGGG     CGGG.       GGGG      GGGGL
+              GGGG         GGGGC     CGGG.       GGGG      :GGGGC          :
+             ,GGGGG.       GGGGG:  .LGGGGG,.tG   GGGG        GGGGGGt,..,fGC
+        ,GGGGGGGGGGGGGGf    iGGGGGG   CGGGGC  GGGGGGGGGG       LGGGGGGGC
 
-    <meta name="last_modified_date" content="1499901879" />
+  -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://news.yale.edu/sites/all/themes/yalenew_base/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:image:height" content="402" />
+<meta property="og:image:width" content="766" />
+<meta property="og:image" content="https://news.yale.edu/sites/default/files/styles/opengraph_image/public/adobestock_153860994.jpeg?itok=BUHq7afP" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10, minimum-scale=1, user-scalable=yes" />
+<meta about="/content-categories/conversation" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="In Conversation" />
+<meta name="description" content="Yale’s Lieping Chen, a pioneering immunobiologist, cautions that some immunotherapy research is advancing too fast on top of shaky scientific foundations." />
+<meta name="keywords" content="Yale University, news, OPA, OPAC, press releases" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://news.yale.edu/2018/12/20/yale-cancer-center-scientists-advise-caution-immunotherapy-research" />
+<link rel="shortlink" href="https://news.yale.edu/node/210828" />
+<meta property="fb:admins" content="100007178022728" />
+<meta property="fb:app_id" content="1883081775278327" />
+<meta property="og:site_name" content="YaleNews" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Yale Cancer Center scientists advise caution in immunotherapy research" />
+<meta property="og:url" content="https://news.yale.edu/2018/12/20/yale-cancer-center-scientists-advise-caution-immunotherapy-research" />
+<meta property="og:description" content="Yale’s Lieping Chen, a pioneering immunobiologist, cautions that some immunotherapy research is advancing too fast on top of shaky scientific foundations." />
+<meta property="og:updated_time" content="2019-01-11T15:28:39-05:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@yale" />
+<meta name="twitter:url" content="https://news.yale.edu/2018/12/20/yale-cancer-center-scientists-advise-caution-immunotherapy-research" />
+<meta name="twitter:title" content="Yale Cancer Center scientists advise caution in immunotherapy research" />
+<meta name="twitter:description" content="Yale’s Lieping Chen, a pioneering immunobiologist, cautions that some immunotherapy research is advancing too fast on top of shaky scientific foundations." />
+<meta property="article:published_time" content="2018-12-20T11:00:00-05:00" />
+<meta property="article:modified_time" content="2019-01-11T15:28:39-05:00" />
+  <title>Yale Cancer Center scientists advise caution in immunotherapy research | YaleNews</title>
+  <!--[if IEMobile]><meta http-equiv="cleartype" content="on" /><![endif]-->
 
-    <!-- Internal user test pixel -->
-    <script type="text/javascript">
-      (function () {
-        window.dataLayer = [];
-        //Test internal pixel function
-        function testImage(URL) {
-          var tester = new Image();
-          tester.onload = imageFound;
-          tester.onerror = imageNotFound;
-          tester.src = URL;
-        }
-        function imageFound() {
-          window.dataLayer.push({ 'Internal User - Fred Hutch' : "true" });
-        }
-        function imageNotFound() {
-          window.dataLayer.push({ 'Internal User - Fred Hutch' : "false" });
-        }
-        testImage("https://s3-us-west-2.amazonaws.com/fredhutch-internal/analytics.gif");
-      })();
-    </script>
-    <!-- End Internal user test pixel -->
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-P5LSMQ');</script>
-    <!-- End Google Tag Manager -->
-    
-    <meta name="keywords" content="citn, cancer immunotherapy trials network"/>
-    <meta name="description" content="CITN employs the expertise of top academic immunologists to design and conduct early phase clinical trials with the most promising immunotherapy agents."/>
-    <meta name="robots" content="all"/>
-    
-    
-    <link rel="canonical" href="https://www.fredhutch.org/en/labs/science-projects/citn.html"/>
-    
-    
-    <link rel="image_src" href="https://www.fredhutch.org/etc/designs/public/img/facebook_share.png"/>
-    
-     
-    
-    <meta property="og:image" content="https://www.fredhutch.org/etc/designs/public/img/facebook_share.png"/>
-    
-    
-    <meta property="og:title" content="Cancer Immunotherapy Trials Network"/>
-    <meta property="og:description" content="CITN employs the expertise of top academic immunologists to design and conduct early phase clinical trials with the most promising immunotherapy agents."/>
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="https://news.yale.edu/sites/all/themes/yalenew_base/images/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="icon" sizes="228x228" href="/sites/all/themes/yalenew_base/images/touch-icon-228.png">
+  <link rel="apple-touch-icon-precomposed" sizes="228x228" href="/sites/all/themes/yalenew_base/images/touch-icon-228.png">
 
-    <meta property="og:site_name" content="Fred Hutch"/>
-    <meta property="og:url" content="http://www.fredhutch.org/en/labs/science-projects/citn.html"/>
-    <meta property="og:locale" content="en_US"/>
+  <link type="text/css" rel="stylesheet" href="https://news.yale.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.yale.edu/sites/default/files/css/css_iSea0QcK8sK4-NMRF1bieNOlT8ufrYS-dELeVJbZuAo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.yale.edu/sites/default/files/css/css_WF5LdAltDeWbHwteIdjtkbWMnXqdCik7e8zzYpuOU5Q.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.yale.edu/sites/default/files/css/css_3-Hv240KI4w5x6WlQeBp-3D8Z8_Yw-qtDF653PRBivs.css" media="all" />
 
-    <meta property="fb:admins" content="10420423202"/>
-    <meta property="fb:pages" content="10420423202"/>
-      
-    
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@fredhutch">
-    <meta name="twitter:title" content="Cancer Immunotherapy Trials Network">
-    <meta name="twitter:description" content="CITN employs the expertise of top academic immunologists to design and conduct early phase clinical trials with the most promising immunotherapy agents.">
-    
-    
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    
-    
-    
-    
-    
-    
-    <link href="/etc/designs/public/clientlibs.min.css?t=234234" type="text/css" rel="stylesheet"/>
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://news.yale.edu/sites/default/files/css/css_nBvgsRGFO8eRuGybs3zqi1R0F_76QazEf5KpSL9kQhA.css" media="all" />
+<![endif]-->
 
-    
-    <link rel="stylesheet" href="/etc/designs/public/clientlibs/css/webfonts-geogrotesque.css"/>
-    
-    <script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
-<script type="text/javascript" src="/etc/designs/public/clientlibs/headEmbeds.min.js"></script>
-<script type="text/javascript" src="/etc/designs/public/clientlibs.min.js"></script>
-
-
-    
-    
-    <link rel="stylesheet" href="/etc/designs/public/clientlibs/css/print.css" type="text/css" media="print"/>
-    
-
-
-    <!--[if gte IE 9]>
-      <style type="text/css">
-        /* http://www.colorzilla.com/gradient-editor/ */
-        .gradient {
-           filter: none;
-        }
-      </style>
-    <![endif]-->
-
-    <!--[if lte IE 9]>
-    <link rel="stylesheet" type="text/css" href="/etc/designs/public/clientlibs/css/ie9.css" />
-    <![endif]-->
-
-    <!--[if lte IE 8]>
-    <link rel="stylesheet" type="text/css" href="/etc/designs/public/clientlibs/css/ie8.css" />
-    <![endif]-->    
-    
-    <!--[if lte IE 7]>
-    <link rel="stylesheet" type="text/css" href="/etc/designs/public/clientlibs/css/ie7.css" />
-    <![endif]-->  
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <!-- Donlon Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '229798047358683');
-fbq('track', 'PageView');
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://news.yale.edu/sites/default/files/css/css_059BxwQdO3W6gC_prw0ohrQj1fWv8MiFJkqt4YP0qJk.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="https://news.yale.edu/sites/all/libraries/respondjs/respond.min.js?plwavv"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=229798047358683&ev=PageView&noscript=1"/></noscript>
-<!-- End Donlon Facebook Pixel Code -->
-
-
-<script type='text/javascript'>
-var axel = Math.random()+"";
-var a = axel * 10000000000000;
-document.write('<img src="https://pubads.g.doubleclick.net/activity;xsp=4405302;ord='+ a +'?" width=1 height=1 border=0/>');
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
 </script>
-<noscript>
-<img src="https://pubads.g.doubleclick.net/activity;xsp=4405302;ord=1?" width="1" height="1" border="0/">
-</noscript>
-
-
-<img src="https://bcp.crwdcntrl.net/5/c=8381/b=58743014" width="1" height="1"/>
-
-    
-    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/public/img/favicon.ico"/>
-    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/public/img/favicon.ico"/>
-    
-    <title>Cancer Immunotherapy Trials Network</title>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js__7Mjvj_fIAGoauK0xklylKBUIHrCcijyT8yucEi2E0o.js"></script>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_NpX2cwCeepkWZZ194B6-ViyVBHleaYLOx5R9EWBOMRU.js"></script>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_BduJ7UqTOjhLY7gTO_nHAWbTlqF0HrASIYGE_xkx4dM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-991898-10", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all('page');da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.templates=a2a_config.templates||{};var a2a_config = a2a_config || {};
+a2a_config.icon_color = "#5c5c5c";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_cMyvDF5yyqO6Rj_1cLI1Cy3gNowwegIq_jHn8oSBiuo.js"></script>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_M6sEy2lT923OpkM83KZZDIPwgzV70u3Ruc8GMB8RoS4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"yalenews","theme_token":"gm9pwAxGOpFiqwLa3qrUH-d9tL8eMIZ6RWhM87vfOLM","jquery_version":"1.8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/adaptive_image\/css\/adaptive-image.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/jscrollpane\/css\/jquery.jscrollpane.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/typogrify\/typogrify.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/modules\/contrib\/ajaxblocks\/ajaxblocks.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/yalenews\/css\/yalenews.css":1,"ie::wide::sites\/all\/themes\/yalenew_base\/css\/grid\/yalenew_default\/wide\/yalenew-default-wide-12.css":1,"sites\/all\/themes\/yalenew_base\/css\/grid\/yalenew_default\/fluid\/yalenew-default-fluid-12.css":1,"sites\/all\/themes\/yalenew_base\/css\/grid\/yalenew_default\/narrow\/yalenew-default-narrow-12.css":1,"sites\/all\/themes\/yalenew_base\/css\/grid\/yalenew_default\/wide\/yalenew-default-wide-12.css":1},"js":{"sites\/all\/libraries\/respondjs\/respond.min.js":1,"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/modules\/contrib\/jscrollpane\/js\/jquery.jscrollpane.min.js":1,"sites\/all\/modules\/contrib\/jscrollpane\/js\/jquery.mousewheel.js":1,"sites\/all\/modules\/contrib\/jscrollpane\/js\/script.js":1,"sites\/all\/modules\/contrib\/views_load_more\/views_load_more.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"3":1,"sites\/all\/modules\/contrib\/ajaxblocks\/ajaxblocks.js":1,"sites\/all\/modules\/contrib\/extlink_extra\/extlink_extra.js":1,"4":1,"sites\/all\/themes\/yalenews\/js\/equal-heights.js":1,"sites\/all\/themes\/yalenews\/js\/expanding-search.js":1,"5":1,"6":1,"7":1,"8":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/yalenew_base\/js\/modernizr.min.js":1,"sites\/all\/themes\/yalenews\/js\/yalenews-scripts.js":1}},"jScrollPane":{"class":".scroll-pane"},"better_exposed_filters":{"views":{"in_focus":{"displays":{"block":{"filters":[]}}},"articles":{"displays":{"block_2":{"filters":[]}}},"home":{"displays":{"block_3":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/search":true,"\/views\/ajax":true},"field_group":{"html-element":"story","link":"home_page_instagram_block"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ac40ee3ae1f1ae96d023bebe8ed27395":{"view_name":"articles","view_display_id":"block_2","view_args":"210828","view_path":"node\/210828","view_base_path":null,"view_dom_id":"ac40ee3ae1f1ae96d023bebe8ed27395","pager_element":0}}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":".card__item, .typography, .teaser-row","extAlert":0,"extAlertText":{"value":"You are now leaving YaleNews to go to an external link.","format":"filtered_html"},"mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"extlink_extra":{"extlink_alert_type":"","extlink_alert_timer":"5","extlink_alert_url":"\/now-leaving","extlink_cache_fix":1,"extlink_exclude_warning":"","extlink_508_fix":0,"extlink_508_text":" [external link]","extlink_url_override":1,"extlink_url_params":{"external_url":null,"back_url":null}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"ajaxblocks":"blocks=views-articles-block_2\u0026path=node\/210828","omega":{"layouts":{"primary":"wide","order":["fluid","narrow","wide"],"queries":{"fluid":"all and (max-width: 739px)","narrow":"all and (min-width: 740px) and (max-width: 1024px)","wide":"all and (min-width: 1025px)"}}}});
+//--><!]]>
+</script>
 
 </head>
-
-
-
-<body class="landingpage foundation page griddedcolumns">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5LSMQ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-
-<a href="#content" title="Jump to content"></a>
-<a href="#site-wide-navigation" title="Jump to site-wide navigation"></a>
-<a href="#section-navigation" title="Jump to navigation for this section"></a>
-
-
-<div id="fh_container" class="fh_container">
- 
- <!-- page content -->
- <div id="fh_body" class="fh_body container_12 clearfix"><a name="content"></a>
-
-  <div class="grid_12">
-
-    <!-- breadcrumbs appear in the content flow in case they wrap to two lines -->
-    
-
-<div id="breadcrumbs" class="breadcrumbs"><ul>
-<li><a href="/en.html">Home</a></li><li><a href="/en/labs.html">Labs / Projects</a></li><li><a href="/en/labs/science-projects.html">Scientific Labs / Programs</a></li>
-<li>Cancer Immunotherapy Trials Network</li>
-</ul><!-- <br class="clear"/>--></div>
-
-    <!-- all pages have the cluster title -->
-    
-
-
-  <h1 class="cluster_title">
-      <!-- Lockerz Share BEGIN -->
-      <span class="share_options">
-        <a class="a2a_dd" href="http://www.addtoany.com/share_save">
-    		<img src="/etc/designs/public/img/buttons/plus_icon_static.png" class="rolloverImage" data-hover="/etc/designs/public/img/buttons/plus_icon_hover.png"><span class="share_link_text">Share</span>
-    	</a>
-      </span>
-      <script type="text/javascript">
-      <!--
-        a2a_config = {};
-        a2a_config.onclick=1;
-        a2a_config.show_title=0;
-        a2a_config.num_services=10;
-        /*a2a_config.linkname=document.title;
-        a2a_config.linkurl=location.href;*/
-        a2a_config.prioritize=["facebook","twitter","linkedin","digg","delicious","myspace","read_it_later","squidoo","technorati_favorites","care2_news"];
-        /*a2a_config.color_main="D7E5ED";*/
-        /*a2a_config.color_border="AECADB";*/
-        a2a_config.color_link_text="123054";
-        a2a_config.color_link_text_hover="24548d";
-      //-->
-      </script>
-      <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
-      <!-- Lockerz Share END -->   Cancer Immunotherapy Trials Network</h1>
-
-
- 
-  
-    
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-210828 node-type-article page-article i18n-en context-2018">
+  <aside role='complementary' id="skip-link" aria-label="Skip to main content">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </aside>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header" role="banner">
+  <div id="zone-topper-wrapper" class="zone-wrapper zone-topper-wrapper clearfix yalenews-topper">  <div id="zone-topper" class="zone zone-topper clearfix container-12">
+    <div class="grid-12 region region-topper-second" id="region-topper-second">
+  <div class="region-inner region-topper-second-inner">
+    <div class="region-topper-inner-position">
+      <div class="block block-menu topper-menu block-menu-topper-menu block-menu-menu-topper-menu odd block-without-title" id="block-menu-menu-topper-menu">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf menu-calendar"><a href="http://calendar.yale.edu/" class="fa fa-calendar"><span>calendar</span></a></li>
+<li class="last leaf menu-subscribe"><a href="https://subscribe.yale.edu/browse?area=a0df40000006XkQAAU" class="fa fa-envelope-o"><span>subscribe</span></a></li>
+</ul>    </div>
   </div>
-
-  <!-- content column -->
-  
-    <div id="fh_body_content" class="fh_body_content grid_12"><div class="par parsys"><div class="standardslider parbase section">
-
-
-
-
-<div class="standardSlider" id="ss-2b3c95ccbf76218212508859b23fa5c5">
-<div class="royalSlider rsUni">
-
-
-
-    <div class="rsContent hero">
-     
-     <a href="/en/labs/science-projects/citn/about.html">
-     
-        <img src="/en/labs/science-projects/citn/_jcr_content/par/standardslider/image1.img.jpg/1499901879212.jpg" alt="file" title="" class="rsImg"/>
-        
-        <div class="infoBlock gradient">
-            <h4>Collective expertise</h4>
-            <p class='deck'>Employing the expertise of top academic immunologists to design and conduct cancer therapy trials with the most promising immunotherapy agents.</p>    
-            <p class='credit'>Getty Images</p>
-        </div>
-        
-     </a>
+</div>
+<div class="block block-menu sharing-menu block-menu-social-buttons block-menu-menu-social-buttons even block-without-title" id="block-menu-menu-social-buttons">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf menu-facebook"><a href="https://www.facebook.com/YaleUniversity" class="fa fa-facebook"><span>Facebook</span></a></li>
+<li class="leaf menu-twitter"><a href="http://www.twitter.com/yale" class="fa fa-twitter"><span>Twitter</span></a></li>
+<li class="leaf menu-instagram"><a href="http://instagram.com/yale" class="fa fa-instagram"><span>Instagram</span></a></li>
+<li class="last leaf menu-rss-feeds"><a href="/rss-feeds" class="fa fa-rss"><span>RSS Feeds</span></a></li>
+</ul>    </div>
+  </div>
+</div>
     </div>
+  </div>
+</div>
+  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="zone-inner clearfix">
+        <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+                                                  <h2 class="site-name"><a href="/" title="Home">YaleNews</a></h2>
+                                  </div>
+        
+<div class="site-nav">
+  <div class="site-nav-inner">
+    <nav id="explore_topics_nav" class="main-nav" aria-label="Explore Topics">
+      <button id="explore_topics_button" class="main-nav-button" aria-expanded="false" aria-haspopup="true">Explore Topics</button>
+      <div id="explore_topics_container" class="main-nav-container" aria-hidden="true">
+        <ul class="menu"><li class="first leaf menu-alumni"><a href="/topics/alumni">Alumni</a></li>
+<li class="leaf menu-arts-&amp;-humanities"><a href="/topics/arts-humanities">Arts &amp; Humanities</a></li>
+<li class="leaf menu-business"><a href="/topics/business">Business</a></li>
+<li class="leaf menu-campus-&amp;-community"><a href="/topics/campus-community">Campus &amp; Community</a></li>
+<li class="leaf menu-environment"><a href="/topics/environment">Environment</a></li>
+<li class="leaf menu-health-&amp;-medicine"><a href="/topics/health-medicine">Health &amp; Medicine</a></li>
+<li class="leaf menu-international"><a href="/topics/international">International</a></li>
+<li class="leaf menu-law"><a href="/topics/law">Law</a></li>
+<li class="leaf menu-science-&amp;-technology"><a href="/topics/science-technology">Science &amp; Technology</a></li>
+<li class="leaf menu-social-sciences"><a href="/topics/social-sciences">Social Sciences</a></li>
+<li class="last leaf menu-in-focus"><a href="/in-focus">In Focus</a></li>
+</ul>      </div>
+    </nav>
+  </div>
+</div>
+<div class="block block-views block-search sb-search block--exp-search-page block-views-exp-search-page even block-without-title" id="block-views-exp-search-page">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <form role="search" action="/search" method="get" id="views-exposed-form-search-page" accept-charset="UTF-8"><div><div class="container-inline">
+  <h2 class="element-invisible">Search form</h2>
+                        <div class="form-item form-type-textfield form-item-search-api-views-fulltext">
+ <input class="sb-search-input form-text" placeholder="Search YaleNews" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" />
+</div>
+                          <div class="views-exposed-widget views-submit-button search-submit">
+      <input class="sb-search-submit form-submit" type="submit" id="edit-submit-search" value="Apply" /><span class="sb-icon-search"><span class="visually_hidden">Search</span></span>    </div>
+    </div>
+</div></form>    </div>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div></header>
+  
+      <main  id="section-content" class="section section-content" role="main">
+  <div id="section-content-inner">
+    <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  <div id="zone-content" class="zone zone-content clearfix container-12">
+            <div class="zone-content-inner clearfix">
+        <div class="grid-8 region region-content push-2" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content" tabindex="-1"></a>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <div id="node-210828" class="node node-article view-mode-full node-published node-not-promoted node-not-sticky author-481 even clearfix">
+  <h1 class="title" id="page-title">Yale Cancer Center scientists advise caution in immunotherapy research</h1><div class="byline-date clearfix"><div class="byline">By Anne Doerr</div><div class="date">December 20, 2018</div><div class="sharetools"><span class="a2a_kit a2a_kit_size_28 a2a_target addtoany_list" id="da2a_2">
+      <a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_email"></a>
+<a class="a2a_button_print"></a>
+      
+      
+    </span>
+    </div></div><div class="typography">
 
+  <div class="feature-media"><figure class="caption-wrapper full-width"><img typeof="foaf:Image" src="https://news.yale.edu/sites/default/files/styles/featured_media/public/adobestock_153860994.jpeg?itok=MvBxIjGj&amp;c=07307e7d6a991172b9f808eb83b18804" alt="A cancer patient consults with her doctor from a hospital bed. " /><figcaption class="caption">(© stock.adobe.com)</figcaption></figure></div>
+<div class="story clearfix">
+
+  <p>In a new study by <a href="https://www.yalecancercenter.org/">Yale Cancer Center</a> (YCC), scientists suggest that as the number of clinical trials in cancer immunotherapy grows exponentially, some caution should be exercised as we continue to better understand the biology of these new therapeutic targets. <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31502-2">The findings are published today in the journal Cell</a>.</p>
+<p>Researchers around the world have been racing to create therapies that unleash the power of our immune systems against cancer. The most successful of these immunotherapies, which target a molecular pathway known as PD-1/PD-L1, have brightened the landscape for many people suffering with lung cancer and other types of tumors.</p>
+<p><a href="https://medicine.yale.edu/bbs/people/lieping_chen.profile">Lieping Chen</a>, M.D., who pioneered work on the PD-1/PD-L1 pathway, cautions that some immunotherapy research is going off track by moving into drug development without a firm foundation of basic biological understanding. Chen is the United Technologies Corporation Professor in Cancer Research and co-director of the <a href="https://www.yalecancercenter.org/research/immunoonc/YCIO.aspx">Cancer Immunology Program</a> at YCC.</p>
+<p>A case in point is the LAG-3 molecule. Like PD-1, the LAG-3 protein is found on the surface of the immune system’s T cells, and tumors can use it to shield themselves from the T cell attack. Most scientists have believed that a surface protein called MHC class II (MHC-II) is the major “ligand” molecule that cancer cells can use to connect with the LAG-3 molecule in order to dial down T cell activity, and thus targeting MHC-II will help to unblock the T cells.</p>
+<p>However, the YCC team has shown that the leading role in LAG-3 immunosuppression instead is filled by a protein known as FGL1.</p>
+<p>Although pharmaceutical companies have already brought LAG-3 inhibitors that block MHC-II into several clinical trials, such drugs are not likely to perform well, Chen said. “The overall LAG-3 pathway is a lot more complicated than believed,” he added. “FGL1 is the major ligand for immunosuppression and designing LAG-3 drugs to block the MHC-II ligand only could be problematic.” Chen’s lab discovered PD-L1 in 1999 and first developed anti-PD-L1/PD-1 antibodies for cancer immunotherapy.</p>
+<p>Looking through the scientific literature, Chen and his colleagues found surprisingly little evidence that MHC-II is the major ligand to enable LAG-3 immunosuppression. So what mechanism is at work? The Yale team first looked to see if LAG-3 connects to other ligands, using a “Receptor Array” system developed in the Chen lab that can individually generate nearly all human cell membrane proteins, and then analyze how these proteins interact with other molecules. This experiment clearly showed for the first time that LAG-3 binds to the FGL1 protein.</p>
+<p>Following up with studies in mouse models, the investigators demonstrated that removing FGL1 either by genetic engineering or with antibody drugs produced an increase in T cells. Additionally, the mice often slowly developed mild forms of autoimmune disease. Both findings suggested that the protein can indeed dampen T cell activity. Moreover, in mouse models of cancer, blocking the FGL1/LAG-3 interaction boosted T cell activity and slowed tumor growth.</p>
+<p>Next, Chen’s team found that FGL1 is produced at strikingly high levels in various human cancers including lung cancer and melanoma. The researchers also found that higher levels of FGL1 in the blood of these cancer patients are linked to poor prognosis and resistance to anti-PD-1/PD-L1 therapy.</p>
+<p>In short, said Chen, “we need to pay attention to the fundamentals of FGL1/LAG-3 interaction before we can develop efficient drugs for LAG-3 cancer immunotherapy.”</p>
+<p>Yale’s <a href="https://medicine.yale.edu/lab/chen/members/jun_wang.profile">Jun Wang</a> was first author on the paper. Other Yale contributors included Miguel Sanmamed, Ila Datar, Tina Tianjiao Su, Lan Ji, Jingwei Sun, Gefeng Zhu, Linghua Zheng, Ting Zhou, Ti Badri, Sheng Yao, Shu Zhu, Agedi Boto, Mario Sznol and Kurt Schalper. Other co-authors included Ling Chen and Yusheng Chen of Fujian Medical University, Weiwei Yin of Zhejiang University, Ignacio Melero of the University of Navarra, and Dario Vignali of the University of Pittsburgh.</p>
+<p>Lead funding for the research was provided by the National Institutes of Health, Yale Specialized Program of Research Excellence (SPORE) for Lung cancer and Boehringer Ingelheim.</p>
+
+</div><div class="story-bottom clearfix"><div class="tag-button-wrap"><p class="tag-button"><a href="/topics/health-medicine">Health &amp; Medicine</a></p></div><div class="sharetools"><span class="a2a_kit a2a_kit_size_28 a2a_target addtoany_list" id="da2a_1">
+      <a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_email"></a>
+<a class="a2a_button_print"></a>
+      
+      
+    </span>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(window.da2a)da2a.script_load();
+//--><!]]>
+</script></div><div class="media-contact"><p class="eyebrow">Media Contact</p><p class="contact">Anne Doerr: <a href="mailto:anne.doerr@yale.edu">anne.doerr@yale.edu</a>, 203-737-2629 </p></div></div></div>  </div>
+    </div>
+  </div>
+</div>
+      </div>
+</div>
+    </div>
+  </div>
+</div><div id="zone-row-b-wrapper" class="zone-wrapper zone-row-b-wrapper clearfix row-shaded">  <div id="zone-row-b" class="zone zone-row-b clearfix container-12">
+    <div class="zone-inner clearfix">
+        <div class="grid-12 region region-row-b-first region-flexgrid" id="region-row-b-first">
+  <div class="region-inner region-row-b-first-inner">
+    <div class="block block-views block-articles-block-2 block-views-articles-block-2 odd block-without-title" id="block-views-articles-block-2">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <div id="block-views-articles-block_2-ajax-content" class="ajaxblocks-wrapper-2"><script type="text/javascript"></script><noscript><div class="view view-articles view-id-articles view-display-id-block_2 view-dom-id-ac40ee3ae1f1ae96d023bebe8ed27395">
+        
+      <div class="view-filters">
+      <div class="more-wrap clearfix">
+        <h2 id="more_news_heading" class="more-news-heading">More News</h2>
+      </div>
+    </div>
   
 
-</div></div>  
-<div class='clear'></div>      
-
-<script type="text/javascript" src="/etc/designs/shared/clientlibs/js/jQuery_1_10.min.js"></script>
-<script type="text/javascript" src="/etc/designs/shared/clientlibs/js/jQuery/jQuery_1_10.min.js"></script>
-<script type="text/javascript" src="/etc/designs/public/clientlibs/libs/royalslider.min.js"></script>
+  
+      <div class="cards">
+        <article class="card__item"><a href="https://news.yale.edu/2019/01/25/editor-discuss-decline-architecture-journalism" class="card__body">
+  <img typeof="foaf:Image" src="https://news.yale.edu/sites/default/files/styles/card/public/levinson-ynews.jpg?itok=Z1ItTK1r&amp;c=07307e7d6a991172b9f808eb83b18804" width="430" height="250" alt="Nancy Levinson with Poynter logo" title="" /><div class="card__text"><h3 class="card__headline">Editor to discuss decline in architecture journalism</h3></div></a></article>  <article class="card__item"><a href="https://news.yale.edu/2019/01/25/songs-holocaust-testimonies-weave-melody-and-struggle" class="card__body">
+  <img typeof="foaf:Image" src="https://news.yale.edu/sites/default/files/styles/card/public/fortunoff-sheet-music.jpg?itok=nfU3C_N7&amp;c=07307e7d6a991172b9f808eb83b18804" width="430" height="250" alt="Sheet music from recording sessions for a project creating a collection of music drawn from testimonies in the Fortunoff Archive" title="" /><div class="card__text"><h3 class="card__headline">Songs from Holocaust testimonies weave melody and struggle</h3></div></a></article>  <article class="card__item"><a href="https://news.yale.edu/2019/01/25/honoring-king-activists-discuss-their-work-create-beloved-community" class="card__body">
+  <img typeof="foaf:Image" src="https://news.yale.edu/sites/default/files/styles/card/public/mlk_commemoration_panel.jpg?itok=YYwVd_UM&amp;c=07307e7d6a991172b9f808eb83b18804" width="430" height="250" alt="Mikveh Warshaw YSN ’17, Barbara Fair, Hanifa Nayo Washington, Aaron Jafferis, and Kerry Ellington. " title="" /><div class="card__text"><h3 class="card__headline">Honoring King, activists discuss their work to create ‘beloved community’</h3></div></a></article>  <article class="card__item"><a href="https://insights.som.yale.edu/insights/three-questions-prof-zo-chance-on-the-standoff-between-nancy-pelosi-and-donald-trump" class="card__body">
+  <img typeof="foaf:Image" src="https://news.yale.edu/sites/default/files/styles/card/public/thumbnail/liontamer3.jpg?itok=5VP1WNLw&amp;c=b34d959e670923cd301a7c2d34f9c8c9" width="430" height="250" alt="" title="" /><div class="card__text"><p class="card__eyebrow">In Conversation</p><h3 class="card__headline">SOM Insights: Zoë Chance on the standoff between Pelosi and Trump</h3></div></a></article>    </div>
+  
+      <div class="more-button-wrap">
+      <div class="item-list"><ul class="pager pager-load-more"><li class="pager-next first last"><a href="/2018/12/20/yale-cancer-center-scientists-advise-caution-immunotherapy-research?page=1" role="button" class="more-button"><span class="element-invisible">Show </span>More<span class="element-invisible"> Articles</span></a></li></ul></div>    </div>
   
   
+  
+  
+  
+</div></noscript></div>    </div>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>  </div>
+</main>
+  
+      <footer id="section-footer" class="section section-footer" role="contentinfo">
+  <div id="zone-subfooter-wrapper" class="zone-wrapper zone-subfooter-wrapper clearfix">  <div id="zone-subfooter" class="zone zone-subfooter clearfix container-12">
+    <div class="zone-inner clearfix">
+        <div class="grid-12 region region-subfooter-first" id="region-subfooter-first">
+  <div class="region-inner region-subfooter-first-inner">
+      </div>
+</div>
+<div class="grid-12 region region-subfooter-second" id="region-subfooter-second">
+  <div class="region-inner region-subfooter-second-inner">
+      </div>
+</div>
+    </div>
+  </div>
+</div><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="zone-inner clearfix">
+        <div class="grid-2 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="footer-logo"><a href="http://www.yale.edu" class="y-icons y-yale y-mark"><span class="element-invisible">Yale</span></a></div>
+  </div>
+</div><div class="grid-7 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-menu footer-menu block-menu-footer-menu block-menu-menu-footer-menu odd block-without-title" id="block-menu-menu-footer-menu">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf menu-browse-archives"><a href="/browse-archives"><span>Browse Archives</span></a></li>
+<li class="leaf menu-contact-yalenews"><a href="mailto:news@yale.edu"><span>Contact YaleNews</span></a></li>
+<li class="leaf menu-for-the-media"><a href="http://communications.yale.edu/media"><span>For the Media</span></a></li>
+<li class="leaf menu-it’s-your-yale"><a href="https://your.yale.edu"><span>It’s Your Yale</span></a></li>
+<li class="leaf menu-apply-to-yale"><a href="http://www.yale.edu/admissions"><span>Apply to Yale</span></a></li>
+<li class="last leaf menu-give-to-yale"><a href="http://giving.yale.edu"><span>Give to Yale</span></a></li>
+</ul>    </div>
+  </div>
+</div>
+<div class="block block-footer-message block-footer-message-footer-message even block-without-title" id="block-footer-message-footer-message">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <p>Managed by the  <a href="http://communications.yale.edu">Office of Public Affairs &amp; Communications</a></p>
+    </div>
+  </div>
+</div>
+<div class="block block-block footer-copyright block-6 block-block-6 odd block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <p class='footer-copyright'>Copyright &copy;
+2019
+Yale University &middot; All rights reserved &middot; <a title='Yale Privacy policy' href='http://www.yale.edu/privacy-policy'>
+Privacy policy</a>  &middot; <a title='Accessibility at Yale' href='https://usability.yale.edu/web-accessibility/accessibility-yale'>
+Accessibility at Yale</a> 
+</p>    </div>
+  </div>
+</div>
+<div class="block block-menu-block sharing-menu sharing-menu-footer block-2 block-menu-block-2 even block-without-title" id="block-menu-block-2">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-2 menu-name-menu-social-buttons parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-882 menu-facebook"><a href="https://www.facebook.com/YaleUniversity" class="fa fa-facebook"><span>Facebook</span></a></li>
+<li class="leaf menu-mlid-874 menu-twitter"><a href="http://www.twitter.com/yale" class="fa fa-twitter"><span>Twitter</span></a></li>
+<li class="leaf menu-mlid-1261 menu-instagram"><a href="http://instagram.com/yale" class="fa fa-instagram"><span>Instagram</span></a></li>
+<li class="last leaf menu-mlid-1266 menu-rss-feeds"><a href="/rss-feeds" class="fa fa-rss"><span>RSS Feeds</span></a></li>
+</ul></div>
+    </div>
+  </div>
+</div>
+  </div>
+</div><div class="grid-3 region region-footer-third" id="region-footer-third">
+  <div class="region-inner region-footer-third-inner">
+    <div class="block block-views footer-instagram block-home-block-3 block-views-home-block-3 odd block-without-title" id="block-views-home-block-3">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <div class="view view-home view-id-home view-display-id-block_3 view-dom-id-37cc77f861be7c42072587e6f9db347e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <a href="https://www.instagram.com/yale" class="instagram_teaser"><figure class="instagram_teaser_figure responsive_image"><span class="instagram_teaser_image"><img typeof="foaf:Image" src="https://news.yale.edu/sites/default/files/styles/instagram_image/public/harkness_800px.jpg?itok=L32Va0nC&amp;c=6dba7b88948980fbbbcf03bfaa1af0ab" alt="Yale on Instagram" /></span><figcaption class="instagram_teaser_caption button_text">Yale on Instagram</figcaption></figure></a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div></footer>
+  </div>
+  <script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_mxhs19B2L1PniTjg1XrJCwP176BrYHpQxUJ4Cb28agY.js"></script>
 <script type="text/javascript">
-    jQuery(document).ready(function($) {//return;
-        $("#ss-2b3c95ccbf76218212508859b23fa5c5.standardSlider .royalSlider").royalSlider({
-            keyboardNavEnabled: true,
-            autoScaleSlider: true,
-            loop: true,
-            transitionType: 'fade',
-            globalCaption: false,
-            imageScaleMode: 'fill',
-            imageScalePadding: 0,
-            autoScaleSliderWidth: 940,     
-            autoScaleSliderHeight: 414,
-            autoPlay: {
-                enabled: false,
-                pauseOnHover: true,
-                delay: 7500
-            },
-            arrowsNav: true,
-            arrowsNavAutoHide: true,
-            navigateByClick: false,
-            deeplinking: {
-              enabled: true
-            },
-            controlNavigation: 'bullets',
-            video: {
-               autoHideControlNav: true,
-               autoHideArrows: true,
-               vimeoCode: '<iframe src="//player.vimeo.com/video/%id%?byline=0&amp;portrait=0&amp;autoplay=1" frameborder="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>',
-               youTubeCode: '<iframe src="//www.youtube.com/embed/%id%?rel=1&autoplay=1&showinfo=0&wmode=transparent" frameborder="no"></iframe>'                 
-            }
-        });
-
-        var theBullets = $("#ss-2b3c95ccbf76218212508859b23fa5c5.standardSlider").find("div.rsBullet");
-        if (theBullets.size() === 1) {
-
-			$("#ss-2b3c95ccbf76218212508859b23fa5c5.standardSlider div.rsBullets").css({
-				display:'none'
-			});
-        	
-        }
-        
-    });
-</script></div>
-<div class="parsys_column cq-colctrl-lt1"><div class="parsys_column cq-colctrl-lt1-c0"><div class="featureBox parbase section">
-
-
-
-
-
-
-
-
-
-
-<div class="feature_box_container colorTheme0">
-
-	<div class="image_container">
-	
-		
-			
-			
-			
-				
-				
-					
-					
-					
-					
-						<a href="/en/labs/science-projects/citn/about.html">
-							<img src="/en/labs/science-projects/citn/_jcr_content/par/featurebox/image.img.jpg/1480546721862.jpg" alt="file" title="" class="cq-dd-image"/>
-						</a>
-						
-					
-					
-				
-				
-			
-			
-			
-			
-		
-	     
-	</div>
-	     
-	<div class="text_and_titles_container">
-	     
-		<h2 class="category">Facilitating Early Phase Trials</h2>
-		
-		
-			
-			
-			
-				
-				
-					
-					
-					
-					
-						<a class="title_link" href="/en/labs/science-projects/citn/about.html">
-							<h3 class="feature_box_title">About Us</h3>
-						</a>
-						
-					
-					
-				
-				
-			
-			
-			
-			
-		
-		
-		<div class="description_text"><p>CITN facilitates the broad availability of immunotherapy agents with known and proven biologic function for treating cancer patients. Our efforts employs the collective expertise of top academic immunologists from &nbsp;multiple organizations.&nbsp;</p>
-</div>
-	
-		
-	
-	     
-	</div>
-
-</div></div>
-</div><div class="parsys_column cq-colctrl-lt1-c1"><div class="featureBox parbase section">
-
-
-
-
-
-
-
-
-
-
-<div class="feature_box_container colorTheme0">
-
-	<div class="image_container">
-	
-		
-			
-			
-			
-				
-				
-					
-					
-					
-					
-						<a href="/en/labs/science-projects/citn/citn-science.html">
-							<img src="/en/labs/science-projects/citn/_jcr_content/par/featurebox_0/image.img.jpg/1480546474791.jpg" alt="file" title="" class="cq-dd-image"/>
-						</a>
-						
-					
-					
-				
-				
-			
-			
-			
-			
-		
-	     
-	</div>
-	     
-	<div class="text_and_titles_container">
-	     
-		<h2 class="category">Prioritizing Promising Agents</h2>
-		
-		
-			
-			
-			
-				
-				
-					
-					
-					
-					
-						<a class="title_link" href="/en/labs/science-projects/citn/citn-science.html">
-							<h3 class="feature_box_title">Our Science</h3>
-						</a>
-						
-					
-					
-				
-				
-			
-			
-			
-			
-		
-		
-		<div class="description_text"><p>Building on NCI prioritization workshops, we focus on conducting early phase clinical trials that use agents and novel regimens with consensus prioritization that are most likely to prove effective and lead to regulatory approval in the foreseeable future.</p>
-</div>
-	
-		
-	
-	     
-	</div>
-
-</div></div>
-</div><div class="parsys_column cq-colctrl-lt1-c2"><div class="featureBox parbase section">
-
-
-
-
-
-
-
-
-
-
-<div class="feature_box_container colorTheme0">
-
-	<div class="image_container">
-	
-		
-			
-			
-			
-				
-				
-					
-					
-					
-					
-						<a href="/en/labs/science-projects/citn/partnership.html">
-							<img src="/en/labs/science-projects/citn/_jcr_content/par/featurebox_1/image.img.jpg/1481653368421.jpg" alt="file" title="" class="cq-dd-image"/>
-						</a>
-						
-					
-					
-				
-				
-			
-			
-			
-			
-		
-	     
-	</div>
-	     
-	<div class="text_and_titles_container">
-	     
-		<h2 class="category">Developing Innovative Drugs</h2>
-		
-		
-			
-			
-			
-				
-				
-					
-					
-					
-					
-						<a class="title_link" href="/en/labs/science-projects/citn/partnership.html">
-							<h3 class="feature_box_title">Partnerhips</h3>
-						</a>
-						
-					
-					
-				
-				
-			
-			
-			
-			
-		
-		
-		<div class="description_text"><p>We align the scientific, clinical and management resources of CITN and biopharmaceutical partners to create unique synergy to advance promising immunotherapy compounds to the clinic more quickly, efficiently and cost effectively.</p>
-</div>
-	
-		
-	
-	     
-	</div>
-
-</div></div>
-</div></div><div style="clear:both"></div><div class="gradientcolumn section">
-
-
-
-
-
-
-<div class="fh_gradient_columns clearfix">
- <div class="fh_parsys_column fh-colctrl-lt20">
-  
-    <div class="fh_parsys_column fh-colctrl-lt20-c0">
-     <div class="fh_section"><div class="par1 parsys"><div class="text parbase section">
-
-<link rel="stylesheet" href="/etc/clientlibs/wcm/foundation/accessibility.min.css" type="text/css"/>
-
-
-    <h4><a href="/en/labs/science-projects/citn/contact-information.html">Contact Us<br />
- </a><a href="/en/labs/science-projects/citn/about/leadership-bios.html">Leadership<br />
- </a><a href="/en/labs/science-projects/citn/about/members-sites-principal-investigators.html">Member Sites and Principal Investigators<br />
- </a><a href="/en/labs/science-projects/citn/about/citn-staff.html">Staff</a></h4>
-
-<p> </p>
-
-
-
-</div>
-
-</div>
-</div>
-    </div>
-  
-    <div class="fh_parsys_column fh-colctrl-lt20-c1">
-     <div class="fh_section"><div class="par2 parsys"><div class="textimage parbase section">
-
-
-    
-     
-    
-    
-    <div class="fh_textimage clearfix">
-    
-    
-    	<div class="textimage_image imageplus imageAlignRight" style="width:45px"
-    
-        ><dl><dt>    
-        
-            <a href="/en/labs/science-projects/citn/members.html">
-        <img src="/en/labs/science-projects/citn/_jcr_content/par/gradientcolumn/par2/textimage_0/image.img.png/1481568685532.png" alt=" " title=" " class="cq-dd-image noborder"/></a>
-        </dt>
-        <dd>
-        </dd></dl></div>
-        
-    
-        <div class="text"><h4 style="text-align: right;"><a href="/en/labs/science-projects/citn/members.html"><br>
-Member Information &amp; Portal Log In</a></h4>
-</div>
-    </div></div>
-
-</div>
-</div>
-    </div>
-  
- </div>
-</div>
-</div>
-
-</div>
-<!-- remote-wrap-api-marker --></div>
-  
-  <!-- /content column -->
-    
-  <br class="clear"/>
-   
- </div><!-- /fh_body, page content -->
-
- 
- 
-
- <!-- global nav -->
- 
-<!--googleoff: index-->
-<div id="navigation-main-container"><a name="site-wide-navigation" class="clear"></a>
-  <div id="navigation-main-wrapper">
-    <ul id="navigation-main" class="navigation-main">
-       <li class="navigation-main-item menu-diseases null"><a class="navigation-main-link" href="/en/diseases.html">Diseases / Research</a><div class='dropdown_menu'><ul>
-  <li><a href="/en/diseases.html">Overview</a></li>
-  <li><a href="/en/diseases.html#diseases">Diseases We Research</a></li>
-  <li><a href="/en/labs/profiles.html">Faculty</a></li>
-  <li><a href="/en/diseases/featured-researchers.html">Featured Researchers</a></li>
-  <li><a href="/en/labs/science-projects.html">Labs and Projects</a></li>
-  <li><a href="/en/diseases/research-highlights.html">Research Highlights</a></li>
-  <li><a href="/en/news.html">News</a></li>
-</ul>
-<dl>
-<dt>License Our Discoveries</dt>
-<dd>
-    <ul>
-<li><a href="/en/diseases/business-development.html">Business Development & Strategy</a></li>
-		</ul>
-	</dd>
-</dl></div></li>
-       <li class="navigation-main-item menu-treatment null"><a class="navigation-main-link" href="/en/treatment.html">Treatment / Support</a><div class='dropdown_menu'><ul>
-  <li><a href="/en/treatment.html">Overview</a></li>
-  <li><a href="/en/treatment/clinical-trials.html">Clinical Trials</a></li>
-  <li><a href="/en/about/share-your-story.html">Share Your Story</a></li>
-  <li><a href="/en/treatment/treatment-research.html">Treatment Research</a></li>
-  <li><a href="/en/ways-to-give/volunteer-your-time/volunteer-studies.html">Volunteer for a Study</a></li>
-</ul>
-
-<dl>
-	<dt>Support</dt>
-	<dd>
-      <ul>
-        <li><a href="/en/treatment/long-term-follow-up.html">Long-Term Follow-Up Program</a></li>
-        <li><a href="/en/labs/mpower-prostate-cancer-registry.html">Mpower Prostate Cancer Registry</a></li>
-        <li><a href="/en/treatment/survivorship.html">Survivorship Program</a></li>
-      </ul>
-  </dd>
-</dl>
- 
-<dl>
-	<dt>Resources</dt>
-	<dd>
-    <ul>
-			<li><a href="https://www.seattlecca.org/make-an-appointment.cfm" target="_blank">Become a Patient</a></li>
-      <li><a href="/en/treatment/housing-education.html">Housing and Education</a></li>
-		</ul>
-	</dd>
-</dl>
-</div></li>
-       <li class="navigation-main-item menu-about null"><a class="navigation-main-link" href="/en/about.html">About Us</a><div class='dropdown_menu'><ul>
-  <li><a href="/en/about.html">Overview</a></li>
-  <li><a href="/en/about/about-the-center.html">About Fred Hutch</a></li>
-  <li><a href="/en/about/accountability-and-impact.html">Accountability & Impact</a></li>
-<li><a href="/en/diseases/business-development.html">Business Development & Strategy</a></li>
-<li><a href="/en/careers.html">Careers</a></li>
-<li><a href="/en/about/data-science.html">Data Science Collaborations</a></li>
-<li><a href="/en/education-training.html">Education & Training</a></li>
-  <li><a href="/en/about/leadership.html">Leadership / Board</a></li>
-</ul>
-<dl>
-	<dt>Patients / Caregivers</dt>
-	<dd>
-    <ul>
-			<li><a href="/en/treatment.html">Become A Patient</a></li>
-      <li><a href="/en/about/share-your-story.html">Share Your Story</a></li>
-    </ul>
-  </dd>
-</dl>
-
-<dl>
-	<dt>Resources</dt>
-	<dd>
-    <ul>
- 
-      <li><a href="/en/news.html">News / Publications</a></li>
-      <li><a href="/en/news/media-relations.html">News / For the Media</a></li>
-<li><a href="/en/contact-us/visit-us/visitor-center.html">Visitor Center</a></li>
-
-		</ul>
-	</dd>
-</dl></div></li>
-       <li class="navigation-main-item menu-labs current_branch"><a class="navigation-main-link" href="/en/labs.html">Labs / Projects</a><div class='dropdown_menu'><ul>
-  <li><a href="/en/labs.html">Overview</a></li>
-  <li><a href="/en/education-training.html">Education & Training</a></li>
-  <li><a href="/en/labs/profiles.html">Faculty</a></li>
-  <li><a href="/en/labs/science-projects.html">Labs, Programs &amp; Projects</a></li>
-  <li><a href="/en/labs/scientific-seminars.html">Scientific Seminars</a></li>
-</ul>
-<dl>
-	<dt>Divisions</dt>
-	<dd>
-    <ul>
-			<li><a href="/en/labs/basic-sciences.html">Basic Sciences</a></li>
-      <li><a href="/en/labs/clinical.html">Clinical Research</a></li>
-      <li><a href="/en/labs/humanbio.html">Human Biology</a></li>
-      <li><a href="/en/labs/phs.html">Public Health Sciences</a></li>
-      <li><a href="/en/labs/vaccine-and-infectious-disease.html">Vaccine and Infectious Disease</a></li>
-		</ul>
-	</dd>
-</dl>
-<dl>
-	<dt>Initiatives</dt>
-	<dd>
-    <ul>
-<li><a href="/en/labs/vaccine-and-infectious-disease/international-programs/global-oncology.html">Global Oncology</a></li>
-<li><a href="/en/labs/hicor.html">HICOR - Hutchinson Institute for Cancer Outcomes Research</a></li>
-      <li><a href="/en/labs/hiv-vaccine-trials-network.html">HVTN - HIV Vaccine Trials Network</a></li>
-<li><a href="/en/labs/iirc.html">IIRC – Immunotherapy Integrated Research Center</a></li>
-      <li><a href="/en/labs/clinical/projects/project-violet.html">Project Violet</a></li>
-      <li><a href="/en/labs/seattle-translational-tumor-research.html">STTR - Seattle  Translational Tumor Research</a></li>
-		</ul>
-	</dd>
-</dl></div></li>
-       <li class="navigation-main-item menu-events null"><a class="navigation-main-link" href="/en/events.html">Events / Programs</a><div class='dropdown_menu'><ul>
-  <li><a href="/en/events.html">Overview</a></li>
-  <li><a href="/en/events.html">Calendar of Events</a></li>
-  <li><a href="/en/labs/scientific-seminars.html">Scientific Seminars</a></li>
-</ul>
-<dl>
-	<dt>Community</dt>
-	<dd>
-    <ul>
-      <li><a href="/en/ways-to-give/volunteer-your-time/plan-event/featured-fundraising-events.html">Community Partner Events</a></li>
-      <li><a href="/en/events/cancer-in-our-communities.html">Cancer in our Communities</a></li>
-      <li><a href="/en/events/healthy-living.html">Health / Fitness</a></li>
-   
-    </ul>
-
-	</dd>
-
-	<dt>Education</dt>
-	<dd>
-          <ul>
-<li><a href="/en/education-training.html">Education & Training</a></li>
-  	    <li><a href="/en/careers/internship-opportunities.html">Internship Program</a></li>
-      	    <li><a href="/en/education-training/sep.html">Science Education Partnership</a></li>
-	  </ul>
-	</dd>
-
-
-</dl></div></li>
-       <li class="navigation-main-item menu-give null"><a class="navigation-main-link" href="/en/ways-to-give.html">Ways To Give</a><div class='dropdown_menu'><ul>
-  <li><a href="/en/ways-to-give.html">Overview</a></li>
-  <li><a href="https://secure.fredhutch.org/site/SPageServer?pagename=adf_agiv&experience=january19&s_src=january19&s_subsrc=aegew1901">Donate Now</a></li>
-  <li><a href="/en/events.html">Events </a></li>
-  <li><a href="http://www.fredhutch.org/shopfredhutch" target="_blank">Fred Hutch Store</a></li>
-  <li><a href="/en/ways-to-give/fundraise-for-fred-hutch.html">Fundraise for Fred Hutch</a></li>
-  <li><a href="/en/ways-to-give/volunteer-your-time/plan-event.html">Host an Event</a></li>
-  <li><a href="/en/ways-to-give/impact.html">How Your Donation Helps</a></li>
-  <li><a href="/en/ways-to-give/volunteer-your-time/volunteer-studies.html">Volunteer for a Study</a></li>
-</ul>
-
-<dl>
-	<dt>Gifts</dt>
-	<dd>
-    <ul>
-      <li><a href="/en/ways-to-give/corporations.html">Corporate Gifts</a></li>
-      <li><a href="/en/ways-to-give/directed-giving.html">Directed Gifts</a></li>
-	  <li><a href="/en/ways-to-give/endowment.html">Endowment Gifts</a></li>
-      <li><a href="/en/ways-to-give/honor-memorial.html">Honor / Memorial Gifts</a></li>
-      <li><a href="/en/ways-to-give/planned.html">Planned Gifts /<br>Estate Planning</a></li>
-    </ul>
-  </dd>
-</dl>
-
-<dl>
-	<dt>Clubs</dt>
-	<dd>
-    <ul>
-      <li><a href="/en/ways-to-give/clubs-gifts/innovators-network.html">Innovators Network</a></li>
-      <li><a href="/en/ways-to-give/clubs-gifts/cure-starters-circle.html">Cure Starters Circle</a></li>
-      <li><a href="/en/ways-to-give/clubs-gifts/presidents-circle.html">President's Circle</a></li>
-      <li><a href="http://www.fredhutch.org/tls">Thomas Legacy Society</a></li>
-		</ul>
-	</dd>
-</dl></div></li>
-    </ul>
-  </div>
-</div>
-
-
- 
-
-
- <!-- logo -->
- <div id="fh_logo"><a href="/en.html"><img src="/etc/designs/public/img/logos/fred_hutch_logo.png" alt="Fred Hutchinson Cancer Research Center" border="0"/></a></div>
-<!--  mission, global nav and logo -->
-</div><!-- /fh_container -->  
-
-<!-- helps some browsers block position the footer: -->
-<div class="clear"></div>
- 
- 
-<div id="footer_container" class="footer_container"><div id="footer_content" class="footer_content">
- <div class="footerReference footerreference parbase"><div style="display:inline;" class="cq-dd-paragraph"><div class="footer">
-
- <div class="container_12">
- 
- 	<div class="grid_12 horizontal_rule"></div>
- 
- 	<div class="grid_fifths footer_column_1">
- 		<div class="footer_text_column_1 text parbase">
-
-
-
-    <h3>Quick Links<a href="/en/about.html"></a></h3>
-
-<p><a href="/en/about.html">About Us<br />
- </a><a href="/en/diseases/business-development.html">Business Development &amp; Strategy</a><br />
-<a href="http://www.cancerconsortium.org/en.html" target="_blank">Cancer Consortium</a><br />
-<a href="/en/treatment/clinical-trials.html">Clinical Trials</a><br />
-<a href="/en/contact-us.html">Contact Us</a><br />
-<a href="/en/education-training.html">Education &amp; Training</a><br />
-<a target="_blank" href="http://extranet.fhcrc.org/EN/">Extranet</a><br />
-<a href="http://www.fredhutch.org/shopfredhutch" target="_blank">Fred Hutch Store</a><br />
-<a href="/en/util/information-security-policy-statement.html">Information Security Statement</a><br />
-<a href="/en/labs.html">Programs &amp; Projects</a><br />
-<a target="_blank" href="http://labs.fhcrc.org/">Lab Sites</a><br />
-<a target="_blank" href="http://www.fredhutch.org/en/redirect-stubs/office-sponsored-research.html">Office of Sponsored Research</a><br />
-<a href="https://sharedresources.fredhutch.org/" target="_blank">Shared Resources</a><br />
-<a href="/en/about/share-your-story.html">Share Your Story</a><br />
-<a href="/en/contact-us/visit-us/visitor-center.html">Visitor Center</a></p>
-
-
-
-</div>
-
- 	</div>
- 	
- 	<div class="grid_fifths footer_column_2">
- 		<div class="footer_text_column_2 text parbase">
-
-
-
-    <h3>Information For</h3>
-
-<p><a href="/en/redirect-stubs/community.html">Community</a><br />
-<a href="/en/redirect-stubs/donors-volunteers.html">Donors &amp; Volunteers</a><br />
-<a href="/en/redirect-stubs/educators-students.html">Educators &amp; Students</a><br />
-<a href="/en/employees.html">Employees</a><br />
-<a href="/en/diseases/business-development.html">Industry Partnerships</a><br />
-<a href="/en/redirect-stubs/news-media.html">News Media</a><br />
-<a href="/en/redirect-stubs/patients-families.html">Patients &amp; Families</a><br />
-<a href="/en/health-professionals.html">Physicians &amp; Health Professionals</a><br />
-<a href="/en/education-training/postdoctoral-fellows.html">Postdoctoral Fellows</a><br />
-<a href="/en/redirect-stubs/science-professionals.html">Science Professionals</a><br />
- </p>
-
-
-
-</div>
-
- 	</div>
- 	
- 	<div class="grid_fifths footer_column_3">
- 		<div class="footer_text_column_3 text parbase">
-
-
-
-    <h3>Employee Links</h3>
-
-<p><a target="_blank" href="https://centernet.fhcrc.org/CN/">CenterNet</a><br />
-<a target="_blank" href="https://extranet.fredhutch.org/en/u/webmail.html">Check Email</a><br />
-<a href="/en/employees.html">Employee Page</a><br />
-<a target="_blank" href="https://centernet.fhcrc.org/CN/center/webvpn/">WebVPN &amp; Remote Access</a></p>
-
-
-
-</div>
-
- 	</div>
- 	
- 	<div class="grid_fifths footer_column_4">
- 		<p><a href="http://www.cancer.gov/" target="_blank"><img id="ccc_logo_footer" src="/etc/designs/public/img/logos/fred_hutch_ccc_logo_2016.png" alt="A Comprehensive Cancer Center Designated by the National Cancer Institute"></a></p>
- 		<p><a href="http://www.nccn.org/" target="_blank"><img id="nci_logo_footer" src="/etc/designs/public/img/logos/fred_hutch_nci_logo.png" alt="National Comprehensive Cancer Network"></a></p>
-		<p><a href="http://www.aahrpp.org/" target="_blank"><img id="aahrpp_logo_footer" src="/etc/designs/public/img/logos/aahrpp_logo_footer.png" alt="AAHRPP logo"></a></p>
-		<p id="aahrpp_accreditation">Accredited by the Association for the Accreditation of Human Research Protection Programs</p>
-		<p><a href="https://www.forbes.com/best-midsize-employers/list/" target="_blank"><img id="forbes_logo_footer" src="/etc/designs/public/img/logos/forbes_logo_footer.png" alt="Forbes 2018 - America's Best Mid-Size Employers"></a></p>
-		<p id="forbes_midsize">Recognized by Forbes as one of America's Best Mid-Size Employers</p>
- 	</div>
- 	
- 	<div class="grid_fifths footer_column_5">
- 		<h3>Follow Us</h3>
-        <img id="social_media_icons_footer" src="/etc/designs/public/img/icons/socialmedia_footer.png" alt="Social media icons" usemap="#socialmap"/>
- 		<map name="socialmap">
-     		<area shape="rect" coords="0,0,28,28" href="http://www.facebook.com/HutchinsonCenter" target="_blank" alt="Like Fred Hutch on Facebook"></area>
-     		<area shape="rect" coords="28,0,56,28" href="http://twitter.com/fredhutch" target="_blank" alt="Follow Fred Hutch on Twitter"></area>
-     		<area shape="rect" coords="56,0,83,28" href="https://www.youtube.com/channel/UCnWBh22UKMHF4VRKdsQvZqg/featured" target="_blank" alt="View the Fred Hutch YouTube channel"></area>
-     		<area shape="rect" coords="83,0,111,28" href="http://www.pinterest.com/fredhutch/" target="_blank" alt="Pin from the Fred Hutch boards on Pinterest"></area>
-     		<area shape="rect" coords="111,0,139,28" href="http://instagram.com/FredHutch" target="_blank" alt="Check out Fred Hutch photos on Instagram"></area>
-    		<area shape="rect" coords="139,0,166,28" href="https://plus.google.com/+fredhutch" target="_blank" alt="Follow Fred Hutch on Google+"></area>
-   		</map>
-   		<div class="footer_fundraise_button fundraiseButton parbase">
-
-
-
-
-      
- <a class="fundraise_button" href="http://www.fredhutch.org/fundraise">Fundraise</a>
-</div>
-
-   		<div class="footer_donate_button donateButton">
-
-
-
-
-
-
-      
-   <a class="donate_button" href="https://secure.fredhutch.org/site/SPageServer?pagename=adf_agiv&amp;experience=january19&amp;s_src=january19&amp;s_subsrc=aegeh19012">Donate</a></div>
-
- 	</div>
- 	
- </div>
- 
- <div class="container_12 clearfix"></div>
- 
-<div id="copyright" class="copyright container_12" style="margin-left: 0; padding-top: 0;">
-    <div class="grid_12 horizontal_rule"></div>
-    <div class="grid_fifths grid_three_fifths">Fred Hutch is proud to be an Equal Opportunity and VEVRAA Employer. We are committed to cultivating a workplace in which diverse perspectives and experiences are welcomed and respected. We do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability, marital or veteran status, sexual orientation, gender identity, political ideology, or membership in any other legally protected class. We are an Affirmative Action employer. We encourage individuals with diverse backgrounds to apply and desire priority referrals of protected veterans. <span class="terms_privacy"><a href="https://www.eeoc.gov/employers/upload/poster_screen_reader_optimized.pdf" target="_blank">Read the EEO is the Law poster here.</a></span></div>
-    <div class="grid_fifths grid_two_fifths">
-        Fred Hutchinson Cancer Research Center<br/>
-        1100 Fairview Ave. N., Seattle, WA 98109<br/>
-        &copy; 2019 Fred Hutchinson Cancer Research Center, <span class="nobreak">a 501(c)(3) nonprofit organization.</span><br/>
-        <span class="terms_privacy"><a href="/en/util/terms-privacy.html">Terms of use &amp; privacy policy</a>&nbsp;|&nbsp;<a href="/en/util/conflict-of-interest.html">Conflict of <br/>interest</a>&nbsp;|&nbsp;<a href="/en/about/accountability-and-impact.html">Accountability &amp; impact</a></span>
-    </div>
-</div>
-
- <br class="clear"/></div>
-</div></div>
-
-</div></div><!-- /footer_container -->
-
-<!--  fat footer -->
- 
-<!-- utility nav background is outside the positioning context -->
-<div id="fh_utility_nav"><div id="utility_nav" class="utility_nav"><div class="searchBox searchbox">
-<form id="utility_search" class="utility_search" action="/en/util/search.html"><input type="text" name="q" placeholder="Search for faculty, disease research and news..." class="search_term"></input><input type="image" class="search_button" src="/etc/designs/public/img/buttons/fred_hutch_search_icon.png" alt="GO"></input></form>
-</div>
-<ul>
-   <li><a href="/en/careers.html">Careers</a></li> 
-   <li><a href="/en/news.html">News</a></li> 
-   <li><a href="/en/contact-us.html">Contact Us</a></li> 
-   <li><a id="utility_search_link" href="/en/util/search.html">Search</a></li> 
-   <li class="fundraise"><div class="utility_fundraise_button fundraiseButton parbase">
-
-
-
-
-      
- <a class="fundraise_button" href="http://www.fredhutch.org/fundraise">Fundraise</a>
-</div>
-</li>
-   <li class="donate-now"><div class="utility_donate_button donateButton">
-
-
-
-
-
-
-      
-   <a class="donate_button" href="/en/redirect-stubs/donate.html">Donate</a></div>
-</li>
-
-  </ul></div></div>
-<!--  utility nav -->
- 
- 
-
-</body>
+<!--//--><![CDATA[//><!--
+da2a.targets=[
+{title:"Yale Cancer Center scientists advise caution in immunotherapy research",url:"https:\/\/news.yale.edu\/2018\/12\/20\/yale-cancer-center-scientists-advise-caution-immunotherapy-research"},
+{title:"Yale Cancer Center scientists advise caution in immunotherapy research",url:"https:\/\/news.yale.edu\/2018\/12\/20\/yale-cancer-center-scientists-advise-caution-immunotherapy-research"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://news.yale.edu/sites/default/files/js/js_B-B85itFsw0IIuIbdDPPQ_Lw5-jVh0r7O7s-Adqij_Y.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"86ae475b6c","applicationID":"103668429","transactionName":"MVNSNkNSWxBUAURYDAgZcQFFWloNGgxfVQY5RlEFVGxDClAV","queueTime":0,"applicationTime":448,"atts":"HRRRQAtISB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

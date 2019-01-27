@@ -1,0 +1,110 @@
+Menu
+Find Information
+Find Support
+En Español
+About Us
+Donate Now
+Events
+Support Us
+E-News
+Search
+Home >
+Find Information >
+Publications >
+What is Immunotherapy?
+Immunotherapy, also called biologic therapy, is a type of cancer treatment that uses the body’s immune system to fight cancer.
+What Is the Immune System?
+The immune system’s job is to identify and destroy potentially harmful invaders within the body, such as viruses and bacteria that can cause infections. Cells in the immune system are programmed to find differences between foreign cells and our own cells, and to selectively attack the foreign cells.
+There are two main parts of the immune system: the humoral (also called antibody-mediated) immune response and the cell-mediated immune response. These two sides work together to keep the body safe from infections.
+As part of the humoral immune response, B-cells generate antibodies in the blood that help us fight off infections in the lymph or blood, and provide us with lasting immunity to ward off future infections.
+The activity of the immune system has to be carefully balanced: both an overactive and an underactive immune system can be harmful. Our growing understanding of how the immune system keeps its balance is the heart of the field of immuno-oncology that has led to the development of immunotherapies to treat people with cancer.
+Immunotherapy to Treat Cancer
+One concept behind immuno-oncology is to find ways to convince a person’s own immune cells that the cancer is a foreign body that needs to be attacked.
+This is hard because as abnormal as cancer cells are, the differences between them and healthy cells are quite small.
+A key to the development of effective cancer immunotherapies is achieving the balance of being able to turn on the immune system to recognize a cancer cell that is not all that different from a normal healthy cell, while at the same time overcoming the defenses of the cancer cell, and preventing
+over-activity of the immune system which could damage the patient’s healthy cells.
+With the body’s immune system, immunotherapies help fight cancer the following ways:
+Stopping or slowing the growth of cancer cells
+Preventing the cancer from spreading to other parts of the body
+Helping the immune system work better at destroying cancer cells
+Immunotherapy to Prevent Cancer
+For many years, we have known that cancers are caused by genetic changes. More recently, immuno-oncology researchers have discovered that also chronic inflammation from substances in our environment, like tobacco smoke and viral infections, can promote cancer development.
+It’s through this inflammatory process that certain high-risk types of human papilloma virus (HPV) can not only cause genital warts but also lead to cervical, anal, mouth, vulval, and throat cancers. To prevent HPV infection, two vaccines on the market are recommended for use in children 11 to 12 years old.
+These vaccines are very effective at eliminating the pre-cancerous changes that can lead to the development of cancer through this inflammatory process. These vaccines are great examples of how we can use the immune system to help prevent cancer.
+View all of CancerCare’s resources on immunotherapy »
+Questions to ask your doctor about immunotherapy
+Does immunotherapy have a role in treating my diagnosis?
+What are the goals of this treatment?
+What are the possible side effects of immunotherapy, both in the short term and the long term?
+How will this treatment affect my daily life?
+Will I be able to work, exercise, and perform my usual activities?
+Are there immunotherapy clinical trials available to me?
+The information presented is not intended as medical advice and should not be considered as a substitute for consultations with qualified health professionals who are aware of your specific situation. We encourage you to take information and questions back to health care team as a way of creating a partnership about your cancer and your treatment.
+CancerCare®
+275 Seventh Avenue
+(between 25th & 26th Streets)
+New York, NY 10001
+800‑813‑HOPE (4673)
+info@cancercare.org
+About LungCancer.org and CancerCare
+Support Us
+Privacy Policy
+Find Information
+Lung Cancer 101
+Find Help by Topic
+Connect Education Workshops
+Publications
+Ask CancerCare
+Find Support
+Counseling
+Support Groups
+Financial Assistance
+Community Programs
+Stories of Help & Hope
+Browse By...
+Topics
+For Caregivers
+En Español
+© 2019 CancerCare® — All Rights Reserved
+Terms of Use and Privacy Policy
+By using our website, you agree to our recently updated Privacy Policy . Here you will learn more about our use of cookies which help us make continuous improvements to our website. Learn more .
+CLOSE
+/*
+** if privacy policy has not been seen before display otherwise don't
+**
+*/
+document.addEventListener("DOMContentLoaded", function(event) {
+var privacyPolicy = localStorage.getItem("privacy_policy")
+if( privacyPolicy !== "true") {
+document.querySelector(".privacy-callout").classList.remove('hide');
+}
+document.getElementById("close-button").onclick =
+function(){
+localStorage.setItem("privacy_policy", true);
+var privacyPolicyRead = localStorage.getItem("privacy_policy");
+console.log("privacyPolicyRead: ", privacyPolicyRead);
+document.querySelector(".privacy-callout").classList.add('hide');
+};
+});
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5739860-5']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' === location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+(function() {
+function trackOutboundLink(link, category, action) {
+try {
+_gaq.push(['_trackEvent', category , action]);
+} catch(err){}
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+$("[href='http://mycancercircle.net']").on('click', function() {
+trackOutboundLink(this, 'Outbound Links', 'mycancercircle.net');
+return false
+});
+})();

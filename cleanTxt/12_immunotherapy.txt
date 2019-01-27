@@ -1,0 +1,117 @@
+var sID = "7d66b89500b92ce2572c440383b215b8"; var aID = ""; var dID = ""
+Breast CancerMultiple MyelomaLung CancerImmuno-Oncology NewsGynecologic OncologyGastrointestinal CancerColorectal CancerOvarian CancerProstate CancerNeoadjuvant HER2+Brain CancerBone MetastasesBusiness ManagementCAR T-cell TherapyChronic Lymphocytic LeukemiaGenitourinary CancersHead & Neck CancersHematologic OncologyImmunotherapy in GU CancersImmunotherapy in Lung CancerImmunotherapy in MelanomaMantle Cell LymphomaMelanoma & Skin CancerNon-Hodgkin LymphomaOncology Nursing NewsPatient ResourcesPrecision Medicine in OncologyÂ®SarcomasSpecial Reports in Personalized Cancer CareSupportive CareUrologic Oncology
+Online CMEInteractive Publications
+SELECT A TOPICCURRENT VIEWAll Specialties▲
+Education ▲
+Education ▼
+Register | Login
+Conference Coverage Videos NewsNetwork OncLive® TV Peer Exchange Insights Attend An Event State of the Science Summit Regional Seminar Series PER Conferences
+OS by PS in Metastatic Pancreatic Cancer Treatment- Data From an Exploratory Subgroup Analysis
+.marquee {
+width: 1060px;
+overflow: hidden;
+background-color: #fff;
+padding: 10px 0;
+}
+.marquee a {
+color: red;
+font-weight: bold;
+}
+#flyBanner{
+top: -247px;
+}
+@media (max-width: 1200px) {
+.marquee {
+width: 100%;
+}
+}
+$(".marquee").marquee({
+duration: 18000,
+gap: 200,
+delayBeforeStart: 0,
+direction: "left",
+duplicated: true
+});
+SPECIALTY TOPICSCURRENTLY VIEWINGAll SpecialtiesBreast CancerMultiple MyelomaLung CancerImmuno-Oncology NewsGynecologic OncologyGastrointestinal CancerColorectal CancerOvarian CancerProstate CancerNeoadjuvant HER2+More >>
+View more on OncLive TV >>
+Dr. Choti Discusses Immunotherapy in Pancreatic Cancer
+Michael A. Choti, MD
+Published: Wednesday, Jan 16, 2019
+stLight.options({publisher: "cf568e38-4bc7-433c-9762-707b9eee5576", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});
+stLight.options({publisher: "cf568e38-4bc7-433c-9762-707b9eee5576", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});
+Michael A. Choti, MD, chief of surgery, Banner MD Anderson Cancer Center, discusses the role of immunotherapy in the treatment of patients with pancreatic cancer.
+Immunotherapy has made virtually no impact in this space for the time being, but there are ongoing trials testing its role in patients with advanced disease. Choti says it seems as though pancreatic cancer is not an immunogenic disease and that these patients are not appropriate candidates for this class of agents. Therefore, it is not amenable for immunotherapy. However, there is a very small subset of patients with microsatellite instability-high tumors where this type of treatment has potential.
+A phase IIa trial presented at the 2018 ESMO Congress indicated that pembrolizumab (Keytruda) may have an impact in combination with the CXCR4 antagonist BL-8040 for patients with metastatic pancreatic adenocarcinoma. Patients received 5 days of BL-8040 monotherapy followed by repeated 3-week cycles of pembrolizumab combined with BL-8040 every 3 weeks. The median overall survival with this treatment was 3.4 months in the 29 evaluable patients.
+$(document).ready(function() {
+var iframeContent = $(".video_placement_temp iframe").clone();
+$(".video_placement_temp").html("");
+$(".video_placement").html(iframeContent);
+$(".video_placement iframe").width("100%");
+$(".video_placement iframe").height("307px");
+$(".detailBody iframe").remove();
+});
+SELECTEDLANGUAGE
+English
+Michael A. Choti, MD, chief of surgery, Banner MD Anderson Cancer Center, discusses the role of immunotherapy in the treatment of patients with pancreatic cancer.
+Immunotherapy has made virtually no impact in this space for the time being, but there are ongoing trials testing its role in patients with advanced disease. Choti says it seems as though pancreatic cancer is not an immunogenic disease and that these patients are not appropriate candidates for this class of agents. Therefore, it is not amenable for immunotherapy. However, there is a very small subset of patients with microsatellite instability-high tumors where this type of treatment has potential.
+A phase IIa trial presented at the 2018 ESMO Congress indicated that pembrolizumab (Keytruda) may have an impact in combination with the CXCR4 antagonist BL-8040 for patients with metastatic pancreatic adenocarcinoma. Patients received 5 days of BL-8040 monotherapy followed by repeated 3-week cycles of pembrolizumab combined with BL-8040 every 3 weeks. The median overall survival with this treatment was 3.4 months in the 29 evaluable patients.SEE ALL VIDEOS FROM: Michael A. Choti, MDView more on OncLive TV >>>
+stLight.options({publisher: "cf568e38-4bc7-433c-9762-707b9eee5576", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});
+stLight.options({publisher: "cf568e38-4bc7-433c-9762-707b9eee5576", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});
+Trending Now
+Strategies Needed for Resistance to Targeted Agents in HER2+ Breast Cancer
+Grivas Discusses Developments in Bladder Cancer
+FDA Grants Zanubrutinib Breakthrough Designation for Mantle Cell Lymphoma
+FDA Approves Cabozantinib for Advanced HCC
+MyDRUG Evaluates Targeted Agents in Multiple Myeloma
+Related Articles
+Nivolumab Improves OS in Advanced or Recurrent Esophageal Cancer
+President Emeritus of MD Anderson Dies at 82
+John Mendelsohn, MD Anderson President Emeritus, Passes Away
+Lead Researcher Highlights Latest Acalabrutinib MCL Data
+Related Videos
+Dr. O'Donnell on the Importance of Identifying Molecular Subsets in Urothelial Cancer
+Dr. Kopetz on the Rarity of Fusions in CRC
+Dr. Singal on the FDA Approval of Cabozantinib in HCC
+Dr. Sun Discusses the Debate Between Radiation and Chemotherapy in GEJ Cancers
+$(document).ready(function(){
+$("#pe_slider").bxSlider({
+minSlides: 1,
+maxSlides: 1,
+moveSlides: 1,
+slideMargin: 20,
+auto: true,
+pause: 3000,
+autoHover: true,
+pager: true,
+controls: true,
+prevSelector: "#prev",
+nextSelector: "#next",
+prevText: "<img src='https://onclive.s3.amazonaws.com/_media/_core/confSliderLeft.png'
+alt='Slider Left' />",
+nextText: "<img src='https://onclive.s3.amazonaws.com/_media/_core/confSliderRight.png'
+alt='Slider Right' />"
+});
+});
+View Conference Coverage2019 Transplantation and Cellular Therapy Meetings2019 Winter Lung Cancer Conference2019 SGO Winter Meeting2019 Gastrointestinal Cancers Symposium
+Online CME Activities
+table#onlineCME {
+color: #222222;
+font: 11px/11px arial;
+}
+table#onlineCME tr {
+background-color: #FFFFFF;
+vertical-align: top;
+}
+table#onlineCME td {
+border-bottom: 1px dotted #CCCCCC;
+padding: 10px 12px;
+}
+table#onlineCME td a {
+font: 12px arial;
+}
+.eventName {
+background-color: #EEEEEE;
+color: #003768;
+font: bold 14px arial;
+}
+TitleExpiration DateCME CreditsOncology Briefings™: Individualizing Treatment After Second-Line Therapy for Patients With mCRCAug 29, 20191.0Community Practice Connections™: Navigating New Sequencing Challenges for the Treatment of Hepatocellular CarcinomaAug 30, 20191.5

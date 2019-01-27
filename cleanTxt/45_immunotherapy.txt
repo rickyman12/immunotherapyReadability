@@ -1,0 +1,148 @@
+Skip to content
+.stparkerlogo{fill:#707070;}
+About
+Our Members
+Publications
+Why Now
+Our Model
+Our Work
+Research Focuses
+Research Projects
+Our Partners
+Programs
+For Patients
+What’s New
+Search
+Close
+Search
+Why Now
+Our Model
+Our Work
+Research Focuses
+Research Projects
+Our Partners
+Programs
+For Patients
+What’s New
+About
+Our Members
+Publications
+Why Cancer ImmunotherapyA breathtaking new hope that can help end cancer for good.
+Why Cancer Immunotherapy?
+What is it?
+Why is it Different?
+Approach
+There is a smarter way to treat cancer.
+The economic cost of cancer reached $1.2 trillion in 2010, according to the World Health Organization. Despite the investment in treatment and prevention, 8.8 million people died of cancer in 2015. That number is projected to increase to 14.6 million in 2035.
+15m
+Projected number of people who will die of cancer in 2035 (WHO)
+2 in 5
+People will get cancer in their lifetime (ACS)
+$1.2t
+Economic cost of cancer globally (WHO)
+What is it?
+Cancer immunotherapy is a radical new treatment with the potential to generate long-lasting regressions for all types and stages of cancer.
+Immunotherapy harnesses the body’s own powerful immune system and mobilizes its highly refined disease-fighting arsenal to eliminate cancer cells.
+The immune system produces specialized disease-fighting cells that circulate throughout the body, continually seeking out and destroying “foreign” agents. Cancer cells elude detection from the immune system because of their similarities to healthy tissues. Cancer immunotherapies override cancer’s evasive strategies to ensure that a powerful, precise and adaptable immune attack is focused on tumors anywhere in the body.
+Why is it Different?
+Immunotherapy has many advantages over previous types of cancer treatments.
+Durable
+Immune cells “remember” cancer cells to keep them from coming back
+Adaptable
+As tumors evolve, the immune system adapts in tandem
+Targeted
+Immunotherapy can kill cancer cells without harming healthy tissue
+Systemic
+The immune system can target and attack tumors anywhere in the body
+Synergistic
+Immunotherapy can complement and build on the efficacy of other cancer therapies
+Universal
+Immunotherapy has the potential to be effective for virtually all forms of cancer
+The key difference that separates immunotherapy is its durability. While traditional therapies may extend lives, the responses are often not durable – which means that the disease can progress or recur, often very quickly. Immunotherapies, on the other hand, can be curative and durable. Patients with sufficient anti-cancer immunity can achieve long-lasting control over their disease.
+History of Cancer Treatments
+Approach
+Unlocking the promise of immunotherapy will be complex.
+Currently there are more than a thousand clinical trials exploring immunotherapy for cancer treatment, with hundreds of research centers and companies vying for answers. To dramatically accelerate cancer research breakthroughs and hasten the delivery of better treatments to patients, the Parker Institute is leading a smart, coordinated approach with the finest academic and industry partners.
+40+
+Types of Cancer
+40+
+Laboratory Technologies
+20+
+Research Disciplines
+250+
+Companies
+100+
+Research Centers
+1000+
+Clinical Trials
+About Our Model
+FAQ
+Careers
+For Patients
+For Media
+Contact Us
+Get Email Updates
+© 2019 All Rights Reserved
+Terms & Conditions
+Privacy
+Cookies
+Member Center Login
+Get Email Updates
+First Name
+Last Name
+Email Address
+Role
+Pharma/Biotech
+Nonprofit
+Academia
+Policy/Government
+Patient or Caretaker
+Other
+I understand that the Parker Institute for Cancer Immunotherapy will use the information I provide on this form to provide me with email updates relating to the activities and mission of the Parker Institute for Cancer Immunotherapy from time to time.
+The Parker Institute will treat your information with respect. For more information about our privacy practices please view our Privacy Policy. We use a company called MailChimp to run our email update service. Please view their Privacy Policy and Terms as well.
+Submit
+.searchwp-live-search-results {
+opacity: 0;
+transition: opacity .25s ease-in-out;
+-moz-transition: opacity .25s ease-in-out;
+-webkit-transition: opacity .25s ease-in-out;
+height: 0;
+overflow: hidden;
+z-index: 9999;
+position: absolute;
+display: none;
+}
+.searchwp-live-search-results-showing {
+display: block;
+opacity: 1;
+height: auto;
+overflow: auto;
+}
+.searchwp-live-search-no-results {
+padding: 3em 2em 0;
+text-align: center;
+}
+.searchwp-live-search-no-min-chars:after {
+content: "Continue typing";
+display: block;
+text-align: center;
+padding: 2em 2em 0;
+}
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.parkerici.org\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.parkerici.org\/why-cancer-immunotherapy\/","stats_nonce":"7f854e3f07","share_counts":"02d4750406","follow_counts":"fa594855c3","total_counts":"b00d7d9dc6","media_single":"4321e25650","media_total":"cfd14483d0","generate_all_window_nonce":"bd731f9005","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+/* <![CDATA[ */
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/www.parkerici.org\/wp-admin\/admin-ajax.php","config":{"default":{"engine":"default","input":{"delay":500,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":10,"length":8,"width":4,"radius":8,"corners":1,"rotate":0,"direction":1,"color":"#000","speed":1,"trail":60,"shadow":false,"hwaccel":false,"className":"spinner","zIndex":2000000000,"top":"50%","left":"50%"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+/* ]]> */
+/* <![CDATA[ */
+var visceral = {"ajaxurl":"https:\/\/www.parkerici.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+/* <![CDATA[ */
+var yikes_mailchimp_ajax = {"ajax_url":"https:\/\/www.parkerici.org\/wp-admin\/admin-ajax.php","page_data":"6","interest_group_checkbox_error":"This field is required.","preloader_url":"https:\/\/www.parkerici.org\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/ripple.svg","loading_dots":"https:\/\/www.parkerici.org\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/bars.svg","ajax_security_nonce":"a3d9203220"};
+/* ]]> */
+/* <![CDATA[ */
+var form_submission_helpers = {"ajax_url":"https:\/\/www.parkerici.org\/wp-admin\/admin-ajax.php","preloader_url":"https:\/\/www.parkerici.org\/wp-admin\/images\/wpspin_light.gif","countries_with_zip":{"US":"US","GB":"GB","CA":"CA","IE":"IE","CN":"CN","IN":"IN","AU":"AU","BR":"BR","MX":"MX","IT":"IT","NZ":"NZ","JP":"JP","FR":"FR","GR":"GR","DE":"DE","NL":"NL","PT":"PT","ES":"ES"},"page_data":"6"};
+/* ]]> */
+jQuery('html').counterUp || document.write('<script src="https://www.parkerici.org/wp-content/themes/parker-ici/dist/scripts/cdnfallback.js">');
+This website uses cookies and similar automated technologies to store information on your computer or mobile device. By continuing to use this website, you agree to the temporary placement of these cookies and similar automated technologies. Read our updated Privacy Policy and Cookie Policy to learn more.I Agree

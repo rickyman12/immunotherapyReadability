@@ -1,0 +1,26 @@
+What Is Immunotherapy for Cancer?
+Immunotherapy refers to treatments that use the body's own immune system to combat diseases; immuno-oncology specifically involves immunotherapy directed at cancer.
+The immune system, a collection of organs, specialized cells and substances that respond to threats from infectious organisms, can help protect against cancer. But cancer has evolved an array of escape mechanisms. These schemes involve impersonating normal,
+harmless body cells; suppressing the immune system generally, or making use of natural proteins called immune "checkpoints" that act as brakes to prevent an attack on the cancer by killer T cells.
+Scientists have fought back with an array of immunotherapy strategies developed and tested over decades with mixed success. The field has seen a strong resurgence in recent years with the development of new vaccines and a novel class of agents that have
+brought stunning benefits in some patients with melanoma and other forms of cancer. Dana-Farber has created the Center for Immuno-Oncology as a focal point for research
+and clinical trials of immunotherapy in an expanding variety of cancers.
+Cancer vaccines
+Cancer vaccines are finding their place in prevention and treatment. One example is a preventive vaccine that protects against infection with the human papilloma virus (HPV),
+which causes cervical cancer and some other cancers, including cancers of the mouth and throat.
+Cancer treatment vaccines help train the immune system to recognize and attack cancer cells specifically. The first cancer treatment vaccine, approved in 2010, is Provenge,
+which stimulates an immune response against metastatic prostate cancer. Provenge must be customized to each individual patient.
+Monoclonal antibodies and checkpoint blockers
+Another immunotherapy strategy uses monoclonal antibodies to attach to and block antigens that cancer cells use to grow and spread. Still other monoclonal antibodies carry a radioactive substance, drug, or toxin that kills cancer cells that are recognized
+by the antibody.
+The newest immunotherapies involve the development of monoclonal antibody drugs to block the checkpoint molecules, including CTLA-4, PD-1 and PD-L1, thereby releasing the brakes so that T cells can seek out and destroy cancer cells. The roles of PD-1 and PD-L1 were discovered by Dana-Farber researchers.
+These antibody drugs given alone or in combinations were first tried in advanced melanoma. Researchers were amazed by some of the dramatic responses, with some patients' survival extended by as much as 10 years. These encouraging results prompted clinical
+trials in other cancer types, with early reports showing benefits in lung cancer, breast cancer, head and neck cancers,
+and liver cancer.
+The excitement has been tempered by the fact that only a minority of patients respond to the drugs, prompting research on what factors explain this, and the significant side effects the agents can have, particularly when given in combinations.
+Still, some experts say that the checkpoint blockers are poised to become a backbone of anticancer therapy as important as chemotherapy and, in some malignancies, may someday replace it.
+CAR T cell treatments
+One more exciting entry into the immunotherapy world — whose early success in trials with hard-to-treat cancers has stirred intense demand in patients — is known as CAR T cells. CAR stands for chimeric antigen receptor. CAR T cells are T cells that have
+been extracted from the patient's blood and "trained" in the laboratory to recognize and kill tumor cells; they're then returned to the patient as supercharged cancer-killers. CAR T cell treatments have achieved unprecedented response rates in stubborn
+forms of leukemia. They're now being tested in other blood cancers and in solid tumors, such as glioblastoma brain tumors.
+Learn about Dana-Farber's basic research in cancer immunology.

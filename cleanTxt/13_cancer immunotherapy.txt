@@ -1,0 +1,199 @@
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with
+limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off
+compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site
+without styles and JavaScript.
+nature.comsubjectscancer immunotherapy
+Menu
+Search
+My Account
+Login
+Atom
+RSS Feed
+Cancer immunotherapy
+Definition
+Cancer immunotherapy is a therapy used to treat cancer patients that involves or uses components of the immune system. Some cancer immunotherapies consist of antibodies that bind to, and inhibit the function of, proteins expressed by cancer cells. Other cancer immunotherapies include vaccines and T cell infusions.
+Featured
+News and Views
+|
+22 January 2019
+The ‘obesity paradox’ in action with cancer immunotherapy
+Joanne Lysaght
+Nature Reviews Endocrinology, 1-2
+Latest Research and Reviews
+Research
+|
+25 January 2019
+|
+open
+Memory T cells targeting oncogenic mutations detected in peripheral blood of epithelial cancer patients
+Adoptive cell therapy (ACT) using neoantigen-specific T cells can lead to tumor regression. Here the authors use an in vitro stimulation approach to isolate tumor specific memory T cells from peripheral blood of metastatic epithelial cancer patients targeting unique as well as shared mutations in the KRAS oncogene.
+Gal Cafri, Rami Yossef, Anna Pasetto, Drew C. Deniger, Yong-Chen Lu, Maria Parkhurst, Jared J. Gartner, Li Jia, Satyajit Ray, Lien T. Ngo, Mohammad Jafferji, Abraham Sachs, Todd Prickett, Paul F. Robbins & Steven A. Rosenberg
+Nature Communications 10, 449
+Reviews
+|
+24 January 2019
+Interferons α and β in cancer: therapeutic opportunities from new insights
+Interferons are key players in effective host immunological responses to malignant cells. This Review discusses new interferon-directed therapeutic opportunities — ranging from cyclic dinucleotides to genome methylation inhibitors, including combinations with other emerging therapeutic interventions — in cancer treatment.
+Ernest C. Borden
+Nature Reviews Drug Discovery, 1-16
+Reviews
+|
+17 January 2019
+Brain metastases
+An estimated 20% of all patients with cancer will develop brain metastases, with the majority of brain metastases occurring in those with lung and breast cancer and melanoma. This Primer describes the mechanisms by which cancer cells migrate to the brain and the key advances necessary to improve the prognosis for patients with brain metastases.
+Achal Singh Achrol, Robert C. Rennert, Carey Anders, Riccardo Soffietti, Manmeet S. Ahluwalia, Lakshmi Nayak, Solange Peters, Nils D. Arvold, Griffith R. Harsh, Patricia S. Steeg & Steven D. Chang
+Nature Reviews Disease Primers 5, 5
+Research
+|
+15 January 2019
+|
+open
+Humanized anti-CD123 antibody facilitates NK cell antibody-dependent cell-mediated cytotoxicity (ADCC) of Hodgkin lymphoma targets via ARF6/PLD-1
+Daniel Ernst, Brent A. Williams, Xing-Hua Wang, Nara Yoon, Kyung-Phil Kim, Jodi Chiu, Zhi Juan Luo, Karin G. Hermans, Joerg Krueger & Armand Keating
+Blood Cancer Journal 9, 6
+Research
+|
+11 January 2019
+|
+open
+CD73 expression on effector T cells sustained by TGF-β facilitates tumor resistance to anti-4-1BB/CD137 therapy
+Targeting the immune-stimulatory receptor 4-1BB has only yielded modest benefit in cancer treatment. In this study, the authors show that CD73 expression on effector T cells sustained by TGF-β drives tumor resistance to anti-4-1BB therapy and therefore TGF- β blockade can be used to overcome such resistance.
+Siqi Chen, Jie Fan, Minghui Zhang, Lei Qin, Donye Dominguez, Alan Long, Gaoxiang Wang, Renqiang Ma, Huabin Li, Yi Zhang, Deyu Fang, Jeffrey Sosman & Bin Zhang
+Nature Communications 10, 150
+Research
+|
+09 January 2019
+De novo design of potent and selective mimics of IL-2 and IL-15
+A hyper-stable de novo protein mimic of interleukin-2 computationally designed to not interact with a regulatory T-cell specific receptor subunit has improved therapeutic activity in mouse models of melanoma and colon cancer.
+Daniel-Adriano Silva, Shawn Yu, Umut Y. Ulge, Jamie B. Spangler, Kevin M. Jude, Carlos Labão-Almeida, Lestat R. Ali, Alfredo Quijano-Rubio, Mikel Ruterbusch, Isabel Leung, Tamara Biary, Stephanie J. Crowley, Enrique Marcos, Carl D. Walkey, Brian D. Weitzner, Fátima Pardo-Avila, Javier Castellanos, Lauren Carter, Lance Stewart, Stanley R. Riddell, Marion Pepper, Gonçalo J. L. Bernardes, Michael Dougan, K. Christopher Garcia & David Baker
+Nature 565, 186-191
+All Research & Reviews
+News and Comment
+Research Highlights
+|
+22 January 2019
+Organoid 2.0
+Neal et al. have successfully established patient-derived organoids of tumour epithelia retaining native immune cells, thereby recapitulating tumour microenvironment diversity and enabling immuno-oncology studies.
+Anna Dart
+Nature Reviews Cancer, 1
+News and Views
+|
+22 January 2019
+The ‘obesity paradox’ in action with cancer immunotherapy
+A recent study has shown that obesity and ageing induce T cell dysfunction and an upregulation of programmed cell death 1 (PD-1) on T cells across species, which is partially mediated by leptin. However, the polarization of T cells towards an exhaustive phenotype correlated with improved response rates to anti-PD-1 therapy in the setting of obesity.
+Joanne Lysaght
+Nature Reviews Endocrinology, 1-2
+Comments and Opinion
+|
+15 January 2019
+Truly personalized therapy — an end to the era of one size fits all
+In 2018, several trials in breast cancer have shown efficacy of strategies that rely on novel markers, including gene expression assays or pathological complete response. The relevance of targeted strategies in patient subgroups and of immunotherapy efficacy were demonstrated.
+Nadia Harbeck & Rachel Wuerstlein
+Nature Reviews Clinical Oncology 16, 77-78
+Comments and Opinion
+|
+10 January 2019
+CAR T cell therapy: inroads to response and resistance
+Several clinical studies in 2018 documented the potency of therapies based on T cells with chimeric antigen receptors (CAR T cells), but also revealed mechanisms of resistance. These insights may facilitate the design of improved CAR T cell therapies for B cell malignancies and beyond.
+Christine E. Brown & Crystal L. Mackall
+Nature Reviews Immunology, 1-2
+Correspondence
+|
+10 January 2019
+Successful treatment of two relapsed/refractory t(8;21) acute myeloid leukemia patients by CD19-directed chimeric antigen receptor T cells
+Changju Qu, Zheng Li, Liqing Kang, Ying Wang, Haiping Dai, Jia Yin, Guanghua Chen, Mingqing Zhu, Li Yao, Ting Xu, Xiaopeng Tian, Yang Xu, Jia Chen, Xiaming Zhu, Lei Yu, Depei Wu & Xiaowen Tang
+Bone Marrow Transplantation, 1-3
+Research Highlights
+|
+07 January 2019
+Expanding the search
+Laumont, Vincent et al. have developed a proteogenomic strategy for high-throughput mass spectrometry-based discovery of aberrantly expressed tumour-specific antigens from non-coding sequences as well as mutated tumour-specific antigens encoded by all genomic regions, thereby expanding the number of targetable antigens that can be used for cancer vaccine development.
+Anna Dart
+Nature Reviews Cancer, 1
+All News & Comment
+Nature.com menu
+Nature Research menu
+Our Journals
+Nature
+Nature Communications
+Nature Protocols
+Scientific Reports
+View all journals
+Subjects
+Biological Sciences
+Scientific Community & Society
+Earth & Environmental Sciences
+Health Sciences
+Physical Sciences
+View all subjects
+More
+Contact us
+Authors & Referees
+Librarians
+Advertisers
+Press
+About Nature Research
+Search
+Article search
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature.com
+ISSN
+(online)
+nature.com sitemap
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+Publish with us
+Guide to Authors
+Guide to Referees
+Editorial policies
+Open access
+Reprints & permissions
+Researcher services
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+Career development
+Nature Careers
+Nature
+Conferences
+Nature
+events
+Regional websites
+Nature China
+Nature India
+Nature Japan
+Nature Korea
+Nature Middle East
+© 2019 Springer Nature Publishing AG
+Privacy Policy
+Use of cookies
+Manage cookies
+Legal notice
+Accessibility statement
+Terms & Conditions

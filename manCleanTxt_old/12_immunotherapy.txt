@@ -1,0 +1,24 @@
+Michael A. Choti, MD, chief of surgery, Banner MD Anderson Cancer Center, discusses the role of immunotherapy in the treatment of patients with pancreatic cancer.
+Immunotherapy has made virtually no impact in this space for the time being, but there are ongoing trials testing its role in patients with advanced disease. Choti says it seems as though pancreatic cancer is not an immunogenic disease and that these patients are not appropriate candidates for this class of agents. Therefore, it is not amenable for immunotherapy. However, there is a very small subset of patients with microsatellite instability-high tumors where this type of treatment has potential.
+A phase IIa trial presented at the 2018 ESMO Congress indicated that pembrolizumab (Keytruda) may have an impact in combination with the CXCR4 antagonist BL-8040 for patients with metastatic pancreatic adenocarcinoma. Patients received 5 days of BL-8040 monotherapy followed by repeated 3-week cycles of pembrolizumab combined with BL-8040 every 3 weeks. The median overall survival with this treatment was 3.4 months in the 29 evaluable patients.
+Michael A. Choti, MD, chief of surgery, Banner MD Anderson Cancer Center, discusses the role of immunotherapy in the treatment of patients with pancreatic cancer.
+Immunotherapy has made virtually no impact in this space for the time being, but there are ongoing trials testing its role in patients with advanced disease. Choti says it seems as though pancreatic cancer is not an immunogenic disease and that these patients are not appropriate candidates for this class of agents. Therefore, it is not amenable for immunotherapy. However, there is a very small subset of patients with microsatellite instability-high tumors where this type of treatment has potential.
+A phase IIa trial presented at the 2018 ESMO Congress indicated that pembrolizumab (Keytruda) may have an impact in combination with the CXCR4 antagonist BL-8040 for patients with metastatic pancreatic adenocarcinoma. Patients received 5 days of BL-8040 monotherapy followed by repeated 3-week cycles of pembrolizumab combined with BL-8040 every 3 weeks. The median overall survival with this treatment was 3.4 months in the 29 evaluable patients.SEE ALL VIDEOS FROM: Michael A. Choti, MDView more on OncLive TV >>>
+stLight.options({publisher: "cf568e38-4bc7-433c-9762-707b9eee5576", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});
+stLight.options({publisher: "cf568e38-4bc7-433c-9762-707b9eee5576", doNotHash: false, doNotCopy: false, hashAddressBar: false, onhover: false});
+Trending Now
+Strategies Needed for Resistance to Targeted Agents in HER2+ Breast Cancer
+Grivas Discusses Developments in Bladder Cancer
+FDA Grants Zanubrutinib Breakthrough Designation for Mantle Cell Lymphoma
+FDA Approves Cabozantinib for Advanced HCC
+MyDRUG Evaluates Targeted Agents in Multiple Myeloma
+Related Articles
+Nivolumab Improves OS in Advanced or Recurrent Esophageal Cancer
+President Emeritus of MD Anderson Dies at 82
+John Mendelsohn, MD Anderson President Emeritus, Passes Away
+Lead Researcher Highlights Latest Acalabrutinib MCL Data
+Related Videos
+Dr. O'Donnell on the Importance of Identifying Molecular Subsets in Urothelial Cancer
+Dr. Kopetz on the Rarity of Fusions in CRC
+Dr. Singal on the FDA Approval of Cabozantinib in HCC
+Dr. Sun Discusses the Debate Between Radiation and Chemotherapy in GEJ Cancers

@@ -1,0 +1,260 @@
+Skip to main contentSubscribeMenuScientific American Cart 0Sign In Email:Password:Forgot password?LoginNot yet registered?|Stay InformedSearchSubscribeCloseSearchCloseAdvanced SearchThe SciencesMindHealth TechSustainabilityEducationVideoPodcastsBlogsStoreSubscribeCurrent IssueCart0Sign InStay InformedShareLatestMedicineCancer Immunotherapy: The Cutting Edge Gets SharperScientists try to understand why some patients get better and others don'tBy Christine Gorman on October 1, 2015
+Véalo en español
+Share on FacebookShare on TwitterShare on RedditShare on LinkedInShare viaPrintImmune cells (green and red) surround and prepare to destroy a cancer cell (blue, center) Credit: Alex Ritter, Jennifer Lippincott Schwartz and Gillian Griffiths, National Institutes of HealthAdvertisement
+Artificially boosting the body's immune response against cancer is the most exciting advance in the treatment of tumors in the past couple of years. But as the jam-packed sessions at a recent scientific conference in New York City made clear, a lot of questions remain to be answered before anyone can declare victory in the war on cancer. Among them: What is the best way to kick the immune system into action? Will immunotherapy work for all sorts of people with all kinds of cancer or just for a lucky few? Is there a way to make the treatments less dangerous or expensive?
+It was standing room only for many of the presentations at the first International Cancer Immunotherapy Conference, which took place from September 16 to 19.* Speaker after speaker started their talks by disclosing financial ties to a variety of companies ranging from pharmaceutical giants to their own start-ups. The audience consisted primarily of scientists and physicians. But sprinkled among the 1,400 attendees, in addition to the usual smattering of journalists, were a number of industry scouts and finance people seeking to glean the next big investment opportunity or joint project possibility.
+Jill O'Donnell-Tormey, chief executive officer of the Cancer Research Institute, proclaimed 2015 "a truly special year for cancer immunotherapy." The U.S. Food and Drug Administration approved two new immunotherapy drugs, she noted, "more than half of the current cancer clinical trials include some form of immunotherapy," several groups are working on possible combination therapies and oncologists around the world are recognizing "a paradigm shift in cancer." But as exciting as these advances are, she continued, "we know that we are only at the beginning" in terms of being able to understand or broadly use them.
+Reality check
+The first thing you need to know about the researchers studying immunotherapy for cancer is that every one of them seemingly has a few patients who have responded extraordinarily well. Steven Rosenberg of the National Cancer Institute no doubt takes the prize in this category. In 1984, he treated a woman named Linda Taylor who had metastatic melanoma (an aggressive type of skin cancer with a survival rate of less than 10 percent after ten years). Taylor was the 81st patient to undergo the debilitating therapy and the first to respond successfully. Within a few months her tumors melted away and she remains alive and healthy today. Rosenberg—the keynote speaker at the conference—reports that his latest regimen is not as hard on patients and results in 20 percent of them experiencing "a complete and durable remission." That's about par for a lot of the immune therapies now being studied.
+The second thing you need to know is that there is a reason why the body works so hard to suppress its immune reactions most of the time. The immune system has such powerful weapons in its arsenal that it can kill you faster than whatever ails you. And some of the things that doctors do to prepare the body for immune treatment are just as toxic as chemotherapy and radiation. (Indeed, for complex reasons, some immunotherapies require a dose of chemotherapy or radiation as a first step.) As Rosenberg says, "We have had some treatment-related deaths. That's been true in the field as well as in our own experience."
+With those sobering caveats in mind, however, there is no mistaking the growing optimism among many cancer researchers. They are starting to figure out when it's more important to take the brakes off the body's immune responses, when to step on the accelerator to get a sluggish reaction into high gear—and when they can safely do both. As investigators study different combinations of treatments and dosages, they can see improvements in response rates and believe they are getting a better handle on some of the most severe side effects.
+Hot and cold tumors
+Investigators have developed several different methods for tweaking a patient's immune system so that it recognizes and attacks dangerous tumors more effectively than it otherwise would. Some of these therapies feature so-called monoclonal antibodies that interfere with cancer cells' ability to fool the immune system into ignoring them. Known as checkpoint blockade, these treatments so far appear to work best in melanoma and smoking-induced lung cancer.
+There are good biological reasons for that observation. Melanoma and smoker's lung cancer both occur as a result of environmental exposure—the former from the sun’s ultraviolet rays, the latter from carcinogens in tobacco smoke. As a result, lots of mutations occur in the DNA of affected cells. These mutations in turn lead to the production of many aberrant proteins, which are usually recognized by the immune system as potentially dangerous, and any cells that contain them are quickly marked for destruction.
+Researchers refer to these malignancies as "hot" tumors because they sport a lot of deviant proteins that the immune system is likely to notice. They need a long time to figure out how to shield themselves from the immune system—which is part of the reason it typically takes decades for melanomas and lung cancers to grow big enough to threaten someone's life.
+In these cases the immune system has already dispatched lots of immune cells to the tumor; it's just that the cancer manages to turn the defenders off whenever they arrive. Checkpoint blockade reawakens the immune cells that have already found their way inside the tumor to start killing the malignant cells in the immediate vicinity and anywhere else they may be found in the body.
+Intriguingly, combining checkpoint blockade drugs results in fewer extreme side effects for patients with melanoma than for those with lung cancer. "This is something that is very recently being recognized—maybe in the past two years," says Jedd Wolchok, an oncologist at Memorial Sloan Kettering Cancer Center in New York City. "The same doses of the same medicine may not be tolerated equally in patients who have different cancers. We may have to use less medicine in patients with lung cancer. [Immunotherapy] is not one size fits all."
+In any event, many kinds of cancer (such as prostate, ovarian and pancreatic) are caused by just a handful of genetic mutations. They do not create the wide range of malfunctioning proteins that would usually attract the immune system's attention. As a result, these tumors are not typically filled with lots of slumbering immune cells waiting to be reawakened; checkpoint blockade, therefore, usually doesn't work on them. They are, in the parlance of cancer immunologists, "cold" tumors.
+And yet, several investigators reported on efforts to turn such cold tumors hot so they could then be targeted with immunotherapy. Padmanee Sharma, an immunologist at The University of Texas M. D. Anderson Cancer Center, for example, described a study in which men with apparently aggressive prostate cancer were given hormone treatment prior to surgery in order to first kill a few of their cancer cells before their tumor is removed. Once these cells die, the various proteins and other compounds that are usually found inside them spill into the body. Somehow, this makes it easier for the immune system to pay attention and it starts sending immune cells to tackle whatever microscopic bits of tumor might be left elsewhere in the body after the operation. Unfortunately, as Sharma told the audience, their subsequent response to immune-boosting drugs was short-lived. She and her colleagues are pursuing several different ideas, however, to make it last longer.
+Finding the right balance
+Indeed, the idea that you don't have to kill all the cancer cells in a tumor to get the immune system going sparked a lot of interest at the conference. Ira Mellman, Genentech’s vice president of cancer immunology, wondered aloud whether "chemotherapy may in fact be, to some extent, immunotherapy." By killing a few cells, it may prime the immune system to respond better to later treatments. In some cases the release of cancer proteins jump-starts the immune response. In others a chemotherapy drug such as gemcitabine actually releases the brakes by temporarily eliminating the cells whose normal job is to tamp down the immune system.
+Stanford University oncologist Ron Levy has taken this concept one step further by using low-dose radiation treatment to kill a few malignant cells in 15 patients with non-Hodgkin's lymphoma who had several visible tumors. Then he injected an experimental immunostimulatory compound directly into a single lesion in each of these patients. By doing so, he found he could lower the amount of drug he needed to trigger a reaction. Acting on a single tumor—which doesn't require as much medicine as trying to reach all the tumors in the body—was sufficient to trigger a general immune response.
+Most of the patients in Levy's study exhibited some kind of response; even tumors that had not been treated started to shrink in a few people. Generally speaking, it took six months to two years to see the changes. One 38-year-old man experienced a complete response, meaning all observable signs of the cancer disappeared throughout the body—an outcome that lasted more than a year. (A "complete response" is not necessarily the same thing as a cure because undetectable amounts of cancer might still be lurking somewhere in the body.) "We're trying to make this response more common and more durable," Levy said. His next step is to try to combine this method for stimulating the immune system with monoclonal antibodies that prevent tumors from shutting the immune system down (given at 1/20th of the usual dose). "We hope to eliminate toxicity by going local and lowering the effective dose," he told meeting participants. Although Levy has started treating at least one person with this newer combo approach, he was not yet ready to share results.
+Investigators presented several other promising immunotherapies at the conference but no roundup would be complete without mentioning the so-called CAR T cells, many of which have received orphan drug or  "breakthrough status" by the FDA in the past 18 months.
+CAR T cells are immune cells that have been genetically engineered to target tumors in a much more powerful way than normal immune cells can. To date, clinical trials conducted at Memorial Sloan Kettering, the Fred Hutchinson Cancer Research Center and the University of Pennsylvania Perelman School of Medicine have demonstrated remission rates of about 90 percent in several advanced cancers of the blood and lymph systems (again, not necessarily the same as a cure but still astounding).
+"There are 300 kinds of cancer at least and they're each going to have different issues," says Carl June of the University of Pennsylvania. But, he adds, "I think we have enough tools that we can plot a course." Stay tuned.
+*Four professional associations combined forces to conduct the meeting: the Cancer Research Institute, the Association for Cancer Immunotherapy (CIMT), the European Academy of Tumor Immunology and the American Association for Cancer Research.
+Rights & Permissions
+ABOUT THE AUTHOR(S)Christine GormanChristine Gorman is a health and science writer.Recent ArticlesWhy Censoring the CDC Could Kill YouBill Gates Enthusiastic about Disease-Fighting ProgressWhat Salamanders Are Teaching Scientists about How to Regrow Tissue [Video]AdvertisementThe Future of Medicine 20161Drugs That Ramp Up the Immune System against Tumor Cells are Revolutionizing Cancer Treatment2A Shot against Cancer3Friendly Germs Protect Mice against Cancer4New Frontiers in Cancer Treatments NewsletterGet smart. Sign up for our email newsletter.Sign UpExpertise. Insights. Illumination.Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners.Subscribe Now!Follow us instagram soundcloud youtube twitter facebook rssScientific american arabicالعربية
+Store
+About
+Press Room
+More
+FAQs
+Contact Us
+Site Map
+Advertise
+SA Custom Media
+Terms of Use
+Privacy Policy
+Use of Cookies
+International Editions
+Scientific American is part of Springer Nature, which owns or has commercial relations with thousands of scientific publications (many of them can be found at www.springernature.com/us). Scientific American maintains a strict policy of editorial independence in reporting developments in science to our readers.© 2019 Scientific American, a Division of Springer Nature America, Inc.All Rights Reserved.Limited Time Offer: Scientific American Health & Medicine Premiere IssueDownload Today var A17 = window.A17 || {};var dfp	= window.dfp || {};A17.svgSupport = document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure", "1.1");A17.browserSpec = (typeof document.querySelectorAll && 'addEventListener' in window && A17.svgSupport) ? "html5" : "html4";var element = document.createElement('x');element.style.cssText = 'pointer-events:auto';(function(){var doc = document.documentElement;var str = " js "+(A17.svgSupport ? " svg" : " no-svg") + (element.style.pointerEvents === 'auto' ? " csspointerevents" : " no-csspointerevents");doc.className = doc.className.replace(/\bno-js\b/,str);})();var airbrake = new airbrakeJs.Client({projectId: 177290,projectKey: 'fde133a285fff2da6ad65f7c374e0d6e'});airbrake.addFilter(function (notice) {notice.context.environment = 'production';return notice;});
+(function() {
+var DFP_id = dfp.adUnit;
+// For testing
+//var DFP_id = "/7814368/NativeAdUnit";
+var compiledTemplateHomePopular = "";
+var compiledTemplateHomeLatest = "";
+var compiledTemplateHomeAgenda = "";
+var compiledTemplateTagLatest = "";
+var compiledTemplateArticleLatest = "";
+var compiledTemplateVideoLatest = "";
+templates();
+window.NATIVEADS = window.NATIVEADS || {};
+window.NATIVEADS_QUEUE = window.NATIVEADS_QUEUE || [];
+var q = function() {
+return window.NATIVEADS_QUEUE;
+};
+q().push(["setPropertyID", "NA-SCIEAMERLIVE-11237933"]);
+switch (mura.subtype) {
+case 'Home':
+q().push(["insertPreview", {
+label: "HomeLatest",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-latest3')
+},
+location: "#latest-news > article.listing:eq(2)",
+infoText: "",
+infoButtonText: "",
+template: compiledTemplateHomeLatest,
+onRender: function($element) {
+var parent = document.getElementById('latest-news');
+var lastChild = parent.children[5];
+parent.removeChild(lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) { }
+}]);
+q().push(["insertPreview", {
+label: "HomeAgenda",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-agenda4')
+},
+location: "#agenda-latest > article:nth-child(3)",
+infoText: "",
+infoButtonText: "",
+template: compiledTemplateHomeAgenda,
+onRender: function($element) {
+var parent = document.getElementById('agenda-latest');
+parent.removeChild(parent.lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) { }
+}]);
+case 'Topic':
+q().push(["insertPreview", {
+label: "TopicAgenda",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-category')
+},
+location: "#agenda-latest > article:nth-child(3)",
+infoText: "",
+infoButtonText: "",
+template: compiledTemplateHomeAgenda,
+onRender: function($element) {
+var parent = document.getElementById('agenda-latest');
+parent.removeChild(parent.lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) { }
+}]);
+q().push(["insertPreview", {
+label: "HomePopular",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-popular3')
+},
+location: ".most-popular__grid > div.grid__col:eq(2)",
+template: compiledTemplateHomePopular,
+onRender: function($element) {
+var parent = document.getElementsByClassName('most-popular')[0];
+var parentBody = parent.children[0];
+parentBody.removeChild(parentBody.lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) {}
+}]);
+break;
+case 'Section':
+q().push(["insertPreview", {
+label: "TagLatest",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-tag3')
+},
+location: "div.section-latest > article:nth-child(3)",
+infoText: "",
+infoButtonText: "",
+template: compiledTemplateTagLatest,
+onRender: function($element) {
+var parent = document.getElementsByClassName('section-latest')[0];
+parent.removeChild(parent.lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) { }
+}]);
+break;
+case 'Video':
+case 'VideoSeries':
+q().push(["insertPreview", {
+label: "VideoLatest",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-video')
+},
+location: "div.recent-videos-group > div:nth-child(3)",
+infoText: "",
+infoButtonText: "",
+template: compiledTemplateVideoLatest,
+onRender: function($element) {
+var parent = document.getElementsByClassName('recent-videos-group')[0];
+parent.removeChild(parent.lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) { }
+}]);
+break;
+case 'Article':
+case 'PrintArticle':
+case 'PartnerArticle':
+case 'BlogPost':
+q().push(["insertPreview", {
+label: "ArticleLatest",
+unit: {
+"server": "dfp",
+"id": DFP_id,
+"size": "2x2",
+"targets": renderTagerting('n-article')
+},
+location: "#read-next > div.aside-block__body > div.related-article-group > div:nth-child(6)",
+infoText: "",
+infoButtonText: "",
+template: compiledTemplateArticleLatest,
+onRender: function($element) {
+var parent = document.getElementById('read-next');
+var parentBody = parent.children[1].children[0];
+parentBody.removeChild(parentBody.lastChild);
+},
+onFill: function(data) {
+getFormattedDate(data);
+},
+onError: function(error) { }
+}]);
+break;
+}
+function templates () {
+compiledTemplateHomePopular = function (Handlebars,depth0,helpers,partials,data) { this.compilerInfo = [4,'>= 1.0.0'];helpers = this.merge(helpers, Handlebars.helpers); data = data || {}; var buffer = "", stack1, stack2, options, functionType="function", escapeExpression=this.escapeExpression, helperMissing=helpers.helperMissing, self=this;function program1(depth0,data) { var buffer = "", stack1; buffer += "— " + escapeExpression(((stack1 = ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)); return buffer; } buffer += "\n<div class=\"grid__col large-up-1 medium-1-2\">\n <article class=\"listing-wide\" data-listing-template=\"Home_Popular\" data-listing-title=\""; if (stack1 = helpers.title) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.title; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <div class=\"listing-wide__thumb\">\n <a href=\""; if (stack1 = helpers.link) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.link; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <picture>\n <source media=\"(max-width: 767px)\" srcset=\""; options = {hash:{ 'width': (80), 'height': (80) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\""; options = {hash:{ 'width': (210), 'height': (140) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <img src=\""; options = {hash:{ 'width': (275), 'height': (183) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\""; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\"></picture>\n <div class=\"listing-wide__thumb__category listing-wide__thumb__sponsor " + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.AdType)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n </a>\n </div>\n <div class=\"listing-wide__inner\">\n <h3 class=\"t_listing-title\">\n <a href=\""; if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\">"; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "</a>\n </h3>\n <p class=\"t_body listing-wide__inner__desc\">\n "; if (stack2 = helpers.summary) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.summary; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\n </p>\n <div class=\"t_meta\">"; if (stack2 = helpers.pubDate) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.pubDate; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + " "; stack2 = helpers['if'].call(depth0, ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data}); if(stack2 || stack2 === 0) { buffer += stack2; } buffer += "</div>\n <div class=\"listing-wide__inner__small-sponsor\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n </div>\n </article>\n</div>"; return buffer; };
+compiledTemplateHomeLatest = function (Handlebars,depth0,helpers,partials,data) { this.compilerInfo = [4,'>= 1.0.0'];helpers = this.merge(helpers, Handlebars.helpers); data = data || {}; var buffer = "", stack1, stack2, functionType="function", escapeExpression=this.escapeExpression, self=this;function program1(depth0,data) { var buffer = "", stack1; buffer += "— " + escapeExpression(((stack1 = ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)); return buffer; } buffer += "<article class=\"listing listing--with-thumb \" data-listing-count=\"6\" data-listing-template=\"Home\" data-listing-title=\""; if (stack1 = helpers.title) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.title; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <div class=\"t_tag medium-up-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n <div class=\"t_tag small-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n <div class=\"t_meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.SponsorLabel)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n <div class=\"t_thumb listing__thumb \">\n <a href=\""; if (stack1 = helpers.link) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.link; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <picture>\n <source media=\"(max-width: 767px)\" srcset=\""; options = {hash:{ 'width': (280), 'height': (187) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\""; options = {hash:{ 'width': (690), 'height': (460) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 1024px) and (max-width: 1279px)\" srcset=\""; options = {hash:{ 'width': (450), 'height': (300) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <img src=\""; options = {hash:{ 'width': (590), 'height': (393) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\""; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\"></picture>\n </a>\n </div>\n <h2 class=\"t_small-listing-title\"><a href=\""; if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\">"; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "</a></h2>\n <p class=\"t_meta listing__meta\">"; if (stack2 = helpers.pubDate) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.pubDate; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + " "; stack2 = helpers['if'].call(depth0, ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data}); if(stack2 || stack2 === 0) { buffer += stack2; } buffer += "</p>\n</article>"; return buffer; };
+compiledTemplateTagLatest = function (Handlebars,depth0,helpers,partials,data) { this.compilerInfo = [4,'>= 1.0.0'];helpers = this.merge(helpers, Handlebars.helpers); data = data || {}; var buffer = "", stack1, stack2, options, functionType="function", escapeExpression=this.escapeExpression, helperMissing=helpers.helperMissing, self=this;function program1(depth0,data) { var buffer = "", stack1; buffer += "— " + escapeExpression(((stack1 = ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)); return buffer; } buffer += "\n<article class=\"listing-wide\" data-listing-template=\"Section\" data-listing-title=\""; if (stack1 = helpers.title) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.title; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <div class=\"listing-wide__thumb\">\n <a href=\""; if (stack1 = helpers.link) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.link; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <picture>\n <source media=\"(max-width: 767px)\" srcset=\""; options = {hash:{ 'width': (80), 'height': (80) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\""; options = {hash:{ 'width': (210), 'height': (140) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <img src=\""; options = {hash:{ 'width': (275), 'height': (183) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\""; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\">\n </picture>\n <div class=\"listing-wide__thumb__category listing-wide__thumb__sponsor " + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.AdType)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"</div>\n </a>\n </div>\n <div class=\"listing-wide__inner\">\n <h2 class=\"t_listing-title\"><a href=\""; if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\">"; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "</a></h2>\n <p class=\"t_body listing-wide__inner__desc\">\n "; if (stack2 = helpers.summary) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.summary; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\n </p>\n <div class=\"t_meta\">"; if (stack2 = helpers.pubDate) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.pubDate; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + " "; stack2 = helpers['if'].call(depth0, ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data}); if(stack2 || stack2 === 0) { buffer += stack2; } buffer += "</div>\n <div class=\"listing-wide__inner__small-sponsor\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"</div>\n </div>\n</article>"; return buffer; };
+compiledTemplateHomeAgenda = function (Handlebars,depth0,helpers,partials,data) { this.compilerInfo = [4,'>= 1.0.0'];helpers = this.merge(helpers, Handlebars.helpers); data = data || {}; var buffer = "", stack1, stack2, options, functionType="function", escapeExpression=this.escapeExpression, helperMissing=helpers.helperMissing, self=this;function program1(depth0,data) { var buffer = "", stack1; buffer += "— " + escapeExpression(((stack1 = ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)); return buffer; } buffer += "<article class=\"listing listing--with-thumb \" data-listing-count=\"4\" data-listing-template=\"Home\" data-listing-title=\""; if (stack1 = helpers.title) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.title; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <div class=\"t_tag medium-up-hide\">"+ escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"</div>\n <div class=\"t_thumb listing__thumb \">\n <a href=\""; if (stack1 = helpers.link) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.link; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\">\n <picture>\n <source media=\"(max-width: 767px)\" srcset=\""; options = {hash:{ 'width': (280), 'height': (187) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\""; options = {hash:{ 'width': (690), 'height': (460) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 1024px) and (max-width: 1279px)\" srcset=\""; options = {hash:{ 'width': (450), 'height': (300) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <img src=\""; options = {hash:{ 'width': (590), 'height': (393) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\""; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\"></picture>\n <div class=\"listing-wide__thumb__category listing-wide__thumb__sponsor "+ escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.AdType)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"\">"+ escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"</div>\n </a>\n </div>\n <h2 class=\"t_small-listing-title\">\n <a href=\""; if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\">"; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "</a>\n </h2>\n <p class=\"t_meta listing__meta\">"; if (stack2 = helpers.pubDate) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.pubDate; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + " "; stack2 = helpers['if'].call(depth0, ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data}); if(stack2 || stack2 === 0) { buffer += stack2; } buffer += "</p>\n</article>"; return buffer; };
+compiledTemplateArticleLatest = function (Handlebars,depth0,helpers,partials,data) { this.compilerInfo = [4,'>= 1.0.0'];helpers = this.merge(helpers, Handlebars.helpers); data = data || {}; var buffer = "", stack1, stack2, options, functionType="function", escapeExpression=this.escapeExpression, helperMissing=helpers.helperMissing, self=this;function program1(depth0,data) { var buffer = "", stack1; buffer += "— " + escapeExpression(((stack1 = ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)); return buffer; } buffer += "<div class=\"related-article-group__item\">\n <a href=\""; if (stack1 = helpers.link) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.link; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\" class=\"large-up-title-link\">\n <section class=\"related-article\">\n <div class=\"related-article__thumb\">\n <div class=\"t_tag related-article__thumb__sponsor " + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.AdType)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"</div>\n <picture>\n <source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\""; options = {hash:{ 'width': (330), 'height': (220) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(max-width: 767px)\" srcset=\""; options = {hash:{ 'width': (80), 'height': (80) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <img src=\""; options = {hash:{ 'width': (170), 'height': (113) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\""; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\"></picture>\n </div>\n <div class=\"related-article__body\">\n <div class=\"t_meta related-article__sponsor medium-down-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.SponsorLabel)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) +"</div>\n <h3 class=\"related-article__title\">"; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "</h3>\n <p class=\"related-article__meta\">"; if (stack2 = helpers.pubDate) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.pubDate; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + " "; stack2 = helpers['if'].call(depth0, ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data}); if(stack2 || stack2 === 0) { buffer += stack2; } buffer += "</p>\n </div>\n </section>\n </a>\n</div>"; return buffer; };
+compiledTemplateVideoLatest = function (Handlebars,depth0,helpers,partials,data) { this.compilerInfo = [4,'>= 1.0.0'];helpers = this.merge(helpers, Handlebars.helpers); data = data || {}; var buffer = "", stack1, stack2, options, functionType="function", escapeExpression=this.escapeExpression, helperMissing=helpers.helperMissing, self=this;function program1(depth0,data) { var buffer = "", stack1; buffer += "— " + escapeExpression(((stack1 = ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)); return buffer; } buffer += "<div class=\"grid__col large-1-2 xlarge-1-4 medium-1-2 recent-videos-group__item\">\n	<article class=\"listing--media listing--with-thumb\" data-video-title=\""; if (stack1 = helpers.title) { stack1 = stack1.call(depth0, {hash:{},data:data}); } else { stack1 = depth0.title; stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1; } buffer += escapeExpression(stack1) + "\" data-video-template=\"related-videos\">\n		<div class=\"t_tag medium-up-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n		<div class=\"t_thumb listing--media__thumb\"><a href=\""; if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\" class=\"icon-overlay\"><span class=\"icon-overlay__icon icon__play--md--white\"></span><span class=\"icon-overlay__icon icon__play--sm--white\"></span><picture><source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\""; options = {hash:{ 'width': (330), 'height': (186) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\"><source media=\"(max-width: 767px)\" srcset=\""; options = {hash:{ 'width': (80), 'height': (45) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\"><img src=\""; options = {hash:{ 'width': (275), 'height': (155) },data:data}; buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref),stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\""; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\"></picture><div class=\"listing-wide__thumb__category listing-wide__thumb__sponsor \">" + escapeExpression(((stack1 = ((stack1 = depth0.custom),stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div></a>\n		</div>\n		<h3 class=\"t_small-listing-title\"><a href=\""; if (stack2 = helpers.link) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.link; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "\">"; if (stack2 = helpers.title) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.title; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + "</a></h3>\n		<p class=\"t_meta listing--media__meta\">"; if (stack2 = helpers.pubDate) { stack2 = stack2.call(depth0, {hash:{},data:data}); } else { stack2 = depth0.pubDate; stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2; } buffer += escapeExpression(stack2) + " "; stack2 = helpers['if'].call(depth0, ((stack1 = depth0.author),stack1 == null || stack1 === false ? stack1 : stack1.name), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data}); if(stack2 || stack2 === 0) { buffer += stack2; } buffer += "</p>\n	</article>\n</div>"; return buffer; };
+}
+function getFormattedDate(data) {
+var monthNames = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
+var d = new Date(data.pubDate);
+data.pubDate = monthNames[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+if (data.custom.AdType == 'Product'){
+data.custom.AdType = "sponsor--blue";
+}
+else {
+data.custom.AdType = "";
+}
+return data;
+}
+})();
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0], p = d.location.protocol;
+if (d.getElementById(id)) {return;}
+js = d.createElement(s);
+js.id = id; js.type = "text/javascript"; js.async = true;
+js.src = ((p == "https:") ? p : "http:") + "//plugin.mediavoice.com/plugin.js";
+fjs.parentNode.insertBefore(js, fjs);
+})(document, "script", "nativeads-plugin");
+function renderTagerting(pos) {
+var polarTargeting = JSON.parse(JSON.stringify(dfp.targeting));
+var ppos = [];
+if (pos !== 'undefined') {
+ppos = [pos];
+}
+polarTargeting['pos'] = ppos;
+return polarTargeting;
+}

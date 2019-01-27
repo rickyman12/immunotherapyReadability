@@ -1,0 +1,71 @@
+Warning:
+The NCBI web site requires JavaScript to function.
+more...
+NCBISkip to main
+contentSkip to
+navigationResourcesAll ResourcesChemicals & BioassaysBioSystemsPubChem BioAssayPubChem CompoundPubChem Structure SearchPubChem SubstanceAll Chemicals & Bioassays Resources...DNA & RNABLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)E-UtilitiesGenBankGenBank: BankItGenBank: SequinGenBank: tbl2asnGenome WorkbenchInfluenza VirusNucleotide DatabasePopSetPrimer-BLASTProSplignReference Sequence (RefSeq)RefSeqGeneSequence Read Archive (SRA)SplignTrace ArchiveUniGeneAll DNA & RNA Resources...Data & SoftwareBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)Cn3DConserved Domain Search Service (CD Search)E-UtilitiesGenBank: BankItGenBank: SequinGenBank: tbl2asnGenome ProtMapGenome WorkbenchPrimer-BLASTProSplignPubChem Structure SearchSNP Submission ToolSplignVector Alignment Search Tool (VAST)All Data & Software Resources...Domains & StructuresBioSystemsCn3DConserved Domain Database (CDD)Conserved Domain Search Service (CD Search)Structure (Molecular Modeling Database)Vector Alignment Search Tool (VAST)All Domains & Structures Resources...Genes & ExpressionBioSystemsDatabase of Genotypes and Phenotypes (dbGaP)E-UtilitiesGeneGene Expression Omnibus (GEO) Database Gene Expression Omnibus (GEO) DatasetsGene Expression Omnibus (GEO) ProfilesGenome WorkbenchHomoloGeneOnline Mendelian Inheritance in Man (OMIM)RefSeqGeneUniGeneAll Genes & Expression Resources...Genetics & MedicineBookshelfDatabase of Genotypes and Phenotypes (dbGaP)Genetic Testing RegistryInfluenza VirusOnline Mendelian Inheritance in Man (OMIM)PubMedPubMed Central (PMC)PubMed Clinical QueriesRefSeqGeneAll Genetics & Medicine Resources...Genomes & MapsDatabase of Genomic Structural Variation (dbVar)GenBank: tbl2asnGenomeGenome ProjectGenome Data Viewer (GDV)Genome ProtMapGenome WorkbenchInfluenza VirusNucleotide DatabasePopSetProSplignSequence Read Archive (SRA)SplignTrace ArchiveAll Genomes & Maps Resources...HomologyBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)BLAST Link (BLink)Conserved Domain Database (CDD)Conserved Domain Search Service (CD Search)Genome ProtMapHomoloGeneProtein ClustersAll Homology Resources...LiteratureBookshelfE-UtilitiesJournals in NCBI DatabasesMeSH DatabaseNCBI HandbookNCBI Help ManualNCBI News & BlogPubMedPubMed Central (PMC)PubMed Clinical QueriesAll Literature Resources...ProteinsBioSystemsBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)BLAST Link (BLink)Conserved Domain Database (CDD)Conserved Domain Search Service (CD Search)E-UtilitiesProSplignProtein ClustersProtein DatabaseReference Sequence (RefSeq)All Proteins Resources...Sequence AnalysisBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)BLAST Link (BLink)Conserved Domain Search Service (CD Search)Genome ProtMapGenome WorkbenchInfluenza VirusPrimer-BLASTProSplignSplignAll Sequence Analysis Resources...TaxonomyTaxonomyTaxonomy BrowserTaxonomy Common TreeAll Taxonomy Resources...Training & TutorialsNCBI Education PageNCBI HandbookNCBI Help ManualNCBI News & BlogAll Training & Tutorials Resources...VariationDatabase of Genomic Structural Variation (dbVar)Database of Genotypes and Phenotypes (dbGaP)Database of Single Nucleotide Polymorphisms (dbSNP)SNP Submission ToolAll Variation Resources...How ToAll How ToChemicals & BioassaysDNA & RNAData & SoftwareDomains & StructuresGenes & ExpressionGenetics & MedicineGenomes & MapsHomologyLiteratureProteinsSequence AnalysisTaxonomyTraining & TutorialsVariationAbout NCBI AccesskeysMy NCBISign in to NCBISign Out
+PubMed
+US National Library of Medicine
+National Institutes of Health
+Search databaseAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarCloneConserved DomainsdbGaPdbVarESTGeneGenomeGEO DataSetsGEO ProfilesGSSGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProbeProteinProtein ClustersPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghUniGeneSearch termSearchAdvancedHelp
+Result Filters
+Format: AbstractFormatSummarySummary (text)AbstractAbstract (text)MEDLINEXMLPMID ListApplySend toChoose DestinationFileClipboardCollectionsE-mailOrderMy BibliographyCitation managerFormatSummary (text)Abstract (text)MEDLINEXMLPMID ListCSVCreate File1 selected item: 21355777FormatSummarySummary (text)AbstractAbstract (text)MEDLINEXMLPMID ListMeSH and Other DataE-mailSubjectAdditional textE-mailDidn't get the message? Find out why...Add to ClipboardAdd to CollectionsOrder articlesAdd to My BibliographyGenerate a file for use with external citation management software.Create File
+Cancer Biother Radiopharm. 2011 Feb;26(1):1-64. doi: 10.1089/cbr.2010.0902.Cancer immunotherapy.Dillman RO1.Author information1Hoag Cancer Institute of Hoag Hospital , Newport Beach, California 92658, USA. rdillman@hoaghospital.orgAbstractCancer immunotherapy consists of approaches that modify the host immune system, and/or the utilization of components of the immune system, as cancer treatment. During the past 25 years, 17 immunologic products have received regulatory approval based on anticancer activity as single agents and/or in combination with chemotherapy. These include the nonspecific immune stimulants BCG and levamisole; the cytokines interferon-α and interleukin-2; the monoclonal antibodies rituximab, ofatumumab, alemtuzumab, trastuzumab, bevacizumab, cetuximab, and panitumumab; the radiolabeled antibodies Y-90 ibritumomab tiuxetan and I-131 tositumomab; the immunotoxins denileukin diftitox and gemtuzumab ozogamicin; nonmyeloablative allogeneic transplants with donor lymphocyte infusions; and the anti-prostate cancer cell-based therapy sipuleucel-T. All but two of these products are still regularly used to treat various B- and T-cell malignancies, and numerous solid tumors, including breast, lung, colorectal, prostate, melanoma, kidney, glioblastoma, bladder, and head and neck. Positive randomized trials have recently been reported for idiotype vaccines in lymphoma and a peptide vaccine in melanoma. The anti-CTLA-4 monoclonal antibody ipilumumab, which blocks regulatory T-cells, is expected to receive regulatory approval in the near future, based on a randomized trial in melanoma. As the fourth modality of cancer treatment, biotherapy/immunotherapy is an increasingly important component of the anticancer armamentarium.PMID: 21355777 DOI: 10.1089/cbr.2010.0902
+[Indexed for MEDLINE] SharePublication types, MeSH terms, SubstancePublication typesResearch Support, Non-U.S. Gov'tReviewMeSH termsAnimalsAntineoplastic Agents/immunologyAntineoplastic Agents/therapeutic useHumansImmunotherapy/methods*Neoplasms/drug therapyNeoplasms/immunology*Neoplasms/therapy*SubstanceAntineoplastic AgentsLinkOut - more resourcesFull Text SourcesAtypon - PDFOther Literature SourcesCited by Patents in - The LensMedicalCancer Immunotherapy - MedlinePlus Health InformationMiscellaneousNCI CPTAC Assay Portal
+Supplemental Content
+Full text links
+You are here:
+NCBI > Literature > PubMed
+Support Center
+Simple NCBI Directory
+Getting Started
+NCBI Education
+NCBI Help Manual
+NCBI Handbook
+Training & Tutorials
+Submit Data
+Resources
+Chemicals & BioassaysData & SoftwareDNA & RNADomains & StructuresGenes & ExpressionGenetics & MedicineGenomes & MapsHomologyLiteratureProteinsSequence AnalysisTaxonomyVariation
+Popular
+PubMed
+Bookshelf
+PubMed Central
+BLAST
+Nucleotide
+Genome
+SNP
+Gene
+Protein
+PubChem
+Featured
+Genetic Testing Registry
+GenBank
+Reference Sequences
+Gene Expression Omnibus
+Genome Data Viewer
+Human Genome
+Mouse Genome
+Influenza Virus
+Primer-BLAST
+Sequence Read Archive
+NCBI Information
+About NCBI
+Research at NCBI
+NCBI News & Blog
+NCBI FTP Site
+NCBI on Facebook
+NCBI on Twitter
+NCBI on YouTube
+Privacy Policy
+External link. Please review our privacy policy.
+NLM
+NIH
+DHHS
+USA.gov
+National Center for
+Biotechnology Information,
+U.S. National Library of Medicine
+8600 Rockville Pike, Bethesda
+MD, 20894
+USA
+Policies and Guidelines | Contact

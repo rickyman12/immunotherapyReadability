@@ -1,0 +1,359 @@
+//<![CDATA[
+if (screenWidthCss) { document.write('<div id="wide-screen-container" class="' + screenWidthCss + '">'); }
+//]]>
+//<![CDATA[
+function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='You already rated this article';BlogEngine.i18n.savingTheComment='Saving the comment...';BlogEngine.i18n.comments='Comments';BlogEngine.i18n.commentWasSaved='The comment was saved. Thank you for the feedback';BlogEngine.i18n.commentWaitingModeration='Thank you for the feedback. The comment is now awaiting moderation';BlogEngine.i18n.cancel='Cancel';BlogEngine.i18n.filter='Filter';BlogEngine.i18n.apmlDescription='Enter the URL to your website or to your APML document';BlogEngine.i18n.beTheFirstToRate='Be the first to rate this article';BlogEngine.i18n.currentlyRated='Currently rated {0} by {1} {2}';BlogEngine.i18n.ratingHasBeenRegistered='Your rating has been registered. Thank you!';BlogEngine.i18n.rateThisXStars='Rate this {0} star{1} out of 5';};//]]>
+Medical Home
+Life Sciences Home
+Become a Member
+Search
+Medical Home
+Life Sciences Home
+About
+News
+Health A-Z
+Drugs
+Medical Devices
+Interviews
+White Papers
+MediKnowledge
+More...
+Newsletters
+Health & Personal Care
+Twitter Channels
+Contact
+Meet the Team
+Advertise
+Search
+Medical Home
+Life Sciences Home
+About
+News
+Life Sciences A-Z
+White Papers
+Lab Equipment
+Interviews
+Newsletters
+Webinars
+More...
+Contact
+Twitter Channels
+Meet the Team
+Advertise
+Search
+MediKnowledge
+Newsletters
+Health & Personal Care
+Twitter Channels
+Contact
+Meet the Team
+Advertise
+Search
+Webinars
+Contact
+Twitter Channels
+Meet the Team
+Advertise
+Search
+Menu
+//<![CDATA[
+googletag.cmd.push(function () {
+googletag.display('div-gpt-top-leaderboard-billboard');
+});
+//]]>
+//<![CDATA[
+var PdfReq = {
+itemType: 'health',
+itemName: 'What is Immunotherapy?',
+languageCode: '',
+formTitle: 'What is Immunotherapy? Printable Document (PDF)',
+itemId: '1607'
+};
+$(function () {
+Azom.initPdfReqPage();
+});
+//]]>
+What is Immunotherapy?
+Download PDF Copy
+By Sally Robertson, B.Sc.
+Immunotherapy is treatment that is designed to harness the ability of the body’s immune system to combat infection or disease. Immunotherapy might produce an immune response to disease or enhance the immune system’s resistance to active diseases such as cancer. Sometimes referred to as biological therapy, immunotherapy often uses substances referred to as biological response modifiers (BRMs). The body usually only produces small amounts of these BRMS in response to infection or disease, but in the laboratory, large amounts of these BRMs can be generated in order to provide a therapy for cancer, rheumatoid arthritis and other illnesses.
+Examples of immunotherapies include monoclonal antibodies, interferon, interleukin-2 (IL-2), and colony-stimulating factors CSF, GM-CSF and G-CSF. Interferon is currently being used to treat hepatitis C and is also being tested, along with IL-2 as a treatment for advanced malignant melanoma. Immunotherapy is being investigated as a means of blocking the inflammation seen in conditions such as Chron’s disease and rheumatoid arthritis.
+Depending on the type of treatment, various side effects can arise as a result of using immunotherapy. Side effects include flu-like symptoms, muscle aches, fever, appetite loss, weakness, diarrhea, nausea and vomiting. A rash may develop and some people bruise or bleed easily. These side effects are generally short-term, but patients may need to stay in hospital if they develop severe problems.
+Cancer immunotherapy
+In cancer immunotherapy, certain parts of the immune system are used to fight cancer in several ways. Some biological therapies are designed to boost the immune system generally, while others help train the immune response to specifically target cancer cells. Immunotherapy may be used alone or in combination with other therapies, depending on the type of cancer a patient has.
+The immune system is able to keep track of all the substances that are usually present in the body. If the immune system detects a substance that it does not recognize or sees as “foreign,” it flags that substance up for attack via an immune response. For example, germs and cancer cells contain certain substances that the immune system does not recognize as normally being present in the body. This raises an alarm that leads to a targeted immune response against the germs or cancer cells. However, there are clearly limits to the body’s ability to target cancer cells as many people develop cancer despite having a healthy immune system. Sometimes the immune system fails to recognize cancer cells as foreign and these abnormal cells then proliferate in an uncontrolled manner to form a tumor. In other cases, the immune system does recognize cancer cells as foreign but the response it launches is not strong enough to eliminate the cancer.
+Experts have therefore developed ways to help the immune system recognize cancer cells and also enhance its response to ensure the cells are destroyed. Some of the main types of cancer immunotherapies now being used are described below.
+Monoclonal antibodies
+One immune system response to foreign bodies is to produce large amounts of antibodies. These antibodies recognize and stick to certain proteins found on foreign bodies and these proteins are referred to as antigens. Once bound to the antigens, antibodies recruit other immune system components to attack and destroy any cell that has the antigen. Now, researchers can generate antibodies that target one antigen in particular, such as one presented by cancer cells. These antibodies are called monoclonal antibodies and scientists can produce many copies of them in the laboratory once they have identified the correct antigen to target.
+Over the last 20 years, more than a dozen monoclonal antibodies have been approved by the Food and Drug Administration to treat certain types of cancer and many more are being tested in clinical trials as scientists continue to discover different antigens associated with cancer.
+Cancer vaccines
+Related StoriesCRISPR-based tool shown to enhance cell-based immunotherapyGangrene-causing bacteria show promise as cancer treatmentBreast cancer treated successfully with immune therapyCancer vaccines work in much the same way as those given to prevent infections such as chicken pox or measles. Vaccines designed to prevent infection use dead or attenuated germs such as bacteria or viruses to initiate an immune response. Cancer vaccines do the same thing, but they trigger the immune system to attack cancer cells.
+Cancer vaccines may be composed of cancer cells, cell components or pure antigens. Immune cells may be taken from a patient and exposed to these substances in a laboratory to produce the vaccine, which is later infused into the body to enhance the immune response against cancer cells. Vaccines may also be combined with other cells or substances, referred to as adjuvants to create an even stronger immune response. These vaccines harness the immune system to attack cells that present one or more specific antigen. Since the immune system has specialized memory cells, the hope is that the vaccine will have lasting effects long after it is administered.
+Sipuleucel-T
+Known commercially as Provenge, sipuleucel-T is the only vaccine that has received FDA approval as a cancer therapy. The agent is used to treat advanced prostate cancer in cases where hormonal therapy is no longer helping. The process involves removing immune cells from a patient’s blood and sending them to a laboratory where they are exposed to substances that turn them into specialized immune cells referred to as dendritic cells. In addition, they are exposed to the protein prostatic acid phosphatase (PAP) which is intended to initiate an immune attack against prostate cancer cells. These altered cells are then infused back into the patient. The cells are infused again on two more occasions, separated by two weeks, meaning the patient receives three doses of the dendritic cells. The dendritic cells then help other immune cells to destroy the prostate cancer. This has been shown to improve patient survival by several months and the vaccine is currently being investigated to see whether it can be used to treat men with less advanced prostate cancer.
+Many other vaccines have shown promising result in clinical trials but have not yet reached the stage of FDA approval.
+Chron’s disease
+There is currently no treatment that can cure Chron’s disease, but advances in mucosal immunology have led to the discovery of a wide range of new targets for resolving the inflammation seen in this condition. Research suggests that the intestinal inflammation starts because of an aberrant response by the innate immune system that is eventually driven by T cells. Current therapies are focused on inhibiting, altering or suppressing T-cell differentiation and in the UK, the medications azathioprine or mercaptopurine are the most frequently used.
+In cases of severe Chron’s disease that is not helped by these drugs, two biological therapies are available that may be used to treat the condition. These powerful immunosuppressants are called infliximab and adalimumab and both work by targeting a protein called tumor-necrosis factor-alpha (TNF-α). TNF- α is a cell signalling protein (cytokine) secreted by T-helper-1 cells that has been shown to play a critical role in the inflammation process seen in Chron’s disease.
+Infliximab is administered via intravenous infusion in hospital and adalimumab can be administered via an injection, which the patient or a family member may be able to learn to do themselves.
+Rheumatoid arthritis
+Rheumatoid arthritis can be treated with disease-modifying antirheumatic drugs (DMARDS) to slow progression of the disease and prevent permanent damage in the joints and other tissues. Examples of these DMARDs include methotrexate, hydroxychloroquine and sulfasalazine. However, in cases where methotrexate or other DMARDs fail to ease symptoms and inflammation, a biological therapy may be recommended to block certain parts of the immune system that contribute to inflammation in this condition. Biological treatments such as etanercept, infliximab or certolizumab are usually taken in combination with a DMARD. They are administered via injection and stop chemicals in the blood from activating an immune response that attacks the joints.
+Sources
+www.mayoclinic.org/.../con-20014868
+www.webmd.com/.../treatment-care-rheumatoid-arthritis
+http://www.crohnstherapy.net/pages/pathophysiology/
+http://www.nhs.uk/Conditions/Crohns-disease/Pages/Treatment.aspx
+www.uptodate.com/.../investigational-therapies-in-the-medical-management-of-crohn-disease
+www.uptodate.com/contents/immunomodulator-therapy-in-crohn-disease
+http://www.cancerresearch.org/cancer-immunotherapy
+www.cancer.org/.../immunotherapy-toc
+http://www.medicinenet.com/script/main/art.asp?articlekey=7824
+Further ReadingActivation ImmunotherapiesImmunotherapy and Helminthic TherapySuppression ImmunotherapiesImmunotherapy: past, present and futureAdoptive T Cell Therapy MethodologyMore...
+Last Updated: Aug 23, 2018
+Written bySally RobertsonSally graduated from Greenwich University with a first-class honours degree in Biomedical Science. After five years working in the scientific publishing sector, Sally developed an interest in medical journalism and copywriting and went on to pursue this on a freelance basis. In her spare time Sally enjoys cross-country biking and walking, tennis and crosswords.
+Download PDF Copy
+//<![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+//]]>
+Advertisement
+Read in:EnglishEspañolFrançaisDeutschPortuguêsItaliano日本語한국어简体中文繁體中文NederlandsРусскийSvenskaPolski $(function() {
+BlogEngine.initContentLanguages();
+});
+Suggested Reading
+Breast cancer survival could be extended with two new drug combinationsDNA vaccine shown to provide long-term protection from EbolaEfficacy of cancer immunotherapy increased by deactivating tumor defence mechanismAntibody Screening Tools; Improving WorkflowsOverlooked immune cells could play a key role in cancer immunotherapy, claims new studyCustomising T-cells for cancer immunotherapyIntranasal spray shows promise for peanut allergy suppressionNew nano-immunotherapy promotes long-term acceptance of transplanted organs
+Comments
+Immunotherapy in India
+Prateek Jain
+says:
+October 8, 2014 at 5:56 AM
+Immunotherapy is emerging method of cancer treatment, which gets on immune system to fight the cancer cells. Many scientists and companies have pinned big hopes on this technique. The treatment could work on all types of cancers. Many Hospitals in India like Cancer Healer Center provides best cancer treatment based on immunotherapy. The best part is that this treatment is painless and with no side effects like other traditional therapies.
+0
+0
+Reply
+IS it true!!!!
+AZ Aziz
+says:
+October 20, 2014 at 9:52 PM
+What is the government take on it??? I heard that the Government has got NO SAY in QUALITY CONTROL or LAB STANDARD....Is it TRUE?? and in India very few Labs are of FDA standard... want to know some more info about it fren, if you could share... thnaks
+0
+0
+Reply
+The opinions expressed here are the views of the writer and do not necessarily reflect the views and opinions of News-Medical.Net.
+$(function() { BlogEngine.initComments(); });
+Cancel reply to comment
+$(function() { AZoProfileUtils.initAZoProfileIdentityBox(); });
+Post a new comment
+Login
+(Logout)
+Post
+var currentCommentItemTypeId = 2;
+var currentCommentItemId = '737d54d2-b50c-436f-95c8-fee7e8ba5a27';
+//<![CDATA[
+googletag.cmd.push(function() {
+googletag.display('div-gpt-mrec');
+});
+//]]>
+Advertisement
+TrendingStories
+LatestInterviews
+Top HealthArticles
+Review: Plant-based athletes benefit from improvements in heart health, performance, and recoveryStaphylococcus aureus: Study describes development of resistance to antibiotic for the first timeResearchers identify promising therapeutic option to treat multiple sclerosisUsing Multiplex Assays to Discover Biomarkers for Parkinson’s DiseaseStudy raises hopes for new approaches to treat osteoporosis
+How Patch Clamp Technology Can Benefit Ion Channel Research
+Tim Strassmaier and James Constantin
+Learn how patch clamp technology meets high-throughput to benefit ion channel research in this interview with Tim and James, Nanion.
+Training Students to use Imaging Techniques: NMR and EPR
+Judy MacInnis
+In this interview, Judy MacInnis from Cape Breton university, explains the importance of giving students hands-on EPR experience during in their studies.
+High Quality Purification of Proteins Through Liquid Chromatography
+Maria Glanz
+In this interview, AZoNetwork speaks to Knauer about the use of FPLC for purification of proteins and
+how their products enable scientists to get the most of liquid chromatography; conducted by Matthew Rafferty
+Exercises that Ease ArthritisCardiothoracic Imaging TechniquesChoosing the Right Toothbrush | Soft vs. Hard BristlesHow Does Infrared Therapy Work?Corticotropin-Releasing Hormone (CRH)
+//<![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+//]]>
+Advertisement
+Latest NewsHow Patch Clamp Technology Can Benefit Ion Channel ResearchPoor cardiorespiratory fitness could increase risk of future heart attack, finds new studyAlpha neurofeedback training could be a means of enhancing learning successResearchers cultivate vascular organoids that perfectly mimic human blood vesselsSignificant flaws found in recently released forensic software
+//<![CDATA[
+document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="300" show_faces="true" stream="false" header="false"></fb:like-box>');
+//]]>
+$(function () {
+BlogEngine.initFixedPosition('#newsletter-content', '#newsletter-content-wrap', '.sidebar-container', 'main');
+Azom.wireNewsletterPreviews();
+});
+Newsletters you may be interested in
+Antibodies
+(Subscribe or Preview)
+Cell Biology
+(Subscribe or Preview)
+Immunology
+(Subscribe or Preview)
+See all Newsletters »
+Medical Links
+Medical Home
+News
+Health A-Z
+White Papers
+Thought Leaders
+Insights
+MediKnowledge Series
+Health & Personal Care
+Medical Devices
+Drugs
+Life Sciences Links
+Life Sciences Home
+News
+Lab Instruments & Equipment
+Life Sciences A-Z
+White Papers
+Thought Leaders
+Insights
+Webinars
+Other Useful Links
+About
+Meet the Team
+Search
+Newsletters
+Twitter Channels
+Sitemap
+Advertise
+Contact
+Update Your Privacy Preferences
+Terms & Conditions
+Privacy & Cookie Policy
+Facebook
+Twitter
+News-Medical.Net provides this medical information service in accordance
+with these terms and conditions.
+Please note that medical information found
+on this website is designed to support, not to replace the relationship
+between patient and physician/doctor and the medical advice they may provide.
+This site complies with the
+HONcode standard for trustworthy health information: verify here.
+News-Medical.net - An AZoNetwork Site
+Owned and operated by AZoNetwork, © 2000-2019
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 17295;
+_sf_async_config.domain = 'news-medical.net';
+_sf_async_config.noCookies = true;
+_sf_async_config.sections = 'Change this to your Section name';
+//CHANGE THIS
+_sf_async_config.authors = 'Change this to your Author name';
+//CHANGE THIS
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+'js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+//<![CDATA[
+$(function() {
+var regTags = [ 'Antibodies','Antigen','Arthritis','Azathioprine','Bacteria','Blood','Cancer','Cell','Cell Signaling','Colony-Stimulating Factors (CSF)','Crohn’s Disease','Crohn\'s Disease','Cytokine','Diarrhea','Drugs','Etanercept','Fever','Flu','G-Protein','Hepatitis A','Hepatitis B','Hepatitis C','Hepatitis D','Hepatitis E','Hormonal Therapy','Hospital','Immune Response','Immune System','Immunology','Immunotherapy','Inflammation','Infliximab','Interleukin-2','Interleukin-6','Laboratory','Malignant','Measles','Melanoma','Methotrexate','Monoclonal Antibody','Muscle','Nausea','Necrosis','Pathophysiology','Phosphatase','Prostate','Prostate Cancer','Protein','Provenge','Rash','Research','Rheumatoid Arthritis','T-Cell','Tumor','Vaccine','Viruses','Vomiting' ];
+var cat = 'Health Tag';
+var action = 'Viewed';
+for (var i = 0; i < regTags.length; i++) {
+Azom.pushAnalyticsEvent([cat, action, regTags[i]]);
+}
+});
+//]]>
+//<![CDATA[
+if (iScreenWidth > 0) {
+// first ad
+//document.write('<div class="side-box-top"></div>');
+//document.write('<div class="side-box-repeat sponsorer-content-image">');
+document.write('<div class="tower-promo-spot" id="' + (iScreenWidth == 2 ? 'tower-large-promo-spot' : 'tower-promo-spot') + '" style="right:' + g_towerPromoSpotRightPos.toString() + 'px">');
+}
+//]]>
+//<![CDATA[
+if (iScreenWidth == 1) {
+document.write("<div id='div-gpt-right-tower'>");
+googletag.cmd.push(function () {
+googletag.display('div-gpt-right-tower');
+});
+document.write("</div>");
+} else if (iScreenWidth == 2) {
+document.write("<div id='div-gpt-right-tower-large'>");
+googletag.cmd.push(function () {
+googletag.display('div-gpt-right-tower-large');
+});
+document.write("</div>");
+}
+//]]>
+//<![CDATA[
+if (iScreenWidth > 0) {
+document.write('<div class="sponsorer-note">Advertisement</div>');
+document.write('</div>');
+//document.write('</div>');
+//document.write('<div class="side-box-bottom"></div>');
+}
+//]]>
+//<![CDATA[
+if (screenWidthCss) { document.write('</div>'); }
+//]]>
+//<![CDATA[
+var pageImpressionData = { pk: 1, ct: 24, cntid: 1607, catid: '', tid: 0, dt: 1 };
+//]]>
+//<![CDATA[
+var contentViewData = { type: 'Health', id: 1607 };
+//]]>
+//<![CDATA[
+window.fbAsyncInit = function () {
+FB.init({
+appId: '191532917554431',
+status: true,
+cookie: true,
+xfbml: true,
+channelUrl: 'https://www.news-medical.net/channel.html'
+});
+$(function() { BlogEngine.recordFbLike(); });
+};
+(function () {
+var e = document.createElement('script');
+e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+} ());
+//]]>
+//<![CDATA[
+googletag.cmd.push(function () {
+googletag.display('div-gpt-interstitial');
+});
+//]]>
+//<![CDATA[
+var RfqData =
+{ "RfqSideTabCssClass": "requestQuoteGeneric", "Items": [
+{ "id": "rfq-generic", "elementSelectors": ["a.requestQuoteGeneric"], "itemType": "generic", "itemName": "", "itemId": 0, "formTitle": "Request a Quote or Further Information" }
+] } ;
+var g_azo_cid = 220;
+$(function() {
+Azom.initRfqPage();
+});
+if (typeof contentViewData !== 'undefined') {
+Azom.recordClientView();
+} else {
+Azom.askHcpQuestionIfApplicable(false);
+}
+//]]>
+By continuing to browse or by clicking "Accept All Cookies," you agree to the storing of first and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Find out more.
+Cookie Settings
+Accept All Cookies
+You might also like...
+×
+Cancer treatment may undergo a paradigm shift to immunotherapy soon
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();

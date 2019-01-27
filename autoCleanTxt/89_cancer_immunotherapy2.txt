@@ -1,0 +1,15 @@
+Cancer Immunotherapy
+
+The field of immuno-oncology (or cancer immunotherapy) has exploded in the
+past decade
+
+Cancer immunotherapies generally work by interfering with the inhibitory
+signals produced by tumors against certain elements of the immune system.
+Because such inhibitory signals are mediated by “immune checkpoint” cell-
+surface molecules, the first generation of cancer immunotherapies are
+generally known as checkpoint inhibitors. The remarkable clinical efficacy
+(measured as long-term tumor control or even complete disappearance of tumor
+lesions) of some checkpoint inhibitors appears to be associated with the
+activity of effector lymphocytes, mainly tumor-infiltrating effector T cells.
+There remains, however, a significant unmet medical need.
+

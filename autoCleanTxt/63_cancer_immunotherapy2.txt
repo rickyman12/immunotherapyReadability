@@ -1,0 +1,14 @@
+Vaccines as an Integral Component of Cancer Immunotherapy
+
+It is important to distinguish vaccines designed to prevent cancer from those
+designed to treat cancer. The mode of action of the human papilloma virus
+(HPV) vaccine for the prevention of cervical and other HPV-associated
+malignancies is similar to that of vaccines for the prevention of infectious
+disease (ie, the induction of antibodies directed against essential components
+of the microbe). Even though there have been stunning successes in the area of
+preventive vaccines, the history of therapeutic cancer vaccines, which
+principally involve the development of cell-mediated immunity (ie, T cells)
+directed against tumor antigens, has been far more challenging. However, the
+renaissance of cancer immunotherapy has rendered therapeutic cancer vaccines
+as a potential integral component of treatment.
+

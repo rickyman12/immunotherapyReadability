@@ -1,0 +1,80 @@
+15 January 2019
+|
+open
+Humanized anti-CD123 antibody facilitates NK cell antibody-dependent cell-mediated cytotoxicity (ADCC) of Hodgkin lymphoma targets via ARF6/PLD-1
+Daniel Ernst, Brent A. Williams, Xing-Hua Wang, Nara Yoon, Kyung-Phil Kim, Jodi Chiu, Zhi Juan Luo, Karin G. Hermans, Joerg Krueger & Armand Keating
+Blood Cancer Journal 9, 6
+Research
+|
+14 January 2019
+Tumor mutational load predicts survival after immunotherapy across multiple cancer types
+Analysis of advanced cancer patients treated with immune-checkpoint inhibitors shows that tumor mutational burden, as assessed by targeted next-generation sequencing, predicts survival after immunotherapy across multiple cancer types.
+Robert M. Samstein, Chung-Han Lee, Alexander N. Shoushtari, Matthew D. Hellmann, Ronglai Shen, Yelena Y. Janjigian, David A. Barron, Ahmet Zehir, Emmet J. Jordan, Antonio Omuro, Thomas J. Kaley, Sviatoslav M. Kendall, Robert J. Motzer, A. Ari Hakimi, Martin H. Voss, Paul Russo, Jonathan Rosenberg, Gopa Iyer, Bernard H. Bochner, Dean F. Bajorin, Hikmat A. Al-Ahmadie, Jamie E. Chaft, Charles M. Rudin, Gregory J. Riely, Shrujal Baxi, Alan L. Ho, Richard J. Wong, David G. Pfister, Jedd D. Wolchok, Christopher A. Barker, Philip H. Gutin, Cameron W. Brennan, Viviane Tabar, Ingo K. Mellinghoff, Lisa M. DeAngelis, Charlotte E. Ariyan, Nancy Lee, William D. Tap, Mrinal M. Gounder, Sandra P. D’Angelo, Leonard Saltz, Zsofia K. Stadler, Howard I. Scher, Jose Baselga, Pedram Razavi, Christopher A. Klebanoff, Rona Yaeger, Neil H. Segal, Geoffrey Y. Ku, Ronald P. DeMatteo, Marc Ladanyi, Naiyer A. Rizvi, Michael F. Berger, Nadeem Riaz, David B. Solit, Timothy A. Chan & Luc G. T. Morris
+Nature Genetics, 1-5
+Research
+|
+10 January 2019
+|
+open
+Post-exposure immunotherapy for two ebolaviruses and Marburg virus in nonhuman primates
+Current experimental monoclonal antibodies (mAbs) for Ebola virus (EBOV) post-exposure immunotherapy are ineffective against Sudan (SUDV) or Marburg virus (MARV). Here, authors develop cocktails of mAbs that protect nonhuman primates against EBOV, SUDV, and MARV infection when given four days post infection.
+Jennifer M. Brannan, Shihua He, Katie A. Howell, Laura I. Prugar, Wenjun Zhu, Hong Vu, Sergey Shulenin, Shweta Kailasan, Henna Raina, Gary Wong, Md Niaz Rahim, Logan Banadyga, Kevin Tierney, Xuelian Zhao, Yuxing Li, Frederick W. Holtsberg, John M. Dye, Xiangguo Qiu & M. Javad Aman
+Nature Communications 10, 105
+Research
+|
+09 January 2019
+Autologous CD19-directed chimeric antigen receptor-T cell is an effective and safe treatment to refractory or relapsed diffuse large B-cell lymphoma
+Fang Bao, Wei Wan, Ting He, Feifei Qi, Guanghua Liu, Kai Hu, Xin-an Lu, Ping Yang, Fei Dong, Jing Wang & Hongmei Jing
+Cancer Gene Therapy, 1-8
+Research
+|
+09 January 2019
+Intratumoral expression using a NFkB-based promoter enhances IL12 antitumor efficacy
+Guillermo Garaulet, Gema Pérez-Chacon, Hernan Alarcón, Arantzazu Alfranca, Francisca Mulero, Jorge Martínez-Torrecuadrada, Juan M. Zapata & Antonio Rodríguez
+Cancer Gene Therapy, 1-18
+Reviews
+|
+04 January 2019
+A critical appraisal of amyloid-β-targeting therapies for Alzheimer disease
+Potential disease-modifying therapies for Alzheimer disease have mostly targeted brain accumulation of amyloid-β, but this approach has yet to provide substantial clinical benefits. The authors consider the reasons for this failure and suggest alternative strategies, including modification of risk factors.
+Francesco Panza, Madia Lozupone, Giancarlo Logroscino & Bruno P. Imbimbo
+Nature Reviews Neurology, 1-16
+All Research & Reviews
+News and Comment
+News
+|
+28 December 2018
+Peanut allergy potential
+Asher Mullard
+Nature Reviews Drug Discovery 18, 7
+News and Views
+|
+06 December 2018
+The myriad targets of a T cell
+Two methods for measuring cross-reactivity could boost the safety of T-cell therapies.
+Aswin Natarajan & Michelle Krogsgaard
+Nature Biotechnology 36, 1152-1154
+Correspondence
+|
+05 December 2018
+Donor lymphocyte infusion for BK virus hemorrhagic cystitis and nephropathy: a case report
+Guillermo Ortí, Gloria Iacoboni, Pere Barba, Ramón Gimeno, Elisa Roldán, Laura Fox, Olga Salamero, Francesc Bosch & David Valcárcel
+Bone Marrow Transplantation, 1-3
+Correspondence
+|
+08 November 2018
+|
+open
+Post-transplant immunotherapy with WT1-specific CTLs for high-risk acute myelogenous leukemia: a prospective clinical phase I/II trial
+Hee-Je Kim, Hyun-Jung Sohn, Jung-A Hong, Hyun-Joo Lee, Dae-Hee Sohn, Chang-Ae Shin, Hyun-Il Cho, Woo-Sung Min & Tai-Gyu Kim
+Bone Marrow Transplantation, 1-4
+Correspondence
+|
+05 October 2018
+Not so crystal clear: observations from a case of crystalline arthritis with cytokine release syndrome (CRS) after chimeric antigen receptor (CAR)-T cell therapy
+Sarah H. Chung, Grant Hughes, Brian Koffman, Cameron J. Turtle, David G. Maloney & Utkarsh H. Acharya
+Bone Marrow Transplantation, 1-3
+Research Highlights
+|
+27 September 2018
+Insights into the risk of fatal AEs with ICIs

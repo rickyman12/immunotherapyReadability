@@ -1,0 +1,298 @@
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-N8H7G7');
+The University of Kansas Cancer Center
+The University of Kansas HospitalRated as the top hospital in Kansas and Kansas City, we provide world-class patient care and are a destination center for complex care and diagnosis. The University of Kansas Cancer CenterThrough world-class research and exceptional patient care, our NCI-designated cancer center is working toward a world without cancer. University of Kansas Medical CenterServing Kansas through excellence in education, research and community engagement; KU Medical Center operates the Schools of Medicine, Nursing and Health Professions.Patients & VisitorsA complete online guide to information about the hospital and our services.HIPAA & Patient PrivacyThe University of Kansas Health System strives to protect your medical information and keep it private.ProfessionalsResources and information for physicians and healthcare professionals.Contact UsMake an appointment, submit a comment, contact a patient or staff member.
+About UsContact UsMedical Records
+AdmissionsFind a DoctorMyChart
+CareersMaps DirectionsRequest an Appointment
+About UsCareersFind a DoctorMedical RecordsRequest an Appointment
+AdmissionsContact UsMaps DirectionsMyChart
+About UsAdmissionsCareersContact UsFind a DoctorMaps DirectionsMedical RecordsMyChartRequest an Appointment
+Make a Donation
+News
+Careers
+Locations
+Contact Us
+About Us
+Request an Appointment
+or Call 913-588-1227
+print
+share
+text size:increasedecrease
+Patient Care
+Patient and visitor guide »
+Your first visit
+»
+Get a second opinion »
+Find a doctor »
+Our nurse navigators
+»
+Cancer treatments »
+MyChart »
+Turning Point »
+Support services »
+Biospecimen bank »
+Women's Cancer Center »
+Health resources »
+What NCI designation means to you  »
+Clinical Trials
+Introduction to clinical trials »
+Types of trials »
+Featured trials »
+Treating cancer differently through clinical trials »
+Why participate »
+Frequently asked questions»
+Clinical Research Center »
+Patient Stories »
+Cancer Information
+Cancer overview »
+Coping with diagnosis »
+Grading and staging »
+Health library »
+Bladder and kidney cancer »
+Blood & marrow transplant »
+Brain cancer »
+Breast cancer »
+Cervical cancer »
+Colorectal cancer »
+Esophageal cancer »
+Head and neck cancer »
+Leukemia »
+Liver cancer »
+Lung cancer »
+Lymphoma »
+Myelodysplastic syndromes »
+Myeloma »
+Ovarian cancer »
+Pancreatic cancer »
+Pediatric hematology »
+Prostate cancer »
+Sarcoma »
+Skin cancer »
+Stomach (gastric) cancer »
+Testicular cancer »
+Thyroid cancer »
+Uterine cancer »
+Cancer Research & Education
+Cancer center membership »
+Shared resources »
+Educational resources »
+NCI designation »
+Beyond the Bench 2017 »
+Biospecimen bank »
+Kansas Masonic Research Institute
+»
+Midwest Cancer Alliance
+»
+Patient Research Advocacy
+»
+Find a Doctor
+Find a doctor
+»
+Contact us
+»
+Refer a patient
+»
+For an appointment: 913-588-1227
+Surviving Cancer
+Surviving cancer »
+Coping with diagnosis
+»
+Community resources »
+Patient stories »
+Health resources »
+Turning Point
+»
+Cancer Center events »
+Locations
+Cancer Care Pavilion»
+The University of Kansas Hospital »
+Radiation Oncology»
+Sarcoma Center »
+Clinical Research Center »
+Pharmacy Locations »
+Lab Locations»
+Indian Creek Campus»
+Womens Cancer Center»
+Turning Point »
+Missys' Boutique »
+Brandmeyer Resource Center »
+Blue Springs »
+Lee's Summit »
+Kansas City, Missouri »
+North Kansas City in partnership with North Kansas City Hospital »
+Overland Park »
+Topeka »
+Kansas City, Kansas »
+(913) 588-1227(844) 323-1227
+Request an Appointment
+Find A Location
+Home
+Patient Care
+Cancer Treatments
+Immunotherapy
+Immunotherapy Offers Options in Cancer Care
+Therapy uses patient's own immune system to fight cancer
+Cord blood transplant helps Rebecca Hertzog Burns beat the odds
+Through immunotherapy, Rebecca achieved remission from the leukemia she faced not once, but twice in her life.
+Immunotherapy and cellular therapeutics represent the future of cancer care – and they are happening today, right here at our cancer center.
+Immunotherapy is a treatment in which the body’s own immune system is harnessed to fight back against cancer. The treatment can take several forms, including:
+Stem cell transplant, in which the patient receives healthy donor cells to grow a new immune system
+Medication infusion, in which injected antibodies manipulate the patient’s existing T cells to attack cancer cells
+T-cell re-engineering, in which the patient’s own T cells are extracted from the body, genetically modified in a laboratory to fight cancer cells and returned by infusion to the patient’s body
+The University of Kansas Cancer Center offers extensive experience in stem cell transplant, having performed more than 3,400 procedures in our program’s 40-year history. As a National Cancer Institute-designated cancer center and the region’s premier academic medical center, we are deeply committed to clinical trials that offer patients more options and greater access to the latest treatment discoveries.
+CAR T-Cell Therapy Gives Husband, Father New Chance at Life
+Groundbreaking CAR T-Cell Therapy Provides New Chance at Life.  Read Brad's' story.
+Recently, our cancer center became one of the first sites in the nation to offer FDA-approved CAR T-cell therapies. These include YESCARTA™ for treatment of non-Hodgkin lymphoma in adults and KYMRIAH™ for treatment in patients up to 25 years old who have relapsed or refractory acute lymphoblastic leukemia (ALL).
+Learn more about these precision cancer therapies and explore our immunotherapy FAQ.
+Heloise Gray's aggressive leukemia demanded aggressive treatment. With no full match to be found in the donor registry, Heloise opted to take part in a clinical trial  –   an infused immunotherapy that brought about complete remission.
+How it works
+Immunotherapy is a biological therapy that uses the body’s immune system to fight cancer, including leukemia and lymphoma. For example, specific cells can be removed from the body and genetically modified or reprogrammed. When they are reintroduced into the patient, those cells have the ability to hunt and destroy the dangerous cancer cells.
+Immunotherapy is one piece of personalized cancer care, considered the future of medicine by the National Cancer Institute. With this approach, treatment is tailored to the cellular level, with experts studying the individual’s cancer cells and then determining which type of therapy is most likely to destroy those cells. Other types of more traditional treatment include surgery, chemotherapy or radiation.
+Make a gift to support immunotherapy.
+Immunotherapy at The University of Kansas Cancer Center
+Immunotherapy is not yet as widely used as surgery, chemotherapy or radiation therapy, but it has been approved to treat people with many types of cancer. As a National Cancer Institute-designated Cancer Center, our experts perform a high volume of procedures, including immunotherapy, to treat the most critically ill patients.
+Because it’s a new type of treatment, many immunotherapies are being studied in clinical trials. And patients at The University of Kansas Cancer Center have greater
+access to more clinical trials.
+In fact, we are the only cancer center in the area that offers access to National Cancer Institute clinical trials.
+Concierge assistance for patients and families
+Patient Comfort & Travel Guide
+We are honored to provide care for patients from across the nation and around the world. Visit our travel page for details on getting comfortable in Kansas City during your treatment.
+At The University of Kansas Cancer Center, the rarest cases aren’t rare. We specialize in caring for patients with the most complex conditions. Our dedication to healthcare excellence and patient-focused care attracts patients from around the region and across the country.
+Our central location makes us easily accessible by interstate, rail and air travel. No matter where patients come from, they can be here in a matter of hours.
+Still, planning for a trip and being in an unfamiliar place for medical care can be overwhelming.
+Our dedicated travel consultant and concierge assistant will help patients and visitors arrange their visit to The University of Kansas Cancer Center. Concierge services are available weekdays from 8 a.m. to 5 p.m. Visit our travel page or request a Patient Comfort & Travel Guide for information on nearby lodging, dining and other amenities. Call toll-free 844-323-1227, then press 4 to talk to a travel concierge. For international inquiries, call us at 00-1-913-588-1227.
+Contact us about an immunotherapy clinical trial
+•  Use this form to inquire about an immunotherapy clinical trial.
+•  You can also call us at 913-588-1227 or toll-free at 844-323-1227. For international inquiries, call us at 00-1-913-588-1227.
+View our immunotherapy FAQ page or download the PDF for more information, including eligibility and travel.
+{
+"@context": "http://schema.org",
+"@type": "MedicalWebPage",
+"audience": "https://health-lifesci.schema.org/Patient",
+"specialty": "http://health-lifesci.schema.org/Oncologic",
+"name": ["Immunotherapy Offers Options in Cancer Care","Therapy uses patient's own immune system to fight cancer", "Immunotherapy at The University of Kansas Cancer Center"],
+"description": ["Immunotherapy and cellular therapeutics represent the future of cancer care and they are happening today, right here at our cancer center. Immunotherapy is a treatment in which the body's own immune system is harnessed to fight back against cancer.","Immunotherapy is one piece of personalized cancer care, considered the future of medicine by the National Cancer Institute. With this approach, treatment is tailored to the cellular level, with experts studying the individual's cancer cells and then determining which type of therapy is most likely to destroy those cells. Other types of more traditional treatment include surgery, chemotherapy or radiation."],
+"disambiguatingDescription": ["Recently, our cancer center became one of the first sites in the nation to offer FDA-approved CAR T-cell therapies.These include YESCARTA; for treatment of non-Hodgkin lymphoma in adults and KYMRIAH; for treatment in patients up to 25 years old who have relapsed or refractory acute lymphoblastic leukemia (ALL)."],
+"potentialAction": {"@type":"DownloadAction",
+"object": {"@type": "DigitalDocument",
+"name": "BMT Immunotherapy Clinical Trials for blood cancers and nonmalignant disorders FAQ", "url":"http://www.kucancercenter.org/~/media/Files/KUCC/BMT/Immunotherapy_FAQ_Flier_Update_Nov2016.ashx?la=en",
+"hasDigitalDocumentPermission": {"@type": "DigitalDocumentPermission",
+"permissionType": "http://schema.org/ReadPermission",
+"grantee": {"@type": "Audience",
+"audienceType": "Patient"}}}},
+"about": [
+{"@type": "MedicalTherapy",
+"name": "CAR-T-Cell-Therapy Immunotherapy"},
+[{"@type": "ImageObject",
+"name": "Immunotherapy Trial Delivers Treatment Success",
+"description": "Heloise Gray's aggressive leukemia demanded aggressive treatment. With no full match to be found in the donor registry, Heloise opted to take part in a clinical trial-an infused immunotherapy that brought about complete remission.",
+"contentUrl":"http://www.kucancercenter.org/~/media/Images/Cancer/Content%20Images/patients/Immunotherapy_Patient_Story_MsHeloiseGray_2017_ForWeb_200x300_15942.ashx?h=150&w=100&la=en&hash=46EA08D2614C20535997C9A711CDD9ABC4ECCBF4"},
+{"@type": "ImageObject",
+"name": "Cord blood transplant helps Rebecca Hertzog Burns beat the odds",
+"description": "Through immunotherapy, Rebecca achieved remission from the leukemia she faced not once, but twice in her life.",
+"contentUrl":"http://www.kucancercenter.org/~/media/Images/Cancer/Content%20Images/Cancer%20center/Rebecca-Hertzog.ashx?h=150&w=100&la=en&hash=8CB2AA4BBF2B3F3F2379FA0139F2297276956A41"},
+{"@type": "ImageObject",
+"name": "Patient Comfort & Travel Guide",
+"description": "Our travel packet provides patients and their families with information on lodging, dining and other amenities. To receive a guide, visit our Literature page and request our Hospitals and Patients Comfort and Travel guide.",
+"contentUrl":"http://www.kucancercenter.org/~/media/Images/Cancer/Content%20Images/Support%20Services/Cancer%20Center%20Patient%20Comfort%20%20Travel%20Guide.ashx?h=81&w=125&la=en&hash=3A2D6D4DD230AE5ACE4E0043B0991D45C3AC2698"}],
+{"@type": "Hospital",
+"name": "The University of Kansas Cancer Center",
+"description": ["At The University of Kansas Cancer Center, the rarest cases aren't rare. We specialize in caring for patients with the most complex conditions. Our dedication to healthcare excellence and patient-focused care attracts patients from around the region and across the country.","As a National Cancer Institute-designated Cancer Center, our experts perform a high volume of procedures, including immunotherapy, to treat the most critically ill patients."],
+"disambiguatingDescription":
+["Because it's a new type of treatment, many immunotherapies are being studied in clinical trials. And patients at The University of Kansas Cancer Center have greater access to more clinical trials.", "In fact, we are the only cancer center in the area that offers access to National Cancer Institute clinical trials.", "Our central location makes us easily accessible by interstate, rail and air travel. No matter where patients come from, they can be here in a matter of hours."]
+}]}
+Make a gift
+Fund programs that provide compassion, comfort and the best diagnostic and treatment technologies for cancer patients in the Blood and Marrow Transplant Program. Give now.
+var acc = document.getElementsByClassName("accordionpage");
+var i;
+for (i = 0; i < acc.length; i++) {
+acc[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var panel = this.nextElementSibling;
+if (panel.style.maxHeight){
+panel.style.maxHeight = null;
+} else {
+panel.style.maxHeight = panel.scrollHeight + "px";
+}
+});
+}
+Cancer Treatments
+Blood and Marrow Transplant
+Brachytherapy
+Interventional Radiology
+Mona Lisa Laser Treatment
+Radioisotope Therapy
+Stereotactic Body Radiation Therapy
+Cardio-Oncology Program
+Heated Intraperitoneal Chemotherapy
+Immunotherapy
+CAR T-cell therapy harnesses the immune system to fight cancer
+Immunotherapy FAQ
+Immunotherapy Clinical Trials
+CAR T Clinical Trial Provides Lifesaving Treatment
+Immunotherapy Trial Delivers Treatment Success
+Interventional Pain Therapies
+Minimally Invasive Procedure
+Radiation Oncology
+Expert Care
+find a doctor
+Request an Appointment
+913-588-1227
+Toll-Free
+844-323-1227
+The Future of Cancer Care
+Immunotherapy for blood cancers is a breakthrough treatment. Learn more about the groundbreaking CAR T-cell treatment that helped Emily, YESCARTA®.
+The University of Kansas Cancer Center
+Home
+Contact Us
+Privacy Policy
+Аn EO /AA/Title IX Institution
+© 2018 University of Kansas Cancer Center
+The University of Kansas Hospital
+University of Kansas Medical Center
+The University of Kansas
+Patient Care & Cancer Information
+Specialties & Treatments
+Patient & Visitor Guide
+Cancer Research & Education
+Cancer Center Membership
+Cancer Center Structure
+Educational Resources
+Cancer Research Areas
+Shared Resources
+Clinical Trials
+Introduction to Clinical Trials
+Clinical Trial Types
+Featured Trials
+Why Participate
+Patient Stories
+sublogo
+Show Desktop
+var showDesktop;
+var showMobile;
+var container = $(".f-nav");
+if ($(".showDesktop").length !== 0) {
+showDesktop = $(".showDesktop");
+showDesktop.appendTo(container);
+}
+if ($(".showMobile").length !== 0) {
+showMobile = $(".showMobile");
+showMobile.appendTo(container);
+}
+if ('' == "true") {
+var d = new Date();
+d.setDate(d.getDate() - 1);
+document.cookie = "showDesktop=; expires=" + d.toUTCString();
+}
+if (screen.width <= 767) {
+document.getElementById("lnkShowDesktop").style.display = "block";
+}
+else {
+$(".showDesktop").hide();
+$(".showMobile").hide();
+}

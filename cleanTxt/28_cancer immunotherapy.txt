@@ -1,0 +1,100 @@
+Cancer Updates,Research & Education
+News
+Videos
+CURE Connections
+CURE Expert Connections
+CURE TV
+Cancer Type
+Breast Cancer
+Lung Cancer
+Melanoma
+Prostate Cancer
+Gastrointestinal Cancer
+More >>
+Voices
+Cancer Guide
+Email Sign Up
+Customize
+Log In
+Sign Up
+Cancer Types
+Anal CancerBladder CancerBrain CancerBreast CancerCancer of Unknown PrimaryCarcinoid CancerCaregivingCervical CancerChildhood CancersCLLColorectal CancerDiet and ExerciseEsophageal CancerFinancial IssuesGallbladder CancerGastric CancerGastrointestinal stromal tumorGeneral Financial TopicsGeneral Psychosocial Aspect TopicsHead & Neck CancerImmunotherapyKidney CancerLeukemiaLiver CancerLung CancerLymphoma CancerMantle Cell LymphomaMDSMesotheliomaMetastatic Breast CancerMPNMyelomaNon-Hodgkin LymphomaOvarian CancerPancreatic CancerProstate CancerPsychosocial IssuesSarcomaSexual HealthSide Effect ManagementSkin CancerSmall Lymphocytic Lymphoma (SLL)SurvivorshipTesticular CancerThyroid CancerUterine CancerVulvar Cancer
+Quick Links
+Cure Connections®Advocacy & ResearchMagazinesMagazine SubscriptionShare Your StoryNewsletter Sign UpEvent CoverageArt GalleryPodcastsForum
+Award Programs
+MM Heroes
+GBM Heroes
+MPN Heroes
+Extraordinary Healer
+Ovarian Cancer Heroes
+Bone Health Champions
+CLL Heroes
+About Us
+Careers
+Contact Us
+Newsroom
+Privacy Policy
+Terms & Conditions
+Cure Media Group, LLC.
+2 Clarke Drive
+Suite 100
+Cranbury, NJ 08512
+P: 800-210-2873
+Copyright © 2018
+CURE Media Group.
+All rights reserved.
+Cure Media Group, LLC. All Rights Reserved.
+CURE does not provide medical, diagnostic, or treatment advice.
+Currently Viewing Billionaire Philanthropist Discusses His Institute's Work to Perfect Cancer Immunotherapy December 18, 2018 – Beth Fand Incollingo
+Closer Monitoring Needed in Younger Patients with MPNs December 17, 2018 – Jessica Skarzynski
+Survivors and Caregivers Discuss Food Anxiety After Cancer December 17, 2018 – Brielle Benyon
+FDA Approves Herceptin Biosimilar for Breast Cancer Treatment December 14, 2018
+FDA Approves Medication to Treat Pediatric Patients With Immune Thrombocytopenia December 14, 2018 – Katie Kosko
+Frontline BTK Inhibitor Regimen Improves Outcomes in CLL/SLL December 14, 2018 – Kristie L. Kahl
+Darzalex Shows Potential as New Standard of Care in Newly Diagnosed Patients with Myeloma December 12, 2018 – Kristie L. Kahl
+Then and Now: Understanding Tumor Biomarkers December 11, 2018 – Brielle Benyon
+Circulating Tumor DNA Serves as Early Predictor in Mantle Cell Lymphoma Outcomes December 11, 2018 – Beth Fand Incollingo
+Despite Prevalence, Pain Management May Be Undermanaged in Patients with MPNs December 10, 2018 – Brielle Benyon
+Join us this March for the first ever CURE Patient-Focused Sessions, taking place at the Miami Breast Cancer Conference!
+ShareTweetSharePrint
+Billionaire Philanthropist Discusses His Institute's Work to Perfect Cancer Immunotherapy
+Immunotherapy has become a buzzword in the cancer community, but to Sean Parker it’s much more. The 39-year-old billionaire is intensely focused on the promise of immunotherapy, and has become a major force in helping to drive its potential to cure cancers.
+BY Beth Fand Incollingo
+PUBLISHED December 18, 2018
+Immunotherapy has become a buzzword in the cancer community, but to Sean Parker it’s much more. The 39-year-old billionaire is intensely focused on the promise of immunotherapy, and has become a major force in helping to drive its potential to cure cancers.
+After making his fortune as president of Facebook at the age of 24, and later investing in the digital music service Spotify, he launched the Parker Foundation in 2015.
+The following year, the foundation issued a $250 million grant to start the Parker Institute for Cancer Immunotherapy. Its goal is to breed collaboration between top cancer researchers, nonprofit organizations and industry to get treatments to patients more quickly. The institute’s projects include studying how the microbiome affects patient response to immunotherapies known as checkpoint inhibitors; using CRISPR-cas9 gene-editing technology to engineer cancer-fighting T cells; and discovering tumor neoantigens (protein fragments) that may be targetable with cancer vaccines.
+Earlier this year, Parker shared his thoughts about the status of immunotherapy and the institute’s work during the Washington Post’s Chasing Cancer Summit. Here, CURE shares condensed excerpts from that interview.
+Moderator: You gave $250 million to finding a cure for cancer, and to research. What have you learned?
+Sean Parker: I just had this strong gut feeling that the field of immunotherapy was going to become the next frontier in cancer treatment, because we’d been going after oncogenes and the oncogenic driver mutations (cancer-causing genes and the mutations that create them) for a long time, trying to find targeted therapies. We’d had some success with kinase inhibitors and a variety of other small-molecule drugs, but the idea that the immune system played some role in regulating cancer was not in vogue. Yet, the data seemed to contradict this, and I ended up catching that wave at precisely the correct moment. The big realization was that the immune system does, in fact, play a role in regulating the early stages of cancer — that all tumors eventually, prior to or concurrent with metastasis, develop immunosuppressive capabilities that shut the immune system down, and that if you can block those with drugs by creating targeted or cell therapies, you can overcome all the obstacles that cancer sets up.
+What will be the next big breakthrough?
+You can’t be a specialist in everything, especially in medicine. You have to narrow your focus, so I’ve become the cell therapy guru in our group. I’m pretty much obsessed with T cell biology. In the 90s, we talked a lot about nanotechnology. The idea was (that) you’d have little nanobots roving through your body doing various things. I remember thinking, “Wow, that’s really cool: I’ll have robots in my body cleaning crap out of my endothelium when I get atherosclerosis.” Then, I remember thinking, “Wow, those robots could come with lasers and kill cancer. That would be so cool.” What ended up happening is no less cool; it just sounds more complicated.
+Cell therapy takes cells out of a patient’s body and modifies them with a viral vector, which edits the cell. You can give it a cancer- or cell-specific target to reprogram the cell so it targets only cancer or only the cells you want to kill. Once you’ve produced several thousand, you can expand them in a culture and can grow hundreds of millions or billions of cells and give them back to the patient, where they kill the cancer and leave normal cells alone.
+Is that different than gene editing?
+You’re probably thinking of CRISPR-cas9. It has so many different applications, depending on what you’re trying to do. Originally, the hope was that you could do gene editing to remove a genetic defect in an unborn baby or fix genetic defects in adults to restore function. As fast as this technology is in making gene edits, the fact that it still relies on things like viral vectors to transfect the cell makes it really slow. But we’ve have had some major breakthroughs. One is that you can, for the first time, make a cut and insert a very large amount of DNA (within a cell). You can insert an entirely new T cell receptor — 1,500 bases of DNA — into a cell without killing or harming it. The reality is that we can now go in with incredible precision and control and reprogram the way these cells function, so in essence they are those little nanobots that we were talking about in the `90s, but it turns out they’re made of your own cells.
+An example is one experiment that was done by a lead investigator and a pair of grad students in a week. They effectively knocked out (the function of) every gene, one by one, in a CD8 T cell, which is a killing cell. And then they looked at things like how quickly the cells expanded and a lot of other markers. You can imagine how many months or years that would take using normal methods. What came of this was that they recapitulated, in a week, 30 years of work that had been done by the leading immunologists in the world.
+Does this represent an inflection point for cancer research?
+Now, suddenly, we really do have enough data to justify big data (huge banks of information that can be analyzed to identify patterns) and AI (artificial intelligence). I’ve been saying it may be premature to think that Google is going to solve all our problems in health care, because they’ve got a great AI team and tons of computational power, but we just don’t know enough about the biology. Well, now that you can do massively parallel, totally unbiased screens where you can understand exactly what a gene does, its functional relevance to a particular cell in a particular tissue in a particular individual, that unlocks this ability to interrogate cells to learn about their function and how they’re wired. I mean, just having a map of the human genome is useless if you don’t know what the genes do. And so, we’re now entering a realm where that discovery process is going to happen much, much faster. I think we’re going to see a real explosion in terms of how quickly we can move.
+You’ve said that the bulk of research funding still needs to come from the National Cancer Institute. Under a divided government, do you expect that funding to continue?
+We just succeeded in our last budget in continuing to increase funding. (The money dedicated to) the National Institutes of Health had been down on an inflation-adjusted basis by 15 or 20 percent from where it should have been, if funding had increased at the rate of inflation. We’ve gotten them back there, for the most part, but I think more funding is needed. This is important not just in terms of taking care of people and making sure that great research is getting funded, but it’s also important in terms of American competitiveness in the global economy. If we’re not leaders, if we’re not innovating, if we’re not at the forefront of CRISPR and the revolution happening there, and if we’re not pushing the envelope in other areas, we could lose our global leadership advantage to China.
+What will this cost?
+(Pharmaceutical companies are working to) produce cell therapies for more indications. It looks like these drugs will increase health care costs — they’re $500,000 treatments (that are labor-intensive to provide). But we’re seeing this work as more companies enter the space and (the process of administering the drugs) becomes more automated, because they are curative. If you can move to a model where therapies are curative, (we could ease) the burden on the system of constantly treating cancers and then having remissions followed by relapses, and the endless care and suffering that goes into that. The result will be that the cost of therapies will come down, and when you’re cured, you’re cured. I’m more optimistic today than I was five years ago.
+Be the first to discuss this article on CURE's forum. >>
+Talk about this article with other patients, caregivers, and advocates in the Lung Cancer CURE discussion group.
+Related Articles
+1
+/articles/billionaire-philanthropist-discusses-his-institutes-work-to-perfect-cancer-immunotherapy
+×
+Sign In
+Email Address
+Password
+Forgot Password?
+Not a member? Sign up now!
+×
+Sign Up
+Email Address
+First Name
+Last Name
+Password
+Re-type Password
+Are you a member? Please Log In

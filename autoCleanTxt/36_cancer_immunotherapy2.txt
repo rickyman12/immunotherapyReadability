@@ -1,0 +1,76 @@
+Yale Cancer Center scientists advise caution in immunotherapy research
+
+In a new study by Yale Cancer Center (YCC), scientists suggest that as the
+number of clinical trials in cancer immunotherapy grows exponentially, some
+caution should be exercised as we continue to better understand the biology of
+these new therapeutic targets. The findings are published today in the journal
+Cell.
+
+Researchers around the world have been racing to create therapies that unleash
+the power of our immune systems against cancer. The most successful of these
+immunotherapies, which target a molecular pathway known as PD-1/PD-L1, have
+brightened the landscape for many people suffering with lung cancer and other
+types of tumors.
+
+Lieping Chen, M.D., who pioneered work on the PD-1/PD-L1 pathway, cautions
+that some immunotherapy research is going off track by moving into drug
+development without a firm foundation of basic biological understanding. Chen
+is the United Technologies Corporation Professor in Cancer Research and co-
+director of the Cancer Immunology Program at YCC.
+
+A case in point is the LAG-3 molecule. Like PD-1, the LAG-3 protein is found
+on the surface of the immune system’s T cells, and tumors can use it to shield
+themselves from the T cell attack. Most scientists have believed that a
+surface protein called MHC class II (MHC-II) is the major “ligand” molecule
+that cancer cells can use to connect with the LAG-3 molecule in order to dial
+down T cell activity, and thus targeting MHC-II will help to unblock the T
+cells.
+
+However, the YCC team has shown that the leading role in LAG-3
+immunosuppression instead is filled by a protein known as FGL1.
+
+Although pharmaceutical companies have already brought LAG-3 inhibitors that
+block MHC-II into several clinical trials, such drugs are not likely to
+perform well, Chen said. “The overall LAG-3 pathway is a lot more complicated
+than believed,” he added. “FGL1 is the major ligand for immunosuppression and
+designing LAG-3 drugs to block the MHC-II ligand only could be problematic.”
+Chen’s lab discovered PD-L1 in 1999 and first developed anti-PD-L1/PD-1
+antibodies for cancer immunotherapy.
+
+Looking through the scientific literature, Chen and his colleagues found
+surprisingly little evidence that MHC-II is the major ligand to enable LAG-3
+immunosuppression. So what mechanism is at work? The Yale team first looked to
+see if LAG-3 connects to other ligands, using a “Receptor Array” system
+developed in the Chen lab that can individually generate nearly all human cell
+membrane proteins, and then analyze how these proteins interact with other
+molecules. This experiment clearly showed for the first time that LAG-3 binds
+to the FGL1 protein.
+
+Following up with studies in mouse models, the investigators demonstrated that
+removing FGL1 either by genetic engineering or with antibody drugs produced an
+increase in T cells. Additionally, the mice often slowly developed mild forms
+of autoimmune disease. Both findings suggested that the protein can indeed
+dampen T cell activity. Moreover, in mouse models of cancer, blocking the
+FGL1/LAG-3 interaction boosted T cell activity and slowed tumor growth.
+
+Next, Chen’s team found that FGL1 is produced at strikingly high levels in
+various human cancers including lung cancer and melanoma. The researchers also
+found that higher levels of FGL1 in the blood of these cancer patients are
+linked to poor prognosis and resistance to anti-PD-1/PD-L1 therapy.
+
+In short, said Chen, “we need to pay attention to the fundamentals of
+FGL1/LAG-3 interaction before we can develop efficient drugs for LAG-3 cancer
+immunotherapy.”
+
+Yale’s Jun Wang was first author on the paper. Other Yale contributors
+included Miguel Sanmamed, Ila Datar, Tina Tianjiao Su, Lan Ji, Jingwei Sun,
+Gefeng Zhu, Linghua Zheng, Ting Zhou, Ti Badri, Sheng Yao, Shu Zhu, Agedi
+Boto, Mario Sznol and Kurt Schalper. Other co-authors included Ling Chen and
+Yusheng Chen of Fujian Medical University, Weiwei Yin of Zhejiang University,
+Ignacio Melero of the University of Navarra, and Dario Vignali of the
+University of Pittsburgh.
+
+Lead funding for the research was provided by the National Institutes of
+Health, Yale Specialized Program of Research Excellence (SPORE) for Lung
+cancer and Boehringer Ingelheim.
+

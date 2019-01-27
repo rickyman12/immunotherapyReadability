@@ -1,0 +1,41 @@
+Understanding Targeted Therapy
+Approved by the Cancer.Net Editorial Board, 05/2018
+Targeted therapy is a cancer treatment that uses drugs. But it is different from traditional chemotherapy. Targeted therapy works by targeting specific genes or proteins to help stop cancer from growing and spreading. These genes and proteins are found in cancer cells or in cells related to cancer growth, like blood vessel cells.
+Doctors often use targeted therapy with chemotherapy and other treatments. The U.S. Food and Drug Administration (FDA) has approved targeted therapies for many types of cancer. Scientists are also testing drugs for new cancer targets.
+The “targets” of targeted therapy
+It is helpful to know how cancer cells grow in order to better understand how targeted therapy works. Cells make up every tissue in your body. There are many different cell types, such as blood cells, brain cells, and skin cells. Each type has a specific function. Cancer starts when certain genes in healthy cells change. This change is called a mutation.
+Genes tell cells how to make proteins that keep the cell working. If the genes change, these proteins change, too. This makes cells divide abnormally or live too long. When this happens, the cells grow out of control and form a tumor. Learn more about the genetics of cancer.
+Researchers are learning that certain gene changes take place in certain cancers. So they are developing drugs that target the changes. The drugs can:
+Block or turn off signals that tell cancer cells to grow and divide
+Keep cells from living longer than normal
+Destroy the cancer cells
+Types of targeted therapy
+There are 2 main types of targeted therapy:
+Monoclonal antibodies. Drugs called “monoclonal antibodies” block a specific target on the outside of cancer cells and/or the target might be in the area around the cancer. These drugs work like a plastic plug you put in an electric socket. The plug keeps electricity from flowing out of the socket.
+Monoclonal antibodies can also send toxic substances directly to cancer cells. For example, they can help chemotherapy and radiation therapy get to cancer cells better. You usually get these drugs intravenously (IV).
+Small-molecule drugs. Drugs called “small-molecule drugs”can block the process that helps cancer cells multiply and spread. These drugs are usually taken as pills. Angiogenesis inhibitors are an example of this type of targeted therapy. These drugs keep tissue around the tumor from making blood vessels. Angiogenesis is the name for making new blood vessels. A tumor needs blood vessels to bring it nutrients. The nutrients help it grow and spread. Anti-angiogenesis therapies starve the tumor by keeping new blood vessels from forming.
+Matching a patient to a treatment
+Studies show that not all tumors have the same targets. So the same targeted treatment will not work for everyone. For example, a gene called KRAS (pronounced kay-rass) controls the growth and spread of a tumor. About 40% of colorectal cancers have this gene mutation. When this happens, the targeted therapies cetuximab (Erbitux) and panitumumab (Vectibix) are not effective. If you have colorectal cancer, it is helpful to be tested for the KRAS mutation. This would help your doctor give you the most effective treatment. It also protects you from unnecessary side effects. You also do not have to pay for drugs that likely will not help.
+Your doctor might order tests to learn about the genes, proteins, and other factors in your tumor. This helps find the most effective treatment. Many targeted therapies cause side effects. Also, they can be expensive. So, doctors try to match every tumor to the best possible treatment.
+Examples of targeted therapies
+Below are a few examples of targeted therapies. Ask your health care team for more information.
+Breast cancer. About 20% to 25% of all breast cancers have too much of a protein called human epidermal growth factor receptor 2 (HER2, pronounced her-too). This protein makes tumor cells grow. If the cancer is HER2 positive, several targeted therapies are available. Learn more about targeted therapy for breast cancer.
+Colorectal cancer. Colorectal cancers often make too much of a protein called epidermal growth factor receptor (EGFR). Drugs that block EGFR may help stop or slow cancer growth. These cancers have no mutation in the KRAS gene. Another option is a drug that blocks vascular endothelial growth factor (VEGF, pronounced vedge-eff). This protein helps make new blood vessels. Learn more about targeted therapy for colorectal cancer.
+Lung cancer. Drugs that block the protein called EGFR may stop or slow down lung cancer. This may be more likely if the EGFR has certain mutations. Drugs are also available for lung cancer with mutations in the ALK and ROS genes. Doctors can also use angiogenesis inhibitors for certain lung cancers. Learn more about targeted therapy for non-small cell lung cancer.
+Melanoma. About half of melanomas have a mutation in the BRAF gene (pronounced bee-raff). Researchers know specific BRAF mutations make good drug targets. So the FDA has approved several BRAF inhibitors. These drugs can be dangerous if you do not have the BRAF mutation. Learn more about targeted therapy for melanoma.
+The list above does not include every targeted therapy. Researchers are studying many new targets and drugs. You can learn more about targeted therapy in each cancer-specific section on Cancer.Net. Look at the Treatment Options and Latest Research pages. You can also learn more about the latest targeted therapy research on the Cancer.Net blog.
+Challenges of targeted therapies
+It may seem simple to use a drug that works on your specific cancer. But targeted therapy is complex and not always effective. It is important to remember that:
+A targeted treatment will not work if the tumor does not have the target.
+Having the target does not mean the tumor will respond to the drug.
+The response to treatment may be temporary.
+For example, the target may not be as important as doctors first thought. So the drug may not help much. Or the drug might work at first but then stop working. Finally, targeted therapy drugs may cause serious side effects. These are usually different from traditional chemotherapy effects. For example, people receiving targeted therapy often have skin, hair, nail, or eye problems.
+Targeted therapy is an important type of cancer treatment. But so far, doctors can only get rid of a few cancers using only these drugs. Most people also need surgery, chemotherapy, radiation therapy, or hormone therapy. Researchers will develop more targeted drugs as they learn more about specific changes in cancer cells.
+Related Resources
+What is Personalized Cancer Medicine?
+Tumor-Agnostic Treatment for Cancer: An Expert Perspective
+Introduction to Cancer Research
+Understanding Pharmacogenomics
+More Information
+National Cancer Institute: Targeted Cancer Therapies
+My Cancer Genome: Overview of Targeted Therapies for Cancer

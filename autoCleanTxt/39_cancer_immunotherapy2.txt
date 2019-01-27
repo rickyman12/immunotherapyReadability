@@ -1,0 +1,110 @@
+New cancer immunotherapy approach turns human cells into tiny anti-tumor
+drug factories
+
+UC San Diego School of Medicine researchers developed a method to use B cells
+to manufacture and secrete microRNA-containing vesicles and showed they can
+inhibit tumor growth in mice. Credit: UC San Diego Health
+
+Cancer immunotherapy—efforts to better arm a patient's own immune system to
+attack tumors—has shown great potential for treating some cancers. Yet
+immunotherapy doesn't work for everyone, and some types of treatment can cause
+serious side effects.
+
+In a new approach, researchers at University of California San Diego School of
+Medicine are turning B cells, best known for producing antibodies, into
+factories that assemble and secrete vesicles or sacs containing microRNAs.
+Once internalized by cancer cells, these small pieces of genetic material
+dampen a gene that spurs tumor growth. In mice, breast tumors treated with
+this approach were fewer and significantly smaller than in untreated tumors.
+
+The study is published in the December 4 issue of Scientific Reports.
+
+"Once further developed, we envision this method could be used in situations
+where other forms of immunotherapy don't work," said senior author Maurizio
+Zanetti, MD, professor of medicine at UC San Diego School of Medicine and head
+of the Laboratory of Immunology at UC San Diego Moores Cancer Center. "The
+advantages are that this type of treatment is localized, meaning potentially
+fewer side effects. It's long-lasting, so a patient might not need frequent
+injections or infusions. And it would likely work against a number of
+different tumor types, including breast cancer, ovarian cancer, gastric
+cancer, pancreatic cancer and hepatocellular carcinoma."
+
+MicroRNAs don't encode proteins. Instead, microRNAs bind messenger RNAs that
+do encode proteins, inhibiting their translation or hastening their
+degradation. Normal cells use microRNAs to help fine-tune which genes are
+dialed up or down at different times. MicroRNAs tend to be less active in
+cancer cells, which can allow growth-related proteins to run wild.
+
+In this study, Zanetti and team used miR-335, a microRNA that specifically
+dampens SOX4, a transcription factor that promotes tumor growth. They added a
+miR-335 precursor to B cells in the lab. Once inside, through a naturally
+occurring process, the cells convert the precursor into mature, active miR-335
+and package it into vesicles, small, membrane-coated sacs that bud off from
+the cell. Each B cell can produce 100,000 miR-335-containing vesicles per
+day—enough to treat 10 cancer cells.
+
+To test this new system, the researchers treated human breast cancer cells
+with miR-335-containing vesicles or sham vesicles in the lab. Then they
+transplanted the cancer cells to mice. After 60 days, 100 percent (5/5) of the
+mice with mock-treated cancer cells had large tumors. In contrast, 44 percent
+(4/9) of the mice with miR-335 vesicle-treated cancer cells had tumors. On
+average, the tumors in the treated mice were more than 260 times smaller than
+those in the mock-treated mice (7.2 vs. 1,896 mm3).
+
+And the treatment was long-lasting—miR-335 levels were still elevated in the
+treated mice 60 days after the vesicles and cancer cells were transplanted.
+
+"We were surprised to find that even small changes in cancer cell gene
+expression after miR-335 treatment were associated with specific down-
+regulation of molecules key to tumor growth," said study co-author Hannah
+Carter, Ph.D., assistant professor of medicine at UC San Diego School of
+Medicine.
+
+Other research groups and pharmaceutical companies are using tumor suppressor
+microRNAs therapeutically. What's new here, said researchers, is the method
+for producing and delivering them.
+
+According to Zanetti, this therapy could be developed in two ways. First, by
+first harvesting vesicles from B cells in a lab, then administering only the
+vesicles, as they did here, or second, by administering the B cells
+themselves. He says the challenge now will be to develop ways to ensure the B
+cells or vesicles get as close to a tumor as possible. This would be easier in
+some types of cancer, where the tumor is readily accessible by injection. But
+many cancers are difficult to access. Zanetti and colleagues are currently
+working to improve the delivery system, maximize efficiency and diminish side
+effects.
+
+"Ideally, in the future we could test patients to see if they carry a
+deficiency in miR-335 and have an overabundance of SOX4," Zanetti said. "Then
+we'd treat only those patients, cases where we know the treatment would most
+likely work. That's what we call personalized, or precision, medicine. We
+could also apply this technique to other microRNAs with other targets in
+cancer cells and in other cell types that surround and enable tumors."
+
+* * *
+
+* * *
+
+More information
+
+: Gonzalo Almanza et al. Extracellular vesicles produced in B cells deliver
+tumor suppressor miR-335 to breast cancer cells disrupting oncogenic
+programming in vitro and in vivo,
+
+Scientific Reports
+
+(2018).
+
+DOI: 10.1038/s41598-018-35968-2
+
+Provided by University of California - San Diego
+
+Citation: New cancer immunotherapy approach turns human cells into tiny anti-
+tumor drug factories (2018, December 4) retrieved 27 January 2019 from
+https://medicalxpress.com/news/2018-12-cancer-immunotherapy-approach-human-
+cells.html
+
+This document is subject to copyright. Apart from any fair dealing for the
+purpose of private study or research, no part may be reproduced without the
+written permission. The content is provided for information purposes only.
+

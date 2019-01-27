@@ -1,0 +1,213 @@
+What’s new in cancer immunotherapy research?
+
+Immunotherapy is a very active area of cancer research. Many scientists and
+doctors around the world are studying new ways to use immunotherapy to treat
+cancer. Some of these are discussed here.
+
+Newer monoclonal antibodies
+
+Monoclonal antibodies (mAbs) have already become an important part of the
+treatment for many cancers. As researchers have learned more about what makes
+cancer cells different from normal cells, they have developed mAbs to exploit
+these differences. They have also developed newer forms of mAbs, attaching
+them to drugs or other substances to make them more powerful.
+
+Researchers are also studying other ways of making monoclonal antibodies safer
+and more effective. For example, because mAbs are proteins, they can actually
+make the body’s immune system react against them. This can lead to side
+effects, as well as destroying the mAbs. Newer forms of mAbs are less likely
+to cause immune reactions. Researchers are also looking to see if using only
+parts of antibodies can make these drugs work better.
+
+Another new approach is to combine parts of two antibodies together (known as
+a bispecific antibody). One part attaches to a cancer cell, while the other
+attaches to an immune cell, bringing the two together and leading to an immune
+response.
+
+New types of mAbs are now being studied for use against many types of cancer.
+For information on newer treatments for a particular type of cancer, please
+see our information on that type of cancer.
+
+Treatments that target immune system checkpoints
+
+As mentioned in the section “Immune checkpoint inhibitors to treat cancer,”
+the immune system has checkpoint proteins (such as PD-1 and CTLA-4) that help
+keep it from attacking other normal cells in the body. Cancer cells sometimes
+take advantage of these checkpoints to avoid being attacked by the immune
+system.
+
+Targeting these checkpoints is quickly becoming an important part of the
+treatment for some cancers, such as melanoma and non-small cell lung cancer.
+Researchers have also found promising early results against a number of other
+cancer types. Unlike most other cancer drugs, these checkpoint inhibitors seem
+to be helpful against many different types of cancer.
+
+Only a few of these treatments have been approved for use so far, but many
+others are now being studied in clinical trials.
+
+A newer approach being studied is to combine treatments that have different
+targets (such as nivolumab, which targets PD-1, and ipilimumab, which targets
+CTLA-4) to see if this might work better. In melanoma, this combined approach
+has been shown to work better than using either treatment alone, but the
+combination also comes with an increased risk of serious side effects.
+
+Other studies are looking at combining checkpoint inhibitors with other types
+of drugs used to treat cancer.
+
+Newer cancer vaccines
+
+Vaccines are not yet a major type of treatment for cancer. Researchers have
+been trying to develop vaccines to fight cancer for decades, but this has
+proven to be harder than was first thought. As researchers have learned over
+the years, the immune system is very complex. It has also become clear that
+cancer cells have different ways of eluding the immune system, which makes
+creating effective vaccines difficult.
+
+Researchers are using the knowledge gained in recent years to improve how they
+develop cancer vaccines. For example, vaccines are now often given along with
+other substances (called adjuvants) that help boost the body’s immune
+response, which might help the vaccines work better.
+
+Researchers are also studying the best way to give vaccines, looking to see if
+they work better when used alone or with other types of cancer treatments.
+
+Types of cancer vaccines
+
+Many different types of vaccines are now being studied to treat a variety of
+cancers.
+
+Tumor cell vaccines: These vaccines are made from actual cancer cells that
+have been removed from the patient during surgery. The cells are altered (and
+killed) in the lab to make them more likely to be attacked by the immune
+system and then injected back into the patient. The patient’s immune system
+then attacks these cells and any similar cells still in the body.
+
+Most tumor cell vaccines are autologous, meaning the vaccine is made from
+killed tumor cells taken from the same person in whom they will later be used.
+Other vaccines are allogeneic, meaning the cells for the vaccine come from
+someone other than the patient being treated. Allogeneic vaccines are easier
+to make than autologous vaccines, but it’s not yet clear if one type works
+better than the other.
+
+Antigen vaccines: These vaccines boost the immune system by using only one
+antigen (or a few), rather than whole tumor cells. The antigens are usually
+proteins or pieces of proteins called peptides.
+
+Antigen vaccines can be specific for a certain type of cancer, but they are
+not made for a specific patient like autologous tumor cell vaccines are.
+
+Dendritic cell vaccines: These vaccines have shown the most success so far in
+treating cancer. Sipuleucel-T (Provenge), which is approved for the treatment
+of advanced prostate cancer, is an example of a dendritic cell vaccine.
+
+Dendritic cells are special immune cells in the body that help the immune
+system recognize cancer cells. They break down cancer cells into smaller
+pieces (including antigens), and then hold out these antigens so other immune
+cells called T cells can see them. The T cells then start an immune reaction
+against any cells in the body that contain these antigens.
+
+Dendritic cell vaccines are made from the person in whom they will be used.
+The process used to create this type of vaccine (known as an autologous
+vaccine) is complex and expensive. Doctors remove some immune cells from the
+patient’s blood and expose them in the lab to cancer cells or cancer antigens,
+as well as to other chemicals that turn the immune cells into dendritic cells
+and help them grow. The dendritic cells are then injected back into the
+patient, where they should cause an immune response to cancer cells in the
+body.
+
+Vector-based vaccines: These vaccines use special delivery systems (called
+vectors) to make them more effective. They aren’t really a separate category
+of vaccine; for example, there are vector-based antigen vaccines.
+
+Vectors are special viruses, bacteria, yeast cells, or other structures that
+can be used to get antigens into the body. The vectors are often germs that
+have been altered to make sure they can no longer cause disease.
+
+Vectors can be helpful in making vaccines for a number of reasons. First, they
+can be used to deliver more than one cancer antigen at a time, which might
+make the body’s immune system more likely to mount a response. Second, vectors
+such as viruses and bacteria might trigger their own immune responses from the
+body, which could help make the overall immune response even stronger.
+Finally, these vaccines might be easier and less expensive to make than some
+other vaccines.
+
+Some common cancers in which vaccines are being tested
+
+Some of the more common types of cancer in which vaccines are now being
+studied include:
+
+Brain tumors (especially glioblastoma)
+Breast cancer
+Cervical cancer
+Colorectal cancer
+Kidney cancer
+Lung cancer
+Lymphoma
+Melanoma
+Pancreas cancer
+Prostate cancer
+
+This is not a complete list – vaccines are being studied in other types of
+cancer as well. For information on newer treatments for a particular type of
+cancer, please see our information on that type of cancer.
+
+Oncolytic viruses
+
+Viruses are a type of germ that can infect and kill cells. Some viruses can be
+altered in the lab so that they infect and kill mainly cancer cells. These are
+known as oncolytic viruses. Along with killing the cells directly, the viruses
+can also alert the immune system to attack the cancer cells.
+
+An example is talimogene laherparepvec (Imlygic), which is an oncolytic virus
+that has been modified to make GM-CSF, a protein that boosts the immune
+response. This virus can be used to treat melanomas in the skin or lymph nodes
+that can’t be removed with surgery. It is injected directly into the tumors,
+typically every 2 weeks. This treatment can sometimes shrink these tumors, but
+it has not been shown to shrink tumors in other parts of the body.
+
+Other ways to boost the immune system
+
+Some other forms of immunotherapy are being studied to try to boost specific
+parts of the immune system. These types of treatments show a lot of promise,
+but they are complex and so far are available only through clinical trials
+being done at major medical centers.
+
+Chimeric antigen receptor (CAR) T-cell therapy
+
+This is a promising new way to get immune cells called T cells to fight
+cancer. For this technique, T cells are removed from the patient’s blood and
+genetically altered in the lab to have specific antigen receptors (called
+chimeric antigen receptors, or CARs) on their surface. These receptors will
+attach to proteins on the surface of cancer cells. The T cells are then
+multiplied in the lab and infused back into the patient’s blood, where they
+can now seek out the cancer cells and launch a precise immune attack against
+them.
+
+This technique has shown very encouraging results in early clinical trials
+against some advanced, hard-to-treat types of leukemias and lymphomas. In many
+people the cancer could no longer be detected after treatment, although it’s
+not yet clear if these people have been cured.
+
+Some people have had serious side effects from this treatment, including very
+high fevers and dangerously low blood pressure in the days after it’s given.
+Doctors are learning how to manage these side effects.
+
+Doctors are still improving how they make the T cells and are learning the
+best ways to use them. They are also studying whether this treatment will work
+for other types of cancer. CAR T-cell therapy is only available in clinical
+trials at this time.
+
+Tumor-infiltrating lymphocytes and interleukin-2 (IL-2)
+
+Researchers have found immune system cells deep inside some tumors and have
+named these cells tumor-infiltrating lymphocytes (TILs). These T cells can be
+removed from tumor samples taken from patients and multiplied in the lab by
+treating them with IL-2. When injected back into the patient, these cells can
+be active cancer fighters.
+
+Treatments using TILs are being tested in clinical trials in people with
+melanoma, kidney cancer, ovarian cancer, and other cancers. Early studies of
+this approach by researchers from the National Cancer Institute have been
+promising, but its use may be limited because doctors might not be able to get
+TILs from all patients.
+

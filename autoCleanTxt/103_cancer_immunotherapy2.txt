@@ -1,0 +1,30 @@
+Mouse Models for Cancer Immunotherapy Research
+
+Abstract
+
+Immunotherapy has revolutionized cancer therapy, largely attributed to the
+success of immune-checkpoint blockade. However, there are subsets of patients
+across multiple cancers who have not shown robust responses to these agents. A
+major impediment to progress in the field is the availability of faithful
+mouse models that recapitulate the complexity of human malignancy and immune
+contexture within the tumor microenvironment. These models are urgently needed
+across all malignancies to interrogate and predict antitumor immune responses
+and therapeutic efficacy in clinical trials. Herein, we seek to review pros
+and cons of different cancer mouse models, and how they can be used as
+platforms to predict efficacy and resistance to cancer immunotherapies.
+
+Significance: Although immunotherapy has shown substantial benefit in the
+treatment of a variety of malignancies, a key hurdle toward the advancement of
+these therapies is the availability of immunocompetent preclinical mouse
+models that recapitulate human disease. Here, we review the evolution of
+preclinical mouse models and their utility as coclinical platforms for
+mechanistic interrogation of cancer immunotherapies. Cancer Discov; 8(11);
+1358–65. ©2018 AACR.
+
+Received January 12, 2018.
+Revision received June 25, 2018.
+Accepted August 23, 2018.
+Published first October 11, 2018.
+
+©2018 American Association for Cancer Research.
+

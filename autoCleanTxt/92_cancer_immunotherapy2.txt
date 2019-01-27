@@ -1,0 +1,88 @@
+Cancer Immunotherapy Conference features latest research on response,
+resistance, treatment
+
+NEW YORK -- The Fourth CRI-CIMT-EATI-AACR International Cancer Immunotherapy
+Conference: Translating Science into Survival, to be held in New York, Sept.
+30-Oct. 3, will feature cutting-edge research studies from around the world
+that endeavor to answer urgent questions in the field of cancer immunotherapy
+to advance progress more rapidly for patients.
+
+Cancer immunotherapeutics work by unleashing the power of a patient's immune
+system to fight cancer the way it fights pathogens like viruses and bacteria.
+Immune checkpoint inhibitors such as pembrolizumab and nivolumab, as well as
+CAR T-cell therapy, have revolutionized cancer care in recent years by
+yielding dramatic, durable responses in patients who previously had few
+treatment options. However, such responses are seen in only a fraction of
+patients, and many patients develop resistance to these treatments. There is a
+need for continued research and innovation so that more patients may benefit
+from the promise of cancer immunotherapy.
+
+"We have made extraordinary progress in cancer immunotherapy in the past
+decade -- the number of immunotherapeutics increased almost five-fold and the
+number of cancer types that can be treated by at least one immunotherapeutic
+more than tripled," said AACR President Elizabeth M. Jaffee, MD, co-chair of
+this year's conference and deputy director of The Sidney Kimmel Comprehensive
+Cancer Center at Johns Hopkins University. "As research expands our knowledge
+of the immune system and how it interacts with cancer cells, we will see a lot
+more progress in immunotherapy, with new approaches to treatment that will
+increase the number of patients who benefit."
+
+A media luncheon will take place on Monday, Oct. 1, at 1 p.m. ET featuring
+cancer immunotherapy experts who will discuss these areas of research interest
+and other themes from the meeting. Reporters interested in attending remotely
+can watch live at https://youtu.be/9G_ufP3LEjg.
+
+Several presentations at the conference also address these issues.
+
+Who responds to immune checkpoint inhibitors, and why?
+
+Developing new approaches in identifying responders and non-responders to
+immune checkpoint inhibitors can help determine who should receive these drugs
+and who should receive alternate treatment.
+
+One study that utilized big data and genomic analysis to identify new patients
+who may respond to immune checkpoint inhibitors is Abstract B085, "High
+mutation burden and response to immune checkpoint inhibitors in angiosarcomas
+of the scalp and face," to be presented by Corrie Painter, PhD, from the Broad
+Institute of MIT and Harvard during Poster Session B on Tuesday, Oct. 2.
+
+What can be done to improve response rates and overcome resistance to immune
+checkpoint inhibitors?
+
+Immune checkpoint inhibitors improve outcomes for only a subset of cancer
+patients, and many see their cancers stop responding to treatment. The
+following abstracts are examples of work that is being done to address these
+issues:
+
+-Roberta Zappasodi, PhD, Memorial Sloan Kettering Cancer Center, will present Abstract A225/PR1, "Mechanistic rationale to combine GITR agonism with PD-1 blockade in cancer patients," during Poster Session A and Session 1: Regulating T Cells and Their Response to Cancer on Sunday, Sept. 30. This study investigates a new combination treatment that may help counteract resistance.
+
+-Elizabeth Evans, PhD, Vaccinex, Inc., will present Abstract A068/PR10, "Reprogramming myeloid cells in TME with pepinemab, first-in-class semaphorin 4D MAb, enhances combination immunotherapy," during Poster Session A on Sunday, Sept. 30 and Session 5: Novel Vaccine Platforms and Combinations on Tuesday, Oct. 2. This pre-clinical research evaluates the mechanisms behind a new therapeutic's ability to bolster the activity of immune checkpoint inhibitors as these combinations are being investigated in several clinical trials.
+
+-Stephen Schoenberger, PhD, La Jolla Institute for Allergy and Immunology, will present Abstract B090/PR12, "Functional identification and therapeutic targeting of tumor neoantigens," during Poster Session B and Session 6: Mutational Analysis and Predicting Response to Immunotherapy on Tuesday, Oct. 2. The technology described in this study may eventually help identify a broader array of tumor-specific neoantigens, which is important for the development of personalized cancer vaccines and cellular immunotherapies.
+
+In addition, this year's recipient of the William B. Coley Award for
+Distinguished Research in Tumor Immunology, Padmanee Sharma, MD, PhD, The
+University of Texas MD Anderson Cancer Center, will deliver a lecture titled
+"From the clinic to the lab: Investigating response and resistance mechanisms
+to immune checkpoint therapy," Sunday, Sept. 30, at 2:15 p.m. ET.
+
+What novel immunotherapies are on the horizon for cancer patients?
+
+Besides immune checkpoint inhibitors and CAR T-cell therapy, researchers are
+investigating other ways to unleash the immune system against cancer. These
+two abstracts are examples of new approaches to cancer immunotherapy that are
+being tested in early-phase clinical trials:
+
+-Jay Berzofsky, MD, PhD, Vaccine Branch, Center for Cancer Research, National Cancer Institute, will present Abstract A004, "HER2 cancer vaccine phase I clinical trial shows clinical benefit in 54% of evaluable patients," during Poster Session A on Sunday, Sept. 30. According to these trial results, treatment with a HER2-targeted therapeutic cancer vaccine provided clinical benefit to several patients with metastatic HER2-positive cancers who had not previously been treated with a HER2-targeted therapeutic.
+
+-Filip Janku, MD, PhD, The University of Texas MD Anderson Cancer Center, will present Abstract A011, "First-in-man clinical trial of intratumoral injection of Clostridium novyi-NT spores in patients with treatment-refractory advanced solid tumors: safety, activity, and immune responses," during Poster Session A on Sunday, Sept. 30. This trial demonstrated that the use of bacterial Clostridium novyi-NT spores as an injectable monotherapy had manageable toxicities and showed early clinical efficacy in patients with treatment-refractory solid tumor malignancies.
+
+The scientific program will feature talks from more than 50 leaders in the
+field, and attract more than 1,200 attendees from academia, industry, and the
+advocacy community. A full program is available here:
+http://www.cancerimmunotherapyconference.org/program-of-events/. All abstracts
+are available through the conference app:
+http://www.cancerimmunotherapyconference.org/abstracts/.
+
+
+

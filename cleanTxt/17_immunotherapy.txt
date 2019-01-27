@@ -1,0 +1,321 @@
+.st0{fill:#FFFFFF;}
+.st1{fill:#FFFFFF;enable-background:new;}
+.st2{fill:#FFFFFF;enable-background:new;}
+.print-st0{fill:none;}.print-st1{fill:#EC4C64;}
+Menu
+Immunotherapy 101: What It Is and How It Works
+Share
+Flip
+Email
+Search the site
+GO
+More in Cancer
+Treatment
+Immunotherapy
+Chemotherapy
+Radiation
+Causes & Risk Factors
+Diagnosis
+Living With
+Support & Coping
+Prevention
+Bladder Cancer
+Brain Tumors
+Breast Cancer
+Symptoms
+Leukemia
+Lung Cancer
+More Cancer Types
+Cervical Cancer
+Childhood Cancer
+Colon Cancer
+Gastric Cancer
+Head & Neck Cancer
+Liver Cancer
+Lymphoma
+Ovarian Cancer
+Pancreatic Cancer
+Prostate Cancer
+Skin Cancer
+Testicular Cancer
+Thyroid Cancer
+View More
+Tools & Resources
+Thyroid Test Analyzer
+Doctor Discussion Guides
+Stomach Pain
+Breast Cancer Myths
+Cold Sore Outbreaks
+Should I Pee After Sex?
+Getting Into PT School
+Health A-Z
+Arthritis
+Type 2 Diabetes
+Heart Disease
+Digestive Health
+Lung Cancer
+Multiple Sclerosis
+View All
+Prevention & Treatment
+Vaccines
+First Aid
+Surgery
+Herbal Medicine
+Supplements
+Healthy Aging
+View All
+Health Care
+Health Insurance
+Public Health
+Patient Rights
+Health Technology
+For Caregivers & Loved Ones
+For Healthcare Professionals
+View All
+Visit our other Verywell sites:
+Cancer
+Treatment
+Immunotherapy
+Immunotherapy 101: What It Is and How It Works
+How Immunotherapy Can Help Our Immune Systems Fight Cancer
+Print
+By Lynne Eldridge, MD
+| Reviewed by Doru Paul, MD
+Updated May 01, 2018
+primipil/Getty Images
+More in Cancer
+Treatment
+Immunotherapy
+Chemotherapy
+Radiation
+Causes & Risk Factors
+Diagnosis
+Living With
+Support & Coping
+Prevention
+Bladder Cancer
+Brain Tumors
+Breast Cancer
+Symptoms
+Leukemia
+Lung Cancer
+More Cancer Types
+Cervical Cancer
+Childhood Cancer
+Colon Cancer
+Gastric Cancer
+Head & Neck Cancer
+Liver Cancer
+Lymphoma
+Ovarian Cancer
+Pancreatic Cancer
+Prostate Cancer
+Skin Cancer
+Testicular Cancer
+Thyroid Cancer
+View All
+If you're feeling confused about exactly how immunotherapy works to treat cancer, there's a good reason. Immunotherapy isn't just one type of treatment; rather there are several widely varying types of treatments which fall under this heading. The commonality is that these treatments either use the immune system, or the principles of the immune response, to fight off cancer. In other words, these treatments, referred to as biologic therapy, are used to either alter the body's immune system or use substances made by the immune system to fight cancer.
+Why Is Immunotherapy So Exciting?
+If you've read a newspaper recently, you've probably seen headlines with dramatic messages such as "the cure is near" when describing immunotherapy. Is this something to become excited about, or is it just more media hype?
+While we are just beginning to learn about these treatments, and they certainly do not work for all cancers, the field of immunotherapy is truly something to be excited about. In fact, immunotherapy was named the 2016 clinical cancer advance of the year by the American Society of Clinical Oncology. For those living with cancer, this field, along with advances in treatments such as targeted therapies, are reasons to feel a sense of hope—not just for the future, but for today.
+Unlike many advances in oncology which build upon earlier treatments, immunotherapy is mostly an entirely new way to treat cancer (non-specific immune modulators such as interferon have been around a few decades). Compared to many other treatments:
+Some of these treatments may work across cancer types (in other words, a drug could work for, say, melanoma and lung cancer). Some of these treatments may work for the most advanced and hardest to treat cancers (for example, they may be effective for cancers such as advanced stage lung cancer or pancreatic cancer).In some cases, the results are lasting—what oncologists refer to as a "durable response." Most cancer treatments for solid tumors, such as chemotherapy and drugs which target specific genetic changes in cancer cells, are limited; cancer cells eventually become resistant to the treatment. While nobody dares to whisper the word "cure" yet, there is hope that for a minority of people with some types of cancers anyway—these medications may offer the opportunity for long-term control of their cancer.
+History of Immunotherapy
+The concept of immunotherapy has actually been around for a long time. A century ago, a physician known as William Coley noted that some patients, when infected with a bacteria, appeared to fight off their cancers. Another physician named Steven Rosenberg is credited with asking questions about a different phenomenon with cancer. On rare occasions, cancer may just go away without any treatment. This spontaneous remission or regression of cancer has been documented, although it is a very rare occurrence. Dr. Rosenberg's theory was that his patient's immune system had attacked and cleared the cancer.
+Theory Behind Immunotherapy
+The theory behind immunotherapy is that our immune systems already know how to fight cancer. Just as our bodies are able to identify, label, and mount an immune response against bacteria and viruses which invade our bodies, cancer cells may also be tagged as abnormal and eliminated by the immune system.
+Then Why Don&apost Our Immune Systems Fight Off All Cancers?
+Learning about the mechanism of immunotherapy drugs begs the question: "If our immune systems know how to fight off cancer, why don't they? How come one in two men and one in three women are destined to develop cancer over the course of their lifetime?"
+First of all, our immune systems do work tremendously well in the process of cleaning up damaged cells that could eventually become cancer cells. We have several genes built into our DNA, known as tumor suppressor genes, which provide the blueprint for proteins that repair and rid the body of cells that have been damaged. Perhaps a better question might be, "why don't we all develop cancer more frequently?"
+Nobody knows exactly why some cancer cells escape detection and destruction by the immune system. Part of the reason, it's thought, is that cancer cells can be harder to detect than bacteria or viruses because they arise from cells that are considered normal by our immune system. Immune cells are designed to categorize what they see as self or non-self, and since cancer cells arise from normal cells in our bodies, they may slip by as normal. The sheer volume of cancerous cells may also play a role, with the number of cancer cells in a tumor overpowering the ability of the smaller number of immune cells.
+But the reason is probably trickier than recognition or numbers—or at least, cancer cells are trickier. Often cancer cells evade the immune system by "pretending" to look like normal cells. Some cancer cells have figured out ways to disguise themselves, to put on a mask if you will. By hiding in this way they can then escape detection. In fact, one type of immunotherapy drug works by essentially removing the mask from tumor cells.
+As a final note, it's important to note that the immune system has a fine balance of checks and balances. On one side it's important to fight off foreign invaders. On the other side, we don't want to fight off cells in our own bodies, and in fact, autoimmune diseases such as rheumatoid arthritis are related to an "overactive immune system."
+Limitations of Immunotherapy
+As you read on, it's important to recognize some of the limitations of immunotherapy at this stage of development. One oncologist referred to it this way: immunotherapy is to cancer treatment as the Wright Brothers first flight was to aviation. The field of immunotherapy is in its infancy.
+We know that these treatments do not work for everyone, or even for the majority of people with most cancers. In addition, we don't have a clear indication of who exactly will benefit from these drugs. The search for biomarkers, or other ways of answering this question, is an active area of research at this time.
+A Brief Review of the Immune System and Cancer
+To understand a little about how these individual treatments work, it can be helpful to briefly review how the immune system functions to fight cancer. Our immune system is made up of white blood cells as well as tissues of the lymphatic system such as lymph nodes. While there are many different types of cells as well as molecular pathways that result in the removal of cancer cells, the "big guns" in fighting cancer are T-cells (T lymphocytes) and natural killer cells. This complete guide to understanding the immune system provides an in-depth discussion of the basics of the immune response.
+How Does the Immune System Fight Cancer?
+In order to fight off cancer cells, there are many functions our immune systems need to perform. Simplistically, these include:
+Surveillance: The immune system first needs to find and identify cancer cells. Our immune cells need to both check out all cells in their midst and be able to recognize cancer cells as being non-self. An analogy would be a forestry worker walking through the forest looking for diseased trees.Tagging: Once discovered, our immune system needs to mark or label cancer cells for destruction. Following the analogy, the forestry worker would then need to tag or label the diseased trees with orange spray paint.Signaling: Once cancer cells are marked, our immune cells need to sound an alarm, attracting the immune cells that fight cancer to the region where it's found. Continuing the analogy, the forestry worker would have to return to his office and phone, text, and email a tree service to come and remove the diseased trees.Fighting: Once cancer cells are recognized and marked, and immune cells have responded to the alarm and migrated to the site, cytotoxic T cells and natural killer cells attack and remove cancer cells from the body. Finally, in the analogy, the tree service workers would cut down and remove the diseased trees.
+This article on how T cells work to fight cancer describes the process by which these steps occur, and this article on the cancer immunity cycle provides diagrams of the individual steps.
+How Do Cancer Cells Hide From the Immune System?
+It can also be helpful to know how cancer cells often manage to evade detection or attack by our immune systems.  Cancer cells may hide by:
+Decreasing the expression of antigens on the surface of the cells. This would be analogous to the trees removing signs of their disease from their branches or leaves.Expressing substances on the surface of the cell which inactivate the immune system. Cancer cells may produce molecules which depress the immune response. In analogy, the trees would do something to chase off the forestry workers and tree service.Cancer cells may also cause nearby non-cancer cells to secrete substances that reduce the effectiveness of the immune system. This approach is referred to as altering the microenvironment, the area surrounding the cancer cells. Stretching the analogy a bit, the diseased trees would enlist the ferns and lilacs to join in to help keep the forestry workers away.
+If you are confused as to some of the differences between cancer cells, and what makes cancer cells unique, the following articles discuss what makes a cell a cancer cell, and the differences between cancer cells and normal cells.
+Types and Mechanisms of Immunotherapy
+You may have heard immunotherapy described as a treatment which "boosts" the immune system. These treatments are actually much more complex than simply giving the immune system a boost. Let's take a look at some of the mechanisms by which immunotherapy works, as well as categories of treatments being used or studied today.
+Mechanisms of Immunotherapy
+Some mechanisms by which immunotherapy medications can treat cancer include:
+Helping the immune system recognize cancerActivating and amplifying immune cells Interfering with a cancer cell's ability to hide (de-masking)Interfering with the microenvironment of cancer cells by altering cancer cell signalsUsing the principles of our immune system as a template for designing cancer drugs
+Types of Immunotherapy
+Immunotherapy methods currently approved or being evaluated in clinical trials include:
+Monoclonal antibodiesCheckpoint inhibitorsCancer vaccinesAdoptive cell therapies such as CAR T-cell therapyOncolytic virusesCytokinesAdjuvant immunotherapy
+It's important to note that there is significant overlap between these therapies. For example, a medication used as a checkpoint inhibitor may also be a monoclonal antibody.
+Monoclonal Antibodies (Therapeutic Antibodies)
+Monoclonal antibodies work by making cancer cells a target and have been used for some time, especially for cancers such as some types of lymphoma.
+When our immune systems come into contact with bacteria and viruses, messages are sent which result in the formation of antibodies. Then, if the same invader shows up again, the body is prepared. Immunizations such as the flu shot work by showing the immune system a killed flu virus (the shot) or an inactivated flu virus (the nasal spray) so it can produce antibodies and be prepared if a live flu virus enters your body.
+Therapeutic or monoclonal antibodies work in a similar way but instead these are "man made" antibodies designed to attack cancer cells rather than microorganisms. Antibodies attach to antigens (protein markers) on the surface of cancer cells, like a key would fit into a lock. Once the cancer cells are thus marked or tagged, other cells in the immune system are alerted to destroy the cell. You can think of monoclonal antibodies as similar to the orange spray paint you might see on a diseased tree. The label is a signal that a cell (or a tree) should be removed.
+Another type of monoclonal antibody may instead attach to an antigen on a cancer cell in order to block a growth signal from gaining access. In this case, it would be like putting a key in a lock, so that another key—a growth signal—could not connect. The medications Erbitux (cetuximab) and Vectibix (panitumumab) work by combining with and inhibiting the EFGR receptor (an antigen) on cancer cells. Since the EGFR receptor is thus "blocked" the growth signal cannot attach and tell the cancer cell to divide and grow.
+A widely used monoclonal antibody is the lymphoma medication Rituxan (rituximab). These antibodies bind to an antigen called CD20—a tumor marker found on the surface of cancerous B lymphocytes in some B cell lymphomas.
+Monoclonal antibodies are currently approved for several cancers. Examples include:
+Avastin (bevacizumab)Herceptin (trastuzumab)Rituxan (rituximab)Vectibix (panitumumab)Erbitux (cetuximab)Gazyva (obinutuzumab)
+Another type of monoclonal antibody is a bispecific antibody. These antibodies bind to two different antigens. One tags the cancer cell and the other works to recruit a T cell and bring the two together. An example is Blincyto (blinatumomab).
+Conjugated Monoclonal Antibodies
+The monoclonal antibodies above work alone, but antibodies may also be attached to a chemotherapy drug, toxic substance,or a radioactive particle in a treatment method called conjugated monoclonal antibodies. The word conjugated means "attached." In this situation, a "payload" is delivered directly to a cancer cell. By having an antibody attach to an antigen on a cancer cell and deliver the "poison" (drug, toxin, or radioactive particle) directly to the source, there can be less damage to healthy tissues. Some medication in this category approved by the FDA include:
+Kadcyla (ado-trastuzumab): this is a monoclonal antibody attached to a chemotherapy drug for the treatment of breast cancerAdcetris (brentuximab vedotin): this antibody is also attached to a chemotherapy drugZevalin (ibritumomab tiuxetan): this antibody is attached to a radioactive particleOntak (denileukin difitox): this drug combines a monoclonal antibody with a toxin from the bacteria which causes diphtheria
+Immune Checkpoint Inhibitors
+Immune checkpoint inhibitors work by taking the brakes off the immune system.
+As noted above, the immune system has checks and balances so that it doesn't overperform or underperform. In order to keep it from overperforming—and causing autoimmune disease—there are inhibitory checkpoints along the immune pathway that are regulated, just as brakes are used to slow down or stop a car.
+As noted above, cancer cells can be tricky and deceive the immune system. One way they do this is via checkpoint proteins. Checkpoint proteins are substances which are used to suppress or slow down the immune system. Since cancer cells arise from normal cells, they have the ability to make these proteins but use them in an abnormal way to escape detection by the immune system. PD-L1 and CTLA4 are checkpoint proteins that are expressed in greater number on the surface of some cancer cells  In other words, some cancer cells find a way to use these "normal proteins" in an abnormal way; unlike a teenager who may have a lead foot on the accelerator of a car, these proteins put a lead foot on the brakes of the immune system.
+Medications called checkpoint inhibitors can bind with these checkpoint proteins such as PD-L1, essentially releasing the brakes, so the immune system can get back to work and fight off the cancer cells.
+Examples of checkpoint inhibitors currently being used include:
+Opdivo (nivolumab)Keytruda (pembrolizumab)Yervoy (ipilimumab)
+Research is now looking into the benefits of combining two or more drugs in this category. For example, using PD-1 and CTLA-4 inhibitors together (Opdivo and Yervoy) is showing promise.
+Adoptive Cell Transfer and CAR T-cell Therapy
+Adoptive cell and CAR T-cell therapies are immunotherapy methods which enhance our own immune systems. Simplistically, they turn our cancer-fighting cells into better fighters by increasing either their fighting ability or their numbers.
+Adoptive Cell Transfer
+As noted earlier, one of the reasons our immune systems don't fight off large tumors is that they are simply overpowered and outnumbered. As an analogy, you may think of having 10 soldiers on the front lines going against a hundred thousand opponents (cancer cells). These treatments take advantage of the fighting action of the soldiers but add more soldiers to the front line.
+With these treatments, doctors first remove your T cells from the region surrounding your tumor. Once your T cells are collected, they are grown in the lab (and activated with cytokines). After they are sufficiently multiplied, they are then injected back into your body. This treatment has actually resulted in a cure for some people with melanoma.
+CAR T-cell Therapy
+Continuing with the automobile analogy from above, CAR T-cell therapy may be thought of as an immune system "tune up." CAR stands for chimeric antigen receptor. Chimeric is a term that means "joined together." In this therapy, an antibody is joined together with (attached to) a T-cell receptor.
+As with adoptive cell transfer, T-cells from the region of your tumor are first collected. Your own T-cells are then modified to express a protein referred to as chimeric antigen receptor or CAR. This receptor on your T-cells allows them to attach to receptors on the surface of cancer cells to destroy them. In other words, it assists your T-cells in recognizing the cancer cells.
+There are not yet any CAR T-cell therapies that are approved, but they are being tested in clinical trials with encouraging results, especially against leukemia and melanoma.
+Cancer Treatment Vaccines
+Cancer vaccines are immunizations which work essentially by jumpstarting the immune response to cancer. You may hear of vaccines which can help prevent cancer, such as hepatitis B and HPV, but cancer treatment vaccines are used with a different goal—to attack a cancer already present.
+When you are immunized against, say, tetanus, your immune system is exposed to a small amount of killed tetanus. In seeing this, your body recognizes it as foreign, introduces it to a B-cell (B-lymphocyte) which then produces antibodies. If you are again exposed to tetanus, like if you step on a rusty nail, your immune system is primed and ready to attack.
+There are a few ways in which these vaccines are produced. Cancer vaccines may be made using either tumor cells, or substances produced by tumor cells.
+An example of a cancer treatment vaccine used in the United States is Provenge (sipuleucel-T) for prostate cancer. Cancer vaccines are currently be tested for several cancers, as well as to prevent recurrence of breast cancer.
+With lung cancer, two separate vaccines, CIMAvax EGF and Vaxina (racotumomab-alum), have been studied in Cuba for non-small cell lung cancer. These vaccines, which have been found to increase progression-free survival in some people with non-small cell lung cancer, are beginning to be studied in the United States as well. These vaccines work by getting the immune system to make antibodies against epidermal growth factor receptors (EGFR). EGFR is a protein on the surface of cells which is overexpressed in some people with lung cancer.
+Oncolytic Viruses
+The use of oncolytic viruses has been referred to analogously as "dynamite for cancer cells." When we think of viruses, we usually think of something bad. Viruses such as the common cold infect our cells by entering the cells, multiplying, and eventually causing the cells to burst.
+Oncolytic viruses are used to "infect" cancer cells. These treatments appear to work in a few ways. They enter the cancer cell, multiply and cause the cell to burst, but they also release antigens into the bloodstream which attracts more immune cells to come and attack.
+There are not any oncolytic virus therapies yet approved in the United States, but they are being studied in clinical trials for several cancers.
+Cytokines (Immune System Modulators)
+Immune system modulators are a form of immunotherapy that has been available for many years. These treatments are referred to as "non-specific immunotherapy." In other words, they work to help the immune system fight off any invader, including cancer. These immunoregulatory substances—cytokines—including both interleukins (ILs) and interferons (IFNs) accentuate the ability of immune cells to fight cancer.
+Examples include IL-2 and IFN-alpha which are used for kidney cancer and melanomas among other cancers.
+Adjuvant Immunotherapy
+BCG is one form of adjuvant immunotherapy that is currently approved for treating cancer. BCG stands for Bacillus Calmette-Guerin and is a vaccine used in some parts of the world as protection against tuberculosis. It may also be used to treat bladder cancer. The vaccine, instead of being given as an immunization, is instead injected into the bladder. In the bladder, the vaccine produces a nonspecific response which helps to fight the cancer.
+Side Effects
+One of the hopes has been, because immunotherapy addresses cancer specifically, that these treatments will have fewer side effects than traditional chemotherapy drugs. Like all cancer therapies, however, immunotherapy medications can result in adverse reactions, which vary depending on the category of immunotherapy as well as the particular medications. In fact, one of the ways that these effects are described is "anything with an itis"—"itis" being the suffix meaning inflammation.
+The Future
+The field of immunotherapy is exciting, yet we have much to learn. Thankfully, the amount of time it is taking for these new treatments to actually be used for people with cancer is also improving, whereas in the past there was a lengthy period of time between discovery of a drug and the time it was used clinically. With medications such as these, in which drugs are developed looking at specific issues in cancer treatment, that development time is often significantly shorter.
+As such, the use of clinical trials is also changing. In the past, phase 1 trials—the first trials in which a new drug is tested on humans—were considered more of a "last ditch" effort. They were designed more as a method of improving medical care for those in the future rather than the person participating in the trial. Now these same trials may offer some people the only opportunity available to live with their disease. Take a moment to learn more about clinical trials, as well as how people find clinical trials for cancer.
+Was this page helpful?
+Thanks for your feedback!
+Limiting processed foods and red meats can help ward off cancer risk. These recipes focus on antioxidant-rich foods to better protect you and your loved ones. Sign up and get your guide!
+Email Address
+Sign Up
+There was an error. Please try again.
+Thank you, , for signing up.
+What are your concerns?
+Other
+Inaccurate
+Hard to Understand
+Submit
+Article Sources
+American Society of Clinical Oncology. Cancer.Net. Immunotherapy: The 2016 Clinical Cancer Advance of the Year. 02/04/16.
+Farkona, S., Diamandis, E., and I. Blasutig. Cancer immunotherapy: the beginning of the end of cancer?. BMC Medicine. 2016. 14(1):73.
+Kamat, A., Sylvester, R., Bohle, A. et al. Definitions, End Points, and Clinical Trial Designs for Non-Muscle-Invasive Bladder Cancer: Recommendations From the International Bladder Cancer Group. Journal of Clinical Oncology. 2016. 34(16):1934-44.
+Lu, Y., and P. Robbins. Targeting neoantigens for cancer immunotherapy. International Immunology. 2016 May 19. (Epub ahead of print).
+Mittendorf, E., and G. Peoples. Injecting Hope – A Review of Breast Cancer Vaccines. Oncology. 2016. 30(5):pii:217054.
+National Cancer Institute. CAR T-Cell Therapy: Engineering Patients’ Immune Cells to Treat Their Cancers. Updated 10/16/14. CAR T-Cell Therapy: Engineering Patients’ Immune Cells to Treat Their Cancers
+National Cancer Institute. Immunotherapy. 04/29/15.
+National Cancer Institute. Immunotherapy: Using the Immune System to Treat Cancer. Updated 09/14/15.
+Parish, C. Cancer Immunotherapy: The past, the present and the future. Immunology and Cell Biology. 2003. 81:106-113.
+Redman, J., Hill, E., AlDeghaither, D., and L. Weiner. Mechanisms of action of therapeutic antibodies for cancer. Molecular Immunology. 2015. 67(2 Pt A):28-45.
+Vilgelm, A., Johnson, D., and A. Richmond. Combinatorial approach to cancer immunotherapy: strength in numbers. Journal of Leukocyte Biology. 2016 June 2. (Epub ahead of print).
+Continue Reading
+#chop_1-0--chop-content {max-height: initial;}#chop_1-0 {display: none;}
+Article
+How Immunotherapy Helps the Immune System Recognize Cancer Cells
+Article
+Understanding CAR T-Cells and Other Immune Therapies
+Article
+What Should You Know About the Immuotherapy Drug Opdivo?
+Article
+Is Cancer Immunotherapy Right for Me?
+Article
+Examining How Vaccines Can Be Used to Fight Existing Cancer
+Article
+Monoclonal Antibody Therapy to Combat Colon Cancer
+Article
+CD20 Marker and Relevance to Lymphoma
+Article
+What Is CAR T-Cell Therapy?
+Article
+Treatment Options for Leukemia
+Article
+What Adverse Effects Will Your Doctor Look For With Immunotherapy?
+Article
+How do Viruses Cause Cancer and What Cancers Do They Cause
+Article
+Targeting PD-1 and PD-L1 to Help Fight Cancer
+Article
+How Do MAb Therapies for Leukemia and Lymphoma Work?
+Article
+Immunotherapies to Treat Head and Neck Cancer
+Article
+CD Markers in Cancer Diagnosis and Treatment
+Article
+How Immunotherapy May Combat Your Non-Small Cell Lung Cancer
+Daily Health Tips to Your Inbox
+Email Address
+Sign Up
+There was an error. Please try again.
+Thank you, , for signing up.
+Follow Us
+Health A-Z
+Prevention & Treatment
+Health Care
+Editorial Policy
+About Us
+Privacy Policy
+Advertise
+Cookie Policy
+Careers
+Terms of Use
+Contact
+Visit our other Verywell sites:
+Ⓒ 2019 About, Inc. (Dotdash) — All rights reserved
+This site complies with the
+HONcode standard for trustworthy health information: verify here.
+Verywell is part of the Dotdash publishing family:
+The Balance
+Lifewire
+Trip Savvy
+The Spruce
+and more
+Mntl.utilities.scriptsOnLoad(document.querySelectorAll('script[data-glb-js="bottom"]'), function() {$.ajaxPrefilter(function (options, originalOptions, jqXHR) {
+if(options.type.toUpperCase() == 'POST') {
+if(options.contentType.indexOf("application/x-www-form-urlencoded") > -1) {
+if (typeof originalOptions.data === 'string') {
+if (originalOptions.data.length) {
+originalOptions.data += "&";
+}
+originalOptions.data += "CSRFToken=de3b5586759238b01f8f21414a7d3373";
+options.data = originalOptions.data;
+}
+else {
+options.data = $.param(($.extend(originalOptions.data, { "CSRFToken": "de3b5586759238b01f8f21414a7d3373" })), true);
+}
+}
+if (options.contentType.indexOf("application/json") > -1) {
+if (typeof originalOptions.data === 'string') {
+originalOptions.data = JSON.parse(originalOptions.data);
+}
+options.data = JSON.stringify($.extend(originalOptions.data, { "CSRFToken": "de3b5586759238b01f8f21414a7d3373" }));
+}
+}
+});window.Mntl.amazonAffiliateTagger.init("verywellhealth-20", "4,057,117", true);window.Mntl.externalizeLinks.addPlugin(Mntl.amazonAffiliateTagger);
+window.Mntl.externalizeLinks.init();(function() {
+Mntl.Tooltip.init({
+defaultPositionX: "auto",
+defaultPositionY: "auto"
+});
+})();Mntl.utilities.onLoad(function() {
+Mntl.utilities.loadExternalJS({
+src: '//s.skimresources.com/js/68756X1579169.skimlinks.js',
+async: true
+});
+});});

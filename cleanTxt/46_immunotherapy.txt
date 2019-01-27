@@ -1,0 +1,186 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJFSND');
+.quick-links-menu, .quick-links-section, .quick-links-panel, .mobile-pinned-element
+{ display: none; }
+//Siteimprove Analytics module//
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_69044.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+//Siteimprove Analytics module end//
+UPMC Hillman Cancer Center is part of the UPMC family.
+UPMC
+Affiliations
+UPMC
+UPMC Children's Hospital of Pittsburgh
+UPMC Magee-Womens Hospital
+UPMC International
+document.addEventListener("DOMContentLoaded", function (event) {
+UPMC.affiliationspushdown.init();
+});
+UPMC Affiliations
+For Health Care Professionals
+Research
+Coveo.$(function () {
+var searchbox = Coveo.$('#GlobalSearchBox');
+if (typeof (CoveoForSitecore) !== 'undefined') {
+CoveoForSitecore.componentsOptions = {"analyticsCustomMetadata" : {"sitename" : "CancerCenter" , "pageFullPath" : "/sitecore/content/UPMC/CancerCenter/Homepage/Cancer Care/Medical Oncology/Immunotherapy"},"analyticsEndpointUri" : "/coveo/rest/v6/analytics" , "boostExpressions" : "" , "clientLanguageFieldName" : "@fz95xlanguage2165" , "clientLanguageName" : "en" , "defaultSortType" : "" , "defaultSortField" : "" , "defaultSortCriteriaNoSpace" : "Relevancy" , "defaultSortCriteriaLowercase" : "relevancy" , "enableClientSideLogging" : false,"externalCollections" : [],"externalSources" : [],"filterResultsOnCurrentCulture" : false,"filterExpression" : "NOT @ftemplateid2165==(\"adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97\",\"fe5dd826-48c6-436d-b87a-7c4210c7413b\")" , "id" : "_BA2514B6-94DF-4752-9DA3-2E26D25D3772" , "indexSourceName" : "Coveo_web_index - UPMC PROD" , "isEditingInPageEditor" : false,"isPreviewingInPageEditor" : false,"isPreviewingInPageEditorWithSimulatedDevice" : false,"latestVersionFieldName" : "@fz95xlatestversion2165" , "pageFullPath" : "/sitecore/content/UPMC/CancerCenter/Homepage/Cancer Care/Medical Oncology/Immunotherapy" , "pageName" : "Immunotherapy" , "restEndpointUri" : "/coveo/rest" , "searchboxPlaceholderText" : "" , "sendToSitecoreAnalytics" : true,"sitecoreItemId" : "6901e3fd-77ae-4209-890e-c52138460859" , "sitecoreItemUri" : "sitecore://web/{6901E3FD-77AE-4209-890E-C52138460859}?lang=en\u0026ver=1" , "siteName" : "CancerCenter" , "searchRedirectionUrl" : "/search" , "keepOmniboxSuggestionsProvidersDefaultOrdering" : false};
+searchbox.coveoForSitecore('initSearchbox',CoveoForSitecore.componentsOptions);
+} else {
+Coveo.SearchEndpoint.endpoints["default"] = new Coveo.SearchEndpoint({"restUri" : "/coveo/rest" , "queryStringArguments" : {"sitecoreItemUri" : "sitecore://web/{6901E3FD-77AE-4209-890E-C52138460859}?lang=en\u0026ver=1" , "siteName" : "CancerCenter"}});
+searchbox.coveo('initSearchbox','/search');
+}
+searchbox.find(".CoveoSearchbox input").attr("placeholder", '').attr('data-nav-element','internal search').attr('data-nav-type','search text input');
+searchbox.find(".CoveoSearchButton").attr('data-nav-element','internal search').attr('data-nav-type','search text submit');
+var searchInput = searchbox.find(".CoveoSearchbox input");
+var searchBtnOp = Coveo.$(".fa-search");
+$(searchBtnOp).on("click", function() {
+$(searchInput).focus();
+});
+});
+document.addEventListener("DOMContentLoaded", function (event) {
+UPMC.globalsearch.init();
+});
+Coveo.$(function () {
+var searchbox = Coveo.$('#GlobalSearchBoxMobile');
+if (typeof (CoveoForSitecore) !== 'undefined') {
+CoveoForSitecore.componentsOptions = {"analyticsCustomMetadata" : {"sitename" : "CancerCenter" , "pageFullPath" : "/sitecore/content/UPMC/CancerCenter/Homepage/Cancer Care/Medical Oncology/Immunotherapy"},"analyticsEndpointUri" : "/coveo/rest/v6/analytics" , "boostExpressions" : "" , "clientLanguageFieldName" : "@fz95xlanguage2165" , "clientLanguageName" : "en" , "defaultSortType" : "" , "defaultSortField" : "" , "defaultSortCriteriaNoSpace" : "Relevancy" , "defaultSortCriteriaLowercase" : "relevancy" , "enableClientSideLogging" : false,"externalCollections" : [],"externalSources" : [],"filterResultsOnCurrentCulture" : true,"filterExpression" : "NOT @ftemplateid2165==(\"adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97\",\"fe5dd826-48c6-436d-b87a-7c4210c7413b\")" , "id" : "_DA2514B6-94DF-4752-9DA3-2E26D25D3993" , "indexSourceName" : "Coveo_web_index - UPMC PROD" , "isEditingInPageEditor" : false,"isPreviewingInPageEditor" : false,"isPreviewingInPageEditorWithSimulatedDevice" : false,"latestVersionFieldName" : "@fz95xlatestversion2165" , "pageFullPath" : "/sitecore/content/UPMC/CancerCenter/Homepage/Cancer Care/Medical Oncology/Immunotherapy" , "pageName" : "Immunotherapy" , "restEndpointUri" : "/coveo/rest" , "searchboxPlaceholderText" : "" , "sendToSitecoreAnalytics" : false,"sitecoreItemId" : "844882bf-40f4-464b-ac56-7a8adc004b1e" , "sitecoreItemUri" : "sitecore://web/{844882BF-40F4-464B-AC56-7A8ADC004B1E}?lang=en\u0026ver=1" , "siteName" : "CancerCenter" , "searchRedirectionUrl" : "/search" , "keepOmniboxSuggestionsProvidersDefaultOrdering" : false};
+searchbox.coveoForSitecore('initSearchbox',
+CoveoForSitecore.componentsOptions);
+} else {
+Coveo.SearchEndpoint.endpoints["default"] = new Coveo.SearchEndpoint({"restUri" : "/coveo/rest" , "queryStringArguments" : {"sitecoreItemUri" : "sitecore://web/{844882BF-40F4-464B-AC56-7A8ADC004B1E}?lang=en\u0026ver=1" , "siteName" : "CancerCenter"}});
+searchbox.coveo('initSearchbox',
+'/search');
+}
+searchbox.find(".CoveoSearchbox input").attr("placeholder", '');
+});
+Lemieux Blood Cancer Center
+About Us
+The Mario Lemieux Center for Blood Cancers offers personalized treatments for patients with all types of blood cancer.
+Learn more.
+Clinical Trials
+Our experts conduct clinical trials to deliver cutting-edge treatment to our patients.
+Find a trial.
+Our Experts
+Our team includes expert hematologists and oncologists.
+Meet the team.
+Request an Appointment
+Schedule an appointment by calling 412-864-6600.
+Contact us.
+Patient Resources
+What To Expect
+Frequently Asked Questions
+Your Care Team
+Insurance & Billing
+Evidence-Based Care
+Services for Patients & Families
+Inpatient Services
+Nutrition Services
+Pain Management
+Palliative & Supportive Care
+Psychological Services
+Social Work Services
+Community & Support Resources
+Upcoming Events
+Cancer Outreach
+Support Groups
+Wellist
+Education for Patients & Families
+Livewell Survivorship Program
+Prevention & Early Detection
+Screenings & Detection
+Cancer Prevention
+Genetic Counseling Services
+Cancer Care
+Types of Cancer
+Programs
+Blood Cancer
+Brain & Nervous System Cancer
+Breast Cancer
+Colorectal & GI Cancer
+Endocrine & Thyroid Cancer
+Esophageal Cancer
+Gynecologic Cancer
+Head & Neck Cancer
+Liver Cancer
+Lung Cancer
+Melanoma & Skin Cancer
+Pancreatic Cancer
+Prostate Cancer
+Sarcoma
+Urologic Cancer
+Adolescent & Young Adult Oncology Program
+Chemotherapy
+Hormone Therapy
+Immunotherapy
+Integrative Oncology
+Koch Regional Cancer Therapy Center
+Radiation Oncology
+Stem Cell Transplant Program
+Surgical Oncology
+Targeted Therapy
+Education Resources
+The Gumberg Family Resource Center provides educational resources for patients and caregivers.
+Browse now.
+Doctors & Locations
+Search by Doctor Last Name
+Doctor Last Name
+Find a Location
+View All >>
+Within 5 miles
+Within 10 miles
+Within 15 miles
+Within 20 miles
+Within 25 miles
+Select Services...
+Medical Oncology
+Hillman Cancer Center
+Hillman Cancer Center, in Pittsburgh's Shadyside neighborhood, is the hub of UPMC Hillman Cancer Center.
+Read more.
+Research & Clinical Trials
+Cancer Research
+For 30 years, UPMC Hillman Cancer Center, is committed to excellence in all aspects of cancer care.
+Learn more about our research.
+Clinical Trials
+UPMC Hillman Cancer Center offers patients access to the latest advances in cancer prevention, detection, diagnosis, and treatment through cancer clinical trials.
+Search trials.
+Refer a Patient
+To refer a patient, please call the UPMC Hillman Cancer Center Information and Referral Service line at 412-647-2811.
+Learn more.
+The Cancer Center Difference
+About Us
+Advanced Technologies
+Awards & Recognition
+UPMC Hillman Cancer Center Administration
+News
+Cancer Specialty Care
+Hows Does Specialty Care Work?
+Your First Visit
+Multidisciplinary Team
+For Referring Physicians
+Supporting UPMC Hillman Cancer Center
+Make a Gift
+Ways to Give
+Volunteer
+Contact Us
+For general information or questions, call 412-647-2811. For appointments, contact your preferred doctor or location directly.
+Contact us now.
+document.addEventListener("DOMContentLoaded", function (event) {
+UPMC.megamenu.init();
+});
+Lemieux Blood Cancer Center
+Patient Resources
+Cancer Care
+Doctors & Locations
+Research & Clinical Trials
+The Cancer Center Difference
+document.addEventListener("DOMContentLoaded", function (event) {
+UPMC.mobilemenu.init();
+});

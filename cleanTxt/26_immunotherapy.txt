@@ -1,0 +1,204 @@
+Immunotherapy
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For the academic journal, see Immunotherapy (journal).
+This article needs more medical references for verification or relies too heavily on primary sources. Please review the contents of the article and add the appropriate references if you can. Unsourced or poorly sourced material may be challenged and removed. (April 2018)
+This article relies too much on references to primary sources. Please improve this
+by adding secondary or tertiary sources. (April 2018) (Learn how and when to remove this template message)
+ImmunotherapyMeSHD007167OPS-301 code8-03[edit on Wikidata]
+Immunotherapy is the treatment of disease by activating or suppressing the immune system. Immunotherapies designed to elicit or amplify an immune response are classified as activation immunotherapies, while immunotherapies that reduce or suppress are classified as suppression immunotherapies.
+The diagram above represents the process of chimeric antigen receptor T-cell therapy (CAR), this is a method of immunotherapy, which is a growing practice in the treatment of cancer. The final result should be a
+production of equipped T-cells that can recognize and fight the infected cancer cells in the body. T-cells (represented by objects labeled as ’t’) are removed from the patient's blood.Then in a lab setting the gene that encodes for the specific antigen receptors are incorporated into the T-cells.Thus producing the CAR receptors (labeled as c) on the surface of the cells.The newly modified T-cells are then further harvested and grown in the lab.After a certain time period, the engineered T-cells are infused back into the patient.
+In recent years, immunotherapy has become of great interest to researchers, clinicians and pharmaceutical companies, particularly in its promise to treat various forms of cancer.[1][2]
+Immunomodulatory regimens often have fewer side effects than existing drugs, including less potential for creating resistance when treating microbial disease.[3]
+Cell-based immunotherapies are effective for some cancers. Immune effector cells such as lymphocytes, macrophages, dendritic cells, natural killer cells (NK Cell), cytotoxic T lymphocytes (CTL), etc., work together to defend the body against cancer by targeting abnormal antigens expressed on the surface of tumor cells.
+Therapies such as granulocyte colony-stimulating factor (G-CSF), interferons, imiquimod and cellular membrane fractions from bacteria are licensed for medical use. Others including IL-2, IL-7, IL-12, various chemokines, synthetic cytosine phosphate-guanosine (CpG) oligodeoxynucleotides and glucans are involved in clinical and preclinical studies.
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}Contents
+1 Immunomodulators
+2 Activation immunotherapies
+2.1 Cancer
+2.1.1 Dendritic cell-based pump-priming
+2.1.2 T-cell adoptive transfer
+3 Immune enhancement therapy
+4 Suppression immunotherapies
+4.1 Immunosuppressive drugs
+4.2 Immune tolerance
+4.3 Allergies
+5 Helminthic therapies
+6 See also
+7 References
+8 External links
+Immunomodulators[edit]
+Immunomodulators are the active agents of immunotherapy. They are a diverse array of recombinant, synthetic, and natural preparations.
+Class
+Example agents
+Interleukins
+IL-2, IL-7, IL-12
+Cytokines
+Interferons, G-CSF
+Chemokines
+CCL3, CCL26, CXCL7
+Immunomodulatory imide drugs (IMiDs)
+thalidomide and its analogues (lenalidomide, pomalidomide, and apremilast)
+Other
+cytosine phosphate-guanosine, oligodeoxynucleotides, glucans
+Activation immunotherapies[edit]
+Cancer[edit]
+Main article: Cancer immunotherapy
+Cancer immunotherapy attempts to stimulate the immune system to destroy tumors. A variety of strategies are in use or are undergoing research and testing. Randomized controlled studies in different cancers resulting in significant increase in survival and disease free period have been reported[2]
+and its efficacy is enhanced by 20–30% when cell-based immunotherapy is combined with conventional treatment methods.[2]
+One of the oldest forms of cancer immunotherapy is the use of BCG vaccine, which was originally to vaccinate against tuberculosis and later was found to be useful in the treatment of bladder cancer.[4]
+The extraction of G-CSF lymphocytes from the blood and expanding in vitro against a tumour antigen before reinjecting the cells with appropriate stimulatory cytokines. The cells then destroy the tumor cells that express the antigen.[citation needed]
+Topical immunotherapy utilizes an immune enhancement cream (imiquimod) which produces interferon, causing the recipient's killer T cells to destroy warts,[5] actinic keratoses, basal cell cancer, vaginal intraepithelial neoplasia,[6] squamous cell cancer,[7][8] cutaneous lymphoma,[9] and superficial malignant melanoma.[10]
+Injection immunotherapy ("intralesional" or "intratumoral") uses mumps, candida, the HPV vaccine[11][12] or trichophytin antigen injections to treat warts (HPV induced tumors).
+Adoptive cell transfer has been tested on lung [13] and other cancers, with greatest success achieved in melanoma.
+Dendritic cell-based pump-priming[edit]
+Dendritic cells can be stimulated to activate a cytotoxic response towards an antigen. Dendritic cells, a type of antigen presenting cell, are harvested from the person needing the immunotherapy. These cells are then either pulsed with an antigen or tumor lysate or transfected with a viral vector, causing them to display the antigen. Upon transfusion into the person, these activated cells present the antigen to the effector lymphocytes (CD4+ helper T cells, cytotoxic CD8+ T cells and B cells). This initiates a cytotoxic response against tumor cells expressing the antigen (against which the adaptive response has now been primed). The cancer vaccine Sipuleucel-T is one example of this approach.[14]
+T-cell adoptive transfer[edit]
+Adoptive cell transfer in vitro cultivates autologous, extracted T cells for later transfusion.[15]
+Alternatively, Genetically engineered T cells are created by harvesting T cells and then infecting the T cells with a retrovirus that contains a copy of a T cell receptor (TCR) gene that is specialised to recognise tumour antigens. The virus integrates the receptor into the T cells' genome. The cells are expanded non-specifically and/or stimulated. The cells are then reinfused and produce an immune response against the tumour cells.[16] The technique has been tested on refractory stage IV metastatic melanomas[15] and advanced skin cancer[17][18][19]
+Whether T cells are genetically engineered or not, before reinfusion, lymphodepletion of the recipient is required to eliminate regulatory T cells as well as unmodified, endogenous lymphocytes that compete with the transferred cells for homeostatic cytokines.[15][20][21][22] Lymphodepletion may be achieved by myeloablative chemotherapy, to which total body irradiation may be added for greater effect.[23] Transferred cells multiplied in vivo and persisted in peripheral blood in many people, sometimes representing levels of 75% of all CD8+ T cells at 6–12 months after infusion.[24] As of 2012, clinical trials for metastatic melanoma were ongoing at multiple sites.[25] Clinical responses to adoptive transfer of T cells were observed in patients with metastatic melanoma resistant to multiple immunotherapies.[26]
+Immune enhancement therapy[edit]
+Autologous immune enhancement therapy use a person's own peripheral blood-derived natural killer cells, cytotoxic T lymphocytes and other relevant immune cells are expanded in vitro and then reinfused.[27] The therapy has been tested against Hepatitis C,[28][29][30] Chronic fatigue syndrome[31][32] and HHV6 infection.[33]
+Suppression immunotherapies[edit]
+Immune suppression dampens an abnormal immune response in autoimmune diseases or reduces a normal immune response to prevent rejection of transplanted organs or cells.
+Immunosuppressive drugs[edit]
+Immunosuppressive drugs help manage organ transplantation and autoimmune disease. Immune responses depend on lymphocyte proliferation. Cytostatic drugs are immunosuppressive. Glucocorticoids are somewhat more specific inhibitors of lymphocyte activation, whereas inhibitors of immunophilins more specifically target T lymphocyte activation. Immunosuppressive antibodies target steps in the immune response. Other drugs modulate immune responses.
+Immune tolerance[edit]
+Main article: Immune tolerance
+The body naturally does not launch an immune system attack on its own tissues. Immune tolerance therapies seek to reset the immune system so that the body stops mistakenly attacking its own organs or cells in autoimmune disease or accepts foreign tissue in organ transplantation.[34] Creating immunity reduces or eliminates the need for lifelong immunosuppression and attendant side effects. It has been tested on transplantations, and type 1 diabetes or other autoimmune disorders.
+Allergies[edit]
+Main article: Allergen immunotherapy
+Immunotherapy is used to treat allergies. While allergy treatments (such as antihistamines or corticosteroids) treat allergic symptoms, immunotherapy can reduce sensitivity to allergens, lessening its severity.
+Immunotherapy may produce long-term benefits.[35] Immunotherapy is partly effective in some people and ineffective in others, but it offers allergy sufferers a chance to reduce or stop their symptoms.
+The therapy is indicated for people who are extremely allergic or who cannot avoid specific allergens. Immunotherapy is generally not indicated for food or medicinal allergies. This therapy is particularly useful for people with allergic rhinitis or asthma.
+The first dose contain tiny amounts of the allergen or antigen. Dosages increase over time, as the person becomes desensitized. This technique has been tested on infants to prevent peanut allergies.[36]
+Helminthic therapies[edit]
+Whipworm ova (Trichuris suis) and Hookworm (Necator americanus) have been tested for immunological diseases and allergies. Helminthic therapy has been investigated as a treatment for relapsing remitting multiple sclerosis[37] Crohn’s,[38][39][40] allergies and asthma.[41] The mechanism of how the helminths modulate the immune response, is unknown. Hypothesized mechanisms include re-polarisation of the Th1 / Th2 response[42] and modulation of dendritic cell function.[43][44] The helminths down regulate the pro-inflammatory Th1 cytokines, Interleukin-12 (IL-12), Interferon-Gamma (IFN-γ) and Tumour Necrosis Factor-Alpha (TNF-ά), while promoting the production of regulatory Th2 cytokines such as IL-10, IL-4, IL-5 and IL-13.[42][45]
+Co-evolution with helminths has shaped some of the genes associated with Interleukin expression and immunological disorders, such Crohn's, ulcerative colitis and celiac disease. Helminth's relationship to humans as hosts should be classified as mutualistic or symbiotic.[citation needed]
+See also[edit]
+Biological response modifiers
+Checkpoint inhibitor
+Interleukin-2 immunotherapy
+Microtransplantation
+References[edit]
+^ "Immunotherapy | Memorial Sloan Kettering Cancer Center". www.mskcc.org. Retrieved 2017-07-27..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+^ a b c Syn, Nicholas L; Teng, Michele W L; Mok, Tony S K; Soo, Ross A. "De-novo and acquired resistance to immune checkpoint targeting". The Lancet Oncology. 18 (12): e731–e741. doi:10.1016/s1470-2045(17)30607-1.
+^ Masihi KN (July 2001). "Fighting infection using immunomodulatory agents". Expert Opin Biol Ther. 1 (4): 641–53. doi:10.1517/14712598.1.4.641. PMID 11727500.
+^ Fuge, O; Vasdev, N; Allchorne, P; Green, JS (2015). "Immunotherapy for bladder cancer". Research and Reports in Urology. 7: 65–79. doi:10.2147/RRU.S63447. PMC 4427258. PMID 26000263.
+^ van Seters M, van Beurden M, ten Kate FJ, Beckmann I, Ewing PC, Eijkemans MJ, Kagie MJ, Meijer CJ, Aaronson NK, Kleinjan A, Heijmans-Antonissen C, Zijlstra FJ, Burger MP, Helmerhorst TJ (April 2008). "Treatment of vulvar intraepithelial neoplasia with topical imiquimod". N. Engl. J. Med. 358 (14): 1465–73. doi:10.1056/NEJMoa072685. PMID 18385498.
+^ Buck HW, Guth KJ (October 2003). "Treatment of vaginal intraepithelial neoplasia (primarily low grade) with imiquimod 5% cream". J Low Genit Tract Dis. 7 (4): 290–3. doi:10.1097/00128360-200310000-00011. PMID 17051086.
+^ Järvinen R, Kaasinen E, Sankila A, Rintala E (August 2009). "Long-term efficacy of maintenance bacillus Calmette-Guérin versus maintenance mitomycin C instillation therapy in frequently recurrent TaT1 tumours without carcinoma in situ: a subgroup analysis of the prospective, randomised FinnBladder I study with a 20-year follow-up". Eur. Urol. 56 (2): 260–5. doi:10.1016/j.eururo.2009.04.009. PMID 19395154.
+^ Davidson HC, Leibowitz MS, Lopez-Albaitero A, Ferris RL (September 2009). "Immunotherapy for head and neck cancer". Oral Oncol. 45 (9): 747–51. doi:10.1016/j.oraloncology.2009.02.009. PMID 19442565.
+^ Dani T, Knobler R (2009). "Extracorporeal photoimmunotherapy-photopheresis". Front. Biosci. 14 (14): 4769–77. doi:10.2741/3566. PMID 19273388.
+^ Eggermont AM, Schadendorf D (June 2009). "Melanoma and immunotherapy". Hematol. Oncol. Clin. North Am. 23 (3): 547–64, ix–x. doi:10.1016/j.hoc.2009.03.009. PMID 19464602.
+^ Chuang CM, Monie A, Wu A, Hung CF (2009). "Combination of apigenin treatment with therapeutic HPV DNA vaccination generates enhanced therapeutic anti tumor effects". J. Biomed. Sci. 16 (1): 49. doi:10.1186/1423-0127-16-49. PMC 2705346. PMID 19473507.
+^ Pawlita M, Gissmann L (April 2009). "[Recurrent respiratory papillomatosis: indication for HPV vaccination?]". Dtsch. Med. Wochenschr. (in German). 134 Suppl 2: S100–2. doi:10.1055/s-0029-1220219. PMID 19353471.
+^ Kang N, Zhou J, Zhang T, Wang L, Lu F, Cui Y, Cui L, He W (August 2009). "Adoptive immunotherapy of lung cancer with immobilized anti-TCRgammadelta antibody-expanded human gammadelta T-cells in peripheral blood". Cancer Biol. Ther. 8 (16): 1540–9. doi:10.4161/cbt.8.16.8950. PMID 19471115.
+^ Di Lorenzo G, Buonerba C, Kantoff PW (September 2011). "Immunotherapy for the treatment of prostate cancer". Nature Reviews Clinical Oncology. 8 (9): 551–61. doi:10.1038/nrclinonc.2011.72. PMID 21606971.
+^ a b c Rosenberg SA, Restifo NP, Yang JC, Morgan RA, Dudley ME (April 2008). "Adoptive cell transfer: A clinical path to effective cancer immunotherapy". Nature Reviews Cancer. 8 (4): 299–308. doi:10.1038/nrc2355. PMC 2553205. PMID 18354418.
+^ Morgan RA, Dudley ME, Wunderlich JR, Hughes MS, Yang JC, Sherry RM, Royal RE, Topalian SL, Kammula US, Restifo NP, Zheng Z, Nahvi A, de Vries CR, Rogers-Freezer LJ, Mavroukakis SA, Rosenberg SA (October 2006). "Cancer regression in patients after transfer of genetically engineered lymphocytes". Science. 314 (5796): 126–9. doi:10.1126/science.1129003. PMC 2267026. PMID 16946036.
+^ Hunder NN, Wallen H, Cao J, Hendricks DW, Reilly JZ, Rodmyre R, Jungbluth A, Gnjatic S, Thompson JA, Yee C (June 2008). "Treatment of metastatic melanoma with autologous CD4+ T cells against NY-ESO-1". N. Engl. J. Med. 358 (25): 2698–703. doi:10.1056/NEJMoa0800251. PMC 3277288. PMID 18565862.
+^ "2008 Symposium Program & Speakers". Cancer Research Institute. Archived from the original on 2008-10-15.
+^ Highfield R (18 June 2008). "Cancer patient recovers after injection of immune cells". The Telegraph. Archived from the original on 12 September 2008.
+^ Antony PA, Piccirillo CA, Akpinarli A, Finkelstein SE, Speiss PJ, Surman DR, Palmer DC, Chan CC, Klebanoff CA, Overwijk WW, Rosenberg SA, Restifo NP (March 2005). "CD8+ T cell immunity against a tumor/self-antigen is augmented by CD4+ T helper cells and hindered by naturally occurring T regulatory cells". Journal of Immunology. 174 (5): 2591–601. doi:10.4049/jimmunol.174.5.2591. PMC 1403291. PMID 15728465.
+^ Gattinoni L, Finkelstein SE, Klebanoff CA, Antony PA, Palmer DC, Spiess PJ, Hwang LN, Yu Z, Wrzesinski C, Heimann DM, Surh CD, Rosenberg SA, Restifo NP (October 2005). "Removal of homeostatic cytokine sinks by lymphodepletion enhances the efficacy of adoptively transferred tumor-specific CD8+ T cells". J. Exp. Med. 202 (7): 907–12. doi:10.1084/jem.20050732. PMC 1397916. PMID 16203864.
+^ Dummer W, Niethammer AG, Baccala R, Lawson BR, Wagner N, Reisfeld RA, Theofilopoulos AN (July 2002). "T cell homeostatic proliferation elicits effective antitumor autoimmunity". J. Clin. Invest. 110 (2): 185–92. doi:10.1172/JCI15175. PMC 151053. PMID 12122110.
+^ Dudley ME, Yang JC, Sherry R, Hughes MS, Royal R, Kammula U, Robbins PF, Huang J, Citrin DE, Leitman SF, Wunderlich J, Restifo NP, Thomasian A, Downey SG, Smith FO, Klapper J, Morton K, Laurencot C, White DE, Rosenberg SA (November 2008). "Adoptive cell therapy for patients with metastatic melanoma: evaluation of intensive myeloablative chemoradiation preparative regimens". J. Clin. Oncol. 26 (32): 5233–9. doi:10.1200/JCO.2008.16.5449. PMC 2652090. PMID 18809613.
+^ Dudley ME, Wunderlich JR, Robbins PF, Yang JC, Hwu P, Schwartzentruber DJ, Topalian SL, Sherry R, Restifo NP, Hubicki AM, Robinson MR, Raffeld M, Duray P, Seipp CA, Rogers-Freezer L, Morton KE, Mavroukakis SA, White DE, Rosenberg SA (October 2002). "Cancer regression and autoimmunity in patients after clonal repopulation with antitumor lymphocytes". Science. 298 (5594): 850–4. doi:10.1126/science.1076514. PMC 1764179. PMID 12242449.
+^ Pilon-Thomas S, Kuhn L, Ellwanger S, Janssen W, Royster E, Marzban S, Kudchadkar R, Zager J, Gibney G, Sondak VK, Weber J, Mulé JJ, Sarnaik AA (October 2012). "Efficacy of adoptive cell transfer of tumor-infiltrating lymphocytes after lymphopenia induction for metastatic melanoma". J. Immunother. 35 (8): 615–20. doi:10.1097/CJI.0b013e31826e8f5f. PMC 4467830. PMID 22996367.
+^ Andersen R, Borch TH, Draghi A, Gokuldass A, Rana MA, Pedersen M, Nielsen M, Kongsted P, Kjeldsen JW, Westergaard MC, Radic HD, Chamberlain CA, Holmich LR, Hendel HW, Larsen MS, Met O, Svane IM, Donia M (April 2018). "T cells isolated from patients with checkpoint inhibitor resistant-melanoma are functional and can mediate tumor regression". Ann. Oncol. doi:10.1093/annonc/mdy139. PMID 29688262.
+^ Manjunath SR, Ramanan G, Dedeepiya VD, Terunuma H, Deng X, Baskar S, Senthilkumar R, Thamaraikannan P, Srinivasan T, Preethy S, Abraham SJ (January 2012). "Autologous immune enhancement therapy in recurrent ovarian cancer with metastases: a case report". Case Rep. Oncol. 5 (1): 114–8. doi:10.1159/000337319. PMC 3364094. PMID 22666198.
+^ Li Y, Zhang T, Ho C, Orange JS, Douglas SD, Ho WZ (December 2004). "Natural killer cells inhibit hepatitis C virus expression". J. Leukoc. Biol. 76 (6): 1171–9. doi:10.1189/jlb.0604372. PMID 15339939.
+^ Doskali M, Tanaka Y, Ohira M, Ishiyama K, Tashiro H, Chayama K, Ohdan H (March 2011). "Possibility of adoptive immunotherapy with peripheral blood-derived CD3⁻CD56+ and CD3+CD56+ cells for inducing antihepatocellular carcinoma and antihepatitis C virus activity". J. Immunother. 34 (2): 129–38. doi:10.1097/CJI.0b013e3182048c4e. PMID 21304407.
+^ Terunuma H, Deng X, Dewan Z, Fujimoto S, Yamamoto N (2008). "Potential role of NK cells in the induction of immune responses: implications for NK cell-based immunotherapy for cancers and viral infections". Int. Rev. Immunol. 27 (3): 93–110. doi:10.1080/08830180801911743. PMID 18437601.
+^ See DM, Tilles JG (1996). "alpha-Interferon treatment of patients with chronic fatigue syndrome". Immunol. Invest. 25 (1–2): 153–64. doi:10.3109/08820139609059298. PMID 8675231.
+^ Ojo-Amaize EA, Conley EJ, Peter JB (January 1994). "Decreased natural killer cell activity is associated with severity of chronic fatigue immune dysfunction syndrome". Clin. Infect. Dis. 18 Suppl 1: S157–9. doi:10.1093/clinids/18.Supplement_1.S157. PMID 8148445.
+^ Kida K, Isozumi R, Ito M (December 2000). "Killing of human Herpes virus 6-infected cells by lymphocytes cultured with interleukin-2 or -12". Pediatr. Int. 42 (6): 631–6. doi:10.1046/j.1442-200x.2000.01315.x. PMID 11192519.
+^ Rotrosen D, Matthews JB, Bluestone JA (July 2002). "The immune tolerance network: a new paradigm for developing tolerance-inducing therapies". The Journal of Allergy and Clinical Immunology. 110 (1): 17–23. doi:10.1067/mai.2002.124258. PMID 12110811.
+^ Durham SR, Walker SM, Varga EM, Jacobson MR, O'Brien F, Noble W, Till SJ, Hamid QA, Nouri-Aria KT (August 1999). "Long-term clinical efficacy of grass-pollen immunotherapy". N. Engl. J. Med. 341 (7): 468–75. doi:10.1056/NEJM199908123410702. PMID 10441602.
+^ "Clinical Trials Search Results - Stanford University School of Medicine". med.stanford.edu. Retrieved 2016-04-03.
+^ Correale J, Farez M (February 2007). "Association between parasite infection and immune responses in multiple sclerosis". Annals of Neurology. 61 (2): 97–108. doi:10.1002/ana.21067. PMID 17230481.
+^ Croese J, O'neil J, Masson J, Cooke S, Melrose W, Pritchard D, Speare R (January 2006). "A proof of concept study establishing Necator americanus in Crohn's patients and reservoir donors". Gut. 55 (1): 136–7. doi:10.1136/gut.2005.079129. PMC 1856386. PMID 16344586.
+^ Reddy A, Fried B (January 2009). "An update on the use of helminths to treat Crohn's and other autoimmunune diseases". Parasitol. Res. 104 (2): 217–21. doi:10.1007/s00436-008-1297-5. PMID 19050918.
+^ Laclotte C, Oussalah A, Rey P, Bensenane M, Pluvinage N, Chevaux JB, Trouilloud I, Serre AA, Boucekkine T, Bigard MA, Peyrin-Biroulet L (December 2008). "[Helminths and inflammatory bowel diseases]". Gastroenterol. Clin. Biol. (in French). 32 (12): 1064–74. doi:10.1016/j.gcb.2008.04.030. PMID 18619749.
+^ Zaccone P, Fehervari Z, Phillips JM, Dunne DW, Cooke A (October 2006). "Parasitic worms and inflammatory diseases". Parasite Immunol. 28 (10): 515–23. doi:10.1111/j.1365-3024.2006.00879.x. PMC 1618732. PMID 16965287.
+^ a b Brooker S, Bethony J, Hotez PJ (2004). "Human Hookworm Infection in the 21st Century". Advances in Parasitology. 58: 197–288. doi:10.1016/S0065-308X(04)58004-1. ISBN 9780120317585. PMC 2268732. PMID 15603764.
+^ Fujiwara RT, Cançado GG, Freitas PA, Santiago HC, Massara CL, Dos Santos Carvalho O, Corrêa-Oliveira R, Geiger SM, Bethony J (2009).
+Yazdanbakhsh M, ed. "Necator americanus infection: a possible cause of altered dendritic cell differentiation and eosinophil profile in chronically infected individuals". PLoS Negl. Trop. Dis. 3 (3): e399. doi:10.1371/journal.pntd.0000399. PMC 2654967. PMID 19308259.
+^ Carvalho L, Sun J, Kane C, Marshall F, Krawczyk C, Pearce EJ (January 2009). "Review series on helminths, immune modulation and the hygiene hypothesis: mechanisms underlying helminth modulation of dendritic cell function". Immunology. 126 (1): 28–34. doi:10.1111/j.1365-2567.2008.03008.x. PMC 2632707. PMID 19120496.
+^ Fumagalli M, Pozzoli U, Cagliani R, Comi GP, Riva S, Clerici M, Bresolin N, Sironi M (June 2009). "Parasites represent a major selective force for interleukin genes and shape the genetic predisposition to autoimmune conditions". J. Exp. Med. 206 (6): 1395–408. doi:10.1084/jem.20082779. PMC 2715056. PMID 19468064.
+External links[edit]
+Langreth, Robert (12 February 2009). "Cancer Miracles". Forbes.
+International Society for Biological Therapy of Cancer
+Cancer Research Institute Annual International Cancer Immunotherapy Symposia Series
+Biology portalMedicine portal
+Authority control
+NDL: 00567589
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Immunotherapy&oldid=875634703"
+Categories: ImmunotherapyCancer treatmentsVirotherapyHidden categories: CS1 German-language sources (de)CS1 French-language sources (fr)Articles needing additional medical references from April 2018All articles needing additional referencesArticles requiring reliable medical sourcesArticles lacking reliable references from April 2018All articles lacking reliable referencesAll articles with unsourced statementsArticles with unsourced statements from March 2013Articles with unsourced statements from April 2016Wikipedia articles with NDL identifiers
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+ArticleTalk
+Variants
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia Commons
+Languages
+العربيةБългарскиCatalàČeštinaDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGalego한국어Bahasa IndonesiaעבריתҚазақшаMagyarNederlands日本語PolskiPortuguêsRomânăРусскийSuomiSvenskaதமிழ்Українськаاردو中文
+Edit links
+This page was last edited on 28 December 2018, at 00:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.832","walltime":"0.962","ppvisitednodes":{"value":2787,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":131516,"limit":2097152},"templateargumentsize":{"value":1160,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":147800,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%
+837.328
+1 -total"," 67.07%
+561.556
+1 Template:Reflist"," 50.03%
+418.926
+41 Template:Cite_journal","
+9.47%
+79.310
+4 Template:Cite_web","
+6.32%
+52.917
+1 Template:Infobox_medical_intervention","
+5.78%
+48.408
+1 Template:Infobox","
+4.99%
+41.744
+1 Template:Medical_citations_needed","
+4.70%
+39.393
+2 Template:Ambox","
+4.46%
+37.303
+2 Template:Citation_needed","
+3.89%
+32.588
+2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.548","limit":"10.000"},"limitreport-memusage":{"value":6477218,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190116031605","ttl":1900800,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Immunotherapy","url":"https:\/\/en.wikipedia.org\/wiki\/Immunotherapy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1427096","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1427096","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-05-13T18:13:18Z","dateModified":"2018-12-28T00:07:08Z","headline":"therapy to elicit or amplify an immune response"}
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1325"});});

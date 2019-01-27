@@ -1,0 +1,116 @@
+Cancer immunotherapy spreads rapidly
+
+A revolution is underway in cancer therapy, raising the spectre of hope for
+patients whose cancers are difficult or impossible to treat with surgery,
+radiotherapy or conventional chemotherapy. Immunotherapy, where the body’s
+immune system is primed to kill cancer cells in some way, is already making
+waves – and this year’s Nobel prize for medicine went to two pioneers.
+
+The winners, Tasuko Honjo and James Allison, discovered and developed ways of
+getting T-cells to recognise and kill cancer cells by switching on the immune
+response via checkpoint inhibitors. These drugs, in effect, turn off the
+biological brakes that keep the immune response in check. Those pioneered by
+Honjo act at programmed cell death protein 1 (PD-1) or its ligand PD-L1, while
+Allison’s work looked at cytotoxic T-lymphocyte-associated protein 4 (CTLA-4).
+
+Both mechanisms have had successes. The first checkpoint inhibitor to reach
+the market, in 2011, was Bristol-Myers Squibb’s ipilimumab (Yervoy), and it is
+thus far the only one that acts at CTLA-4. The other six all interact with
+PD-1 or PD-L1 . The most recent to reach the market, the PD-1
+inhibitor cemiplimab (Libtayo) from Sanofi and Regeneron, gained US approval
+in September. An enormous number more are in the pipeline across the industry.
+A bispecific antibody that hits both CTLA-4 and PD-L1 has even been developed
+by Chinese company Alphamab, and is in early clinical trials in Australia.
+
+Approved checkpoint inhibitor drugs Target| Brand name| Generic name| Company  
+---|---|---|---  
+CTLA-4 | Yervoy | ipilimumab | Bristol-Myers Squibb  
+PD1 | Opdivo | nivolumab | Bristol-Myers Squibb  
+PD1 | Keytruda | pembrolizumab | Merck & Co  
+PD1 | Libtayo | cemiplimab | Sanofi and Regeneron  
+PD-L1 | Tecentriq | atezolizumab | Genentech  
+PD-L1 | Bavencio | avelumab | Merck KGaA and Pfizer  
+PD-L1 | Imfinzi | durvalumab | AstraZeneca  
+  
+Unlike the earlier approvals, which were for some of the more common cancer
+types including non-small cell lung cancer, melanoma and bladder cancer,
+Sanofi’s cemiplimab was approved to treat a less common skin cancer, cutaneous
+squamous cell carcinoma. Moving into new indications is one way that companies
+might succeed in the increasingly crowded market, according to GlobalData
+senior analyst Chloe Thepaut.
+
+‘We can see from our Pharma Intelligence database that checkpoint inhibitors
+are being trialled in all sorts of indications where checkpoint inhibitors
+don’t already have approval,’ she says. And Merck & Co’s pembrolizumab
+(Keytruda) has had its licence extended to any solid tumour with the correct
+biomarker, she adds. ‘This pan-tumour approach, rather than indication-
+specific, is likely to continue. By using different biomarker expression to
+direct which patients can receive the drug, they can target indications that
+don’t already have approved checkpoint inhibitors.’
+
+Mix and match
+
+Increasingly, checkpoint inhibitors are being used in combination, either with
+another immunotherapy or more traditional therapy. A quick search for clinical
+trials for cancer immunotherapy on clinicaltrials.gov in early October showed
+up nearly 2300 studies – of which over 850 were actively recruiting – and more
+than a third of these involve combinations.
+
+Checkpoint inhibitors might be combined with a targeted therapy such as
+trastuzumab (Roche’s Herceptin) for breast cancer, for example, to increase
+the chances of therapeutic success. Promising results have already been
+reported for some combinations, including Phase III results earlier this year
+for pembrolizumab in non-small cell lung cancer, given with Lilly’s pemetrexed
+(Alimta) and platinum-based chemotherapy.
+
+Thepaut says GlobalData interviews earlier this year highlighted the interest
+in combinations. ‘Checkpoint inhibitors will not be effective in all
+patients,’ she says. ‘If combinations did not add significant toxicity and
+improved efficacy, this was viewed as a promising approach.’ But there was
+little consensus about which combinations were likely to be most effective.
+
+With so much activity in the cancer field, it is increasingly difficult to
+recruit sufficient trial subjects. There is a lot of competition for a limited
+number of patients – especially as many trials will limit the prior therapies
+they can have received, and some have lengthy lists of inclusion and exclusion
+criteria that the patients must meet.
+
+However, Thepaut says, non-immuno-oncology trials are having greater
+recruitment problems. ‘There is so much excitement and hype around immuno-
+oncology, it’s easier to persuade patients to join trials,’ she says. ‘So
+although patient populations may be a bit thin, if anything we see reduced
+issues for immuno-oncology.’
+
+Early approval
+
+Immuno-oncology products are often approved without undergoing full Phase III
+development – sometimes on just Phase I/II or Phase II results, or even
+single-arm trials. ‘We asked physicians, and they said that even if it is
+approved after Phase I/II, it has still been approved and they would still use
+it as a therapy,’ Thepaut says. ‘That may also be something that companies
+bear in mind when designing their trials – recruit fewer patients but still
+power the study correctly.’
+
+Despite the increasingly crowded market, Thepaut still believes there is room
+for new immuno-oncology products. ‘There will always be patients who have
+massive unmet clinical need, who don’t respond to current options and have
+limited alternatives,’ she says. ‘So far, physicians are still looking for
+drugs that provide options for these patients. I think there will always be
+space for pharmaceutical companies to keep developing.’
+
+The potential of checkpoint inhibitors is getting wider recognition, too. At
+his inaugural lecture of the Imperial Cancer Research UK centre at Imperial
+College, London, in October, former US vice-president Joe Biden – who led
+President Obama’s Cancer Moonshot and set up the Biden Cancer Initiative last
+year – spoke about his son Beau’s treatment for brain cancer before he died in
+2015, and how fast the field has advanced since then.
+
+‘Before my son was diagnosed, immunotherapy was viewed as a “voodoo” science.
+It wasn’t in the deal at all,’ Biden said. But the pace of change is rapid.
+‘Oncologists are working routinely with immunologists and virologists and
+chemical and biological engineers and others, in ways that didn’t even happen
+just six years ago. And there’s no better example than what’s happening now in
+immunotherapy around the world.’
+
+
+

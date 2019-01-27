@@ -1,0 +1,254 @@
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with
+limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off
+compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site
+without styles and JavaScript.
+nature.comsubjectsimmunotherapy
+Menu
+Search
+My Account
+Login
+Atom
+RSS Feed
+Immunotherapy
+Definition
+Immunotherapy is the treatment of disease by inducing, enhancing or suppressing an immune response. Activation immunotherapies induce or amplify an immune response and are used in vaccines and as cancer immunotherapies. Suppression immunotherapies reduce or suppress an immune response and are used to prevent graft rejection and treat autoimmunity and allergy.
+Related Subjects
+Immunization
+Immunosuppression
+Latest Research and Reviews
+Research
+|
+15 January 2019
+|
+open
+Humanized anti-CD123 antibody facilitates NK cell antibody-dependent cell-mediated cytotoxicity (ADCC) of Hodgkin lymphoma targets via ARF6/PLD-1
+Daniel Ernst, Brent A. Williams, Xing-Hua Wang, Nara Yoon, Kyung-Phil Kim, Jodi Chiu, Zhi Juan Luo, Karin G. Hermans, Joerg Krueger & Armand Keating
+Blood Cancer Journal 9, 6
+Research
+|
+14 January 2019
+Tumor mutational load predicts survival after immunotherapy across multiple cancer types
+Analysis of advanced cancer patients treated with immune-checkpoint inhibitors shows that tumor mutational burden, as assessed by targeted next-generation sequencing, predicts survival after immunotherapy across multiple cancer types.
+Robert M. Samstein, Chung-Han Lee, Alexander N. Shoushtari, Matthew D. Hellmann, Ronglai Shen, Yelena Y. Janjigian, David A. Barron, Ahmet Zehir, Emmet J. Jordan, Antonio Omuro, Thomas J. Kaley, Sviatoslav M. Kendall, Robert J. Motzer, A. Ari Hakimi, Martin H. Voss, Paul Russo, Jonathan Rosenberg, Gopa Iyer, Bernard H. Bochner, Dean F. Bajorin, Hikmat A. Al-Ahmadie, Jamie E. Chaft, Charles M. Rudin, Gregory J. Riely, Shrujal Baxi, Alan L. Ho, Richard J. Wong, David G. Pfister, Jedd D. Wolchok, Christopher A. Barker, Philip H. Gutin, Cameron W. Brennan, Viviane Tabar, Ingo K. Mellinghoff, Lisa M. DeAngelis, Charlotte E. Ariyan, Nancy Lee, William D. Tap, Mrinal M. Gounder, Sandra P. D’Angelo, Leonard Saltz, Zsofia K. Stadler, Howard I. Scher, Jose Baselga, Pedram Razavi, Christopher A. Klebanoff, Rona Yaeger, Neil H. Segal, Geoffrey Y. Ku, Ronald P. DeMatteo, Marc Ladanyi, Naiyer A. Rizvi, Michael F. Berger, Nadeem Riaz, David B. Solit, Timothy A. Chan & Luc G. T. Morris
+Nature Genetics, 1-5
+Research
+|
+10 January 2019
+|
+open
+Post-exposure immunotherapy for two ebolaviruses and Marburg virus in nonhuman primates
+Current experimental monoclonal antibodies (mAbs) for Ebola virus (EBOV) post-exposure immunotherapy are ineffective against Sudan (SUDV) or Marburg virus (MARV). Here, authors develop cocktails of mAbs that protect nonhuman primates against EBOV, SUDV, and MARV infection when given four days post infection.
+Jennifer M. Brannan, Shihua He, Katie A. Howell, Laura I. Prugar, Wenjun Zhu, Hong Vu, Sergey Shulenin, Shweta Kailasan, Henna Raina, Gary Wong, Md Niaz Rahim, Logan Banadyga, Kevin Tierney, Xuelian Zhao, Yuxing Li, Frederick W. Holtsberg, John M. Dye, Xiangguo Qiu & M. Javad Aman
+Nature Communications 10, 105
+Research
+|
+09 January 2019
+Autologous CD19-directed chimeric antigen receptor-T cell is an effective and safe treatment to refractory or relapsed diffuse large B-cell lymphoma
+Fang Bao, Wei Wan, Ting He, Feifei Qi, Guanghua Liu, Kai Hu, Xin-an Lu, Ping Yang, Fei Dong, Jing Wang & Hongmei Jing
+Cancer Gene Therapy, 1-8
+Research
+|
+09 January 2019
+Intratumoral expression using a NFkB-based promoter enhances IL12 antitumor efficacy
+Guillermo Garaulet, Gema Pérez-Chacon, Hernan Alarcón, Arantzazu Alfranca, Francisca Mulero, Jorge Martínez-Torrecuadrada, Juan M. Zapata & Antonio Rodríguez
+Cancer Gene Therapy, 1-18
+Reviews
+|
+04 January 2019
+A critical appraisal of amyloid-β-targeting therapies for Alzheimer disease
+Potential disease-modifying therapies for Alzheimer disease have mostly targeted brain accumulation of amyloid-β, but this approach has yet to provide substantial clinical benefits. The authors consider the reasons for this failure and suggest alternative strategies, including modification of risk factors.
+Francesco Panza, Madia Lozupone, Giancarlo Logroscino & Bruno P. Imbimbo
+Nature Reviews Neurology, 1-16
+All Research & Reviews
+News and Comment
+News
+|
+28 December 2018
+Peanut allergy potential
+Asher Mullard
+Nature Reviews Drug Discovery 18, 7
+News and Views
+|
+06 December 2018
+The myriad targets of a T cell
+Two methods for measuring cross-reactivity could boost the safety of T-cell therapies.
+Aswin Natarajan & Michelle Krogsgaard
+Nature Biotechnology 36, 1152-1154
+Correspondence
+|
+05 December 2018
+Donor lymphocyte infusion for BK virus hemorrhagic cystitis and nephropathy: a case report
+Guillermo Ortí, Gloria Iacoboni, Pere Barba, Ramón Gimeno, Elisa Roldán, Laura Fox, Olga Salamero, Francesc Bosch & David Valcárcel
+Bone Marrow Transplantation, 1-3
+Correspondence
+|
+08 November 2018
+|
+open
+Post-transplant immunotherapy with WT1-specific CTLs for high-risk acute myelogenous leukemia: a prospective clinical phase I/II trial
+Hee-Je Kim, Hyun-Jung Sohn, Jung-A Hong, Hyun-Joo Lee, Dae-Hee Sohn, Chang-Ae Shin, Hyun-Il Cho, Woo-Sung Min & Tai-Gyu Kim
+Bone Marrow Transplantation, 1-4
+Correspondence
+|
+05 October 2018
+Not so crystal clear: observations from a case of crystalline arthritis with cytokine release syndrome (CRS) after chimeric antigen receptor (CAR)-T cell therapy
+Sarah H. Chung, Grant Hughes, Brian Koffman, Cameron J. Turtle, David G. Maloney & Utkarsh H. Acharya
+Bone Marrow Transplantation, 1-3
+Research Highlights
+|
+27 September 2018
+Insights into the risk of fatal AEs with ICIs
+David Killock
+Nature Reviews Clinical Oncology 15, 653
+All News & Comment
+Nature.com menu
+Nature Research menu
+Our Journals
+Nature
+Nature Communications
+Nature Protocols
+Scientific Reports
+View all journals
+Subjects
+Biological Sciences
+Scientific Community & Society
+Earth & Environmental Sciences
+Health Sciences
+Physical Sciences
+View all subjects
+More
+Contact us
+Authors & Referees
+Librarians
+Advertisers
+Press
+About Nature Research
+Search
+Article search
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature.com
+ISSN
+(online)
+nature.com sitemap
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+Publish with us
+Guide to Authors
+Guide to Referees
+Editorial policies
+Open access
+Reprints & permissions
+Researcher services
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+Career development
+Nature Careers
+Nature
+Conferences
+Nature
+events
+Regional websites
+Nature China
+Nature India
+Nature Japan
+Nature Korea
+Nature Middle East
+© 2019 Springer Nature Publishing AG
+Privacy Policy
+Use of cookies
+Manage cookies
+Legal notice
+Accessibility statement
+Terms & Conditions
+var backHalf = false;
+var idp = {
+institutionalLogin: function (names) {
+if (names.length && false) {
+if (document.querySelector('.js-main-column')) {
+var accessMessage = document.createElement('div');
+if (backHalf) {
+var prependAccessMessageTo = 'div.article-body div.distractionFree'
+accessMessage.innerHTML = '<p style="transform: translateY(-5px)" class="block mb0 pb4 pt6 text-gray-light text13 text-center">Access provided by ' + names[0] + '</p>';
+document.querySelector(prependAccessMessageTo).classList.remove("visually-hidden");
+document.querySelector(prependAccessMessageTo).prepend(accessMessage);
+} else {
+accessMessage.innerHTML = '<p style="transform: translateY(-5px)" class="text14 block mb0 pb10 text-center">Access provided by ' + names[0] + '</p>';
+document.querySelector('.js-main-column').prepend(accessMessage);
+}
+}
+}
+},
+hasNatureUserProof: function (hasProof) {
+if (!hasProof) {
+document.getElementById("my-account").setAttribute("style", "display: none;");
+document.getElementById("login-button").setAttribute("style", "");
+}
+}
+}
+var appendExtraFlagsToLinks = function(params) {
+$('a').filter(function(_, x) {
+var href = $(x).attr('href');
+return href && href.startsWith('/');
+}).each(function(_, x) {
+var $x = $(x);
+var url = new URL('http://temp.com' + $x.attr('href'));
+params.forEach(function(param) {
+url.searchParams.set(param[0], param[1]);
+});
+$x.attr('href', url.pathname + url.search + url.hash);
+});
+};
+var transformNatureAssetSourcesToDraft = function() {
+var regex = /\/nature-assets\//;
+var targets = [['img', 'src'], ['a', 'href']];
+targets.forEach(function(target) {
+$(target[0]).filter(function(_, x) {
+return regex.test($(x).attr(target[1]));
+}).each(function(_, x) {
+var $x = $(x);
+$x.attr(target[1], $x.attr(target[1]).replace('nature-assets', 'nature-assets-draft'));
+});
+});
+};
+if (window.URLSearchParams) {
+var params = new URLSearchParams(location.search.slice(1));
+var proof = params.get('proof');
+var platform = params.get('platform');
+var draft = params.get('draft');
+if (proof || platform || draft) {
+appendExtraFlagsToLinks(
+[['proof', proof], ['platform', platform], ['draft', draft]].filter(function(pair) {
+return pair[1];
+}));
+}
+if (proof || draft) {
+transformNatureAssetSourcesToDraft();
+}
+}

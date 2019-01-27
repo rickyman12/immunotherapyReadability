@@ -1,0 +1,148 @@
+Skip to Content
+Español
+ASCO.org
+Conquer Cancer Foundation
+ASCO Journals
+Donate
+eNews Signup
+fCancer.net on Facebook
+tCancer.net on Twitter
+qCancer.net on YouTube
+gCancer.net on Google
+Menu
+Home
+Types of Cancer
+Navigating Cancer CareCancer Basics
+Diagnosing Cancer
+Managing Your Care
+Financial Considerations
+How Cancer is TreatedMaking Decisions About Cancer Treatment
+Bone Marrow/Stem Cell Transplantation
+Chemotherapy
+Getting Treatment in a Clinical Trial
+Immunotherapy and VaccinesUnderstanding Immunotherapy
+What are Cancer Vaccines?
+Side Effects of Immunotherapy
+Personalized and Targeted Therapies
+Radiation Therapy
+Surgery
+When to Call the Doctor During Cancer Treatment
+Understanding Maintenance Therapy
+Integrative Medicine
+When the First Treatment Does Not Work
+Drug Information Resources
+Palliative and Supportive Care
+Side Effects
+Dating, Sex, and Reproduction
+Advanced Cancer
+For Children
+For Teens
+For Young Adults
+For Older Adults
+Prevention and Healthy Living
+Cancer.Net Videos
+Coping With Cancer
+Research and Advocacy
+Survivorship
+Blog
+About Us
+You are hereHome > Navigating Cancer Care > How Cancer is Treated > Immunotherapy and Vaccines > Side Effects of Immunotherapy
+function cancerNetRightsLinkPopup21826(url) {
+window.open(url, 'RightsLink',
+'location=no,toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550');
+}
+Request Permissions
+Side Effects of Immunotherapy
+Approved by the Cancer.Net Editorial Board, 01/2018
+Immunotherapy, also called biologic therapy, is a type of cancer treatment that boosts the body's natural defenses to fight cancer. It uses substances made by the body or in a laboratory to improve or restore immune system function.
+Your doctor may recommend immunotherapy as the only treatment. Or it may be given after or at the same time as another treatment, such as chemotherapy, radiation therapy, or surgery. Read more about the different types of immunotherapy.
+Why immunotherapy causes side effects
+Certain types of immunotherapy attack cancer or slow its spread to other parts of the body. Others make it easier for the immune system to destroy cancer cells.
+Immunotherapy sometimes results in the immune system attacking healthy cells, which can cause side effects.
+Managing side effects
+Different types of immunotherapy can cause different side effects. Many side effects depend on the type of treatment, the type and location of the cancer, and a person’s overall health. Before your immunotherapy treatment begins, talk with your doctor about the possible side effects of your specific treatment.
+The treatment of side effects during immunotherapy is important to your health, so be sure to tell a member of your cancer care team right away if you experience any side effects. Your cancer care team can help manage or relieve many side effects. Let them know about any new, continuing, or worsening medical problems you have as soon as possible, even if you don’t think it’s serious or are unsure if it’s related to the immunotherapy.   Side effects of immunotherapy can be mild, moderate, or even life-threatening. Depending on how severe your side effects are, your doctor may pause the treatment or prescribe a type of medication called corticosteroids. If side effects worsen or do not improve, your doctor may stop immunotherapy.
+If you receive medical care at an emergency room or other place not familiar with your cancer treatment, be sure to tell the health care team there that you are receiving “immunotherapy.” And, if possible, provide the name of the specific drug(s), your oncologist, and/or the cancer center where you receive immunotherapy. Keeping this information written on paper and stored in your wallet can be helpful in case you need it quickly. Talk with your cancer care team about which details of your treatment you should carry with you.
+Common immunotherapy side effects
+The most common side effects of immunotherapy include:
+Skin reactions. Skin redness, blistering, and dryness are common reactions to immunotherapy. Skin on the fingertips may crack. Skin may also become more sensitive to sunlight. A lot of scratching can break the skin, making it more prone to infections. Inflammation around the nails can make grooming, dressing, and other activities painful or difficult. Read more about managing and treating skin irritations and reactions.
+Flu-like symptoms. Fatigue (feeling tired), fever, chills, weakness, nausea (feeling sick to your stomach), vomiting (throwing up), dizziness, body aches, and high or low blood pressure are all possible side effects of immunotherapy. They are especially common in non-specific immunotherapies and oncolytic virus therapy. It is very important to stay hydrated when experiencing these symptoms, and seek medical attention if you are unable to keep any liquids down. Talk with your health care provider about how to manage these side effects. Many side effects will go away on their own, but others can be very serious and require immediate attention.
+Other possible side effects you may experience include:
+Muscle aches
+Shortness of breath (trouble breathing)
+Swelling of legs (edema)
+Sinus congestion
+Headaches
+Weight gain from retaining fluid
+Diarrhea
+Hormone changes, including hypothyroidism, which is when the thyroid gland does not make enough thyroid hormones and can cause fatigue and weight gain
+Cough
+It is important to note that there can be other side effects that are not listed here. Talk with your health care team about what side effects you can expect, who to contact, and what to do if you have unexpected side effects.
+Follow-up Care
+Getting care for side effects after immunotherapy treatment ends is important. Many side effects will go away when treatment ends, but some effects can last beyond the treatment period and other effects may occur months or years later. Your health care team can help you manage long-term side effects.
+The information in this article is based on ASCO recommendations on managing immunotherapy related side effects. Please note this link takes you to another ASCO website.
+More Information
+Understanding Immunotherapy
+What You Need to Know About Immunotherapy Side Effects
+Skin Reactions to Targeted Therapy and Immunotherapy
+What It's Like Taking Immunotherapy to Treat Cancer
+Immunotherapy: The 2016 Clinical Cancer Advance of the Year
+Additional Resources
+National Cancer Institute: Immunotherapy
+National Comprehensive Cancer Network: Understanding Immunotherapy Side Effects
+Like what you’ve read here at Cancer.Net? Sign up for our monthly Inside Cancer.Net e-newsletter.
+Español
+f
+t
+k
+e
+P
+Navigating Cancer Care
+More in this section
+Cancer Basics
+Diagnosing Cancer
+Managing Your Care
+Financial Considerations
+How Cancer is TreatedMaking Decisions About Cancer Treatment
+Bone Marrow/Stem Cell Transplantation
+Chemotherapy
+Getting Treatment in a Clinical Trial
+Immunotherapy and VaccinesUnderstanding Immunotherapy
+What are Cancer Vaccines?
+Side Effects of Immunotherapy
+Personalized and Targeted Therapies
+Radiation Therapy
+Surgery
+When to Call the Doctor During Cancer Treatment
+Understanding Maintenance Therapy
+Integrative Medicine
+When the First Treatment Does Not Work
+Drug Information Resources
+Palliative and Supportive Care
+Side Effects
+Dating, Sex, and Reproduction
+Advanced Cancer
+For Children
+For Teens
+For Young Adults
+For Older Adults
+Prevention and Healthy Living
+Cancer.Net Videos
+Trusted, compassionate information for people with cancer and their families and caregivers, from the American Society of Clinical Oncology (ASCO), the voice of the world’s cancer physicians and oncology professionals.
+Find a Cancer Doctor
+ASCO.org
+Conquer Cancer Foundation
+ASCO Journals
+Donate
+Contact Us
+Terms of Use
+Privacy Policy
+Cookies
+Sponsorship & Linking
+Newsletter Signup
+Order Cancer.Net Materials
+RSS Feeds
+Sitemap
+© 2005-2019 American Society of Clinical Oncology (ASCO).
+All rights reserved worldwide
+_satellite.pageBottom();

@@ -1,0 +1,154 @@
+Nobel Prize 2018: Cancer Immunotherapy Collection
+
+The Nobel Prize for Medicine or Physiology 2018 was awarded this week to James
+P. Allison of the University of Texas MD Anderson Cancer Center and Tasuku
+Honjo of Kyoto University for their discovery of cancer therapy by inhibition
+of negative immune regulation.
+
+Allison has been recognised by the Nobel Prize Committee for his work on
+CTLA-4, a checkpoint protein which inhibits T cells from attacking cancer
+tumour cells. Honjo discovered the PD-1 protein family, which inhibit T cells
+from attacking by a different mechanism. Both scientists worked independently
+on inhibiting these checkpoints, with the ultimate aim of enabling T cells to
+target and attack cancerous cells. The immunotherapies developed from the
+discoveries made by Allison and Honjo have shown great potential against many
+cancers in humans and have caused a veritable revolution in the treatment of
+cancer. Although there are still hurdles to overcome in developing this
+knowledge into treatments for different cancer types, this represents one of
+the largest leaps forward in medical oncology in many years. Their discoveries
+were the first to win the Nobel prize for an actual therapeutic approach
+applicable to cancer.
+
+The award is of course the tip of the iceberg; the result of years of work by
+international teams in academic labs and industry. Honjo and Allison have been
+working on checkpoint proteins since the 1990s, and teams of researchers
+across the globe have contributed to advancing our understanding of how to
+harness the immune system against cancer.
+
+The BSI’s two official journals, Immunology and Clinical & Experimental
+Immunology, are proud to have published many papers in cancer immunotherapy,
+many of which focus on the role of CTLA-4 and PD-1 in immunotherapies. These
+include a review authored by James Allison on co‐stimulatory agonists and
+co‐inhibitory antagonists and a paper by Tasuku Honjo addressing the
+regulation of B‐1 cell activation and its autoantibody production by Lyn
+kinase‐regulated signallings.
+
+The papers in this collection are available to read for free below.
+
+By James P. Allison and Tasuku Honjo
+
+Cancer immunotherapy: co‐stimulatory agonists and co‐inhibitory antagonists  
+Peggs, K. S., Quezada, S. A. and Allison, J. P. (2009)  
+Clinical & Experimental Immunology, 157: 9-19.
+doi:10.1111/j.1365-2249.2009.03912.x  
+View article
+
+Regulation of B‐1 cell activation and its autoantibody production by Lyn
+kinase‐regulated signallings  
+Ochi, H., Takeshita, H., Suda, T., Nisitani, S., Honjo, T. and Watanabe, T.
+(1999)  
+Immunology, 98: 595-603. doi:10.1046/j.1365-2567.1999.00899.x  
+View article
+
+
+
+More cancer immunotherapy in Immunology and Clinical & Experimental Immunology
+
+Immune checkpoint inhibitors: new strategies to checkmate cancer  
+Wilson, R. A., Evans, T. R., Fraser, A. R. and Nibbs, R. J. (2018)  
+Clin Exp Immunol, 191: 133-148. doi:10.1111/cei.13081  
+View article
+
+ImmTAC/Anti‐PD‐1 antibody combination to enhance killing of cancer cells by
+reversing regulatory T‐cell‐mediated immunosuppression  
+Zhang, H., Li, Y., Liu, X., Liang, Z., Yan, M., Liu, Q., Chen, A., Bao, Y.,
+Zhou, C., Li, S., Yee, C. and Li, Y. (2018)  
+Immunology, 155: 238-250. doi:10.1111/imm.12954  
+View article
+
+Separation of plasma‐derived exosomes into CD3(+) and CD3(–) fractions allows
+for association of immune cell and tumour cell markers with disease activity
+in HNSCC patients  
+Theodoraki, M., Hoffmann, T. K. and Whiteside, T. L. (2018)  
+Clin Exp Immunol, 192: 271-283. doi:10.1111/cei.13113  
+View article
+
+Nature of tumour rejection antigens in ovarian cancer  
+Want, M. Y., Lugade, A. A., Battaglia, S. and Odunsi, K. (2018)  
+Immunology, 155: 202-210. doi:10.1111/imm.12951  
+View article
+
+In‐vitro effect of pembrolizumab on different T regulatory cell subsets  
+Toor, S. M., Syed Khaja, A. S., Alkurd, I. and Elkord, E. (2018)  
+Clin Exp Immunol, 191: 189-197. doi:10.1111/cei.13060  
+View article
+
+Mapping the tumour human leukocyte antigen (HLA) ligandome by mass
+spectrometry  
+Freudenmann, L. K., Marcu, A. and Stevanović, S. (2018)  
+Immunology, 154: 331-345. doi:10.1111/imm.12936  
+View article
+
+The opposing roles of CD4+ T cells in anti‐tumour immunity  
+Ahrends, T. and Borst, J. (2018)  
+Immunology, 154: 582-592. doi:10.1111/imm.12941  
+View article
+
+Immune correlates of clinical outcome in melanoma  
+Pawelec, G. (2018)  
+Immunology, 153: 415-422. doi:10.1111/imm.12870  
+View article
+
+Programmed death‐1 ligands 1 and 2 expression in cutaneous squamous cell
+carcinoma and their relationship with tumour‐ infiltrating dendritic cells  
+Jiao, Q., Liu, C., Li, W., Li, W., Fang, F., Qian, Q. and Zhang, X. (2017)  
+Clin Exp Immunol, 188: 420-429. doi:10.1111/cei.12921  
+View article
+
+Tools to define the melanoma‐associated immunopeptidome  
+Bräunlein, E. and Krackhardt, A. M. (2017)  
+Immunology, 152: 536-544. doi:10.1111/imm.12803  
+View article
+
+PD‐1/PD‐L1 inhibitors in haematological malignancies: update 2017  
+Jelinek, T., Mihalyova, J., Kascak, M., Duras, J. and Hajek, R. (2017)  
+Immunology, 152: 357-371. doi:10.1111/imm.12788  
+View article
+
+Interleukin‐2 reverses CD8+ T cell exhaustion in clinical malignant pleural
+effusion of lung cancer  
+Hu, C. Y., Zhang, Y. H., Wang, T., Chen, L., Gong, Z. H., Wan, Y. S., Li, Q.
+J., Li, Y. S. and Zhu, B. (2016)  
+Clin Exp Immunol, 186: 106-114. doi:10.1111/cei.12845  
+View article
+
+Soluble and membrane‐bound interleukin (IL)‐15 Rα/IL‐15 complexes mediate
+proliferation of high‐avidity central memory CD8+ T cells for adoptive
+immunotherapy of cancer and infections  
+Hasan, A. N., Selvakumar, A., Shabrova, E., Liu, X., Afridi, F., Heller, G.,
+Riviere, I., Sadelain, M., Dupont, B. and O'Reilly, R. J. (2016)  
+Clin Exp Immunol, 186: 249-265. doi:10.1111/cei.12816  
+View article
+
+Functional exhaustion of CD4+ T cells induced by co‐stimulatory signals from
+myeloid leukaemia cells  
+Ozkazanc, D., Yoyen‐Ermis, D., Tavukcuoglu, E., Buyukasik, Y. and Esendagli,
+G. (2016)  
+Immunology, 149: 460-471. doi:10.1111/imm.12665  
+View article
+
+
+
+Immunology and Clinical & Experimental Immunology are the official journals of
+the British Society for Immunology. Profits derived from the sale of the
+journals are invested back into the BSI, providing major financial support for
+the Society's activities.
+
+Support the BSI, submit your work now:
+
+Immunology
+
+Clinical & Experimental Immunology
+
+
+

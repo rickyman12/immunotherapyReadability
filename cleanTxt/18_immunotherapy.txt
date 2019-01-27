@@ -1,0 +1,184 @@
+HomeLabs / ProjectsImmunotherapy Integrated Research Center (IIRC)
+How immunotherapy works
+Share
+<!--
+a2a_config = {};
+a2a_config.onclick=1;
+a2a_config.show_title=0;
+a2a_config.num_services=10;
+/*a2a_config.linkname=document.title;
+a2a_config.linkurl=location.href;*/
+a2a_config.prioritize=["facebook","twitter","linkedin","digg","delicious","myspace","read_it_later","squidoo","technorati_favorites","care2_news"];
+/*a2a_config.color_main="D7E5ED";*/
+/*a2a_config.color_border="AECADB";*/
+a2a_config.color_link_text="123054";
+a2a_config.color_link_text_hover="24548d";
+//-->
+Immunotherapy Integrated Research Center (IIRC)
+How immunotherapy works
+Treatment approachesÂ designed to empower the human immune system
+Immunotherapy is a broad term for a family of treatment approaches designed to empower the human immune system to overcome cancer and other debilitating diseases.
+The immune system is known for its remarkable ability to locate, recognize and attack invaders like the virus that causes the common cold. However, the immune system is not always able to eliminate cancer cells when they form. And once malignant tumors develop, they can use a variety of evasion tactics to outwit the immune system.
+Scientists are discovering new ways to tap into the immune system's inherent disease-fighting power and give it the upper hand against cancer.
+The most exciting part? Because immunotherapies harness the immune system to recognize and target diseased cells but avoid healthy cells, they have the potential to be more effective while causing fewer of the side effects common to traditional cancer treatments.
+Adoptive T-cell therapies | Antibody-based therapies | Checkpoint inhibitors | Cancer vaccines
+Adoptive T-cell therapies
+T-cell therapies employ disease-specific T lymphocytes, a type of white blood cell, to eliminate cancer. The T cells used for therapy can either be T cells isolated from a patientâs blood or tumor that already recognize their cancer or they can be T cells that have been engineered specifically to target cancer.
+Tumor infiltrating lymphocytes, or TILs, are an example of the former category. These are T cells that have responded to the cancer but have not been able to gain the upper hand. Scientists can isolate these T cells from surgically removed tumor samples, manipulate the cells in the lab â including growing large numbers of them â and reinfuse them into the patient. Most of the work in this area has focused on melanoma, but TIL therapies are also being developed for other cancers, such as lung and bladder cancer. Fred Hutch has one of only a handful of TIL programs in the country, and the first on the West Coast.
+Engineered T cells come in two major types: those with engineered T-cell receptors (TCRs) and those engineered with chimeric antigen receptors (CARs).
+Engineered TCRs are enhanced versions of the natural receptor molecules T cells use to recognize and respond to targets on other cells. CARs are synthetic hybrid structures â thatâs where the term chimeric in the name comes from. CARs combine part of the T-cell receptor with part of another immune system component called an antibody.
+Each type of engineered T cell has its own advantages. To date the most promising results have been in patients with certain leukemias and lymphomas (e.g., CAR T-cell therapy for ALL, TCR therapy for AML), but T-cell therapies are being developed for a wide range of malignancies, including melanoma and other skin cancers, sarcomas, and cancers of the lung, kidney, breast, ovary, pancreas, colon, prostate, and head and neck.
+Antibody-based therapies
+Antibody-based treatments use highly selective immune system proteins called antibodies either alone or attached to chemotherapy or radioactive particles (the latter is called radioimmunotherapy) to directly destroy cancer cells, sparing healthy cells and thus minimizing harmful side effects. For example, the Hutchâs Dr. David Maloney was instrumental in the development of rituximab, the first antibody-based cancer treatment approved by the FDA. And Dr. Oliver Press pioneered radioimmunotherapy for patients with blood cancers.
+Checkpoint inhibitors
+Checkpoint inhibitors are molecules designed to release the brakes on the patientâs immune system so it can mount a better response to the cancer. The immune system has built in mechanisms (called checkpoints) to keep itself under control â to prevent it from reacting to normal cells (autoimmunity) or to switch off a legitimate reaction before it becomes too vigorous. Cancer cells often hijack these sophisticated control mechanisms to avoid being attacked by the immune system. Checkpoint inhibitors interfere with that process, potentially tipping the balance back in favor of the patientâs immune system.
+Recent success with these agents in some patients with melanoma and lung, kidney, ovarian and bladder cancer is exciting because it indicates that these more common solid tumors are susceptible to immune attack. The challenge is that not all patients respond to the checkpoint inhibitors, and these agents are non-specific: They affect the entire immune system and so can cause severe side effects in some patients.
+Cancer vaccines
+Cancer vaccines are currently being designed both to prevent and to treat cancer. Preventive vaccines, like the HPV vaccine, can prevent cancer by preventing viral infections that can cause cancer. The HPV vaccine prevents the HPV infections that are responsible for almost all cases of cervical cancer as well as many anogenital and head and neck cancers. Other preventive vaccines are being developed to trigger an immune response to the cancer itself in much the same way that vaccines are used to induce immunity against measles or the flu.
+Still other vaccines are aimed at treating cancer or preventing recurrence in patients who have already been diagnosed. Provenge, for advanced prostate cancer, is one example. Many other types of therapeutic vaccines are being developed for a variety of cancers, including glioblastoma, melanoma, lymphoma and cancers of the breast, ovary, colon, kidney, lung and pancreas.
+Immune adjuvants are other compounds that mimic, activate or augment immunity. These compounds are often used to boost or supplement other immunotherapies. Â Combination approaches are also being developed that pair different immunotherapies, or that pair an immunotherapy like T-cell therapy with a conventional therapy like radiation.
+Modern immunotherapy's roots in bone marrow transplantation
+Bone marrow and blood stem cell transplantation, which was pioneered by Dr. E. Donnall Thomasâ team at Fred Hutch, provided the first definitive and reproducible example of the power of the human immune system to cure cancer. However, when transplantation was first developed, researchers did not know that it was the immune system that was responsible for the treatmentâs curative effects. Once the researchers learned more about this, they developed reduced-intensity transplants, which rely on immune cells rather than high-dose chemotherapy and radiation to eradicate cancer, and many other immune-based treatments. Transplantation is now used worldwide to treat more than 50 different diseases, from blood cancers to inherited immune-system disorders and autoimmune diseases.
+Back to Top
+Section Home
+Immunotherapy Clinical TrialsResearch OverviewHow immunotherapy worksIIRC Accelerating DiscoveriesNewsCareer OpportunitiesPublicationsIIRC NewsletterSeminars
+Diseases / Research
+Overview
+Diseases We Research
+Faculty
+Featured Researchers
+Labs and Projects
+Research Highlights
+News
+License Our Discoveries
+Business Development & Strategy
+Treatment / Support
+Overview
+Clinical Trials
+Share Your Story
+Treatment Research
+Volunteer for a Study
+Support
+Long-Term Follow-Up Program
+Mpower Prostate Cancer Registry
+Survivorship Program
+Resources
+Become a Patient
+Housing and Education
+About Us
+Overview
+About Fred Hutch
+Accountability & Impact
+Business Development & Strategy
+Careers
+Data Science Collaborations
+Education & Training
+Leadership / Board
+Patients / Caregivers
+Become A Patient
+Share Your Story
+Resources
+News / Publications
+News / For the Media
+Visitor Center
+Labs / Projects
+Overview
+Education & Training
+Faculty
+Labs, Programs & Projects
+Scientific Seminars
+Divisions
+Basic Sciences
+Clinical Research
+Human Biology
+Public Health Sciences
+Vaccine and Infectious Disease
+Initiatives
+Global Oncology
+HICOR - Hutchinson Institute for Cancer Outcomes Research
+HVTN - HIV Vaccine Trials Network
+IIRC â Immunotherapy Integrated Research Center
+Project Violet
+STTR - Seattle
+Translational Tumor Research
+Events / Programs
+Overview
+Calendar of Events
+Scientific Seminars
+Community
+Community Partner Events
+Cancer in our Communities
+Health / Fitness
+Education
+Education & Training
+Internship Program
+Science Education Partnership
+Ways To Give
+Overview
+Donate Now
+Events
+Fred Hutch Store
+Fundraise for Fred Hutch
+Host an Event
+How Your Donation Helps
+Volunteer for a Study
+Gifts
+Corporate Gifts
+Directed Gifts
+Endowment Gifts
+Honor / Memorial Gifts
+Planned Gifts /Estate Planning
+Clubs
+Innovators Network
+Cure Starters Circle
+President's Circle
+Thomas Legacy Society
+Quick Links
+About Us
+Business Development & Strategy
+Cancer Consortium
+Clinical Trials
+Contact Us
+Education & Training
+Extranet
+Fred Hutch Store
+Information Security Statement
+Programs & Projects
+Lab Sites
+Office of Sponsored Research
+Shared Resources
+Share Your Story
+Visitor Center
+Information For
+Community
+Donors & Volunteers
+Educators & Students
+Employees
+Industry Partnerships
+News Media
+Patients & Families
+Physicians & Health Professionals
+Postdoctoral Fellows
+Science Professionals
+Â
+Employee Links
+CenterNet
+Check Email
+Employee Page
+WebVPN & Remote Access
+Accredited by the Association for the Accreditation of Human Research Protection Programs
+Recognized by Forbes as one of America's Best Mid-Size Employers
+Follow Us
+Fundraise
+Donate
+Fred Hutch is proud to be an Equal Opportunity and VEVRAA Employer. We are committed to cultivating a workplace in which diverse perspectives and experiences are welcomed and respected. We do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability, marital or veteran status, sexual orientation, gender identity, political ideology, or membership in any other legally protected class. We are an Affirmative Action employer. We encourage individuals with diverse backgrounds to apply and desire priority referrals of protected veterans. Read the EEO is the Law poster here.
+Fred Hutchinson Cancer Research Center
+1100 Fairview Ave. N., Seattle, WA 98109
+© 2019 Fred Hutchinson Cancer Research Center, a 501(c)(3) nonprofit organization.
+Terms of use & privacy policy | Conflict of interest | Accountability & impact
+Careers
+News
+Contact Us
+Search
+Fundraise
+Donate

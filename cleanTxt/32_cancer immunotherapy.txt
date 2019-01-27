@@ -1,0 +1,219 @@
+Skip to main content
+The Guardian - Back to home
+Support The Guardian
+Contribute
+Subscribe
+Contribute
+Search jobs
+Sign in
+My account
+Comments & replies
+Public profile
+Account details
+Emails & marketing
+Membership
+Contributions
+Digital Pack
+Sign out
+Search
+switch to the
+US edition
+switch to the
+UK edition
+switch to the
+Australia edition
+switch to the
+International edition
+current edition:
+US edition
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show
+More
+News
+US news
+World news
+Environment
+Soccer
+US politics
+Business
+Tech
+Science
+Opinion
+The Guardian view
+Columnists
+Letters
+Opinion videos
+Cartoons
+Sport
+Soccer
+NFL
+Tennis
+MLB
+MLS
+NBA
+NHL
+Culture
+Film
+Books
+Music
+Art & design
+TV & radio
+Stage
+Classical
+Games
+Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Home & garden
+Health & fitness
+Family
+Travel
+Money
+What term do you want to search?
+Search with google
+Make a contribution
+Subscribe
+US edition
+switch to the
+UK edition
+switch to the
+Australia edition
+switch to the
+International edition
+Search jobs
+Digital Archive
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Facebook
+Twitter
+Search jobs
+Digital Archive
+US
+World
+Environment
+Soccer
+US Politics
+Business
+Tech
+Science
+More
+The Observer
+Cancer research
+A cure for cancer: how to kill a killer
+Revolutionary work on the body’s immune system and a host of new drug trials mean that beating cancer may be achievable
+Charles Graeber
+Sun 4 Nov 2018 03.00 EST
+Last modified on Wed 14 Nov 2018 05.59 EST
+Share on Facebook
+Share on Twitter
+Share via Email
+A transparent tumour tomography showing T-cells attacking a tumour following treatment.
+Photograph: Alamy Stock Photo
+Last month, the Nobel prize in medicine was awarded for two breakthrough scientific discoveries heralded as having “revolutionised cancer treatment”, and “fundamentally changed the way we view how cancer can be managed”. One of them went to a charismatic, harmonica-playing Texan named Jim Allison for his breakthrough advances in cancer immunotherapy. His discovery had resulted in transformative outcomes for cancer patients and a radical new direction for cancer research.
+And yet many cancer patients, and even some doctors, have hardly heard of cancer immunotherapy or refuse to believe it. Those who have struggle to make sense of the new menu of options and sort reasonable hope from overblown hype.
+“The emergence of cancer immunotherapy has occurred so quickly, it’s hard for scientists, let alone physicians and patients, to keep track of it all,” explains Dr Daniel Chen, a Stanford oncologist and researcher who helped bring some of the new cancer breakthroughs from lab to clinic. “The tidal wave of data is still teaching us fundamental concepts about the interaction of the human immune system and human cancer.” It’s also bringing us important new approaches to the treatment – and possibly the cure – of cancer. “So, this data needs to be disseminated as quickly as possible.”
+It’s estimated that nearly 40% of us will be diagnosed with cancer in our lifetimes and, until very recently, we’ve had three basic options for dealing with that news. We’ve had surgery for at least 3,000 years. We added radiation therapy in 1896. Then in 1946, chemical warfare research led to the use of a mustard gas derivative to poison cancer cells and the advent of chemotherapy. More recently, we also started poisoning cancer through drugs that attempt to starve tumours of nutrients or blood supply.
+Those traditional “cut, burn and poison” techniques are effective in about half of cases. It’s a laudable medical accomplishment that also leaves behind the other half of cancer patients. According to the World Health Organisation’s international agency for research on cancer, that translates to 9,055,027 deaths worldwide in 2018 alone.
+Our usual defence against disease is our immune system. It does an excellent job of sorting out what doesn’t belong in the body and attacking it – except when it comes to cancer. For 100 years, the reasons behind that apparent failure were a mystery. Jim Allison’s breakthrough was the realisation that the immune system wasn’t ignoring cancer. Instead, cancer was taking advantage of tricks that shut down the immune system. But what if you could block those tricks and unleash the immune system’s killer T-cells against the disease?
+The trick Allison’s immunology lab at the University of California, Berkeley, found involved a protein on the T-cell called CTLA-4. When stimulated, CTLA-4 acted like a circuit breaker on immune response. These brakes, which he called checkpoints, kept the cell killers from going out of control and trashing healthy body cells. Cancer took advantage of those brakes to survive and thrive.
+In 1994, the lab developed an antibody that blocked CTLA-4. “Roughly, it’s like taking a brick and jamming it behind the T-cell brake pedal,” explains Dr Max Krummel, immunologist who had worked with Allison on CTLA-4. When they injected it into cancerous mice, the antibody jammed behind CTLA-4’s brake pedal and prevented the T-cell attack from being stopped. Instead, the T-cells destroyed the tumours and cured the cancer.
+The immune system is the deep ocean ecosystem of the human body. We’ve barely begun to plumb its depths
+What they had found would eventually win the Nobel. It would also fly in the face of what every practising oncologist had been taught about cancer and how to fight it. It took 15 years, says Krummel, before they could finally test whether what worked in mice would translate to people.
+Blocking the brakes on the immune system turned out to cause serious toxicities in some patients. “We learned pretty quickly that immunotherapy was not a free ride,” explains Dr Jedd Wolchok, a cancer immunotherapist and one of the primary investigators in the clinical trials for Allison’s anti-CTLA-4 drug. “But we were also seeing some remarkable things.” For some of the metastatic melanoma patients in the study, even terminal stage 4 patients only days away from hospice, the drug effectively cured their cancer.
+“You never forget that,” Wolchok explains. “And at the time, we really had nothing that would work for metastatic melanoma.” In 2011, that anti-CTLA-4 drug would gain approval as ipilimumab (trade name Yervoy) for use treating melanoma; it has since been approved to treat kidney and colorectal cancer. As a drug, it has saved many thousands of lives. But as a proof of concept, the success of ipilimumab proved that the immune system could, in fact, be weaponised against cancer. It also kicked off the search for newer, better immune checkpoints.
+The first to be discovered was called PD-1. Its discoverer, Dr Tasuku Honjo of Kyoto University, shares this year’s Nobel in medicine. PD-1 is part of a sort of secret handshake that body cells give a T-cell, telling it: “I’m one of you, don’t attack.” Cancers co-opted this secret handshake, tricking T-cells into believing they were normal, healthy body cells. But that handshake could be blocked, creating a more precise cancer-killing machine with far fewer toxic side-effects than blocking CTLA-4.
+In December 2015, the second generation of checkpoint inhibitors (called anti-PD-1 or anti-PD-L1, depending on whether they’re blocking the T-cell or tumour side of the handshake) was used to unleash the immune system of Jimmy Carter and clear an aggressive cancer from his liver and brain. The news of the 91-year-old’s miraculous recovery surprised everyone, including the former president himself.
+Facebook
+Twitter
+Pinterest
+Groundbreaking work: Nobel prize-winning immunologist Jim Allison. Photograph: Adolfo Chavez III/MD Anderson/EPA
+For many people, “that Jimmy Carter drug”, the anti-PD-1 drug pembrolizumab, approved in 2015 and sold as Keytruda, was the first and only thing they’d heard about cancer immunotherapy. Keytruda is currently one of the most widely used of the new class of drugs, approved for use against nine different types of cancer in the US, and a smaller number in the UK, and that list is growing rapidly, as is the number of acronyms for the dozens of new checkpoints being tested. The immune system remains the deep ocean ecosystem of the human body. We’ve barely begun to plumb its depths.
+For researchers such as Chen and others, this is our penicillin moment in the war on cancer. As a drug, penicillin cut infection rates, cured some bacterial diseases and saved millions of lives. But as a scientific breakthrough, it redefined the possible and opened a fertile new frontier for generations of researchers. Nearly 100 years after the discovery of that one simple drug, antibiotics are an entire class of medicines with a global impact so profound that we take them for granted. Invisible terrors that plagued and poisoned mankind for millennia are now casually vanquished at a high street chemist. “We’ve only just discovered the checkpoint inhibitors,” Chen says. “So it’s the breakthrough – we’ve just discovered our penicillin.”
+Immunotherapy graphic
+Seven years after the approval of that first checkpoint inhibitor, there are reportedly 940 “new” cancer immunotherapeutic drugs being tested in the clinic by more than half-a-million cancer patients in more than 3,000 clinical trials, with over 1,000 more in the preclinical phase.
+Those numbers are dwarfed by the number of trials testing immunotherapy combinations or using them in concert with chemotherapy or radiation, which, Allison notes, essentially turn the dead tumour into a cancer vaccine. It’s hoped that, with checkpoint inhibitors releasing the brakes, the immune system can effectively finish up what the chemotherapy starts. There are so many ongoing trials it’s impossible to typify their stages or results, but several have been positive. The European Society for Medical Oncology recently announced the first modest immunotherapy success against triple negative breast cancer, a horribly aggressive disease found primarily in younger women, which has stubbornly resisted previous treatment options.
+Nor are checkpoint inhibitors the only immunotherapy of cancer. There are currently numerous clinical trials involving bespoke vaccines, customised to a patient’s individual cancer. Another promising technique, known as adoptive cell transfer, fertilises a clone army of extracted T-cells, then reinjects them into the patient to chase down each cell; another called chimeric T-cell therapy, or CAR-T, reengineers a patient’s killer T-cell into a sort of robocop cancer killer, creating a startlingly powerful living drug capable of adapting to match cancer for a lifetime. CAR-T has already wiped out certain forms of childhood leukaemia. These are claims that simple cancer drugs can’t make.
+The patients who respond to these drugs go into remissions measured not in extra weeks or months of life, but lifetimes
+“The word cure can now be used in oncology,” says Dr Axel Hoos, an immunologist and former global medical lead for the Bristol-Myers Squibb immune-oncology programme. “It’s no longer fantasy or a cruel promise that you can’t fulfil. We don’t yet know who will be the lucky patients who will be cured, but we have seen cures already.”
+Hype can be dangerous, just as false hope can be cruel. There’s a natural tendency to invest too much hope in a new science, especially one that promises to turn the tables on a disease that has, in some way, touched everyone’s life, and sober caution is required. Right now, there are only handful of immunotherapies available. The majority of patients respond partially or not at all and some even develop and acquire resistance to the disease. But the minority of cancer patients who have been shown to respond to these drugs experience remissions measured not in extra weeks or months of life, but in lifetimes. “Such transformative, durable responses are the unique value proposition of the cancer immunotherapeutic approach,” Chen says. But it’s important to note that that potential is different from a guarantee of any one outcome for any individual patient.
+T-cell transfer
+And as Wolchok told me: “Immunotherapy is not a free ride.” There are the toxicities that occur when a T-cell response in unleashed. There is also the “economic toxicity” of bespoke cancer treatments that bring about durable remission but cost upwards of $1m. A third concern, especially in rural or underserved sectors, is access to both information and the drugs and drug trials themselves. They’re out there but patients and physicians need to be empowered to ask questions and understand their choices. Several doctors tell me that the goal of treatment, if a cure isn’t possible, is holding on for the next breakthrough. If and when it comes, patients and doctors need to be ready to understand it. “After all,” says Chen, “there’s nothing more useless than therapeutic breakthroughs against cancer that people don’t know about.”
+The Breakthrough: Immunotherapy and the Race to Cure Cancer by Charles Graeber. To order a copy for £12.50 (RRP £16.99) go to guardianbookshop.com or call 0330 333 6846. Free UK p&p over £10, online orders only. Phone orders min p&p of £1.99.
+• This article was amended on 4 November 2018. Some sentences that were truncated have been restored. It was further amended on 6 November 2018 to reflect the fact that the drug Keytruda was approved for use in 2015, not 2017.
+Topics
+Cancer research
+The Observer
+Cancer
+Medical research
+Immunology
+Biochemistry and molecular biology
+Health
+features
+Share on Facebook
+Share on Twitter
+Share via Email
+Share on LinkedIn
+Share on Pinterest
+Share on WhatsApp
+Share on Messenger
+Reuse this content
+View all comments >
+Order by
+newest
+oldest
+recommendations
+Show 25
+25
+50
+100
+All
+Threads
+collapsed
+expanded
+unthreaded
+Loading comments… Trouble loading?
+View more comments
+Most popular
+US
+World
+Environment
+Soccer
+US Politics
+Business
+Tech
+Science
+About us
+Contact us
+Complaints & corrections
+Secure Drop
+Work for us
+Privacy policy
+Cookie policy
+Terms & conditions
+Help
+All topics
+All writers
+Digital newspaper archive
+Facebook
+Twitter
+Advertise with us
+Guardian Labs
+Search jobs
+Support The Guardian
+Contribute
+Subscribe
+Back to top
+© 2019 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+Close

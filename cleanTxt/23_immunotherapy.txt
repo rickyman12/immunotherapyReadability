@@ -1,0 +1,179 @@
+DONATE
+Community
+|
+Create an Account
+|
+Log In
+Breastcancer.org
+About Us
+|
+Blog
+|
+Podcasts
+|
+En Español
+Donate
+Menu
+Home
+Symptoms & Diagnosis
+Treatment & Side Effects
+Day-to-Day Matters
+Lower Your Risk
+Get Involved
+Search Breastcancer.org
+Home → Treatment and Side Effects → Immunotherapy
+Immunotherapy
+Save as FavoriteSign in to receive recommendations (Learn more)
+Immunotherapy medicines use the power of your body’s immune system to attack cancer cells.
+Your immune system is the network of organs, tissues, and cells that work together to protect your body from attacks by foreign invaders such as bacteria, parasites, viruses, and fungi that can cause infection and disease. When these invaders find their way into your body -- whether through a break in the skin, for example, or through your mouth or nose -- your immune system’s response is the self-defense system that works to keep you from getting sick.
+Immunotherapy medicines work by helping your immune system work
+harder or smarter to attack cancer cells. In cancer treatment, immunotherapy uses substances made by your body or in a lab to improve the function of the immune system by allowing the immune system to:
+stop or slow the growth of cancer cells
+stop cancer from spreading to other parts of the body
+be better at destroying cancer cells
+In this section, you can learn more about immunotherapy:
+What Is Immunotherapy?
+Is Immunotherapy Right for You?
+Cancer Vaccines
+Immune Checkpoint Inhibitors
+Adoptive Cell Therapy
+Immune Targeted Therapies
+Cytokines
+The medical expert for Immunotherapy is:
+Leisha Emens, M.D., Ph.D., professor of medicine in hematology/oncology at the University of Pittsburgh Medical Center Hillman Cancer Center. She is also co-leader of the Hillman Cancer Immunology and Immunotherapy Program, and director of translational immunotherapy for the Women's Cancer Research Center. Dr. Emens specializes in cancer immunotherapy, and her research focuses on the development and implementation of breast cancer immunotherapies (including vaccines and immune checkpoint inhibitors) in combination with traditional cancer treatments and other drugs that activate the immune system. Dr. Emens discloses that she has received research support from Merck, EMD-Serono, AstraZeneca, Genentech-Roche, Corvus, and Aduro. She has received honoraria from Vaccinex, Amgen, Syndax, Peregrine, Bayer, and Gritstone.
+Was this article helpful?
+Yes /
+No
+Was this article helpful?
+Last modified on December 13, 2018 at 10:10 AM
+Email Updates
+Stay informed about current research, online events, and more.
+Read our privacy policy
+What Is Immunotherapy?
+Is Immunotherapy Right For You?
+Cancer Vaccines
+Immune Checkpoint Inhibitors
+Adoptive Cell Therapy
+Immune Targeted Therapies
+Cytokines
+Back to Top
+Breastcancer.org is a registered 501(c)(3) nonprofit organization dedicated to providing information and community to those touched by this disease. Breastcancer.org’s EIN is 23-3082851. Learn more about our commitment to providing complete, accurate, and private breast cancer information.
+Breastcancer.org 120 East Lancaster Avenue, Suite 201 Ardmore, PA 19003
+© 2019 Breastcancer.org - All rights reserved.
+Learn more about our commitment to your privacy.
+FAQ
+Site Map
+About Us
+Donate
+Policies
+Privacy Statement
+Terms of Use
+Pictures of Breast Cancer
+Press Room
+Contact Us
+About Us
+Press Room
+Policies
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga("create", "UA-294252-1", "auto");
+ga("send", "pageview");
+window.adSlots.push({
+adDivId: "gpt-ad-dlb1",
+adPosName: "dlb1",
+generalSize: [[768, 90], [728, 90]],
+sizeMapping: [
+{
+viewPort: [320, 200],
+adSizes: [],
+},
+{
+viewPort: [768, 200],
+adSizes: [[768, 90], [728, 90]],
+}]
+});
+window.adSlots.push({
+adDivId: "gpt-ad-dmr1",
+adPosName: "dmr1",
+generalSize: [[300, 250], [300, 600]],
+sizeMapping: [
+{
+viewPort: [320, 200],
+adSizes: [],
+},
+{
+viewPort: [768, 200],
+adSizes: [[300, 250], [300, 600]],
+}]
+});
+window.adSlots.push({
+adDivId: "gpt-ad-dmr2",
+adPosName: "dmr2",
+generalSize: [[300, 250]],
+sizeMapping: [
+{
+viewPort: [320, 200],
+adSizes: [],
+},
+{
+viewPort: [768, 200],
+adSizes: [[300, 250]],
+}]
+});
+window.adSlots.push(
+{
+adDivId: "gpt-ad-wsl",
+adPosName: "wsl",
+generalSize: [[160, 600]],
+sizeMapping: [
+{
+viewPort: [320, 200],
+adSizes: [],
+},
+{
+viewPort: [768, 200],
+adSizes: [[160, 600]],
+}]
+}
+);
+$(function() {
+new BCO.Views.ArticleFeedback({ el: $("#article-feedback") }).render();
+});
+// The following are used in personalization/recommended_status.js
+_(BCO.data).extend({
+apiAuthToken: '76830d5c9e92a6adcdb12c00b9943982fe9e2106',
+apiHost: 'https://community.breastcancer.org',
+apiUserId: '119588317',
+pageUUID: '81082917-c14f-410c-a0d4-a488a3b3bc49',
+pageTCMID: ''
+});
+$(document).ready(function() {
+mapAdUnits();
+googletag.cmd.push(function () {
+googletag.pubads().refresh(window.hlAdSlots);
+})
+});
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 61025;
+_sf_async_config.domain = 'breastcancer.org';
+_sf_async_config.useCanonical = true;
+_sf_async_config.sections = 'Treatment and Side Effects';
+_sf_async_config.authors = 'Breastcancer.org';
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+BCO.initGATracking()

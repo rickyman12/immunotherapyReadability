@@ -1,0 +1,293 @@
+Nivolumab
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+NivolumabFab fragment of nivolumab (blue) binding the extracellular domain of PD-1 (purple). From PDB entry 5ggr.Monoclonal antibodyTypeWhole antibodySourceHumanTargetPD-1Clinical dataTrade namesOpdivoSynonymsONO-4538, BMS-936558, MDX1106License data
+EU EMA: by INN
+ATC codeL01XC17 (WHO) IdentifiersCAS Number946414-94-4ChemSpidernoneKEGGD10316Chemical and physical dataFormulaC6362H9862N1712O1995S42Molar mass143.6 kg/mol
+Nivolumab, marketed as Opdivo, is a medication used to treat cancer.[1][2] It is used as a first line treatment for inoperable or metastatic melanoma in combination with ipilimumab if the cancer does not have a mutation in BRAF,[2] as a second-line treatment following treatment with ipilimumab and if the cancer has a mutation in BRAF, with a BRAF inhibitor,[3]
+as a second-line treatment for squamous non-small cell lung cancer,[4] and as a second-line treatment for renal cell carcinoma.[2]
+It had not been tested in pregnant women but based on the mechanism of action and animal studies, is probably toxic to the fetus; it is not known if it is secreted in breast milk. Side effects include severe immune-related inflammation of the lungs, colon, liver, kidneys, and thyroid, and there are effects on skin, central nervous system, the heart, and the digestive system.[2]
+It is a human IgG4 anti-PD-1 monoclonal antibody. Nivolumab works as a checkpoint inhibitor, blocking a signal that would have prevented activated T cells from attacking the cancer, thus allowing the immune system to clear the cancer. It was discovered at Medarex, developed by Medarex and Ono Pharmaceutical, and brought to market by Bristol-Myers Squibb (which acquired Medarex in 2009) and Ono.
+Contents
+1 Medical use
+2 Side effects
+3 Pharmacokinetics
+4 Mechanism of action
+5 Physical properties
+6 History
+7 Research
+7.1 Hodgkin's lymphoma
+7.2 Biomarkers
+7.3 Lung cancer
+8 References
+Medical use[edit]
+Nivolumab is used as a first line treatment for inoperable or metastatic melanoma in combination with ipilimumab if the cancer does not have a mutation in BRAF,[2]
+and as a second-line treatment for inoperable or metastatic melanoma following treatment of ipilimumab and, if the cancer has a BRAF mutation, a BRAF inhibitor.[2][3] It is also used to treat metastatic squamous non-small cell lung cancer with progression with or after platinum-based drugs.[2][4] It also used as a second-line treatment for renal cell carcinoma after anti-angiogenic treatment has failed.[2]
+FDA has approved nivolumab for primary or metastatic urothelial carcinoma, the most common form of bladder cancer. It can be prescribed for locally advanced or metastatic form of the condition that experience disease progression during or following platinum-containing chemotherapy or have progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.[5]
+Nivolumab was not tested in pregnant women but based on how the drug works and on animal studies, it is likely to cause harm to a baby; it is not known if nivolumab is secreted in breast milk.[2]
+Nivolumab, and other PD-1 inhibitors, appear to be effective in people with brain metastases[6] and autoimmune diseases.[7]
+Side effects[edit]
+The drug label contains warnings with regard to increased risks of severe immune-mediated inflammation of the lungs, the colon, the liver, the kidneys (with accompanying kidney dysfunction), as well as immune-mediated hypothyroidism and hyperthyroidism.[2]
+In clinical trials for melanoma, the following side effects occurred in more than 10% of subjects and more frequently than with chemotherapy alone: rash and itchy skin, cough, upper respiratory tract infections, and peripheral edema. Other clinically important side effects with less than 10% frequency were ventricular arrhythmia, inflammation of parts of the eye (iridocyclitis), infusion-related reactions, dizziness, peripheral and sensory neuropathy, peeling skin, erythema multiforme, vitiligo, and psoriasis.[2]
+In clinical trials for lung cancer, the following side effects occurred in more than 10% of subjects and more frequently than with chemotherapy alone: fatigue, weakness, edema, fever, chest pain, generalized pain, shortness of breath, cough, muscle and joint pain, decreased appetite, abdominal pain, nausea and vomiting, constipation, weight loss, rash, and itchy skin.[2]
+Levels of electrolytes and blood cells counts were also disrupted.[2]
+Pharmacokinetics[edit]
+Based on data from 909 patients, the terminal half-life of nivolumab is 26.7 days and steady-state concentrations were reached by 12 weeks when administered at 3 mg/kg every 2 weeks.[2]:29 Age, gender, race, baseline LDH, PD-L1 expression, tumor type, tumor size, renal impairment, and mild hepatic impairment do not affect clearance of the drug.[2]:30
+Mechanism of action[edit]
+T cells protect the body from cancer by killing certain cancer cells. But cancer cells evolve proteins to protect themselves from T cells. Nivolumab blocks those protective proteins. Thus, the T cells can kill the cancer cells.[8][9] This is an example of immune checkpoint blockade.[8][9]
+PD-1 is a protein on the surface of activated T cells. If another molecule, called programmed cell death 1 ligand 1 or programmed cell death 1 ligand 2 (PD-L1 or PD-L2), binds to PD-1, the T cell becomes inactive. This is one way that the body regulates the immune system, to avoid an overreaction.[9] Many cancer cells make PD-L1, which inhibits T cells from attacking the tumor. Nivolumab blocks PD-L1 from binding to PD-1, allowing the T cell to work.[8][9] PD-L1 is expressed on 40–50% of melanomas and has limited expression otherwise in most visceral organs with the exception of respiratory epithelium and placental tissue.[3]
+Physical properties[edit]
+Nivolumab is a fully human monoclonal immunoglobulin G4
+antibody to PD-1.[3] The gamma 1 heavy chain is 91.8% unmodified human design while the kappa light chain is 98.9%.[1]
+History[edit]
+Nivolumab was created by scientists at Medarex using Medarex's transgenic mice with a humanized immune system; the discovery and in vitro characterization of the antibody, originally called MDX-1106, was published (much later) in 2014.[10] Medarex licensed Japanese rights to nivolumab to Ono Pharmaceutical in 2005.[11] Bristol-Myers Squibb acquired Medarex in 2009 for $2.4B, largely on the strength of its checkpoint inhibitor program.[12][13]
+Promising clinical trial results made public in 2012 caused excitement among industry analysts and in the mainstream media; PD-1 was being avidly pursued as a biological target at that time, with companies including Merck with pembrolizumab (Keytruda), Roche (via its subsidiary Genentech) with atezolizumab, GlaxoSmithKline in collaboration with the Maryland biotech company Amplimmune; and Teva in collaboration with the Israeli biotech company CureTech competing.[14][15]
+Ono received approval from Japanese regulatory authorities to use nivolumab to treat unresectable melanoma in July 2014, which was the first regulatory approval of a PD-1 inhibitor anywhere in the world.[11]
+Merck received its first FDA approval for its PD-1 inhibitor, pembrolizumab (Keytruda), in September 2014.[16]
+Nivolumab received FDA approval for the treatment of melanoma in December 2014.[3][17]
+In April 2015, the Committee for Medicinal Products for Human Use of the European Medicines Agency recommended approval of Nivolumab for metastatic melanoma as a monotherapy.[18]
+In March 2015, the US FDA approved it for the treatment of squamous cell lung cancer.[19]
+On 19 June 2015 the European Commission granted a marketing authorisation valid throughout the European Union.[20]
+In November 2015, the FDA approved nivolumab as a second-line treatment for renal cell carcinoma after having granted the application breakthrough therapy designation, fast track designation, and priority review status.[21]
+In May 2016, the FDA approved nivolumab for the treatment of patients with classical Hodgkin lymphoma (cHL) who have relapsed or progressed after autologous hematopoietic stem cell transplantation (auto-HSCT) and post-transplantation brentuximab vedotin.[22]
+On December 20, 2017, the FDA granted approval to nivolumab for adjuvant treatment of melanoma with involvement of lymph nodes or for metastatic disease with complete resection.[23]
+On April 16, 2018, the FDA granted approval to nivolumab in combination with ipilimumab for the first-line treatment of intermediate and poor risk advanced renal cell carcinoma patients.[24]
+On June 15, 2018, China’s Drug Administration approved nivolumab, the country’s first immuno-oncology and the first PD-1 therapy.[25]
+Research[edit]
+Hodgkin's lymphoma[edit]
+In Hodgkin's lymphoma, Reed-Sternberg cells harbor amplification of chromosome 9p24.1, which encodes PD-L1 and PD-L2 and leads to their constitutive expression. In a small clinical study published in 2015, nivolumab elicited an objective response rate of 87% in a cohort of 20 patients.[14]
+Biomarkers[edit]
+Amplification of chromosome 9p24 may serve as a predictive biomarker in Hodgkin’s lymphoma.[14]
+Each company pursuing mAbs against PD-1 as drugs developed assays to measure PD-L1 levels as a potential biomarker using their drugs as the analyte-specific reagent in the assay. BMS partnered with Dako on a nivolumab-based assay. However, as of 2015 the complexity of the immune response had hindered efforts to identify people who would be likely to respond well to PD-1 inhibitors;[14] in particular PD-L1 levels appear to be dynamic and modulated by several factors, and efforts to correlate PD-L1 levels before or during treatment with treatment response or duration of response had failed to reveal any useful correlations as of 2015.[3]
+Lung cancer[edit]
+In 2016, BMS announced the results of a clinical trial in which nivolumab failed to achieve its endpoint and was no better than traditional chemotherapy at treating newly diagnosed lung cancer.[26] BMS went on to attempt to win approval for a combination therapy against lung cancer which included nivolumab and BMS's older drug ipilimumab. The application was withdrawn in early 2019 following disappointing clinical trial data.[27]
+Infusion times of 60 minutes and 30 minutes appear to have similar pharmacokinetics (absorption, distribution, metabolism, and elimination) of the treatment.[28]
+References[edit]
+^ a b WHO Drug Information, Vol. 26, No. 2, 2012. Proposed INN List 107
+^ a b c d e f g h i j k l m n o Nivolumab Label. Last updated Nov 2015.
+^ a b c d e f Johnson DB, Peng C, Sosman JA (March 2015). "Nivolumab in melanoma: latest evidence and clinical potential". Therapeutic Advances in Medical Oncology. 7 (2): 97–106. doi:10.1177/1758834014567469. PMC 4346215. PMID 25755682.
+^ a b Sundar R, Cho BC, Brahmer JR, Soo RA (March 2015). "Nivolumab in NSCLC: latest evidence and clinical potential". Therapeutic Advances in Medical Oncology. 7 (2): 85–96. doi:10.1177/1758834014567470. PMC 4346216. PMID 25755681.
+^ Bushey, R. Gains FDA Approval for Common Bladder Cancer.
+Drug Discovery & Development, Fri, 02/03/2017.
+^ Caponnetto S, Draghi A, Borch TH, Nuti M, Cortesi E, Svane IM, Donia M (May 2018). "Cancer immunotherapy in patients with brain metastases". Cancer Immunology, Immunotherapy. 67 (5): 703–711. doi:10.1007/s00262-018-2146-8. PMID 29520474.
+^ Donia M, Pedersen M, Svane IM (April 2017). "Cancer immunotherapy in patients with preexisting autoimmune disorders". Seminars in Immunopathology. 39 (3): 333–337. doi:10.1007/s00281-016-0595-8. PMID 27730287.
+^ a b c Pardoll DM (March 2012). "The blockade of immune checkpoints in cancer immunotherapy". Nature Reviews. Cancer. 12 (4): 252–64. doi:10.1038/nrc3239. PMC 4856023. PMID 22437870.
+^ a b c d Syn NL, Teng MW, Mok TS, Soo RA (December 2017). "De-novo and acquired resistance to immune checkpoint targeting". The Lancet. Oncology. 18 (12): e731–e741. doi:10.1016/s1470-2045(17)30607-1. PMID 29208439.
+^ Wang C, Thudium KB, Han M, Wang XT, Huang H, Feingersh D, Garcia C, Wu Y, Kuhne M, Srinivasan M, Singh S, Wong S, Garner N, Leblanc H, Bunch RT, Blanset D, Selby MJ, Korman AJ (September 2014). "In vitro characterization of the anti-PD-1 antibody nivolumab, BMS-936558, and in vivo toxicology in non-human primates". Cancer Immunology Research. 2 (9): 846–56. doi:10.1158/2326-6066.CIR-14-0040. PMID 24872026.
+^ a b John Carroll for FierceBiotech Jul 7, 2014 Anti-PD-1 cancer star nivolumab wins world's first regulatory approval
+^ Allison M (September 2009). "Bristol-Myers Squibb swallows last of antibody pioneers". Nature Biotechnology. 27 (9): 781–3. doi:10.1038/nbt0909-781. PMID 19741612.
+^ John Carroll for FierceBiotech Jul 23, 2009 Bristol-Myers to buy Medarex for $2.1B
+^ a b c d Sharma P, Allison JP (April 2015). "The future of immune checkpoint therapy". Science. 348 (6230): 56–61. doi:10.1126/science.aaa8172. PMID 25838373.
+^ A Pollack (June 2012). "Drug helps immune system fight cancer". New York Times.
+^ U.S. Food and Drug Administration (September 4, 2014). "FDA approves Keytruda for advanced melanoma". U.S. Food and Drug Administration. U.S. Food and Drug Administration. Retrieved 24 December 2015.
+^ "FDA approves Opdivo for advanced melanoma". Food and Drug Administration. December 22, 2014.
+^ "Press Release: New treatment for advanced melanoma". European Medicines Agency. Retrieved 5 May 2015.
+^ "FDA expands approved use of Opdivo to treat lung cancer (FDA.gov)". Retrieved March 4, 2015.
+^ http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/003985/WC500189768.pdf
+^ FDA. November 23, 2015 FDA Press Release: FDA approves Opdivo to treat advanced form of kidney cancer
+^ Research, Center for Drug Evaluation and. "Approved Drugs - Nivolumab (Opdivo) for Hodgkin Lymphoma". www.fda.gov.
+^ Research, Center for Drug Evaluation and. "Approved Drugs - FDA grants regular approval to nivolumab for adjuvant treatment of melanoma". www.fda.gov. Retrieved 2018-04-12.
+^ Research, Center for Drug Evaluation and. "Approved Drugs - FDA approves nivolumab plus ipilimumab combination for intermediate or poor-risk advanced renal cell carcinoma". www.fda.gov. Retrieved 2018-04-20.
+^ "Bristol-Myers' Opdivo ushers in a new era as the first I-O therapy approved in China | FiercePharma". www.fiercepharma.com. Retrieved 2018-06-19.
+^ Loftus P, Rockoff JD, Steele A (2016-08-05). "Bristol Myers: Opdivo Failed to Meet Endpoint in Key Lung-Cancer Study". Wall Street Journal. ISSN 0099-9660. Retrieved 2016-08-21.
+^ Erman, Michael (24 January 2019). "Bristol-Myers has Opdivo lung cancer setback as sales beat estimates". Reuters. Retrieved 24 January 2019.
+^ Waterhouse. "Safety profile of nivolumab administered as 30-minute infusion: Analysis of data from CheckMate 153" (PDF).
+vteMonoclonal antibodies for the immune systemImmune system ("-l(i[m])-")Human ("-limu-")
+Immunosuppression: Abrilumab
+Adalimumab
+Anifrolumab†
+Atorolimumab
+Avelumab
+Belimumab
+Bleselumab
+Brodalumab
+Camidanlumab tesirine
+Carlumab
+Cemiplimab
+Dupilumab
+Eldelumab
+Emapalumab†
+Fresolimumab
+Golimumab
+Ianalumab†
+Lanadelumab
+Lenzilumab
+Lerdelimumab
+Lirilumab
+Mavrilimumab
+Metelimumab
+Morolimumab
+Namilumab
+Oleclumab
+Oxelumab§
+Pamrevlumab
+Placulumab
+Relatlimab†
+Sarilumab
+Sifalimumab
+Tabalumab
+Tezepelumab†
+Ulocuplumab
+Varlilumab
+Immune activation: Ipilimumab
+Atezolizumab
+Durvalumab
+Nivolumab
+Pembrolizumab
+Tremelimumab†
+Urelumab
+Other: Bertilimumab
+Zanolimumab
+Mouse ("-limo-")
+Afelimomab
+Elsilimomab
+Faralimomab
+Gavilimomab
+Inolimomab
+Maslimomab
+Nerelimomab
+Odulimomab
+Telimomab aritox
+Vepalimomab
+Zolimomab aritox
+Chimeric ("-lixi-")
+Andecaliximab†
+Basiliximab
+Clenoliximab
+Galiximab
+Gomiliximab
+Infliximab
+Keliximab
+Lumiliximab
+Priliximab
+Teneliximab
+Vapaliximab
+Humanized ("-lizu-")
+Immunosuppressive: Aselizumab
+Apolizumab§
+Benralizumab
+Camrelizumab†
+Cedelizumab
+Certolizumab pegol
+Crizanlizumab†
+Daclizumab
+Eculizumab
+Efalizumab
+Epratuzumab
+Erlizumab
+Etrolizumab†
+Fontolizumab
+Inebilizumab†
+Itolizumab
+Lampalizumab†
+Letolizumab
+Ligelizumab†
+Lulizumab pegol
+Mepolizumab
+Mogamulizumab
+Natalizumab
+Ocrelizumab
+Omalizumab
+Ozoralizumab
+Pascolizumab
+Pateclizumab
+Pembrolizumab
+Pexelizumab
+Pidilizumab
+Plozalizumab
+PRO 140†
+Quilizumab
+Ravulizumab
+Reslizumab
+Rontalizumab
+Rovelizumab
+Ruplizumab
+Samalizumab
+Satralizumab†
+Siplizumab
+Spartalizumab†
+Talizumab
+Teplizumab
+Tislelizumab
+Tocilizumab
+Toralizumab
+Tregalizumab
+Vatelizumab
+Vedolizumab
+Visilizumab
+Vobarilizumab
+TGN1412§Non-immunosuppressive: Ibalizumab
+Chimeric + humanized("-lixizu-")
+Otelixizumab
+Sutimlimab†
+Interleukin ("-k(i[n])-")Human ("-kinu-")
+Bermekimab
+Brazikumab
+Briakinumab
+Canakinumab
+Fezakinumab
+Fletikumab
+Guselkumab
+Secukinumab
+Sirukumab
+Tralokinumab†
+Ustekinumab
+Humanized ("-kizu-", "-kinzu-")
+Anrukinzumab
+Bimekizumab†
+Clazakizumab
+Gevokizumab
+Ixekizumab
+Mirikizumab†
+Lebrikizumab
+Olokizumab†
+Perakizumab
+Risankizumab†
+Tildrakizumab
+Veterinary ("-kivet-")
+Lokivetmab
+Inflammatory lesions ("-les-")Mouse ("-leso-")
+Besilesomab
+Fanolesomab‡
+Lemalesomab
+Sulesomab
+#WHO-EM
+‡Withdrawn from market
+Clinical trials:
+†Phase III
+§Never to phase III
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nivolumab&oldid=880151338"
+Categories: Bristol-Myers SquibbMonoclonal antibodiesAntineoplastic drugsBreakthrough therapyMonoclonal antibodies for tumorsHidden categories: Chemicals that do not have a ChemSpider ID assignedArticles without EBI sourceChemical pages without DrugBank identifierArticles without InChI sourceArticles without UNII sourceDrugs with no legal statusDrug has EMA linkArticles containing unverified chemical infoboxesDrugs that are a monoclonal antibody
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+ArticleTalk
+Variants
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+العربيةDeutschΕλληνικάEspañolFrançais한국어日本語NorskPolski
+Edit links
+This page was last edited on 25 January 2019, at 17:56 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view

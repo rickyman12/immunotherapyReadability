@@ -1,0 +1,483 @@
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1397341103897228";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+var _kiq = _kiq || [];
+(function(){
+setTimeout(function(){
+var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+s.async = true; s.src = '//s3.amazonaws.com/ki.js/53803/drQ.js'; f.parentNode.insertBefore(s, f);
+}, 1);
+})();
+#header_utility form#search_box {width: 280px; display: inherit; top: 20px; left: -300px;}
+#header_utility form#search_box input {font-size: 15px; line-height: normal; width: 252px; height: 24px; padding: 0 0 0 12px; border: 2px solid #3a75c4;}
+.search-btn {font-size: 18px; height: 28px; padding: 0; position: absolute; right: 10px;}
+.search-btn .fa-search {color: #3a75c4; padding: 5px 8px;}
+#header_contact {text-align: left;}
+#header_contact p, #header_contact div {vertical-align: top; display: inline-block;}
+#header_contact div.live {color: #3a75c4; text-decoration: none; margin-left: 4px; padding-left: 6px; border-left: 1px solid #a3a9ac !important;}
+#header_contact div.live:hover {text-decoration: underline; cursor: pointer;}
+#header_contact #lpTextLinkSpan6193679729 {font-family: "Lato", sans-serif !important; font-size: 16px !important; vertical-align: top; display: inline-block;}
+#header_contact #lpTextLinkSpan6193679729 .LPMcontainer {font-family: "Lato", sans-serif !important; font-size: 16px !important; margin-left: 5px !important; border-left: 1px solid #a3a9ac !important;}
+#header_contact #lpTextLinkSpan6193679729 .LPMcontainer .LPMlabel {font-family: "Lato", sans-serif !important; font-size: 16px !important; z-index: 0 !important;}
+#header_contact #lpTextLinkSpan6193679729:hover .LPMcontainer .LPMlabel {text-decoration: underline !important;}
+a.skip {font-size: 14px; line-height: 15px; background-color: #ffffff; width: 99.5%; width: calc(100% - 10px); width: -webkit-calc(100% - 10px); width: -moz-calc(100% - 10px); padding: 5px; position: absolute; top: -10000px; right: auto; bottom: auto; left: -10000px; opacity: 0; outline: none; z-index: 100;}
+a.skip:focus {display: block; position: relative; top: 0; right: auto; bottom: auto; left: 0;opacity: 1;}
+@media only screen and (-webkit-min-device-pixel-ratio: 1) {
+::i-block-chrome, #header_contact #lpTextLinkSpan6193679729 {
+margin-top: 1px;
+}
+}
+.state_cookie_value_header {
+text-align: right;
+width: 160px;
+height: 25px;
+display: inline-block;
+overflow: hidden;
+vertical-align: top;
+}
+.state_cookie_value_header span {
+display: block;
+}
+.gsc-control-cse .gsc-table-result {
+margin: 0 8px;
+font-size: 14px;
+line-height: 18px;
+}
+.gsc-thumbnail-inside, .gsc-url-top {
+padding-bottom: 4px;
+}
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+padding-right:0 !important;
+background-image:none !important;
+margin-top:0 !important;
+line-height: initial;
+}
+.gsib_a {
+display:inline-block !important;
+padding-left:10px !important;
+}
+.gsc-input-box {
+border: 2px solid #3a75c4 !important;
+border-radius:20px 0 0 20px !important;
+border-right:none !important;
+}
+.gsc-input input#gsc-i-id2, .gsc-input input#gsc-i-id3 {text-indent: 10px !important; background-image: none !important;}
+#___gcse_1 input.gsc-search-button, #___gcse_1 input.gsc-search-button:hover, #___gcse_2 input.gsc-search-button, #___gcse_2 input.gsc-search-button:hover {text-indent: -1000em; border: 2px solid #3a75c4 !important; background-image: url('/images/search.gif'); background-repeat: no-repeat; background-color:#fff; border-left:none !important; border-radius:0 20px 20px 0 !important; margin-left:0 !important; padding: 3px 6px !important; height: 19px; width: 19px; background-position: center right 6px; cursor: pointer;}
+input.gsc-search-button,
+input.gsc-search-button:hover,
+input.gsc-search-button:focus {
+background-color:#fff !important;
+display:block !important;
+margin-top:0 !important;
+}
+::-webkit-input-placeholder,
+:-moz-placeholder,
+::-moz-placeholder,
+:-ms-input-placeholder {
+color:
+#777;
+line-height:normal;
+vertical-align: middle;
+height: inherit;
+}
+.gsc-control-searchbox-only
+* {
+-moz-box-sizing: content-box !important;
+-webkit-box-sizing: content-box !important;
+box-sizing:
+content-box !important;
+}
+.gsc-control-searchbox-only input {
+box-shadow: none !important;
+}
+.gsc-control-searchbox-only input:focus {
+outline: none;
+}
+.gsc-control-searchbox-only table {
+border: none;
+background: transparent;
+}
+.gsc-input-box, .gsc-search-box .gsc-input input, .gsc-input-box-hover {
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+}
+.gsst_a {
+line-height:28px !important;
+}
+.gsc-branding {display: none;}
+.cse .gsc-control-searchbox-only,
+.gsc-control-searchbox-only {
+padding:0 20px 0 0 !important;
+}
+#header_utility p a.gsst_a {
+margin-right:5px !important;
+}
+#___gcse_1 {
+width:300px;
+float: left;
+margin-top:-3px;
+}
+#mobile_gcse {
+display:none;
+}
+#gs_st51{
+left: 29px;
+}
+@media (max-width: 1300px) {
+#header_utility {
+width:600px;
+height: auto;
+padding-top: 0;
+display: inline-block;
+}
+#header_utility p {
+display: block;
+position: absolute;
+top: 35px;
+}
+#header_utility form#search_box {
+width: 100%;
+display: block;
+left: 0;
+top: 0;
+float: none;
+}
+#header_utility form#search_box input {
+width: 95%;
+}
+#search_toggle, #header_utility form {
+display: inline-block;
+float: left;
+}
+}
+@media (max-width: 1080px) {
+#___gcse_1 {
+float:none;
+max-width:450px;
+}
+.link-espanol {
+clear: left;
+}
+}
+@media (max-width: 1120px) {
+#gs_st52 {
+left: 30%;
+}
+#header {
+height:100px;
+}
+#header_utility {
+display: none;
+}
+#mobile_gcse {
+display: none;
+padding-top: 10px;
+clear: both;
+}
+.cse .gsc-control-searchbox-only, .gsc-control-searchbox-only {
+padding:0 !important;
+}
+#mobile_search {
+background-color: transparent;
+padding: 0;
+display: inherit !important;
+position: relative;
+}
+#mobile_search form#mobile_search_box {
+width: 100%;
+display: block;
+position: absolute;
+left: 0;
+top: 60px;
+float: none;
+}
+#mobile_search form#mobile_search_box input {
+font-size: 15px;
+line-height: 24px;
+width: 97%;
+width: calc(100% - 24px);
+width: -webkit-calc(100% - 24px);
+width: -moz-calc(100% - 24px);
+width: -ms-calc(100% - 24px);
+width: -o-calc(100% - 24px);
+height: 24px;
+padding: 0 0 0 12px;
+border: 2px solid #3a75c4;
+}
+}
+@media (max-width: 768px) {
+#mobile_search form#mobile_search_box input {
+width: 96%;
+width: calc(100% - 24px);
+width: -webkit-calc(100% - 24px);
+width: -moz-calc(100% - 24px);
+width: -ms-calc(100% - 24px);
+width: -o-calc(100% - 24px);
+}
+}
+@media (max-width: 640px) {
+#mobile_search form#mobile_search_box input {
+width: 95%;
+width: calc(100% - 24px);
+width: -webkit-calc(100% - 24px);
+width: -moz-calc(100% - 24px);
+width: -ms-calc(100% - 24px);
+width: -o-calc(100% - 24px);
+}
+}
+@media (max-width: 540px) {
+#mobile_search form#mobile_search_box input {
+width: 94%;
+width: calc(100% - 24px);
+width: -webkit-calc(100% - 24px);
+width: -moz-calc(100% - 24px);
+width: -ms-calc(100% - 24px);
+width: -o-calc(100% - 24px);
+}
+}
+@media (max-width: 480px) {
+#mobile_search form#mobile_search_box input {
+width: 93%;
+width: calc(100% - 24px);
+width: -webkit-calc(100% - 24px);
+width: -moz-calc(100% - 24px);
+width: -ms-calc(100% - 24px);
+width: -o-calc(100% - 24px);
+}
+}
+#gdprBanner{background-color: #e8e9ea; display: none; width: 100%;}
+.gdprPTag{font-size: 16px; line-height: 24px; text-align: left; width: 90%; display: inline-block;}
+.row{max-width: 1340px; margin: 0 auto; margin-bottom: 0 !important; padding: 20px 30px 20px 30px;}
+#exOut{font-size: 30px; color: #3a75c4; cursor: pointer; float: right;}
+#exOut:hover {color: #bad80a;}
+@media (max-width:568px){
+.gdprPTag{font-size: 12px; line-height: 18px;}
+.row{padding: 10px 15px;}
+#exOut{font-size: 24px;}
+}
+This website uses cookies. By continuing you are agreeing to our privacy policy.
+$(document).ready(function(){
+var banner = $("#gdprBanner");
+$(banner).remove();
+if(document.cookie.indexOf("seenGDPR=true;") == -1){
+// console.log("they haven't been here yet, so display the banner.");
+// this was the line for the createCookie function that would let you specify a domain. having domain=.lung.org should spread the cookie across lung.org and action.lung.org.
+// document.cookie = name+"="+value+expires+'; path=/; domain=.lung.org';
+var CookieDate = new Date;
+CookieDate.setFullYear(CookieDate.getFullYear() + 3);
+document.cookie = "seenGDPR=true; expires="+ CookieDate.toGMTString() +"; path=/; domain=.lung.org";
+$(".topnavFull").before(banner);
+$(banner).css("display", "block");
+} else{
+// console.log("they have already been here. do not display banner");
+}
+})
+Skip to main content
+ABOUT US
+OUR INITIATIVES
+LUNG HEALTH & DISEASES
+SUPPORT & COMMUNITY
+STOP SMOKING
+GET INVOLVED
+DONATE
+-
+ABOUT US
+Mission, Impact & History
+Local Associations
+Our Leadership
+Scientific Advisors
+Financial Statements
+Annual Report
+Media
+Blog
+Sponsors & Supporters
+Careers
+Contact Us
+Corporate Ethics Reporting
+OUR INITIATIVES
+LUNG FORCE
+Saved By The Scan
+Research
+Healthy Air
+Tobacco
+Education & Training
+In Your Community
+LUNG HEALTH & DISEASES
+Lung Disease Lookup
+How Lungs Work
+Protecting Your Lungs
+Warning Signs Of Lung Disease
+Lung Procedures and Tests
+Asthma
+COPD
+Influenza (Flu)
+Lung Cancer
+Pneumonia
+Pulmonary Fibrosis
+SUPPORT & COMMUNITY
+Lung HelpLine
+Find Local Support
+Better Breathers Club
+Corporate Wellness
+Online Support Communities
+Caregiving Support Community
+Freedom From Smoking Community
+STOP SMOKING
+Smoking Facts
+I Want To Quit
+Help Someone Quit
+Join Freedom From Smoking
+GET INVOLVED
+Events
+Become An Advocate
+Volunteer
+Ways To Give
+DONATEDONATE
+One Time Gift
+Monthly Gift
+Memorial Gift
+Select your location
+Select your location to view local American Lung Association information near you
+Enter your zipcode
+Zip Code
+Click to search by zip code
+or
+Select your state
+State
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+function stateSelectSubmit (droppedState) {
+var stateSplit = droppedState.split(",");
+var stateAbv = stateSplit[0];
+var fullStateName = stateSplit[1];
+if(window.location.href.indexOf("local-associations") > -1) {
+setState(stateAbv);
+window.location.replace('https://www.lung.org/about-us/local-associations/' + fullStateName + '.html');
+}
+else {
+setState(stateAbv);
+jQuery('.featherlight').click();
+}
+}
+function IsValidZipCode(zip) {
+console.log(zip);
+var isValid = /^[0-9]{5}(?:-[0-9]{4})?$/.test(zip);
+if (!isValid) {
+console.log("notvalidzip");
+alert("Not a valid zipcode format.")
+return false;
+}
+else {
+console.log("ISvalidzip");
+zipSearched = "true";
+getStateForm(zip);
+jQuery('.featherlight').click();
+return false;
+}
+}
+(function() {
+var cx = '014794061230070708567:lf0wdpquo7i';
+var gcse = document.createElement('script');
+gcse.type = 'text/javascript';
+gcse.async = true;
+gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+'//cse.google.com/cse.js?cx=' + cx;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(gcse, s);
+})();
+var searchMod = function() {
+if ($("input.gsc-search-button-v2").length > 0) {
+setTimeout(function() {
+$('input.gsc-search-button-v2').attr('src', '/images/search.gif');
+$('input.gsc-input').attr('placeholder', 'How can we help you?');
+$("#gs_st51").css("left", "29px");
+// console.log("search modified 1");
+}, 4000);
+}
+else {
+setTimeout(function() {
+$('input.gsc-search-button-v2').attr('src', '/images/search.gif');
+$('input.gsc-input').attr('placeholder', 'How can we help you?');
+$("#gs_st51").css("left", "29px");
+// console.log("search modified 2");
+}, 3000);
+}
+}
+searchMod();
+//setTimeout (function() {
+//
+$('input.gsc-search-button-v2').attr('src', '/images/search.gif');
+//
+$('input.gsc-input').attr('placeholder','How can we help you?');
+//
+console.log("search modified");
+//
+}, 2000);
+$(window).load(function(){
+$(".state_cookie_value_header").html(function () {
+return $(this).html().replace("?referrer", "<span>?referrer</span>");
+});
+});
+1-800-LUNGUSA
+Submit a Question
+Live Chat
+if (!window._laq) { window._laq = []; }
+window._laq.push(function(){
+liveagent.showWhenOnline('573410000008mNh', document.getElementById('liveagent_button_online_573410000008mNh_1'));
+liveagent.showWhenOffline('573410000008mNh', document.getElementById('liveagent_button_offline_573410000008mNh_1'));
+});
+liveagent.init('https://d.la2-c1-ph2.salesforceliveagent.com/chat', '572410000008k3M', '00D41000001PHuG');

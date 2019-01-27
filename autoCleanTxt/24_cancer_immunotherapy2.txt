@@ -1,0 +1,24 @@
+Cancer immunotherapy.
+
+Cancer immunotherapy consists of approaches that modify the host immune
+system, and/or the utilization of components of the immune system, as cancer
+treatment. During the past 25 years, 17 immunologic products have received
+regulatory approval based on anticancer activity as single agents and/or in
+combination with chemotherapy. These include the nonspecific immune stimulants
+BCG and levamisole; the cytokines interferon-α and interleukin-2; the
+monoclonal antibodies rituximab, ofatumumab, alemtuzumab, trastuzumab,
+bevacizumab, cetuximab, and panitumumab; the radiolabeled antibodies Y-90
+ibritumomab tiuxetan and I-131 tositumomab; the immunotoxins denileukin
+diftitox and gemtuzumab ozogamicin; nonmyeloablative allogeneic transplants
+with donor lymphocyte infusions; and the anti-prostate cancer cell-based
+therapy sipuleucel-T. All but two of these products are still regularly used
+to treat various B- and T-cell malignancies, and numerous solid tumors,
+including breast, lung, colorectal, prostate, melanoma, kidney, glioblastoma,
+bladder, and head and neck. Positive randomized trials have recently been
+reported for idiotype vaccines in lymphoma and a peptide vaccine in melanoma.
+The anti-CTLA-4 monoclonal antibody ipilumumab, which blocks regulatory
+T-cells, is expected to receive regulatory approval in the near future, based
+on a randomized trial in melanoma. As the fourth modality of cancer treatment,
+biotherapy/immunotherapy is an increasingly important component of the
+anticancer armamentarium.
+

@@ -1,0 +1,57 @@
+Cancer Immunotherapy & Types of Immunotherapy Treatment
+
+Immunotherapies are treatments that train a person’s own immune system to
+specifically attack his or her cancer. There are several types of
+immunotherapy that can be used alone or in combination, and they can be
+antibodies, vaccines, drugs or cell therapies.
+
+Traditional cancer treatments such as chemotherapy, radiation and surgery are
+important, but they often cause devastating side effects and they don’t always
+work. Immunotherapies can have several advantages over traditional cancer
+treatments. For example, many immunotherapies can specifically target cancer
+cells without harming healthy tissue, reducing side effects. Some approaches
+can reach areas of the body that surgeons cannot. Some can target cancer cells
+that grow slowly and thus are resistant to chemotherapy and radiation. Since
+they involve the immune system’s memory cells, some immunotherapies can
+prevent cancer recurrence.
+
+One immunotherapy approach uses checkpoint inhibitors — PD-1 or PD-L1
+inhibitors, for example. PD-1 is a receptor found on the surface of some T
+cells, a type of immune cell. Normally, when PD-1 receptors bind PD-L1
+proteins on the surface of other cells, it tells the T cells that those are
+healthy “self” cells, so  they don’t overact and cause autoimmune reactions.
+But many cancer cells take advantage of this protective mechanism by
+displaying an overabundance of PD-L1 proteins on their surfaces. These PD-L1
+proteins tell T cells to leave the cancer cells alone. Checkpoint inhibitors
+are antibodies that disrupt the abnormal PD-1/PD-L1 interaction, effectively
+releasing the “brake” and allowing T cells to recognize and attack tumors.
+Former President Jimmy Carter’s metastatic melanoma went into remission after
+treatment with surgery, radiation and a PD-1 inhibitor.
+
+Another promising immunotherapy approach is cellular therapy, sometimes called
+“living drugs.” One example is chimeric antigen receptor (CAR) T-cells. Here,
+a patient’s immune cells are collected and genetically modified to produce
+special receptors on their surfaces called CARs. CARs allow the T-cells to
+recognize a specific protein (antigen) on tumor cells. These engineered CAR
+T-cells are then grown in the laboratory until there are enough to infuse back
+into the same patient. In the patient’s body, the CAR T cells multiply and,
+with guidance from their engineered receptor, recognize and kill cancer cells
+that harbor that particular antigen.
+
+Other types of immunotherapy include:
+
+Cancer vaccines help the body to recognize cancer cells and then stimulate the immune system to attack the tumor. Some cancer vaccines are injections. Others require doctors to collect blood, enrich it with cells and then re-infuse it with an intravenous infusion. 
+Cytokines such as interferons and interleukins are groups of proteins that are produced by white blood cells and help to stimulate the immune system’s reaction to cancer. Interleukins are proteins that increase growth and activity in the body's immune cells. Interleukin-2 (IL-2) is an FDA-approved anti-cancer treatment.
+Colony stimulating factors (CSF) work in the bone marrow, where red and white blood cells and platelets are produced, to create more immune system and blood cells.
+Monoclonal antibodies are made when two different types of cells are fused together. They are designed to attack antigens, which are responsible for identifying foreign cells, such as cancer cells, and initiating an immune response.
+
+Sources:  
+Immunotherapy overview and types:
+http://cancer.ucsd.edu/treatments/Pages/immunotherapy.aspx  
+Advantages of immunotherapy:
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3238317/  
+CAR T-cells:  http://www.cancer.gov/about-
+cancer/treatment/research/car-t-cells  
+PD-1/PD-L1:  http://www.cancer.gov/publications/dictionaries/cancer-
+terms?cdrid=772606
+

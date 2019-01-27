@@ -1,0 +1,353 @@
+A
+Acute Lymphoblastic Leukemia, Adult
+patient
+health professional
+Acute Myeloid Leukemia, Adult
+patient
+health professional
+Adrenocortical Carcinoma
+patient
+health professional
+AIDS-Related Lymphoma
+patient
+health professional
+Anal Cancer
+patient
+health professional
+B
+Bile Duct Cancer
+patient
+health professional
+Bladder Cancer
+patient
+health professional
+Brain Tumors, Adult
+patient
+health professional
+Breast Cancer
+patient
+health professional
+Breast Cancer and Pregnancy
+patient
+health professional
+Breast Cancer, Male
+patient
+health professional
+C
+Carcinoid Tumors, Gastrointestinal
+patient
+health professional
+Carcinoma of Unknown Primary
+patient
+health professional
+Cervical Cancer
+patient
+health professional
+Chronic Lymphocytic Leukemia
+patient
+health professional
+Chronic Myelogenous Leukemia
+patient
+health professional
+Chronic Myeloproliferative Neoplasms
+patient
+health professional
+CNS Lymphoma, Primary
+patient
+health professional
+Colon Cancer
+patient
+health professional
+E
+Endometrial Cancer
+patient
+health professional
+Esophageal Cancer
+patient
+health professional
+Extragonadal Germ Cell Tumors
+patient
+health professional
+F
+Fallopian Tube Cancer
+patient
+health professional
+Financial Toxicity and Cancer Treatment
+patient
+health professional
+G
+Gallbladder Cancer
+patient
+health professional
+Gastric Cancer
+patient
+health professional
+Gastrointestinal Carcinoid Tumors
+patient
+health professional
+Gastrointestinal Stromal Tumors
+patient
+health professional
+Germ Cell Tumors, Extragonadal
+patient
+health professional
+Germ Cell Tumors, Ovarian
+patient
+health professional
+Gestational Trophoblastic Disease
+patient
+health professional
+H
+Hairy Cell Leukemia
+patient
+health professional
+Hepatocellular (Liver) Cancer, Adult Primary
+patient
+health professional
+Histiocytosis, Langerhans Cell
+patient
+health professional
+Hodgkin Lymphoma, Adult
+patient
+health professional
+Hypopharyngeal Cancer
+patient
+health professional
+I
+Intraocular (Eye) Melanoma
+patient
+health professional
+Islet Cell Tumors, Pancreatic Neuroendocrine Tumors
+patient
+health professional
+K
+Kaposi Sarcoma
+patient
+health professional
+Kidney (Renal Cell) Cancer
+patient
+health professional
+Kidney (Renal Pelvis and Ureter, Transitional Cell) Cancer
+patient
+health professional
+L
+Langerhans Cell Histiocytosis
+patient
+health professional
+Laryngeal Cancer
+patient
+health professional
+Leukemia, Adult Acute Lymphoblastic
+patient
+health professional
+Leukemia, Adult Acute Myeloid
+patient
+health professional
+Leukemia, Chronic Lymphocytic
+patient
+health professional
+Leukemia, Chronic Myelogenous
+patient
+health professional
+Leukemia, Hairy Cell
+patient
+health professional
+Lip and Oral Cavity Cancer
+patient
+health professional
+Liver Cancer, Adult Primary
+patient
+health professional
+Lung Cancer, Non-Small Cell
+patient
+health professional
+Lung Cancer, Small Cell
+patient
+health professional
+Lymphoma, Adult Hodgkin
+patient
+health professional
+Lymphoma, Adult Non-Hodgkin
+patient
+health professional
+Lymphoma, AIDS-Related
+patient
+health professional
+Lymphoma, Primary CNS
+patient
+health professional
+M
+Malignant Mesothelioma
+patient
+health professional
+Melanoma
+patient
+health professional
+Melanoma, Intraocular (Eye)
+patient
+health professional
+Merkel Cell Carcinoma
+patient
+health professional
+Metastatic Squamous Neck Cancer with Occult Primary
+patient
+health professional
+Multiple Myeloma and Other Plasma Cell Neoplasms
+patient
+health professional
+Mycosis Fungoides and the Sézary Syndrome
+patient
+health professional
+Myelodysplastic Syndromes
+patient
+health professional
+Myelodysplastic/Myeloproliferative Neoplasms
+patient
+health professional
+Myeloproliferative Neoplasms, Chronic
+patient
+health professional
+N
+Nasal Cavity Cancer, Paranasal Sinus and
+patient
+health professional
+Nasopharyngeal Cancer
+patient
+health professional
+Neck Cancer with Occult Primary, Metastatic Squamous
+patient
+health professional
+Non-Hodgkin Lymphoma, Adult
+patient
+health professional
+Non-Small Cell Lung Cancer
+patient
+health professional
+O
+Oral Cavity Cancer, Lip and
+patient
+health professional
+Oropharyngeal Cancer
+patient
+health professional
+Ovarian Epithelial Cancer
+patient
+health professional
+Ovarian Germ Cell Tumors
+patient
+health professional
+Ovarian Low Malignant Potential Tumors
+patient
+health professional
+P
+Pancreatic Cancer
+patient
+health professional
+Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)
+patient
+health professional
+Paraganglioma, Pheochromocytoma and
+patient
+health professional
+Paranasal Sinus and Nasal Cavity Cancer
+patient
+health professional
+Parathyroid Cancer
+patient
+health professional
+Penile Cancer
+patient
+health professional
+Pheochromocytoma and Paraganglioma
+patient
+health professional
+Pituitary Tumors
+patient
+health professional
+Plasma Cell Neoplasms, Multiple Myeloma and Other
+patient
+health professional
+Pregnancy, Breast Cancer and
+patient
+health professional
+Primary Peritoneal Cancer
+patient
+health professional
+Prostate Cancer
+patient
+health professional
+R
+Rectal Cancer
+patient
+health professional
+Renal Cell Cancer
+patient
+health professional
+Renal Pelvis and Ureter, Transitional Cell
+patient
+health professional
+S
+Salivary Gland Cancer
+patient
+health professional
+Sarcoma, Kaposi
+patient
+health professional
+Sarcoma, Soft Tissue, Adult
+patient
+health professional
+Sarcoma, Uterine
+patient
+health professional
+Sézary Syndrome, Mycosis Fungoides and the
+patient
+health professional
+Skin Cancer, Melanoma
+patient
+health professional
+Skin Cancer, Nonmelanoma
+patient
+health professional
+Small Cell Lung Cancer
+patient
+health professional
+Small Intestine Cancer
+patient
+health professional
+Stomach (Gastric) Cancer
+patient
+health professional
+T
+Testicular Cancer
+patient
+health professional
+Thymoma and Thymic Carcinoma
+patient
+health professional
+Thyroid Cancer
+patient
+health professional
+Transitional Cell Cancer of the Renal Pelvis and Ureter
+patient
+health professional
+Trophoblastic Disease, Gestational
+patient
+health professional
+U
+Unknown Primary, Carcinoma of
+patient
+health professional
+Urethral Cancer
+patient
+health professional
+Uterine Cancer, Endometrial
+patient
+health professional
+Uterine Sarcoma
+patient
+health professional
+V
+Vaginal Cancer
+patient
+health professional
+Vulvar Cancer

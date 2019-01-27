@@ -1,0 +1,109 @@
+What is immunotherapy| Cancer Research UK
+
+Immunotherapy is a standard treatment for some types of cancer, for example
+melanoma that has spread. And it is in trials for other types of cancer.
+
+What it is
+
+Immunotherapy uses our immune system to fight cancer. It works by helping the
+immune system recognise and attack cancer cells.
+
+Some types of immunotherapy are also called targeted treatments or biological
+therapies.
+
+You might have immunotherapy on its own or with other cancer treatments.
+
+ The immune system
+
+Our immune system works to protect the body against infection, illness and
+disease. It can also protect us from the development of cancer.
+
+The immune system includes the lymph glands, spleen and white blood cells.
+Normally, it can spot and destroy faulty cells in the body, stopping cancer
+developing. But a cancer might develop when:
+
+the immune system recognises cancer cells but it is not strong enough to kill the cancer cells
+the cancer cells produce signals that stop the immune system from attacking it
+the cancer cells hide or escape from the immune system 
+
+Types of immunotherapy
+
+Cancer treatments do not always fit easily into a certain type of treatment.
+This is because some drugs or treatments work in more than one way and belong
+to more than one group. So you might hear the same drug or treatment called
+different things.
+
+For example, a type of immunotherapy called checkpoint inhibitors are also
+described as a monoclonal antibody or targeted treatment.
+
+There are different types of immunotherapy:
+
+ Monoclonal antibodies (MABs)
+
+MABs recognise and attach to specific proteins on the surface of cancer cells.
+
+Antibodies are found naturally in our blood and help us to fight infection.
+MAB therapies mimic natural antibodies, but are made in a laboratory.
+Monoclonal means all one type. So each MAB therapy is a lot of copies of one
+type of antibody.
+
+MABs work as an immunotherapy in different ways. They might do one of the
+following:
+
+trigger the immune system
+help the immune system to attack cancer
+
+MABs trigger the immune system by attaching themselves to proteins on cancer
+cells. This makes it easier for the cells of the immune system to find and
+attack the cancer cells. This process is called antibody dependent cell
+mediated cytotoxicity (ADCC).
+
+Checkpoint inhibitors are MABs that work by helping the immune system attack
+cancer cells. Cancer can sometimes push a stop button on the immune cells, so
+the immune system won’t attack them. Checkpoint inhibitors block cancers from
+pushing the stop button.
+
+ Vaccines to treat cancer
+
+Researchers are looking at whether vaccines can be used as a treatment to help
+the immune system to recognise and attack cancer cells.
+
+Normally, vaccines help to protect us from disease. They are made from
+weakened or harmless versions of the disease they are being made to protect us
+from. This means that they don’t cause the disease.
+
+When you have the vaccine, it stimulates the immune system into action. The
+immune system makes antibodies that can recognise and attack the harmless
+versions of the disease. Once the body has made these antibodies it can
+recognise the disease if you come into contact with it again. So you’re
+protected from it.
+
+Researchers are also testing vaccines to treat cancer. In the same way that
+vaccines work against diseases, the vaccines are made to recognise proteins
+that are on particular cancer cells. This helps the immune system to recognise
+and mount an attack against those particular cancer cells.
+
+ Cytokines
+
+Cytokines are a group of proteins in the body that play an important part in
+boosting the immune system.
+
+Interferon and interleukin are types of cytokines found in the body.
+Scientists have developed man made versions of these to treat some types of
+cancer.
+
+ Adoptive cell transfer
+
+Adoptive cell transfer changes the genes in a person’s white blood cells (T
+cells) to help them recognise and kill cancer cells. Changing the T cell in
+this way is called genetically engineering the T cell.
+
+This treatment is only available as part of a clinical trial in the UK. An
+example of a type of adoptive cell transfer is CAR T-cell therapy.
+
+Ask your cancer specialist about immunotherapy treatment. They can explain:
+
+whether this treatment is suitable for you
+what the aim of treatment would be
+what it would involve and the side effects
+

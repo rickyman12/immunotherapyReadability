@@ -1,0 +1,120 @@
+var sID = "b7987563ecb1915dd140b2b8f655d867"; var aID = ""; var dID = ""
+Menu
+close
+NEWS
+CONTINUING EDUCATION
+Login/Sign Up
+Forgot Password?
+Sign Up
+Quick Links
+Clinical Resources
+Videos
+Conference Coverage
+Consultation Center
+Publications
+Continuing Education
+Publications
+This month in Pharmacy Times
+Case Studies: Cardiovascular Health
+Lawsuit for Slander Against Pharmacists Based on Comments About a Physician
+Revisiting "Right to Try" Legislation
+Going Toe-to-Toe With the Goliaths
+Pet Peeves (December 2018)
+Rx Product News (December 2018)
+Case Studies December 2018
+NEWS
+CONTINUING EDUCATION
+Login/Sign Up
+Forgot Password?
+Sign Up
+Quick Links
+Clinical Resources
+Videos
+Conference Coverage
+Consultation Center
+Publications
+Continuing Education
+Publications
+This month in Pharmacy Times
+Case Studies: Cardiovascular Health
+Lawsuit for Slander Against Pharmacists Based on Comments About a Physician
+Revisiting "Right to Try" Legislation
+Going Toe-to-Toe With the Goliaths
+Pet Peeves (December 2018)
+Rx Product News (December 2018)
+Case Studies December 2018
+#expandable_breakingNewsDiv { display: none !important; }
+.croppedImage{
+background-image: url("https://pharmacytimes.s3.amazonaws.com/v1_media/SafeImages/Webdam%20Assets/Cancer%20cells.jpg");
+}
+What's on the Horizon for Immunotherapy?NOVEMBER 29, 2018Joanna Lewis, PharmD, MBAImmunotherapy was first linked to cancer treatment in the late 19th century when surgeon William Coley discovered that the injection of bacteria into sarcoma sites led to tumor shrinkage.1,2 Since that time, cancer and immunology have been studied together, and research has yielded tremendous advances in cancer therapy over the past few decades.
+Immunotherapy, or biologic therapy, is treatment that enhances people’s immune cells to boost the body’s natural response against cancer.2,3 This can be done by removing tumor-specific T cells from a person’s own tumor, growing them in a laboratory, and readministering them or by isolating and training circulating T cells in a patient to target tumor-specific proteins.
+This shift in how cancer is treated has affected the care of many patients and has become a popular topic of discussion at recent oncology meetings, including the recently-held Chemotherapy Foundation Symposium held in New York and the American Society of Clinical Oncology (ASCO) meeting. Each year, oncology leaders, through ASCO, select an area that has gained the most progress as their Advance of the Year. For 2018, chimeric antigen receptor (CAR) T-cell therapy was selected, specifically for its advances in treating acute lymphoblastic leukemia, lymphoma, and multiple myeloma.4 For this treatment, T cells are removed from the patient’s body, modified in a laboratory to have specific receptor proteins, and then returned to the patient’s body.3-5 The T cells are engineered to find and destroy cancer cells. CAR T-cell therapy can be very effective for a subset of patients but may also result in serious adverse effects (AEs), such as cytokine release syndrome.3 Other significant types of immunotherapy for cancer treatment include cancer vaccines, checkpoint inhibitors, monoclonal antibodies (mAbs), and oncolytic virus therapy.2,3
+MAbs work as immunotherapy by attaching to specific proteins on cancer cells, flagging these cells so that the immune system can find and destroy them.2 MAbs also can work by releasing the brakes on the immune system so it can destroy cancer cells. Because mAbs are proteins, they have the capability to also make the body’s immune system react against itself. This can lead to harmful AEs. Newer mAbs are less likely to cause these immune reactions.
+Manipulation of immune checkpoints and pathways has emerged as another important form of immunotherapy. The immune system has checkpoint proteins to keep it from attacking normal cells in the body, and cancer cells use these pathways to escape the immune system.2,6 By targeting these checkpoint proteins (eg, programmed cell death 1, programmed death-ligand 1, and cytotoxic T-lymphocyte–associated protein 4) with antibodies, or checkpoint inhibitors, the immune system is able to respond to the cancer and slow growth.2,6,7 Examples of checkpoint inhibitors include atezolizumab (Tecentriq), ipilimumab (Yervoy), nivolumab (Opdivo), and pembrolizumab (Keytruda).
+Oncolytic virus therapy uses genetically modified viruses to kill cancer cells. A virus is injected into the cancer cells of a tumor, copies itself, and initiates cell death.2 When the cancer cells die, they release antigens and the immune system then goes on to target the cancer cells in the body with those same antigens. An example of this is the melanoma drug talimogene laherparepvec, which is a virus that has been modified to make granulocyte-macrophage colony-stimulating factor, a protein that boosts the immune response.
+Cancer vaccines expose the immune system to an antigen, which causes the immune system to recognize and destroy the antigen. Cancer vaccines can be divided into 2 types: preventive and treatment. Although research has been going on for decades, vaccines are not yet a major treatment for cancer.
+An exciting new form of immunotherapy, “backpacked drugs,” is being tested by researchers from the Massachusetts Institute of Technology in Cambridge, Massachusetts.8 The researchers are developing a way to boost the effects of T cells against solid tumors by using specialized nanoparticles that carry immune-boosting drugs capable of attaching to T cells. They found that they can “greatly improve the efficacy of the T-cell therapy with backpacked drugs” and that the drugs are “most efficiently being released at the sites you want [them] and not in healthy tissue,” according to the senior study author, Darrell Irvine.8,9
+Because of this, the researchers did not observe the toxicity that is seen when drugs are injected systemically.8 This therapy, initially being tested in mice, has shown promise with brain tumors and melanoma, with researchers observing the destruction of tumors in about 60% of the rodents after multiple exposures to treatment.8 With clinical trials on the horizon, this may be a new promising therapy, especially for solid tumors.
+Conclusion
+Immunotherapy is transforming the landscape by which we approach difficult-to-treat cancers. Despite groundbreaking advances, immunotherapy still only works in a subset of cancers, with just a fraction of those patients responding to therapy. Also, because these drugs affect the immune system, AEs can be very serious. With ongoing research continuing to deepen our understanding of tumor immunology and enhancing personalized medicine, we anticipate a broadening of the scope of tumors treated and more effective and safer therapies in the future.
+Joanna Lewis, PharmD, MBA, is a clinical pharmacist who is passionate about medication safety, clinical quality, leadership development, and regulatory affairs. She received her pharmacy degree from the Medical University of South Carolina and is an active member of the American Society of Health-System Pharmacists. She has worked in a variety of practice settings, most recently as a coordinator at Duke University Hospital in Durham, North Carolina.
+References
+A brief history of immunotherapy. Targeted Oncology™ website. targetedonc.com/publications/special-reports/2014/immunotherapy-issue3/a-brief-history-of-immunotherapy. Published August 24, 2014. Accessed September 18, 2018.
+Shoushtari AN, Wolchok J, Hellman M. Principles of cancer immunotherapy. UptoDate website. Updated February 8, 2018. Accessed September 18, 2018.
+Yang Y. Cancer immunotherapy: harnessing the immune system to battle cancer. J Clin Invest. 2015;125(9):3335-3357. doi: 10.1172/JCI83871.
+4. Guthrie G. CAR T-cell immunotherapy: the 2018 advance of the year. Cancer.net website. Published January 30, 2018. Accessed September 18, 2018.
+Whilding L, Maher J. CAR T-cell immunotherapy: the path from the by-road to the freeway. Mol Oncol. 2015:9(10);1994-2018. doi: 10.1016/j.molonc.2015.10.012.
+Marin-Acevedo J, Soyano A, Dholaria B, Knutson KL, Lou Y. Cancer immunotherapy beyond immune checkpoint inhibitors. J Hematol Oncol. 2018;11(1):8. doi: 10.1186/s13045-017-0552-6.
+Turajlic S, Larkin J. Immunotherapy for melanoma metastatic to the brain. N Engl J Med. 2018;379(8):789-790. doi: 10.1056/NEJMe1807752.
+Tang L, Zheng Y, Melo MB et al. Enhancing T cell therapy through TCR-signaling-responsive nanoparticle drug delivery. Nat Biotechnol. 2018;36(8):707-716. doi: 10.1038/nbt.4181.
+Cohut M. ‘Backpacked drugs’ can boost immunotherapy for solid tumors. Medical News Today. July 10, 2018. medicalnewstoday.com/articles/322410.php. Accessed September 22, 2018.
+SHARE THIS
+◄
+2
+Sponsored Content
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function()
+{ googletag.defineSlot('/20642765/pharm_times', [300, 100], 'div-gpt-ad-1536079202603-0').setTargeting('pos', 'textad').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); }
+);
+googletag.cmd.push(function()
+{ googletag.display('div-gpt-ad-1536079202603-0'); }
+);
+Sponsored Content
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function()
+{ googletag.defineSlot('/20642765/pharm_times', [300, 100], 'div-gpt-ad-1536079202603-1').setTargeting('pos', 'textadB').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); }
+);
+googletag.cmd.push(function()
+{ googletag.display('div-gpt-ad-1536079202603-1'); }
+);
+#APharmacistIs Tweets
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+RELATED COVERAGE
+Drug Treatment for Psoriasis Now Available in United States
+Solution for Treating Dry Eye Disease Approved by FDA
+What Happened This Week in the World of Pharmacy?
+YOU MAY ALSO BE INTERESTED IN
+Challenges in the Treatment of Recurrent Overt HE
+FDA Approves Generic Vigabatrin Treatment for Seizures
+Pharmacy eCare Plan Developed as a Valuable Tool
+RELATED SITES
+About Pharmacy Times
+Pharmacy Times® is the #1 full-service pharmacy media resource in the industry. Founded in 1897, Pharmacy Times® reaches a network of over 1.3 million retail pharmacists. Through our print, digital and live events channels, Pharmacy Times® provides clinically based, practical and timely information for the practicing pharmacist. Features and specialized departments cover medication errors, drug interactions, patient education, pharmacy technology, disease state management, patient counseling, product news, pharmacy law and health-system pharmacy.
+Pharmacy & Healthcare Communications, LLC
+2 Clarke Drive
+Suite 100
+Cranbury, NJ 08512
+P: 609-716-7777
+F: 609-716-9038
+Careers
+Contact Us
+Feedback
+Advertise With Us
+Terms & Conditions
+Privacy
+Press Room
+Conference Coverage
+Copyright © 2006-2018 Pharmacy & Healthcare Communications, LLC. All Rights Reserved.

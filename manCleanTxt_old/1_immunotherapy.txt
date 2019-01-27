@@ -1,0 +1,55 @@
+Monoclonal antibodies
+When the body’s immune system detects something harmful, it produces antibodies. Antibodies are proteins that fight infection.
+Monoclonal antibodies are a specific type of therapy made in a laboratory. They may be used in a variety of ways. For example, monoclonal antibodies can be used as a targeted therapy to block an abnormal protein in a cancer cell.
+Monoclonal antibodies can also be used as an immunotherapy. For example, some monoclonal antibodies attach to specific proteins on cancer cells. This flags the cells so the immune system can find and destroy those cells.
+Other types of antibodies work by releasing the brakes on the immune system so it can destroy cancer cells. PD-1/PD-L1 and CTLA-4 pathways are critical to the immune system’s ability to control cancer growth. These pathways are often called immune checkpoints. Many cancers use these pathways to escape the immune system. The immune system responds to the cancer by blocking these pathways with specific antibodies called immune checkpoint inhibitors. Once the immune system is able to find and respond to the cancer, it can stop or slow cancer growth.
+The following are examples of immune checkpoint inhibitors:
+Ipilimumab (Yervoy)
+Nivolumab (Opdivo)
+Pembrolizumab (Keytruda)
+Atezolizumab (Tecentriq)
+Avelumab (Bavencio)
+Durvalumab (Imfinzi)
+Clinical trials of monoclonal antibodies are ongoing for several types of cancers. Learn about the latest immunotherapy research on the Cancer.Net Blog.
+The side effects of monoclonal antibody treatment depends on the purpose of the drug. For example, the side effects of monoclonal antibodies used for targeted therapy are different than those used for immunotherapy. The side effects of immune checkpoint inhibitors may include side effects similar to an allergic reaction.
+Non-specific immunotherapies
+Like monoclonal antibodies, non-specific immunotherapies also help the immune system destroy cancer cells. Most non-specific immunotherapies are given after or at the same time as another cancer treatment, such as chemotherapy or radiation therapy. However, some non-specific immunotherapies are given as the main cancer treatment.
+Two common non-specific immunotherapies are:
+Interferons. Interferons help the immune system fight cancer and may slow the growth of cancer cells. A type of interferon made in a laboratory is called interferon alpha (Roferon-A [2a], Intron A [2b], Alferon [2a]). This is the most common type of interferon used in cancer treatment. Side effects of interferon treatment may include flu-like symptoms, an increased risk of infection, rashes, and thinning hair.
+Interleukins. Interleukins help the immune system produce cells that destroy cancer. An interleukin made in a laboratory is called interleukin-2, IL-2, or aldesleukin (Proleukin). It is used to treat kidney cancer and skin cancer, including melanoma. Common side effects of IL-2 treatment include weight gain and low blood pressure. Some people may also experience flu-like symptoms.
+Oncolytic virus therapy
+Oncolytic virus therapy uses genetically modified viruses to kill cancer cells. First, the doctor injects a virus into the tumor. The virus then enters the cancer cells and makes copies of itself. As a result, the cells burst and die. As the cells die, they release specific substances called antigens. This triggers the patient’s immune system to target all the cancer cells in the body that have those same antigens. The virus does not enter healthy cells.
+In 2015, the U.S. Food and Drug Administration approved the first oncolytic virus therapy to treat melanoma. The virus used in the treatment is called talimogene laherparepvec (Imlygic), or T-VEC. The virus is a genetically modified version of the herpes simplex virus that causes cold sores. The doctor can inject T-VEC directly into areas of melanoma that a surgeon cannot remove. People receive a series of injections until there are no areas of melanoma left. Side effects can include:
+Fatigue
+Fever
+Chills
+Nausea
+Flu-like symptoms
+Pain at the injection site
+Researchers are testing other oncolytic viruses for different types of cancer in clinical trials. They are also testing the viruses in combination with other treatments, such as chemotherapy.
+T-cell therapy
+T cells are immune cells that fight infection. In T-cell therapy, some T cells are removed from a patient’s blood. Then, the cells are changed in a laboratory so they have specific proteins called receptors. The receptors allow those T cells to recognize the cancer cells. The changed T cells are grown in large numbers in the laboratory and returned to the patient’s body. Once there, they seek out and destroy cancer cells. This type of therapy is called chimeric antigen receptor (CAR) T-cell therapy.
+The use of T cells for CAR therapy has been very effective in treating certain blood cancers. Researchers are still studying this and other ways of modifying T cells to treat cancer.
+Cancer vaccines
+A cancer vaccine is another method used to help the body fight disease. A vaccine exposes the immune system to an antigen. This triggers the immune system to recognize and destroy that antigen or related materials. There are 2 types of cancer vaccines: prevention vaccines and treatment vaccines.
+Questions to ask the health care team
+Talk with your health care team about whether immunotherapy may be part of your treatment plan. If so, consider asking these questions:
+What type of immunotherapy do you recommend? Why?
+What are the goals of this treatment?
+Will immunotherapy be my only treatment? If not, what other treatments will be a part of my treatment plan?
+How will I receive immunotherapy treatment and how often?
+What are the possible short-term and long-term side effects of immunotherapy?
+How will this treatment affect my daily life? Will I be able to work, exercise, and perform my usual activities?
+What immunotherapy clinical trials are available for me?
+Whom should I call with questions or problems?
+Related Resources
+ASCO Answers Fact Sheet: Understanding Immunotherapy (PDF)
+Side Effects of Immunotherapy
+CAR T-Cell Immunotherapy: The 2018 Advance of the Year
+Immunotherapy: The 2016 Clinical Cancer Advance of the Year
+More Information
+American Cancer Society: Cancer Immunotherapy
+National Cancer Institute: Cancer Vaccines
+Español
+Download a free fact sheet on Understanding Immunotherapy (PDF).  This 1-page (front and back) fact sheet provides an overview of the different types of immunotherapy, possible side effects, terms to know, and questions to ask the health care team. Order printed copies from the ASCO University Bookstore.
+Navigating Cancer Care

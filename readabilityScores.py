@@ -1,0 +1,43 @@
+import textstat as ts
+import numpy as np
+
+# define params
+keyWord = "Uveitis"
+N = 1
+readScores = np.zeros((N,7)) 
+
+# loop over files
+for x in range(N):
+
+    # print the count
+    print x
+
+    # read in file
+    fName = "manCleanTxt/" + str(x) + "_" + keyWord + ".txt"
+    with open(fName, 'r') as myfile:
+        data=myfile.read().replace('\n', ' ')
+
+    # ignore str errors
+    data = unicode(data, errors='replace')
+
+    # compute all scores
+    readScores[x,0] = ts.flesch_reading_ease(data)
+    readScores[x,1] = ts.smog_index(data)
+    readScores[x,2] = ts.flesch_kincaid_grade(data)
+    readScores[x,3] = ts.coleman_liau_index(data)
+    readScores[x,4] = ts.automated_readability_index(data)
+    readScores[x,5] = ts.linsear_write_formula(data)
+    readScores[x,6] = ts.gunning_fog(data)
+
+# read in the website names
+urls = np.loadtxt(keyWord + ".txt", dtype=str)
+
+# define header
+header = "Website,flesch_reading_ease,smog_index,flesch_kincaid_grade,coleman_liau_index,automated_readability_index,linsear_write_formula,gunning_fog"
+
+# combine data and URLS
+urlScores = np.column_stack((urls, readScores))
+
+# save csv
+np.savetxt(keyWord + "_scores.csv", urlScores, delimiter=",", header=header, fmt="%s") 
+

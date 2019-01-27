@@ -1,0 +1,309 @@
+Your browser does not have JavaScript enabled and some parts of this website will not work without it.
+For the best experience on the Abcam website please upgrade to a modern browser such as Google Chrome
+We use cookies to make our site as useful as possible.
+Our Cookie Policy explains how you can opt-out of the cookies we use.
+If you continue without changing your cookie settings, we'll assume you’re happy with this.
+Continue
+Continue
+United States
+Location selector
+Your location is currently set to:
+If incorrect, please enter your location into the box below, to view site information related to your location.
+Select Location
+Albania
+Algeria
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+France
+French Guiana
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Korea, Rep of
+Kuwait
+Kyrgyzstan
+Latvia
+Lebanon
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Malta
+Martinique
+Mexico
+Monaco
+Morocco
+Nepal
+Netherlands
+Netherlands Ant
+New Caledonia
+New Zealand
+Nicaragua
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Fed
+Saint Kitts and Nevis
+Saint Martin
+Saint Pierre and Miquelon
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Tanzania, United Republic of
+Thailand
+Togo
+Trinidad & Tobago
+Tunisia
+Turkey
+U.A.E.
+Uganda
+Ukraine
+United Kingdom
+United States
+Uruguay
+Vietnam
+Zambia
+Call (888) 77-ABCAM (22226) or contact us
+Need help? Contact us
+My account
+Sign out
+Sign in
+or
+Register with us
+Welcome
+Sign in
+or
+Don't have an account?
+Register with us
+My basket
+Quick order
+Abcam homepage
+Research Products
+By product type
+Primary antibodies
+Secondary antibodies
+ELISA and Matched Antibody Pair Kits
+Cell and tissue imaging tools
+Cellular and biochemical assays
+By product type
+Proteins and Peptides
+Proteomics tools
+Agonists, activators, antagonists and inhibitors
+Lysates
+Multiplex Assays
+By research area
+Cancer
+Cardiovascular
+Cell Biology
+Epigenetics
+Metabolism
+Developmental Biology
+By research area
+Immunology
+Microbiology
+Neuroscience
+Signal Transduction
+Stem Cells
+Diagnostic & Therapeutic Solutions
+Custom solutions & partnerships
+Custom antibody development and commercial partnerships to advance your diagnostic and therapeutic discovery.
+Create custom solutions with us
+Partner with us
+Support
+Protocols & troubleshooting
+Technical FAQs
+Get technical help
+RabMAb Advantages
+Buying FAQs
+Antibody Guide
+Scientific webinars
+Biochemical product FAQ
+Support resources
+eProcurement
+Check out our protocols
+Visit protocols and troubleshooting or check them out using the Abcam app for iPhone
+Protocols and troubleshooting
+iPhone app
+Events
+Conference calendar
+Cancer
+Cardiovascular
+Epigenetics & Nuclear signaling
+Immunology
+Neuroscience
+Stem cells
+Tradeshows
+Scientific webinars
+Keep up to date with the latest events
+Full event breakdown with abstracts, speakers, registration and more
+View global event calendar
+Pathways
+Cell signalling pathways
+View all pathways
+View all interactive pathways
+An introduction to cancer immunotherapy
+Related
+PD-L1/ PD-1 pathway
+PD-L1 [28-8] RabMAb® antibody
+PD1 monoclonal antibody
+Specific PD-L2 detection
+Conjugated PD-L1 antibodies
+Immune identification
+Get effector T cell poster
+Identify CD8+ T cells
+CD4 antibody
+Identify FOXP3+ T cells
+Protocols
+Flow cytometry phenotyping
+Cell staining protocol
+Cytokine quantification
+Learn how cancer immunotherapies like immune checkpoint modulators and combination immunotherapy are unlocking the power of the immune response against cancer.
+Cancer immunotherapy approaches
+Immunotherapy has shown significant potential as a more targeted approach to treating cancer by harnessing the body's immune system to fight tumor cells. There are various cancer immunotherapy approaches to boost the response of the immune system to cancer cells:Immune checkpoint modulators – use monoclonal antibodies against specific receptors that modulate immune response. Cancer cells over-express these receptors to escape detection and destruction by the immune system.Combination immunotherapy – combination of traditional therapies or combination of monoclonal antibody inhibitors with other checkpoint inhibitors or pathways, like CTLA-4 blockage plus PD-1/PD-L1 blockage for a synergistic effect.Adoptive T-cell therapy – consists of tuning the patient’s tumor-specific T cells to help boost the ability of their immune system to overwhelm the tumor.Vaccines – involves administration of neoantigens or other antigens that can be targeted by the T cells (eg targets for T cell recognition) to stimulate the patient’s immune responses against the tumor cells.Find products to help you unlock the power of immunotherapyImmune checkpoint modulatorsThe human immune system protects against foreign pathogens and diseases, but it also plays a very important role in clearing the body’s own unhealthy and ailing cells. As such, the immune system is also capable of recognizing and eliminating cancer cells.The T cells of the immune system have a capacity to selectively recognize and kill pathogens or unhealthy cells by orchestrating a coordinated immune response including innate and adaptive responses.Many checkpoints ensure the cells of the immune system do not mistakenly destroy healthy cells during an immune response (autoimmune reaction). Cancer cells have adapted to exploit these immune checkpoints as way to evade immune detection and elimination.By blocking checkpoint inhibitors including PD-1, PD-L1 and CTLA-4 with monoclonal antibodies, the immune system can overcome the cancer’s ability to resist the immune responses and stimulate the body's own mechanisms to remain effective in its defenses against cancer.
+Figure 1. T cells can be inhibited by receptors expressed by tumor cells. Using monoclonal antibodies against immune checkpoint receptors induces T cell anti-tumor activity.Read more about the PD-1/ PD-L1 pathwayCombination immunotherapyThe efficiency of the immune checkpoint blockade with monoclonal antibodies in cancer treatment is remarkable and has durable effects; however, it is limited to a subset of patients. To enhance and broaden the anti-tumor activity of immune checkpoint inhibition the next step is combining agents with synergistic mechanisms of action. Examples are the success of the combination of PD-1/PD-L1 inhibition blockage with complementary checkpoint inhibitor CTLA-4 1.Another example is IDO (indoleamine-pyrrole 2,3-dioxygenase), this enzyme is constitutively expressed in the tumor microenvironment either by tumor cells or host immune cells and is stimulated by inflammatory cytokines as IFN-γ, leading to host immune inhibition through increased Treg and effector T cell proliferation blockage. Combination of IDO inhibition and immune checkpoint blockage are currently under clinical investigation, with promising initial results1.Novel treatments like agonistic co-stimulatory antibodies costimulatory molecules such as CD137 (4-1BB), CD134 (OX40), glucocorticoid-induced TNFR (GITR; CD357), and CD40 are expressed by activated T cells, activated natural killer (NK) cells, natural killer T (NKT) cells, Tregs, and other immune cells are emerging new therapeutics1.See effector T cell posterAdoptive T cell therapyAdoptive T cell therapy involves isolation of tumor-specific T cells from patients and their expansion ex vivo. This method enables greater a number of tumor-specific T cells to be generated than vaccination alone. The tumor-specific T cells are then infused into patients in an attempt to give their immune system the ability to overwhelm remaining tumor cells.  There are many forms of adoptive T cell therapy used for cancer treatment:Culturing tumor-infiltrating lymphocytes (TILs)Isolating and expanding a type of T cell or cloneUsing T cells engineered to recognize and attack tumorsT cells are engineered to express chimeric antigen receptors (CARs) that recognize cancer-specific antigens. Researchers can prime the cells to recognize and kill tumor cells that would otherwise escape immune detection2  The process of generating CAR-T cells involves extracting a patient’s T cells, transfecting them with a gene for a chimeric antigen receptor (CAR), then reinfusing the transfected cells into the patient. The infusion of T cells is generally well tolerated. Any adverse events from T-cell infusion are infrequent and mild3 .CAR-T cells and T cells with engineered tumor-specific TCRs show anti-tumor activity in some solid tumors and hematological malignances1.VaccinesThere have been recent advances in the development of peptide vaccines for cancer therapy. Malignant cells express antigens that can be harnessed to elicit anti-cancer immune responses. These antigens are able to stimulate the patient’s specific T-cell responses against the tumor cells. This strategy can be particularly important and efficient for low mutational burden tumors, where anti-PD1 monotherapy efficiency is limited by low levels of T cell clones primed for tumor antigens1.Cancer vaccines consists of administration of tumor-associated antigens – for example melanoma-associated antigen-A3 (MAGE-A3) – in the form of either peptides or recombinant proteins in the presence of adequate adjuvants. The antigen-presenting cells interact with the tumor-associated antigens to initiate T-cell driven immune response against cancer cells that expresses the antigen.Targeting biologically relevant antigens via vaccination in animal models has resulted in both tumor inhibition and modulation of the biology of the tumor to make cancer more amenable to standard treatments 1.Anti-cancer vaccines are often employed as therapeutic (rather than prophylactic) agents. Current efforts are focused on identifying relevant tumor rejection antigens, ie tumor-associated antigens that can elicit an immune response leading to disease eradication.Read next PD-1/PDL-1 pathway overview​References1. Ott, P. et al. (2017). Combination immunotherapy: a road map. Journal for ImmunoTherapy of Cancer (2017) 5:162. Grupp, S., Kalos, M., Barrett, D., Aplenc, R., Porter, D., Rheingold, S., Teachey, D., Chew, A., Hauck, B., Wright, J., Milone, M., Levine, B. and June, C. (2013). Chimeric Antigen Receptor-Modified T Cells for Acute Lymphoid Leukemia. New England Journal of Medicine, 368(16), pp.1509-1518.3. Tey, S. (2014). Adoptive T-cell therapy: adverse events and safety switches. Clin Trans Immunol, 3(6), p.e17.
+Get resources and offers direct to your inbox
+Sign up
+A-Z by research area
+Cancer
+Cardiovascular
+Cell biology
+Developmental biology
+Epigenetics & Nuclear signaling
+Immunology
+Metabolism
+Microbiology
+Neuroscience
+Signal transduction
+Stem cells
+A-Z by product type
+Primary antibodies
+Secondary antibodies
+Biochemicals
+Isotype controls
+Flow cytometry multi-color selector
+Kits
+Loading controls
+Lysates
+Peptides
+Proteins
+Slides
+Tags and cell markers
+Tools & Reagents
+Help & support
+Support
+Make an Inquiry
+Protocols & advice
+Buying FAQs
+RabMAb products
+Biochemical product FAQs
+Company
+Investor relations
+Company news
+Careers
+About us
+Blog
+Events
+Tradeshows
+Conferences
+International websites
+abcam.cn
+abcam.co.jp
+Join with us
+LinkedIn
+facebook
+Twitter
+YouTube
+Terms
+Privacy policy
+Legal
+Modern slavery statement
+© 1998-2019 Abcam plc. All rights reserved.

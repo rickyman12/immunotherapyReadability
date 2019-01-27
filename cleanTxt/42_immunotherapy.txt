@@ -1,0 +1,118 @@
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=346612738810137";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WK4Z6G');
+.roswell-logo-1{fill:#0055b8}.roswell-logo-2{fill:#231f20}
+Home
+Patients
+Giving
+Cancer Talk
+Research & Education
+About
+Careers
+Newsroom
+MyRoswell
+Center for Immunotherapy
+The Next Great Advance in Cancer Treatment is Here
+Immunotherapy
+About the CFI
+About Immunotherapy
+Your Immunotherapy Journey
+Research
+Facilities
+Clinical Trials
+Learn more about The Center for Immunotherapy's mission and research in Dr. Odunsi's Message from the Executive Director.
+Whether you are newly diagnosed with cancer or in remission, we are making discoveries every day to harness the power of your immune system to help you in your fight against cancer.
+Immunotherapy Clinical Trials
+As one of only 28 elite universities and cancer centers in the United States in the Cancer Immunotherapy Trial Network (CITN), we offer you options beyond standard cancer treatments through innovative therapies and clinical trials to prevent cancer from recurring or stopping it in its tracks.
+Find a Clinical Trial
+Check Your Eligibility
+Unsure a clinical trial is right for you? See why it's a great option!
+Explore the F.A.Q.
+CFI Team
+At the Center for Immunotherapy, our multidisciplinary team works to create breakthrough cancer treatment options and cures, through cutting-edge research, advanced clinical trials and a customized, patient-centered approach to care.
+Meet Our Team
+Cancer Talk Blog
+A Pharmacist's Role in Comprehensive Care
+Blood Tests Could Be Used to Improve Cancer Therapy
+New Immunotherapy Combination for Kidney Cancer
+News
+New Adoptive Cell Therapy Immunotherapy Approach Ready for Clinical Trials
+SITC 2016 Co-Organizer Dr. Elizabeth Repasky on Key Themes of Annual Immunotherapy Meeting
+Infusion of Nearly $35.4 Million in Grant Funding to Support Roswell Park Research
+CFI in the Spotlight
+Parker Institute for Cancer Immunotherapy and Cancer Research Institute Launch Collaboration on Cancer Neoantigens
+Parker Institute for Cancer Immunotherapy
+Archive
+CFI by the numbers
+1 of 28 elite universities and cancer centers in North America to make up the Cancer Immunotherapy Trial Network
+8 immunotherapy research laboratories
+3 core facilities, all in one location
+Unlimited potential for better, lifelong cures for all cancer patients
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=346612738810137&version=v2.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+Tweet
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+Patients
+Become A Patient
+Patient Portal
+Patient Services
+Physician Directory
+Treatment & Services
+Research & Education
+Research
+Education
+Prevention
+Shared Resources
+Get Involved
+Giving
+Careers
+Volunteer
+Yroswell
+Roswell Park
+About Us
+Diversity
+Newsroom
+Public Notices
+Technology Transfer
+Access
+Contact Us
+Site Map
+Employee Access
+Facebook
+Twitter
+Instagram
+YouTube
+LinkedIn
+Pinterest
+Cancer Connect
+Home
+Patients
+Giving
+Cancer Talk
+Research & Education
+About
+Careers
+Newsroom
+MyRoswell
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:832043,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');

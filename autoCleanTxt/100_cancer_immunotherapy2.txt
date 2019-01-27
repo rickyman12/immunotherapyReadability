@@ -1,0 +1,118 @@
+Immunotherapy Cancer Treatment Experts
+
+What is Immunotherapy?
+
+Immunotherapy is treatment that uses certain parts of a person’s immune system
+to fight diseases such as cancer.
+
+This can be done by either stimulating your own immune system to work better
+generally to attack cancer cells, or by giving your immune system extra help
+in the form of man-made immune system proteins. Immunotherapy works better for
+some types of cancer than for others. It’s used by itself for some of these
+cancers, but for others it seems to work better when used in combination with
+other types of treatment.
+
+Our Approach to Immunotherapy
+
+Targeted therapy uses drugs to identify and attack specific cancer cells
+without harming normal cells. Monoclonal antibodies and tyrosine kinase
+inhibitors are two types of targeted therapy being studied in the treatment of
+endometrial cancer. Targeted treatments are enhanced by the Washington
+University Genomics and Pathology Services (GPS), which offers genomic testing
+and next-generation sequencing that can identify optimal treatment strategies
+for your specific cancer type and subtype.
+
+In recent years there has been an increase in the number of laboratories at
+Siteman Cancer Center performing translational tumor immunology research, and
+a number of investigator-initiated cancer clinical trials are ongoing. Efforts
+of Tumor Immunology Program members are currently focused into four central
+themes:
+
+The dynamic relationship between the immune system and cancer
+The molecular basis of immune recognition of cancer
+The impact of inflammation and immunosuppression on cancer development
+Cancer immunotherapy
+
+Vaccines and Immunotherapy:
+
+Creating a personalized vaccine begins with samples of DNA from a patient’s
+tumor and normal tissue and making a vaccine from the most likely proteins in
+mutant cancer genes to stimulate the patient’s T-cells to attack the cancer.
+Vaccines are currently being tested in trials for the treatment of cervical
+and advanced breast cancer to allow your immune system to fight the cancer
+without the harsh side effects of traditional chemotherapy.
+
+Another type of vaccine targets a genetic mutation unique to glioblastoma, the
+most common and the most aggressive high-grade brain cancer. Early data from
+these vaccine drugs shows that patients who received the vaccine in addition
+to the current standard therapy live more than twice as long as patients who
+received standard therapy alone. The side effects were, in most cases, no
+worse than those of a flu vaccine.
+
+Dendrite approach:
+
+Another ongoing clinical trial strategy calls for collecting fresh tumor
+tissue in the operating room and processing it in a lab into a “soup.” Next,
+researchers collect immune cells called dendritic cells from a patient and
+activate them using the tumor soup before they are reinfused into the patient
+in the form of a vaccine.
+
+Checkpoint blockade therapy:
+
+Another approach to immunotherapy involves controlling the checkpoint
+blockade. Cancer cells shut off the T cells by activating a safety mechanism
+called the checkpoint system, preventing them from attacking the tissue. Drugs
+called checkpoint blockades disable the checkpoint, allowing the T cells to
+unleash destruction on the tumors. But the approach also increases the chances
+that those same immune cells erroneously will attack healthy tissue, causing
+serious autoimmune disease. Researchers have found that by identifying mutated
+tumor proteins that are the specific targets of the reactivated T cells that
+attack the tumors, they can create vaccines that only unleash the T cells on
+the tumors, and so far, tests have been very successful. Checkpoint blockade
+therapy has been successful against advanced lung and skin cancers in clinical
+trials.
+
+Immunotherapy is also sometimes called biologic therapy. The following types
+of biologic therapy are being used or studied in the treatment of melanoma:
+
+Monoclonal antibodies: Ipilimumab is a monoclonal antibody that boosts the body’s immune response against melanoma cells. Other monoclonal antibodies are being studied in the treatment of melanoma. Pembrolizumab and Nivolumab can be used to treat patients whose tumor cannot be removed by surgery or has spread to other parts of the body.
+Interferon affects the division of cancer cells and can slow tumor growth.
+Interleukin-2 (IL-2) boosts the growth and activity of many immune cells, especially lymphocytes so they can attack and kill cancer cells.
+
+New Directions:
+
+A new center at Washington University is helping scientists use the power of
+the immune system to fight infections and cancers. The Center for Human
+Immunology and Immunotherapy Programs (CHiiPs) is part of BioMed21, the
+university’s initiative to accelerate basic science discoveries into improved
+diagnosis and treatment for patients. The center is housed in the BJC
+Institute of Health. While immunotherapy uses the strength and reach of the
+immune system to fight infections and cancer, scientists also need to develop
+ways to restrain the immune system when it mistakenly attacks healthy tissue,
+leading to autoimmune conditions such as multiple sclerosis. Recent insights
+from pioneering researchers at the School of Medicine include proof that the
+immune system can recognize cancers and regulate their growth. The scientists
+also have identified ways to manipulate the immune system’s ability to destroy
+cancer cells.
+
+For example, pancreatic ductal adenocarcinoma (PDAC) is the most common form
+of pancreas cancer, accounting for more than 80 percent of cases. The cancer
+has proven highly resistant to treatment, making development of new
+therapeutic approaches a major priority. Four collaborative projects attacking
+the cancer through immunologic therapy and drug development are successfully
+moving laboratory discoveries from bench to bedside to address a very
+difficult disease.
+
+The projects draw on the expertise of surgeons, oncologists and basic
+scientists. Goals include:
+
+Develop and test personalized vaccines for PDAC patients based on their genetic factors
+Evaluate a strategy to overcome the immune suppression caused by tumors
+Screen combinations of drugs for inhibiting molecular pathways that foster tumor survival Develop a delivery platform for small-molecule drugs that  sends drugs directly to tumors and avoids adverse side effects
+
+Washington University Department of Pathology and Immunology
+
+To learn more about the Department of Pathology and Immunology at Washington
+University School of Medicine, please visit their website
+http://pathology.wustl.edu/.
+

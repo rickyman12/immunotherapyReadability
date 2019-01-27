@@ -10,7 +10,7 @@
 # html2text: https://pypi.org/project/html2text/  
 
 # define params
-urlsFile="cancer_immunotherapy.txt"
+urlsFile="cancer_immunotherapy2.txt"
 baseName=${urlsFile%.txt}
 outputDir="autoCleanTxt"
 outCSV="cancerImmunotherapyReadScoresTokenized_Auto.csv"
@@ -23,7 +23,7 @@ do
 	outFile=${outputDir}/${count}_${baseName}.txt
 
 	# echo url
-	echo $url
+	echo ${count}: $url
 
 	# use python readability to convert HTML from URL to just body text of URL 
 	# | output to html2text to save to file with some clean up
@@ -34,10 +34,10 @@ do
 	sed -i -e 's/\#\# //g' $outFile  # delete ## 
 	sed -i -e 's/\#//g' $outFile  # delete # 
 	sed -i -e 's/  - //g' $outFile # delete bullets
-	sed -e 's/\[[^][]*\]//g' # remove any text inside of brackets
+	sed -i -e 's/\[[^][]*\]//g' $outFile # remove any text inside of brackets
 
 	# rm error files
-	rm ${outFile}-e
+	rm -f ${outFile}*-e
 
 	((count+=1))		
 done <"$urlsFile"
