@@ -1,9 +1,6 @@
 Cancer Immunotherapy
 
- How can we get the immune system to cure cancer?
-
-Antoni Ribas, MD, PhD  
-Director, Parker Institute for Cancer Immunotherapy Center at UCLA
+How can we get the immune system to cure cancer?
 
 Groundbreaking Interventions
 
@@ -24,7 +21,6 @@ response.
 He found that pembrolizimab—a drug developed by Merck to block PD-1—helped
 many patients fight their cancer. Read more in PD-1 Blockade Induces Responses
 by Inhibiting Adaptive Immune Resistance, published in Nature.
-
 
 
 However, PD-1 blockade did not help all patients, and Dr. Ribas wanted to know
@@ -52,11 +48,3 @@ Dr. Ribas wants to uncover the limits and potentials of the human immune
 system in the fight against cancer, a pursuit rooted in scientific
 understanding. When it comes to cancer, Dr. Ribas believes we can always know
 more about getting the immune system to fight back.
-
-> "Our progress did not happen by chance; it happened by understanding
-science, understanding the immune system, and turning that understanding into
-treatments."  
-> \- Dr. Antoni Ribas
-
-Parker Institue for Cancer Immunotherapy
-

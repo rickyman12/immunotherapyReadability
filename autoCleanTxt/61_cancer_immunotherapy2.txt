@@ -1,5 +1,3 @@
-Immunotherapy | Cancer Australia
-
 The main types of immunotherapy can be divided into treatments using
 monoclonal antibodies, nonspecific immunotherapies, and cancer vaccines.
 
@@ -43,7 +41,7 @@ chills
 weakness
 dizziness
 headache
-nausea, vomiting and diarrhoea
+nausea, vomiting and diarrhea
 muscle or joint aches
 changes in weight
 low blood pressure

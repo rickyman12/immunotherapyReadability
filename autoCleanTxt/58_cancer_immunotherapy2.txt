@@ -22,15 +22,6 @@ in September. An enormous number more are in the pipeline across the industry.
 A bispecific antibody that hits both CTLA-4 and PD-L1 has even been developed
 by Chinese company Alphamab, and is in early clinical trials in Australia.
 
-Approved checkpoint inhibitor drugs Target| Brand name| Generic name| Company  
----|---|---|---  
-CTLA-4 | Yervoy | ipilimumab | Bristol-Myers Squibb  
-PD1 | Opdivo | nivolumab | Bristol-Myers Squibb  
-PD1 | Keytruda | pembrolizumab | Merck & Co  
-PD1 | Libtayo | cemiplimab | Sanofi and Regeneron  
-PD-L1 | Tecentriq | atezolizumab | Genentech  
-PD-L1 | Bavencio | avelumab | Merck KGaA and Pfizer  
-PD-L1 | Imfinzi | durvalumab | AstraZeneca  
   
 Unlike the earlier approvals, which were for some of the more common cancer
 types including non-small cell lung cancer, melanoma and bladder cancer,

@@ -1,2 +1,96 @@
 
 
+‘Simply cruel’: Patient advocates condemn breast cancer immunotherapy hype
+
+“Increases life expectancy,” announced Newsweek.
+
+“Helped slow an aggressive type of breast cancer,” reported Reuters.
+
+“Expected to change the standard of care,” crowed The New York Times.
+
+Judging by news reports last weekend, women with metastatic triple-negative breast cancer had reason to cheer results of a clinical trial of an immunotherapy drug called atezolizumab, which is marketed as Tecentriq.
+
+The trial was promoted by a news release that declared it a “first immunotherapy success” in triple-negative breast cancer patients, for whom there is a dearth of effective treatment options.
+
+But contrary to the impression left by the news release and a lot of reporting, the results of this study were not so spectacular. The drug in fact did not extend life.
+
+The median overall survival was 21.3 months for patients who took both the immunotherapy drug and chemotherapy, versus 17.6 months for those who took a placebo plus chemo. That difference was not statistically significant.
+
+So where did the hype come from?
+
+The immunotherapy drug did improve a surrogate marker called progression-free survival, which means tumors took longer to grow in women who got the drug. It also appeared to extend the lives of a subgroup of patients who have high levels of a protein called PD-L1, although there were too few of those women enrolled in the study to firmly conclude that there was a benefit.
+
+Both of those outcomes come with red flags. As we’ve written, surrogate markers and subgroup results have limitations that patients need to know about. Unfortunately, a lot of the news coverage we encountered didn’t provide those caveats.
+
+What’s the harm in optimistic news coverage?
+Still, it’s possible this drug might help some people. So what’s the harm in a little positive spin?
+
+We reached out to several breast cancer patient advocates, who pointed out what they see as the dangers of sensationalized reporting on clinical trials.
+
+Most agreed inflated claims about Tecentriq — along with a notable downplaying of serious harms — likely created false expectations among triple-negative breast cancer patients. Some expressed downright anger about the coverage.
+
+“Living with a terminal illness is an emotional roller coaster to begin with. I think it’s disgraceful to peddle hope with such a broad brush stroke when the reality is it’s little more than a fine tip pen mark, at least for now,” said AnneMarie Ciccarella, a patient advocate who writes the blog ChemoBrainFog.
+
+Suzanne Hicks, an active member of the National Breast Cancer Coalition, said hyping a treatment for headline value is “simply cruel” to patients who are “often willing to do anything to survive.”
+
+Hopeful stories tend to get shared by friends, family, and fellow patients. Ciccarella noted that the news release was posted in a Facebook support group. In response, a group member shared a Forbes column that was among the few pieces expressing strong cautions about the study.
+
+“I can’t help but wonder how many well-intentioned friends called to make sure these patients are ‘aware’ of this new ‘breakthrough,'” Ciccarella said.
+
+‘It’s disgraceful to peddle hope’
+
+Some stories echoed the hopeful narrative of the news release, which emphasized the potential survival benefit in the subgroup of PD-L1 patients. That benefit still needs to be confirmed by a subsequent, larger study — a point that was neglected in some stories.
+
+
+CBS News went a step further than other outlets by focusing on a single patient who had an atypically positive result. As discussed in our tips for writing about immunotherapy, it’s important for journalists to seek out multiple patients and/or ask detailed questions about patients who’ve responded unusually well.
+
+Readers might not distinguish between all patients in the study and those in the subgroup.
+
+“The thing with hope is this: We never want it taken away from us,” Ciccarella said. “There are almost always success stories, primarily outliers, or in this case, it appears a certain subset of patients who might respond.”
+
+Deanna Attai, MD, a breast surgeon at the David Geffen School of Medicine at the University of California Los Angeles, agreed. “Early studies showing ‘promising’ results do not ensure that all subsequent patients will have the same good outcomes, and that the outcomes will be [long-lasting]. So there is the potential to foster false hope among a patient population who may be desperate, and rightly so, because they have no other options,” Attai said.
+
+Positive spin pressures patients
+
+Positive spin might encourage patients to seek costly treatments that won’t help and could hurt, although Attai said they would not necessarily get those treatments.
+
+Still, there could be an emotional toll.
+
+“One problem we see with people who have cancer that has metastasized is the push to keep doing treatment and try different kinds of treatment even if it’s not going to extend their life or improve their quality of life,” said breast cancer survivor and epidemiologist Mandy Stahre, PhD.
+
+She said patients who read such coverage “may feel like they’re being treated unfairly, and only if their doctor puts them on the immunotherapy will they get better. The costs both financially and emotionally for people wanting to find a ‘cure’ are inflated by this type of news coverage.”
+
+Patients want quality of life, too
+
+Several advocates railed against the downplaying of immunotherapy’s toxic side effects, which can hasten death.
+
+For example, Newsweek waited until its final paragraph to mention that 103 patients had serious side effects from the immunotherapy and six suffered fatal reactions. That compared with three fatalities in the group that didn’t receive the drug.
+
+According to the study, three of the deaths in the immunotherapy group were attributed to the treatments, versus one of the deaths in the placebo group.
+
+“This hit me right between the eyes and frankly, it’s irresponsible to put this in the very last paragraph when most people likely will not have even gotten that far,” Ciccarella said.
+
+Also not reported widely was that patients in the group that got immunotherapy were almost twice as likely to drop out of the trial.
+
+Hicks said these bad effects should have gotten stronger play: “Survivors don’t want only a few weeks, especially if those weeks are difficult and the entrance to end-of-life. They also want quality-of-life.”
+
+Christine Norton, president and co-founder of the Minnesota Breast Cancer Coalition, said serious harms and quality of life data are among the things that should be mentioned high in any news story about treatments for terminal illnesses. (See box.)
+
+“I think most patients with a terminal illness of any type care about and deserve the media to clearly report on two things: any improvement in overall survival with a treatment and the quality of life while using that treatment. This treatment failed on both counts for most of the participants,” Norton said.
+
+‘It’s not a game.’
+Eric Topol, MD, executive vice president and professor of molecular medicine at Scripps Research, said the reporting is “emblematic of so much other coverage” that conveys outsized claims for new drugs.
+
+“I always get kind of nauseous when I read the word ‘game changer’ because it’s not a game,” Topol said, referring to a researcher’s glowing remark in the Times story.
+
+He said based on the coverage, “The public may get a false impression that there’s this cure out there.”
+
+Tecentriq joins a long list of $100,000+-a-year cancer drugs that haven’t been proven to extend survival yet come with bad side effects and typically win FDA approval based on their ability to move a needle on an unproven surrogate endpoint or in a subgroup of patients.
+
+Trials like this one that measure multiple endpoints increase the chance that a drug will demonstrate some effect that suggests a benefit, said Topol, who on Twitter critiqued data reporting of the study.
+
+Too often news coverage laps up the positive nuggets while tuning out negative findings that may have a greater impact on patients.
+
+“What should have been conveyed to the public by these articles was that there wasn’t any improvement in survival,” Topol said, noting that the Associated Press was among the few news outlets that clearly reported that point, in the fifth paragraph. The AP also raised the issue of side effects in its lead.
+
+“We all want to see progress” in treating metastatic triple-negative breast cancer, Topol said. “But there’s no reason to exaggerate what the data showed.”

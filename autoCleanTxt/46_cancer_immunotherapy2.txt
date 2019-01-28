@@ -1,11 +1,5 @@
 The list of cancers that can be treated by immunotherapy keeps growing
 
-In immunotherapy, T-cells from a cancer patient can be genetically engineered
-to be specific to a tumor. Dendritic cells (lower left) are special cells that
-help the immune system recognize the cancer cells and initiate a response.
-Drugs called "checkpoint inhibitors" also can spur the immune system.
-(Science Source)
-
 NEW ORLEANS — New immunotherapy drugs are showing significant and extended
 effectiveness against a broadening range of cancers, including rare and
 intractable tumors often caused by viruses. Researchers say these advances
@@ -34,7 +28,6 @@ melanoma, the infusion drugs already have been approved for use against lung
 and kidney cancers.
 
 
-
 “We are in the midst of a sea change in how we are treating cancer,” said
 Louis Weiner, director of the Georgetown Lombardi Comprehensive Cancer Center,
 who wasn’t involved in the studies. “We’re really seeing the fruits of many
@@ -59,8 +52,6 @@ the 1960s for chemotherapy, when we were just beginning to use it,” said Roy
 Jensen, director of the University of Kansas Cancer Center. “There is so much
 to do and to figure out. We’re just at the start of this.”
 
-[In-depth: Sean Parker, Silicon Valley’s bad boy genius, on his new $250m
-institute for cancer immunotherapy]
 
 Scientists don’t know why some patients benefit from immunotherapy and others
 don’t. In many trials, for example, less than a third of patients have had a
@@ -81,7 +72,6 @@ Sean Parker have announced that they will invest hundreds of millions of
 dollars in immunotherapy research. On Wednesday, Vice President Biden will
 address the conference about the Obama administration’s anti-cancer “moonshot”
 initiative.
-
 
 
 The trial on head and neck cancer involved patients who had recurrent or
@@ -120,10 +110,6 @@ Hopkins’s new Bloomberg-Kimmel Institute for Cancer Immunology, said the
 results provide an “open door” for considering immunotherapy for other cancers
 caused by viruses.
 
-Stan Collender receives an immunotherapy drug at Seattle Cancer Care Alliance
-as part of his treatment for rare Merkel cell carcinoma. (Robert Hood/Fred
-Hutch News Service)
-
 Stan Collender, a long-time Washington budget expert and public relations
 executive, was facing the typically dire prognosis when he was diagnosed with
 Merkel cell carcinoma in 2012. He had three recurrences, with tumors under his
@@ -142,40 +128,3 @@ my cancer to not thinking about it at all.”
 
 Collender is hoping the benefit will last. “Is it durable? I don't know,” he
 said. “I'm still a test pilot.”
-
-Read more:
-
-IN DEPTH: Sean Parker, Silicon Valley’s bad boy genius, wants to kick the *!$%
-out of cancer
-
-$250 million, 300 scientists and 40 labs: Sean Parker’s revolutionary project
-to ‘solve’ cancer
-
-Big-name scientists aim to make cancer a chronic illness
-
-Bloomberg, others make big donation to Hopkins for immunotherapy research
-
-7 ways to avoid cancer's "financial toxicity"
-
-Like our Health & Wellness page on Facebook for more science news about the
-ins and outs of the human body and mind, essays and advice. You can sign up
-here for our newsletter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

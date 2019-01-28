@@ -1,28 +1,30 @@
 Cancer Immunotherapy
 
-Request an Appointment
+Harnessing the Immune System to Fight Cancer
+Your immune system protects you from infection, illness and substances that can harm your body. Immunotherapy refers to a medical treatment that turns the power of the immune system against disease. Cancer immunotherapy acts on the cells of the immune system to seek out, recognize and attack cancer.
 
-Please complete this secure form. The information you provide will help us
-assist you as efficiently as possible. A representative will contact you
-within one to two business days to help you schedule an appointment.
+Types of Cancer Immunotherapy
+Several types of immunotherapy are approved for use to treat cancer or are being studied through clinical trials. The different kinds of immunotherapies work in different ways to treat cancer. Some boost the immune system to work against cancer, while others train the immune system to seek out and attack cancer cells.
 
-For questions, or to speak with someone directly, please call: 1-888-824-0200
+CAR T-cell therapy involves the removal of T cells from a patient’s blood. These disease-fighting cells are then supercharged to recognize and destroy cancer cells. The University of Chicago Medicine was the first medical center in Illinois certified to offer CAR T-cell therapy.
+Immune checkpoint inhibitors are drugs that block the proteins that cancer cells use to disarm an immune response, allowing T cells to attack and destroy tumor cells.
+Monoclonal antibodies are man-made versions of immune system proteins, designed to attack a specific part of a cancer cell.
+Cytokines are proteins made by your body’s cells that play a role in the body’s immune response to illness, including cancer. Interferon and interleukins are cytokines used to fight cancer.
+Cancer vaccines involve substances put in the body to activate an immune response that helps prevent or treat cancer.
+Clinical Trials
+UChicago Medicine physicians lead immunotherapy clinical trials for the following types of cancer:
 
-New Patients
-
-To request an appointment, please use our secure online form. A representative
-will contact you within one to two business days to help you schedule an
-appointment.
-
-Request an Appointment
-
-Existing Patients
-
-Returning patients may also use MyChart to request an appointment.
-
-MyChart
-
-Contact Us
-
-Contact form and phone numbers
-
+Bladder
+Blood
+Leukemia (acute lymphoblastic leukemia)
+Lymphoma
+Multiple Myeloma
+Breast
+Gastrointestinal
+Head and neck
+Liver
+Lung (non-small)
+Melanoma
+Mesothelioma
+Ovarian
+Solid tumors

@@ -1,5 +1,3 @@
-Immunotherapy for Cancer | Cancer Support Community
-
 How Does Immunotherapy Work?
 
 Immunotherapy is a type of cancer treatment that uses the body’s natural
@@ -54,7 +52,7 @@ directly to cancer cells. Each mAb is made to find and attach to a specific
 protein that occurs in cancer cells. Most mAb treatments (that aren’t
 checkpoint inhibitors) are used in blood cancers.
 
-To learn more, see our Immunotherapy and Blood Cancers page.
+
 
 Adoptive (or CAR) T Cell therapies
 
@@ -113,14 +111,3 @@ normal cells. They multiply inside cancer cells and cause them to die. Several
 viruses are currently being tested in clinical trials. The only oncolytic
 virus therapy approved in the U.S. is talimogene laherparepvec (Imlygic®). It
 is used to treat very specific types of melanoma.
-
-There is broad interest and excitement about the potential for immunotherapy
-to treat many kinds of cancer. As researchers learn more about how the immune
-system interacts with cancer, they will be able to apply that knowledge to
-more cancer types
-
-Current Immunotherapies by Cancer Type
-
-Learn about possible and common side effects of immunotherapy. Listen to
-patients stories and their experiences with immunotherapy.
-

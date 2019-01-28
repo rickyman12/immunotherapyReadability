@@ -114,11 +114,6 @@ vaccine exposes the immune system to an antigen. This triggers the immune
 system to recognize and destroy that antigen or related materials. There are 2
 types of cancer vaccines: prevention vaccines and treatment vaccines.
 
-Questions to ask the health care team  
-
-Talk with your health care team about whether immunotherapy may be part of
-your treatment plan. If so, consider asking these questions:
-
 What type of immunotherapy do you recommend? Why?
 
 What are the goals of this treatment?
@@ -132,14 +127,4 @@ What are the possible short-term and long-term side effects of immunotherapy?
 How will this treatment affect my daily life? Will I be able to work, exercise, and perform my usual activities?
 
 What immunotherapy clinical trials are available for me?
-
-Whom should I call with questions or problems? 
-
-Related Resources
-
-More Information
-
-American Cancer Society: Cancer Immunotherapy
-
-National Cancer Institute: Cancer Vaccines
 

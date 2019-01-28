@@ -1,9 +1,6 @@
 New cancer immunotherapy approach turns human cells into tiny anti-tumor
 drug factories
 
-UC San Diego School of Medicine researchers developed a method to use B cells
-to manufacture and secrete microRNA-containing vesicles and showed they can
-inhibit tumor growth in mice. Credit: UC San Diego Health
 
 Cancer immunotherapy—efforts to better arm a patient's own immune system to
 attack tumors—has shown great potential for treating some cancers. Yet
@@ -80,31 +77,3 @@ we'd treat only those patients, cases where we know the treatment would most
 likely work. That's what we call personalized, or precision, medicine. We
 could also apply this technique to other microRNAs with other targets in
 cancer cells and in other cell types that surround and enable tumors."
-
-* * *
-
-* * *
-
-More information
-
-: Gonzalo Almanza et al. Extracellular vesicles produced in B cells deliver
-tumor suppressor miR-335 to breast cancer cells disrupting oncogenic
-programming in vitro and in vivo,
-
-Scientific Reports
-
-(2018).
-
-DOI: 10.1038/s41598-018-35968-2
-
-Provided by University of California - San Diego
-
-Citation: New cancer immunotherapy approach turns human cells into tiny anti-
-tumor drug factories (2018, December 4) retrieved 27 January 2019 from
-https://medicalxpress.com/news/2018-12-cancer-immunotherapy-approach-human-
-cells.html
-
-This document is subject to copyright. Apart from any fair dealing for the
-purpose of private study or research, no part may be reproduced without the
-written permission. The content is provided for information purposes only.
-

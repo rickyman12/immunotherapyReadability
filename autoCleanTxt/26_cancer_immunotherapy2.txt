@@ -1,7 +1,5 @@
 Immunotherapy - Canadian Cancer Society
 
-VIDEO
-
 Our immune system has the ability to find and destroy cancer cells. But cancer
 cells can sometimes hide from the immune system and avoid being destroyed.
 Cancer cells may also stop the immune system from working properly.
@@ -228,8 +226,4 @@ help. Side effects can happen any time during, immediately after or a few days
 or weeks after immunotherapy. Sometimes late side effects develop months or
 years later. Most side effects go away on their own or can be treated, but
 some side effects may last a long time or become permanent.
-
-More information on drugs
-
-For information on specific drugs, go to sources of drug information.
 

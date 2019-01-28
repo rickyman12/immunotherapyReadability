@@ -192,35 +192,3 @@ early 2019 following disappointing clinical trial data.
 Infusion times of 60 minutes and 30 minutes appear to have similar
 pharmacokinetics (absorption, distribution, metabolism, and elimination) of
 the treatment.
-
-References
-
-  1. ^ a b WHO Drug Information, Vol. 26, No. 2, 2012. Proposed INN List 107
-  2. ^ a b c d e f g h i j k l m n o Nivolumab Label. Last updated Nov 2015.
-  3. ^ a b c d e f Johnson DB, Peng C, Sosman JA (March 2015). "Nivolumab in melanoma: latest evidence and clinical potential". Therapeutic Advances in Medical Oncology. 7 (2): 97–106. doi:10.1177/1758834014567469. PMC 4346215. PMID 25755682.
-  4. ^ a b Sundar R, Cho BC, Brahmer JR, Soo RA (March 2015). "Nivolumab in NSCLC: latest evidence and clinical potential". Therapeutic Advances in Medical Oncology. 7 (2): 85–96. doi:10.1177/1758834014567470. PMC 4346216. PMID 25755681.
-  5. ^ Bushey, R. Gains FDA Approval for Common Bladder Cancer. Drug Discovery & Development, Fri, 02/03/2017.
-  6. ^ Caponnetto S, Draghi A, Borch TH, Nuti M, Cortesi E, Svane IM, Donia M (May 2018). "Cancer immunotherapy in patients with brain metastases". Cancer Immunology, Immunotherapy. 67 (5): 703–711. doi:10.1007/s00262-018-2146-8. PMID 29520474.
-  7. ^ Donia M, Pedersen M, Svane IM (April 2017). "Cancer immunotherapy in patients with preexisting autoimmune disorders". Seminars in Immunopathology. 39 (3): 333–337. doi:10.1007/s00281-016-0595-8. PMID 27730287.
-  8. ^ a b c Pardoll DM (March 2012). "The blockade of immune checkpoints in cancer immunotherapy". Nature Reviews. Cancer. 12 (4): 252–64. doi:10.1038/nrc3239. PMC 4856023. PMID 22437870.
-  9. ^ a b c d Syn NL, Teng MW, Mok TS, Soo RA (December 2017). "De-novo and acquired resistance to immune checkpoint targeting". The Lancet. Oncology. 18 (12): e731–e741. doi:10.1016/s1470-2045(17)30607-1. PMID 29208439.
-  10. ^ Wang C, Thudium KB, Han M, Wang XT, Huang H, Feingersh D, Garcia C, Wu Y, Kuhne M, Srinivasan M, Singh S, Wong S, Garner N, Leblanc H, Bunch RT, Blanset D, Selby MJ, Korman AJ (September 2014). "In vitro characterization of the anti-PD-1 antibody nivolumab, BMS-936558, and in vivo toxicology in non-human primates". Cancer Immunology Research. 2 (9): 846–56. doi:10.1158/2326-6066.CIR-14-0040. PMID 24872026.
-  11. ^ a b John Carroll for FierceBiotech Jul 7, 2014 Anti-PD-1 cancer star nivolumab wins world's first regulatory approval
-  12. ^ Allison M (September 2009). "Bristol-Myers Squibb swallows last of antibody pioneers". Nature Biotechnology. 27 (9): 781–3. doi:10.1038/nbt0909-781. PMID 19741612.
-  13. ^ John Carroll for FierceBiotech Jul 23, 2009 Bristol-Myers to buy Medarex for $2.1B
-  14. ^ a b c d Sharma P, Allison JP (April 2015). "The future of immune checkpoint therapy". Science. 348 (6230): 56–61. doi:10.1126/science.aaa8172. PMID 25838373.
-  15. ^ A Pollack (June 2012). "Drug helps immune system fight cancer". New York Times.
-  16. ^ U.S. Food and Drug Administration (September 4, 2014). "FDA approves Keytruda for advanced melanoma". U.S. Food and Drug Administration. U.S. Food and Drug Administration. Retrieved 24 December 2015.
-  17. ^ "FDA approves Opdivo for advanced melanoma". Food and Drug Administration. December 22, 2014.
-  18. ^ "Press Release: New treatment for advanced melanoma". European Medicines Agency. Retrieved 5 May 2015.
-  19. ^ "FDA expands approved use of Opdivo to treat lung cancer (FDA.gov)". Retrieved March 4, 2015.
-  20. ^ http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/003985/WC500189768.pdf
-  21. ^ FDA. November 23, 2015 FDA Press Release: FDA approves Opdivo to treat advanced form of kidney cancer
-  22. ^ Research, Center for Drug Evaluation and. "Approved Drugs - Nivolumab (Opdivo) for Hodgkin Lymphoma". www.fda.gov.
-  23. ^ Research, Center for Drug Evaluation and. "Approved Drugs - FDA grants regular approval to nivolumab for adjuvant treatment of melanoma". www.fda.gov. Retrieved 2018-04-12.
-  24. ^ Research, Center for Drug Evaluation and. "Approved Drugs - FDA approves nivolumab plus ipilimumab combination for intermediate or poor-risk advanced renal cell carcinoma". www.fda.gov. Retrieved 2018-04-20.
-  25. ^ "Bristol-Myers' Opdivo ushers in a new era as the first I-O therapy approved in China | FiercePharma". www.fiercepharma.com. Retrieved 2018-06-19.
-  26. ^ Loftus P, Rockoff JD, Steele A (2016-08-05). "Bristol Myers: Opdivo Failed to Meet Endpoint in Key Lung-Cancer Study". Wall Street Journal. ISSN 0099-9660. Retrieved 2016-08-21.
-  27. ^ Erman, Michael (24 January 2019). "Bristol-Myers has Opdivo lung cancer setback as sales beat estimates". Reuters. Retrieved 24 January 2019.
-  28. ^ Waterhouse. "Safety profile of nivolumab administered as 30-minute infusion: Analysis of data from CheckMate 153" (PDF).
-

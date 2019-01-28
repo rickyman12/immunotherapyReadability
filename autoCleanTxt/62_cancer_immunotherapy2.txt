@@ -45,13 +45,4 @@ Cytokines such as interferons and interleukins are groups of proteins that are p
 Colony stimulating factors (CSF) work in the bone marrow, where red and white blood cells and platelets are produced, to create more immune system and blood cells.
 Monoclonal antibodies are made when two different types of cells are fused together. They are designed to attack antigens, which are responsible for identifying foreign cells, such as cancer cells, and initiating an immune response.
 
-Sources:  
-Immunotherapy overview and types:
-http://cancer.ucsd.edu/treatments/Pages/immunotherapy.aspx  
-Advantages of immunotherapy:
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3238317/  
-CAR T-cells:  http://www.cancer.gov/about-
-cancer/treatment/research/car-t-cells  
-PD-1/PD-L1:  http://www.cancer.gov/publications/dictionaries/cancer-
-terms?cdrid=772606
 

@@ -133,37 +133,3 @@ Escape loss variants (that target a single tumor antigen) are likely to be less 
 Prior treatments may have modified tumors in ways that nullify the vaccine. (Numerous clinical trials treated patients following chemotherapy that may destroy the immune system. Patients who are immune suppressed are not good candidates for vaccines.)
 Some tumors progress rapidly and/or unpredictably, and they can outpace the immune system. Developing a mature immune response to a vaccine may require months, but some cancers (e.g. advanced pancreatic) can kill patients in less time.
 Many cancer vaccine clinical trials target patients' immune responses. Correlations typically show that the patients with the strongest immune responses lived the longest, offering evidence that the vaccine is working. An alternative explanation is that patients with the best immune responses were healthier patients with a better prognosis, and would have survived longest even without the vaccine.
-
-Recommendations
-
-In January 2009, a review article made recommendations for success as
-follows:
-
-Target settings with a low disease burden.
-Conduct randomized Phase II trials so that the Phase III program is sufficiently powered.
-Do not randomize antigen plus adjuvant versus adjuvant alone. The goal is to establish clinical benefit of the immunotherapy (i.e., adjuvanted vaccine) over the standard of care. The adjuvant may have a low-level clinical effect that skews the trial, increasing the chances of a false negative.
-Base development decisions on clinical data rather than immune responses. Time-to-event end points are more valuable and clinically relevant.
-Design regulatory into the program from inception; invest in manufacturing and product assays early.
-
-See also
-
-References
-
-  1. ^ Shankaran V, Ikeda H, Bruce AT, White JM, Swanson PE, Old LJ, Schreiber RD (2001-04-26). "IFNgamma and lymphocytes prevent primary tumour development and shape tumour immunogenicity". Nature. 410 (6832): 1107–1111. doi:10.1038/35074122. PMID 11323675.
-  2. ^ Dunn GP, Old LJ, Schreiber RD (2004). "The three Es of cancer immunoediting". Annu. Rev. Immunol. 22 (i): 329–60. doi:10.1146/annurev.immunol.22.012703.104803. PMID 15032581.
-  3. ^ Arvind Babu RS; Kiran Kumar K; Sridhar Reddy G; Anuradha Ch (2010). "Cancer Vaccine : A Review" (PDF). Journal of Orofacial Sciences. 2 (3): 77–82.
-  4. ^ "Oral vaccine could fight source of stomach cancers". Vaccine News Reports.
-  5. ^ Giarelli E (2007). "Cancer vaccines: a new frontier in prevention and treatment". Oncology (Williston Park). 21 (11 Suppl Nurse Ed): 11–8. PMID 18154203.
-  6. ^ a b Amgen press release. Amgen announces top-line results of phase 3 talimogene laherparepvec trial in melanoma. Mar 19, 2013. Available here
-  7. ^ Idiotype vaccine therapy (BiovaxID) in follicular lymphoma in first complete remission: Phase III clinical trial results. S. J. Schuster, et al. 2009 ASCO Annual Meeting, J Clin Oncol 27:18s, 2009 (suppl; abstr 2)
-  8. ^ "Approval Letter - Provenge". Food and Drug Administration. 2010-04-29.
-  9. ^ "What Comes After Dendreon's Provenge?". 18 Oct 2010.
-  10. ^ "Dead".
-  11. ^ a b Pejawar-Gaddy S, Finn O (2008). "Cancer vaccines: Accomplishments and challenges". Critical Reviews in Oncology Hematology. 67: 93–102. doi:10.1016/j.critrevonc.2008.02.010.
-  12. ^ Nishikawa, Makiya; Takemoto, Seiji; Takakura, Yoshinobu (2008-04-16). "Heat shock protein derivatives for delivery of antigens to antigen presenting cells". International Journal of Pharmaceutics. Special Issue in Honor of Prof. Tsuneji Nagai. 354 (1–2): 23–27. doi:10.1016/j.ijpharm.2007.09.030.
-  13. ^ Savvateeva, L. V.; Schwartz, A. M.; Gorshkova, L. B.; Gorokhovets, N. V.; Makarov, V. A.; Reddy, V. P.; Aliev, G.; Zamyatnin, A. A. (2015-01-01). "Prophylactic Admission of an In Vitro Reconstructed Complexes of Human Recombinant Heat Shock Proteins and Melanoma Antigenic Peptides Activates Anti-Melanoma Responses in Mice". Current Molecular Medicine. 15 (5): 462–468. doi:10.2174/1566524015666150630125024. ISSN 1875-5666. PMID 26122656.
-  14. ^ Rosenberg SA, Yang JC, Restifo NP (September 2004). "Cancer immunotherapy: moving beyond current vaccines". Nat. Med. 10 (9): 909–15. doi:10.1038/nm1100. PMC 1435696. PMID 15340416.
-  15. ^ Johnson, Robert S.; Walker, Anthony I.; Ward, Stephen J. (2009-01-01). "Cancer vaccines: will we ever learn?". Expert Review of Anticancer Therapy. 9 (1): 67–74. doi:10.1586/14737140.9.1.67. ISSN 1473-7140.
-
-External links
-

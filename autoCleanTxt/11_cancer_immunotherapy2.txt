@@ -1,33 +1,64 @@
-How it Works for Cancer
+For many types of cancer, immunotherapy, sometimes called biologic therapy, has been a game changer. Why? It could improve your life and extend your years far longer than other treatments.
 
-SOURCES:
+What Is Immunotherapy?
+If you have bad allergies, you may have gotten allergy shots for the sniffles and red eyes. Each shot had a very small amount of the allergen -- the thing that caused your problems.
 
-Mayo Clinic: “Allergy Shots.”
+The shots put your immune system on alert, but they didn’t make you sick. Over time, your doses got bigger. That helped you build a tolerance to the allergen.
 
-American Cancer Society: “What is Immunotherapy.”
+In other words, you became immune.
 
-National Institutes of Health, National Cancer Institute: “Vaccine Fact
-Sheet.”
+Those allergy shots were a type of immunotherapy. So are vaccines for diseases like measles and mumps.
 
-Mayo Clinic: “What is A Monoclonal Antibody?”
+How does that relate to cancer?
 
-Mayo Clinic: “How do Monoclonal Antibodies Work?”
+The disease starts when one cell in your body goes rogue. Researchers hope immunotherapy treatment will harness the power of your body’s natural defenses to fight cancer cells, just like it would with a germ, virus, or allergy.
 
-Dana Farber Cancer Institute: “What is a Checkpoint Inhibitor?”
+YOU MIGHT LIKE
+One approach is to tell your system to stage a full-out assault on cancer cells. Another is to try to make your defenses stronger.
 
-Cancer Research Institute: “Cancer Immunotherapy, Melanoma.”
+What Are the Types of Cancer Immunotherapy?
+Researchers are exploring many ways to help your immune system recognize and destroy cancer cells.
 
-Perica, K. Rambam Maimonides Medical Journal, Jan. 6, 2015.
+Adoptive T-Cell Immunotherapy
+This is designed to boost your key immune cells. Basically, researchers remove T cells (white blood cells in your immune system) from your tumor, then figure out which ones are fighting the growth the most. Once that’s known, scientists genetically engineer the genes in those cells to be stronger and return them to your system through an IV. 
 
-National Multiple Sclerosis Society: “What are T Cells?”
+This approach shows a lot of promise in the treatment of many different types of cancer.
 
-Cancer Research Institute: “Cancer Immunotherapy: The Next Decade?”
+Car T-cell therapy: 
 
-Seattle Cancer Care Alliance: “T-Cell Therapies”
+Car T-cell therapy is a type of adoptive T-cell immunotherapy. This treatment is sometimes used to treat acute lymphoblastic leukemia in children and young adults and certain types of B – cell lymphoma in adults that haven’t gotten better with other treatments.
 
-National Cancer Institute: “Has the FDA Approved Any Cancer Treatment
-Vaccines?”
+Cancer vaccines work like many others. They generally fall into two groups:
 
-Science Daily: “Immunotherapy improves survival, quality of life in rapidly
-progressing head and neck cancer.”
+Preventive vaccines have a lot in common with traditional types. Both work with a substance called an antigen, which gives your immune system a nudge. A preventive cancer vaccine is used against the human papillomavirus (HPV). That causes cervical, anal and other types of cancer.
 
+Treatment vaccines try to help your T cells pick out and destroy specific cancers. Shots can also be designed to increase the number of antibodies (cells that destroy invaders) in your system. For example, a treatment vaccine for advanced pancreatic cancer is being studied in clinical trials.
+
+Checkpoint Inhibitors
+Our immune system has a set of brakes -- or checkpoints -- that stop it from killing healthy cells.
+
+Sometimes, cancer cells take advantage of this and hide from your defense, almost disguising themselves as normal cells. That way, your system doesn’t see the cancer cell as an invader.
+
+These drugs help your immune system see the cancer as a problem, and fight it.
+
+Checkpoint inhibitors are in clinical trials for many different cancers. Some people with metastatic melanoma, lung, bladder, kidney, head and neck cancer and Hodgkin’s lymphoma are being treated with them.
+
+Monoclonal antibodies are molecules made in a laboratory. These antibodies are designed to recognize and attack cancer cells.
+
+YOU MIGHT LIKE
+Your immune system is good at spotting things that can cause harm, but it doesn’t always see cancer cells as bad news.
+
+Monoclonal antibodies help you mount an offense. They attach to cancer cells. Then, like a beacon, they make those cells more visible to your immune system, so it can fight them better.
+
+Some monoclonal antibodies can have chemotherapy drugs or radioactive substances attached to them and can help stop the growth of cancer cells.
+
+These molecules treat many different types of cancer. Researchers are studying their possibilities for treating many more.
+
+What’s the Future of Immunotherapy?
+Researchers are trying to find ways to help your immune system fight cancer, and to better understand your defenses and how they protect you.
+
+Science is also looking at how to combine immunotherapy with other treatments to make them work even better. Researchers are even looking into what happens when you pair two types of immunotherapy.
+
+One big question that still remains: Why does this -- like traditional treatments -- work for one patient, but not another? 
+
+Study -- and with it, discovery -- goes on.

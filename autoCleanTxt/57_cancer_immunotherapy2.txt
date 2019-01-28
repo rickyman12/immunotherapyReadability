@@ -1,68 +1,23 @@
-Cancer Immunotherapy - Online Course
+Cancer Immunotherapy: a Step Change in Cancer Treatment
 
-0:23Skip to 0 minutes and 23 secondsBEN WILLCOX: I'm Ben Wilcox. I'm a
-Professor of Molecular Immunology at the University of Birmingham and also
-director of the University's Cancer Immunology and Immunotherapy Centre, or
-CIIC. My own research is focused on understanding how receptors on the surface
-of our immune cells enable them to recognise signs of abnormality on target
-cells, and on how we can exploit this to find new ways to treat the disease
+Why join the course?
+Over 12 million people die of cancer worldwide each year. Although treatments are improving, there is still a long way to go, and some cancers are still very difficult to treat. Consequently, there is a desperate need for new treatment approaches.
 
-0:45Skip to 0 minutes and 45 secondsHEATHER LONG: I'm Dr. Heather Long. I'm a
-lecturer and immunologist based at the University of Birmingham. My research
-focuses on understanding how the immune system can control viruses associated
-with cancer.
+Learn about the rise of immunotherapy
+The idea of harnessing your immune system to target tumors has been around for a long time, but in the last five years remarkable clinical trials results have led to immunotherapy being heralded as a potential turning point in the fight against cancer.
 
-0:56Skip to 0 minutes and 56 secondsGARY MIDDLETON: Hello, my name is Gary
-Middleton. I'm a Professor of Medical Oncology at the University Hospital
-Birmingham. I've also got a contract with the University of Birmingham. My two
-main clinical interests are colorectal cancer and lung cancer, two big
-killers, still, and particular, preclinical and translational interests, that
-again, really are in immunobiology, particularly in understanding what sort of
-cells stop the immune system from working.
+This free online course will teach you about the amazing job your immune system does in keeping you healthy, and how we can exploit it to fight cancer.
 
-1:19Skip to 1 minute and 19 secondsBEN WILLCOX: In Birmingham, we are uniquely
-placed to explain how the immune system can be used to treat cancer. Right at
-the heart of the campus is the Queen Elizabeth Hospital Birmingham, one of the
-largest teaching hospitals in Europe. Linked to the hospital is the
-University's Cancer Immunology and Immunotherapy Centre-- or CIIC, as we call
-it-- a collaborative grouping of scientists and clinicians specifically
-focused on understanding the science behind these new therapies and on
-developing new immunotherapies to fight the disease. Birmingham is also
-fortunate to host the Cancer Research UK Clinical Trials Unit, one of the
-largest clinical trials units for cancer in the whole of Europe.
+Understand how immunotherapy is starting to tackle cancer
+We will explain why cancer presents the immune system with a particularly difficult challenge, and how cancer cells can escape immune attack.
 
-1:55Skip to 1 minute and 55 secondsHEATHER LONG: Cancer affects all of us. It
-is very likely that you know someone who has died of the disease. In the UK
-alone, up to one in two people are predicted to be diagnosed with cancer in
-their lifetime. And although great advances are being made in cancer
-treatment, with over 50% of those diagnosed likely to survive, there is still
-a long way to go. The disease kills over 12 million people worldwide every
-year. We desperately need new ways to tackle cancer.
+You will learn how new immunotherapy strategies are transforming cancer treatment work, and why they are regarded as such a key breakthrough.
 
-2:23Skip to 2 minutes and 23 secondsBEN WILLCOX: The idea of harnessing the
-power of the immune system to fight cancer has actually been around for a long
-time. But until recently, it has had limited impact in terms of how we
-actually treat most cancer patients. That picture is now changing
-dramatically. Clinical trial results over the last five years or so have
-marked this area out as a real turning point in the fight against cancer, and
-one of the most exciting, fast-moving areas in the whole of clinical medicine.
+Finally, we will look ahead to new developments in cancer immunotherapy, which might provide the basis of tomorrow’s cancer treatments.
 
-2:50Skip to 2 minutes and 50 secondsGARY MIDDLETON: I can remember sitting in
-the audience at our main American meeting in 2012, when the first stage was
-presented, and I was blown away by this. These were patients where we were
-using treatments to block-- something that stops the immune system from
-working in cancer. And we were seeing some really amazing results.
+You can see what the educators and their colleagues in the University of Birmingham’s Cancer Immunology and Immunotherapy Centre are up to by following their Twitter feed . You can also find out more on the website.
 
-3:06Skip to 3 minutes and 6 secondsBEN WILLCOX: The idea of exploiting the
-patient's own immune system to target their tumour, which is such a different
-approach to conventional anti-cancer treatments, has turned from a pipe dream
-into a therapeutic reality. In this course, we will explain some of the key
-ideas behind cancer immunotherapy. What is the immune system? And what has the
-immune system got to do with cancer? How do the new cancer immunotherapies
-work? How can we engineer smart immune cells to target cancer cells? Can we
-personalise immunotherapy approaches to individual patients?
+Who is the course for?
+This course will be relevant if you are interested in cancer, or enjoy learning about the immune system and medicine. Secondary or high school-level knowledge of science is sufficient to complete this course.
 
-3:39Skip to 3 minutes and 39 secondsHEATHER LONG: If you're interested in how
-the immune system can recognise cancer, how new immunotherapies work, what is
-the future of cancer immunotherapy, then sign up for our free course.
-
+There will also be optional, additional materials for those already educated to undergraduate level, and those who would like to challenge themselves and explore beyond the core material.
