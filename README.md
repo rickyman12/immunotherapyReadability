@@ -27,7 +27,7 @@ html2text: https://pypi.org/project/html2text/
 
 # Publication
 
-[Online Search Behavior for Cancer Immunotherapy Resources and Readability Analysis: An Opportunity to Aid in Medical Decision-making](https://pubmed.ncbi.nlm.nih.gov/31763080/)
+[Online Search Behavior for Cancer Immunotherapy Resources and Readability Analysis: An Opportunity to Aid in Medical Decision-making](https://pubmed.ncbi.nlm.nih.gov/31763080/)  
 Jie Deng, Ricky R Savjani MD, Percy Lee  
 
 # Contact
